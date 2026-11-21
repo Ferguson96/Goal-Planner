@@ -1,0 +1,612 @@
+{
+  "id": "fremennik",
+  "name": "Fremennik Diary",
+  "source": "https://oldschool.runescape.wiki/w/Fremennik_Diary",
+  "retrieved": "2026-10-27",
+  "tiers": {
+    "EASY": [
+      {
+        "id": "fremennik_easy_1",
+        "description": "Catch a Cerulean twitch.",
+        "skills": [
+          {
+            "skill": "HUNTER",
+            "level": 11,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Bird snare"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "fremennik_easy_2",
+        "description": "Change your boots at Yrsa's Shoe Store.",
+        "skills": [],
+        "quests": [
+          "The Fremennik Trials"
+        ],
+        "questsStarted": [],
+        "other": [
+          "500 coins (optional, for a makeover)"
+        ],
+        "notes": "Browsing her clothing store also counts."
+      },
+      {
+        "id": "fremennik_easy_3",
+        "description": "Kill 5 Rock crabs.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Weaponry"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "fremennik_easy_4",
+        "description": "Craft a tiara from scratch in Rellekka.",
+        "skills": [
+          {
+            "skill": "CRAFTING",
+            "level": 23,
+            "boostable": true
+          },
+          {
+            "skill": "MINING",
+            "level": 20,
+            "boostable": true
+          },
+          {
+            "skill": "SMITHING",
+            "level": 20,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "The Fremennik Trials"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Any pickaxe",
+          "Tiara mould"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "fremennik_easy_5",
+        "description": "Browse the Stonemason's shop in Keldagrim.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [
+          "The Giant Dwarf"
+        ],
+        "other": [],
+        "notes": "Dramen or Lunar staff is recommended, not required."
+      },
+      {
+        "id": "fremennik_easy_6",
+        "description": "Collect 5 snape grass on Waterbirth Island.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Waterbirth teleport tablet, or 1,000 coins to travel via Jarvald"
+        ],
+        "notes": "The Fremennik Trials is an alternative way to travel."
+      },
+      {
+        "id": "fremennik_easy_7",
+        "description": "Steal from the Keldagrim crafting or baker's stall.",
+        "skills": [
+          {
+            "skill": "THIEVING",
+            "level": 5,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "The Giant Dwarf"
+        ],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "fremennik_easy_8",
+        "description": "Fill a bucket with water at the Rellekka well.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Bucket"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "fremennik_easy_9",
+        "description": "Enter the Troll Stronghold.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [
+          "Troll Stronghold"
+        ],
+        "other": [],
+        "notes": "Easy Combat Achievements (Ghommal's hilt 1) is an alternative."
+      },
+      {
+        "id": "fremennik_easy_10",
+        "description": "Chop and burn oak logs in the Fremennik Province.",
+        "skills": [
+          {
+            "skill": "WOODCUTTING",
+            "level": 15,
+            "boostable": true
+          },
+          {
+            "skill": "FIREMAKING",
+            "level": 15,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any axe",
+          "Tinderbox"
+        ],
+        "notes": ""
+      }
+    ],
+    "MEDIUM": [
+      {
+        "id": "fremennik_medium_1",
+        "description": "Slay a Brine rat.",
+        "skills": [
+          {
+            "skill": "SLAYER",
+            "level": 47,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "Olaf's Quest"
+        ],
+        "other": [
+          "Weaponry",
+          "Spade"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "fremennik_medium_2",
+        "description": "Travel to the Snowy Hunter Area via Eagle transport.",
+        "skills": [],
+        "quests": [
+          "Eagles' Peak"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Rope"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "fremennik_medium_3",
+        "description": "Mine coal in Rellekka.",
+        "skills": [
+          {
+            "skill": "MINING",
+            "level": 30,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "The Fremennik Trials"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Any pickaxe"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "fremennik_medium_4",
+        "description": "Steal from the Rellekka fish stalls.",
+        "skills": [
+          {
+            "skill": "THIEVING",
+            "level": 42,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "The Fremennik Trials"
+        ],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "fremennik_medium_5",
+        "description": "Travel to Miscellania by fairy ring.",
+        "skills": [],
+        "quests": [
+          "The Fremennik Trials"
+        ],
+        "questsStarted": [
+          "Fairytale II - Cure a Queen"
+        ],
+        "other": [
+          "Dramen or Lunar staff (fairy ring code CIP)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "fremennik_medium_6",
+        "description": "Catch a Snowy knight.",
+        "skills": [
+          {
+            "skill": "HUNTER",
+            "level": 45,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": "Hunter 35 works with a butterfly net and jar."
+      },
+      {
+        "id": "fremennik_medium_7",
+        "description": "Pick up your Pet Rock from your POH menagerie.",
+        "skills": [
+          {
+            "skill": "CONSTRUCTION",
+            "level": 37,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "The Fremennik Trials"
+        ],
+        "other": [
+          "Pet rock",
+          "If no menagerie yet: 30,000 coins, 4 oak planks, saw, hammer"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "fremennik_medium_8",
+        "description": "Visit the Lighthouse from Waterbirth Island.",
+        "skills": [],
+        "quests": [
+          "Horror from the Deep"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Food",
+          "A way past the two-player dungeon doors (another player, pet rock and rune thrownaxes, or the Agility 85 shortcut)"
+        ],
+        "notes": "Prayer 43 recommended for protection prayers."
+      },
+      {
+        "id": "fremennik_medium_9",
+        "description": "Mine gold at the Arzinian mine.",
+        "skills": [
+          {
+            "skill": "MINING",
+            "level": 40,
+            "boostable": true
+          },
+          {
+            "skill": "DEFENCE",
+            "level": 30,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "Between a Rock..."
+        ],
+        "other": [
+          "Any pickaxe",
+          "Gold helmet"
+        ],
+        "notes": ""
+      }
+    ],
+    "HARD": [
+      {
+        "id": "fremennik_hard_1",
+        "description": "Teleport to Trollheim.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 61,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Eadgar's Ruse"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Runes: 2 fire, 2 law"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "fremennik_hard_2",
+        "description": "Catch a Sabre-toothed Kyatt.",
+        "skills": [
+          {
+            "skill": "HUNTER",
+            "level": 55,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Teasing stick",
+          "Logs",
+          "Knife"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "fremennik_hard_3",
+        "description": "Mix a super defence potion in the Fremennik Province.",
+        "skills": [
+          {
+            "skill": "HERBLORE",
+            "level": 66,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Cadantine potion (unf)",
+          "White berries"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "fremennik_hard_4",
+        "description": "Steal from the Keldagrim gem stall.",
+        "skills": [
+          {
+            "skill": "THIEVING",
+            "level": 75,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "The Giant Dwarf"
+        ],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "fremennik_hard_5",
+        "description": "Craft a Neitiznot shield on Neitiznot.",
+        "skills": [
+          {
+            "skill": "WOODCUTTING",
+            "level": 56,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "The Fremennik Isles"
+        ],
+        "other": [
+          "Hammer",
+          "Rope",
+          "Bronze nails",
+          "2 arctic pine logs"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "fremennik_hard_6",
+        "description": "Mine 5 adamantite ores on Jatizso.",
+        "skills": [
+          {
+            "skill": "MINING",
+            "level": 70,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "The Fremennik Isles"
+        ],
+        "other": [
+          "Any pickaxe"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "fremennik_hard_7",
+        "description": "Obtain 100% support from your kingdom subjects.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [
+          "Throne of Miscellania"
+        ],
+        "other": [
+          "Rake, pickaxe, axe, harpoon and/or lobster pot depending on method"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "fremennik_hard_8",
+        "description": "Teleport to Waterbirth Island.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 72,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Lunar Diplomacy"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Lunar spellbook",
+          "Runes: 1 water, 2 astral, 1 law"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "fremennik_hard_9",
+        "description": "Get the Blast Furnace Foreman's permission to use the furnace for free.",
+        "skills": [
+          {
+            "skill": "SMITHING",
+            "level": 60,
+            "boostable": false
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "The Giant Dwarf"
+        ],
+        "other": [],
+        "notes": "Needs specific dialogue choices; hop worlds to retry if you pick wrong."
+      }
+    ],
+    "ELITE": [
+      {
+        "id": "fremennik_elite_1",
+        "description": "Kill each of the Dagannoth Kings.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "A way past the two-player Waterbirth Island Dungeon doors (another player, pet rock and rune thrownaxes, or Agility 85 shortcut)"
+        ],
+        "notes": "Quest requirements for this task were not visible in the page text that was read; check the wiki."
+      },
+      {
+        "id": "fremennik_elite_2",
+        "description": "Craft 56 astral runes simultaneously from essence without using extracts.",
+        "skills": [
+          {
+            "skill": "RUNECRAFT",
+            "level": 82,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Lunar Diplomacy"
+        ],
+        "questsStarted": [],
+        "other": [
+          "28 pure or daeyalt essence"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "fremennik_elite_3",
+        "description": "Create a dragonstone amulet in the Neitiznot furnace.",
+        "skills": [
+          {
+            "skill": "CRAFTING",
+            "level": 80,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "The Fremennik Isles"
+        ],
+        "other": [
+          "Dragonstone",
+          "Gold bar",
+          "Amulet mould"
+        ],
+        "notes": "An unstrung dragonstone amulet is enough."
+      },
+      {
+        "id": "fremennik_elite_4",
+        "description": "Complete a lap of the Rellekka agility course.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 80,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "fremennik_elite_5",
+        "description": "Kill the generals of Armadyl, Bandos, Saradomin and Zamorak in the God Wars Dungeon.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 70,
+            "boostable": true
+          },
+          {
+            "skill": "STRENGTH",
+            "level": 70,
+            "boostable": true
+          },
+          {
+            "skill": "HITPOINTS",
+            "level": 70,
+            "boostable": true
+          },
+          {
+            "skill": "RANGED",
+            "level": 70,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "Troll Stronghold"
+        ],
+        "other": [
+          "Kill counts of the four generals"
+        ],
+        "notes": "Bodyguards are not required. Easy Combat Achievements (Ghommal's hilt 1) can replace the Troll Stronghold requirement. The wiki text suggested only Hitpoints may be boostable; check."
+      },
+      {
+        "id": "fremennik_elite_6",
+        "description": "Slay a Spiritual mage within the God Wars Dungeon.",
+        "skills": [
+          {
+            "skill": "SLAYER",
+            "level": 83,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "Troll Stronghold"
+        ],
+        "other": [
+          "Weaponry"
+        ],
+        "notes": "Easy Combat Achievements (Ghommal's hilt 1) can replace the Troll Stronghold requirement."
+      }
+    ]
+  }
+}

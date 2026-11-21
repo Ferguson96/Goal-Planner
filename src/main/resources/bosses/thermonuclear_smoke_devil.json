@@ -1,0 +1,70 @@
+{
+  "id": "thermonuclear_smoke_devil",
+  "name": "Thermonuclear Smoke Devil",
+  "category": "SLAYER_BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Thermonuclear_smoke_devil",
+  "retrieved": "2026-10-24",
+  "requirements": {
+    "skills": [
+      {
+        "skill": "SLAYER",
+        "level": 93,
+        "boostable": false
+      }
+    ],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "A smoke devil Slayer task",
+      "Smoke Devil Dungeon, south of Castle Wars"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Smoke battlestaff",
+      "rarity": "1/512",
+      "chance": 0.001953125,
+      "notes": ""
+    },
+    {
+      "item": "Occult necklace",
+      "rarity": "1/350",
+      "chance": 0.002857142857142857,
+      "notes": ""
+    },
+    {
+      "item": "Dragon chainbody",
+      "rarity": "1/2000",
+      "chance": 0.0005,
+      "notes": ""
+    },
+    {
+      "item": "Jar of smoke",
+      "rarity": "1/2000",
+      "chance": 0.0005,
+      "notes": ""
+    },
+    {
+      "item": "Pet smoke devil",
+      "rarity": "1/3000",
+      "chance": 0.0003333333333333333,
+      "notes": ""
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/500",
+      "chance": 0.002,
+      "notes": ""
+    },
+    {
+      "item": "Clue scroll (hard)",
+      "rarity": "1/96",
+      "chance": 0.010416666666666666,
+      "notes": ""
+    }
+  ],
+  "setups": [],
+  "notes": "The Western Provinces Elite diary kill needs 93 unboosted Slayer but no task."
+}

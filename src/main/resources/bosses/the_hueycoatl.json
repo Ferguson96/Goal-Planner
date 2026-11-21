@@ -1,0 +1,35 @@
+{
+  "id": "the_hueycoatl",
+  "name": "The Hueycoatl",
+  "category": "BOSS",
+  "source": "https://oldschool.runescape.wiki/w/The_Hueycoatl",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [
+      "Children of the Sun"
+    ],
+    "questsStarted": [],
+    "other": [
+      "50,000 coins for a private instance (25,000 with hard Combat Achievements)"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Dragon hunter wand",
+      "rarity": "1/105",
+      "chance": 0.009523809523809525,
+      "notes": ""
+    },
+    {
+      "item": "Tome of earth (empty)",
+      "rarity": "1/90",
+      "chance": 0.011111111111111112,
+      "notes": ""
+    }
+  ],
+  "setups": [],
+  "notes": "The pet's rate was not captured. Wiki warns below 85 combat and 43 Prayer."
+}

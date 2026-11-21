@@ -1,0 +1,572 @@
+[
+  {
+    "id": "woodcutting_teak_1_5_tick",
+    "skill": "WOODCUTTING",
+    "name": "Teak, 1.5-tick (Fossil Island)",
+    "category": "TRAINING",
+    "minLevel": 35,
+    "requirements": [
+      "Tick manipulation"
+    ],
+    "rates": [
+      {
+        "level": 35,
+        "afk": null,
+        "active": 93000,
+        "gpPerHour": null
+      },
+      {
+        "level": 41,
+        "afk": null,
+        "active": 115000,
+        "gpPerHour": null
+      },
+      {
+        "level": 50,
+        "afk": null,
+        "active": 126000,
+        "gpPerHour": null
+      },
+      {
+        "level": 61,
+        "afk": null,
+        "active": 173000,
+        "gpPerHour": null
+      },
+      {
+        "level": 71,
+        "afk": null,
+        "active": 194000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 208000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 222000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 235000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
+    "retrieved": "2026-10-19",
+    "notes": "Active only."
+  },
+  {
+    "id": "woodcutting_teak_2_tick",
+    "skill": "WOODCUTTING",
+    "name": "Teak, 2-tick (Ape Atoll, Isle of Souls or Prifddinas)",
+    "category": "TRAINING",
+    "minLevel": 35,
+    "requirements": [
+      "Tick manipulation"
+    ],
+    "rates": [
+      {
+        "level": 35,
+        "afk": null,
+        "active": 78000,
+        "gpPerHour": null
+      },
+      {
+        "level": 41,
+        "afk": null,
+        "active": 97000,
+        "gpPerHour": null
+      },
+      {
+        "level": 50,
+        "afk": null,
+        "active": 108000,
+        "gpPerHour": null
+      },
+      {
+        "level": 61,
+        "afk": null,
+        "active": 151000,
+        "gpPerHour": null
+      },
+      {
+        "level": 71,
+        "afk": null,
+        "active": 172000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 186000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 201000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 215000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
+    "retrieved": "2026-10-19",
+    "notes": "Active only."
+  },
+  {
+    "id": "woodcutting_teak_plain",
+    "skill": "WOODCUTTING",
+    "name": "Teak (no tick manipulation)",
+    "category": "TRAINING",
+    "minLevel": 35,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 35,
+        "afk": 34000,
+        "active": null,
+        "gpPerHour": null
+      },
+      {
+        "level": 41,
+        "afk": 42000,
+        "active": null,
+        "gpPerHour": null
+      },
+      {
+        "level": 50,
+        "afk": 46000,
+        "active": null,
+        "gpPerHour": null
+      },
+      {
+        "level": 61,
+        "afk": 65000,
+        "active": null,
+        "gpPerHour": null
+      },
+      {
+        "level": 71,
+        "afk": 74000,
+        "active": null,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": 80000,
+        "active": null,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": 87000,
+        "active": null,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": 93000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
+    "retrieved": "2026-10-19",
+    "notes": "Stored as afk because there is no tick manipulation; the wiki does not label it."
+  },
+  {
+    "id": "woodcutting_sulliuscep_dragon_axe",
+    "skill": "WOODCUTTING",
+    "name": "Sulliuscep (dragon axe)",
+    "category": "TRAINING",
+    "minLevel": 65,
+    "requirements": [
+      "Dragon axe",
+      "Lumberjack outfit assumed"
+    ],
+    "rates": [
+      {
+        "level": 65,
+        "afk": null,
+        "active": 82700,
+        "gpPerHour": null
+      },
+      {
+        "level": 71,
+        "afk": null,
+        "active": 86300,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 91600,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 97400,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 101900,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
+    "retrieved": "2026-10-19",
+    "notes": "Fossil Island Tar Swamp."
+  },
+  {
+    "id": "woodcutting_sulliuscep_crystal_axe",
+    "skill": "WOODCUTTING",
+    "name": "Sulliuscep (crystal axe)",
+    "category": "TRAINING",
+    "minLevel": 71,
+    "requirements": [
+      "Crystal axe",
+      "Lumberjack outfit assumed"
+    ],
+    "rates": [
+      {
+        "level": 71,
+        "afk": null,
+        "active": 89500,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 94800,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 100100,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 105000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
+    "retrieved": "2026-10-19",
+    "notes": "Fossil Island Tar Swamp."
+  },
+  {
+    "id": "woodcutting_logs_normal",
+    "skill": "WOODCUTTING",
+    "name": "Normal trees",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 99,
+        "afk": null,
+        "active": 12500,
+        "gpPerHour": 11000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
+    "retrieved": "2026-10-19",
+    "notes": "Rate and profit are given for level 99, so lower levels will be slower. Wiki lists 12,500-18,750 XP/hr; lower bound used."
+  },
+  {
+    "id": "woodcutting_logs_achey",
+    "skill": "WOODCUTTING",
+    "name": "Achey trees",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 99,
+        "afk": null,
+        "active": 17000,
+        "gpPerHour": 276760
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
+    "retrieved": "2026-10-19",
+    "notes": "Rate and profit are given for level 99, so lower levels will be slower. Profit comes from selling to ogre ranged fletching, per the wiki."
+  },
+  {
+    "id": "woodcutting_logs_oak",
+    "skill": "WOODCUTTING",
+    "name": "Oak trees",
+    "category": "TRAINING",
+    "minLevel": 15,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 99,
+        "afk": null,
+        "active": 40000,
+        "gpPerHour": 36244
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
+    "retrieved": "2026-10-19",
+    "notes": "Rate and profit are given for level 99, so lower levels will be slower."
+  },
+  {
+    "id": "woodcutting_logs_willow",
+    "skill": "WOODCUTTING",
+    "name": "Willow trees",
+    "category": "TRAINING",
+    "minLevel": 30,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 99,
+        "afk": null,
+        "active": 74000,
+        "gpPerHour": 21900
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
+    "retrieved": "2026-10-19",
+    "notes": "Rate and profit are given for level 99, so lower levels will be slower. Fastest free-to-play method per the wiki."
+  },
+  {
+    "id": "woodcutting_logs_arctic_pine",
+    "skill": "WOODCUTTING",
+    "name": "Arctic pine (Neitiznot)",
+    "category": "TRAINING",
+    "minLevel": 54,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 99,
+        "afk": null,
+        "active": 19000,
+        "gpPerHour": 326000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
+    "retrieved": "2026-10-19",
+    "notes": "Rate and profit are given for level 99, so lower levels will be slower. Wiki lists 19,000-21,000 XP/hr; lower bound used."
+  },
+  {
+    "id": "woodcutting_logs_maple",
+    "skill": "WOODCUTTING",
+    "name": "Maple trees",
+    "category": "TRAINING",
+    "minLevel": 45,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 99,
+        "afk": null,
+        "active": 48000,
+        "gpPerHour": 4320
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
+    "retrieved": "2026-10-19",
+    "notes": "Rate and profit are given for level 99, so lower levels will be slower. Wiki lists 48,000-52,800 XP/hr; lower bound used. 110 XP per log with the medium Kandarin diary."
+  },
+  {
+    "id": "woodcutting_logs_bark",
+    "skill": "WOODCUTTING",
+    "name": "Hollow trees (bark)",
+    "category": "TRAINING",
+    "minLevel": 45,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 99,
+        "afk": null,
+        "active": 70000,
+        "gpPerHour": 31376
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
+    "retrieved": "2026-10-19",
+    "notes": "Rate and profit are given for level 99, so lower levels will be slower. Haunted Woods."
+  },
+  {
+    "id": "woodcutting_logs_mahogany",
+    "skill": "WOODCUTTING",
+    "name": "Mahogany",
+    "category": "TRAINING",
+    "minLevel": 50,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 99,
+        "afk": null,
+        "active": 46500,
+        "gpPerHour": 39804
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
+    "retrieved": "2026-10-19",
+    "notes": "Rate and profit are given for level 99, so lower levels will be slower. Hardwood Grove and other locations."
+  },
+  {
+    "id": "woodcutting_logs_yew",
+    "skill": "WOODCUTTING",
+    "name": "Yew trees",
+    "category": "TRAINING",
+    "minLevel": 60,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 99,
+        "afk": null,
+        "active": 47000,
+        "gpPerHour": 24380
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
+    "retrieved": "2026-10-19",
+    "notes": "Rate and profit are given for level 99, so lower levels will be slower. Rate assumes the Woodcutting Guild invisible +7 boost."
+  },
+  {
+    "id": "woodcutting_logs_blisterwood",
+    "skill": "WOODCUTTING",
+    "name": "Blisterwood",
+    "category": "TRAINING",
+    "minLevel": 62,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 99,
+        "afk": null,
+        "active": 85000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
+    "retrieved": "2026-10-19",
+    "notes": "Rate and profit are given for level 99, so lower levels will be slower. Darkmeyer, after Sins of the Father. No profit figure on the wiki."
+  },
+  {
+    "id": "woodcutting_logs_camphor",
+    "skill": "WOODCUTTING",
+    "name": "Camphor (The Great Conch)",
+    "category": "TRAINING",
+    "minLevel": 66,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 99,
+        "afk": null,
+        "active": 70000,
+        "gpPerHour": 106836
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
+    "retrieved": "2026-10-19",
+    "notes": "Rate and profit are given for level 99, so lower levels will be slower."
+  },
+  {
+    "id": "woodcutting_logs_magic",
+    "skill": "WOODCUTTING",
+    "name": "Magic trees",
+    "category": "TRAINING",
+    "minLevel": 75,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 99,
+        "afk": null,
+        "active": 27500,
+        "gpPerHour": 63544
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
+    "retrieved": "2026-10-19",
+    "notes": "Rate and profit are given for level 99, so lower levels will be slower. Rate assumes the Woodcutting Guild invisible +7 boost."
+  },
+  {
+    "id": "woodcutting_logs_ironwood",
+    "skill": "WOODCUTTING",
+    "name": "Ironwood (Sunbleak Island)",
+    "category": "TRAINING",
+    "minLevel": 80,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 99,
+        "afk": null,
+        "active": 80000,
+        "gpPerHour": 34400
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
+    "retrieved": "2026-10-19",
+    "notes": "Rate and profit are given for level 99, so lower levels will be slower. Wiki lists 80,000-110,000 XP/hr; lower bound used."
+  },
+  {
+    "id": "woodcutting_logs_redwood",
+    "skill": "WOODCUTTING",
+    "name": "Redwood",
+    "category": "TRAINING",
+    "minLevel": 90,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 99,
+        "afk": null,
+        "active": 70000,
+        "gpPerHour": 132112
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
+    "retrieved": "2026-10-19",
+    "notes": "Rate and profit are given for level 99, so lower levels will be slower. Woodcutting Guild and Farming Guild. Wiki lists 70,000-85,000 XP/hr; lower bound used."
+  },
+  {
+    "id": "woodcutting_logs_rosewood",
+    "skill": "WOODCUTTING",
+    "name": "Rosewood (Drumstick Isle)",
+    "category": "TRAINING",
+    "minLevel": 92,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 99,
+        "afk": null,
+        "active": 85000,
+        "gpPerHour": 59850
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
+    "retrieved": "2026-10-19",
+    "notes": "Rate and profit are given for level 99, so lower levels will be slower."
+  },
+  {
+    "id": "woodcutting_logs_juniper",
+    "skill": "WOODCUTTING",
+    "name": "Juniper trees",
+    "category": "TRAINING",
+    "minLevel": 42,
+    "requirements": [],
+    "rates": [],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki gives no XP/hr for juniper (35 XP per log; used for dynamite)."
+  }
+]

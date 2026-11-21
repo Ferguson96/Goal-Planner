@@ -1,0 +1,251 @@
+{
+  "id": "grotesque_guardians",
+  "name": "Grotesque Guardians",
+  "category": "SLAYER_BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Grotesque_Guardians",
+  "retrieved": "2026-10-24",
+  "requirements": {
+    "skills": [
+      {
+        "skill": "SLAYER",
+        "level": 75,
+        "boostable": true
+      }
+    ],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Brittle key (one-time unlock from gargoyles on a Slayer task)",
+      "An active gargoyle or Grotesque Guardians Slayer task",
+      "Rock hammer, rock thrownhammer or granite hammer to finish them"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Granite maul",
+      "rarity": "2/250",
+      "chance": 0.008,
+      "notes": "Two rolls at 1/250."
+    },
+    {
+      "item": "Granite gloves",
+      "rarity": "2/500",
+      "chance": 0.004,
+      "notes": "Two rolls at 1/500."
+    },
+    {
+      "item": "Granite ring",
+      "rarity": "2/500",
+      "chance": 0.004,
+      "notes": "Two rolls at 1/500."
+    },
+    {
+      "item": "Granite hammer",
+      "rarity": "2/750",
+      "chance": 0.0026666666666666666,
+      "notes": "Two rolls at 1/750."
+    },
+    {
+      "item": "Black tourmaline core",
+      "rarity": "2/1000",
+      "chance": 0.002,
+      "notes": "Two rolls at 1/1000."
+    },
+    {
+      "item": "Jar of stone",
+      "rarity": "1/5000",
+      "chance": 0.0002,
+      "notes": ""
+    },
+    {
+      "item": "Noon",
+      "rarity": "1/3000",
+      "chance": 0.0003333333333333333,
+      "notes": ""
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/230",
+      "chance": 0.004347826086956522,
+      "notes": ""
+    }
+  ],
+  "setups": [
+    {
+      "name": "Melee",
+      "source": "https://oldschool.runescape.wiki/w/Grotesque_Guardians/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Slayer helmet (i)"
+        ],
+        "CAPE": [
+          "Infernal cape",
+          "Fire cape",
+          "Ranging cape(t)"
+        ],
+        "NECK": [
+          "Amulet of rancour",
+          "Amulet of torture",
+          "Amulet of fury"
+        ],
+        "WEAPON": [
+          "Scythe of Vitur",
+          "Granite hammer",
+          "Soulreaper axe"
+        ],
+        "BODY": [
+          "Oathplate chest",
+          "Torva platebody",
+          "Bandos chestplate"
+        ],
+        "SHIELD": [
+          "Avernic defender",
+          "Dragon defender",
+          "Dragonfire shield"
+        ],
+        "LEGS": [
+          "Torva platelegs",
+          "Oathplate legs",
+          "Bandos tassets"
+        ],
+        "HANDS": [
+          "Ferocious gloves",
+          "Barrows gloves",
+          "Dragon gloves"
+        ],
+        "FEET": [
+          "Avernic treads (max)",
+          "Primordial boots",
+          "Dragon boots"
+        ],
+        "RING": [
+          "Ultor ring",
+          "Bellator ring",
+          "Berserker ring (i)"
+        ]
+      },
+      "inventory": [],
+      "notes": "The wiki's melee inventory was cut off."
+    },
+    {
+      "name": "Ranged",
+      "source": "https://oldschool.runescape.wiki/w/Grotesque_Guardians/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Slayer helmet (i)"
+        ],
+        "CAPE": [
+          "Dizana's quiver",
+          "Ava's assembler",
+          "Ava's accumulator"
+        ],
+        "NECK": [
+          "Necklace of rupture",
+          "Necklace of anguish",
+          "Necklace of Fangs"
+        ],
+        "AMMO": [
+          "Seeking dragon arrow",
+          "Dragon arrow",
+          "Rada's blessing 4"
+        ],
+        "WEAPON": [
+          "Venator bow",
+          "Toxic blowpipe",
+          "Bow of Faerdhinen",
+          "Eclipse atlatl"
+        ],
+        "BODY": [
+          "Masori body (f)",
+          "Crystal body",
+          "Eclipse Moon chestplate"
+        ],
+        "SHIELD": [
+          "Twisted buckler",
+          "Dragonfire ward",
+          "Odium ward"
+        ],
+        "LEGS": [
+          "Masori chaps (f)",
+          "Crystal legs",
+          "Eclipse Moon tassets"
+        ],
+        "HANDS": [
+          "Zaryte vambraces",
+          "Barrows gloves",
+          "Dragon gloves"
+        ],
+        "FEET": [
+          "Avernic treads (max)",
+          "Pegasian boots",
+          "Ranger boots"
+        ],
+        "RING": [
+          "Venator ring"
+        ]
+      },
+      "inventory": [
+        {
+          "item": "Crystal halberd",
+          "quantity": 1
+        },
+        {
+          "item": "Dragon claws",
+          "quantity": 1
+        },
+        {
+          "item": "Toxic blowpipe",
+          "quantity": 1
+        },
+        {
+          "item": "Divine super combat potion(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Divine ranging potion(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Super restore(4)",
+          "quantity": 6
+        },
+        {
+          "item": "Anglerfish",
+          "quantity": 4
+        },
+        {
+          "item": "Teleport to house",
+          "quantity": 1
+        },
+        {
+          "item": "Surge potion(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Explorer's ring 4",
+          "quantity": 1
+        },
+        {
+          "item": "Book of the Dead",
+          "quantity": 1
+        },
+        {
+          "item": "Rock hammer",
+          "quantity": 1
+        },
+        {
+          "item": "Slayer ring (eternal)",
+          "quantity": 1
+        },
+        {
+          "item": "Divine rune pouch",
+          "quantity": 1
+        }
+      ],
+      "notes": ""
+    }
+  ],
+  "notes": ""
+}

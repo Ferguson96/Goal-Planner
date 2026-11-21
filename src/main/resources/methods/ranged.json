@@ -1,0 +1,364 @@
+[
+  {
+    "id": "ranged_chinning_chinchompa",
+    "skill": "RANGED",
+    "name": "Chinning maniacal monkeys (chinchompa)",
+    "category": "TRAINING",
+    "minLevel": 45,
+    "requirements": [
+      "Monkey Madness II chapter II started (Kruk's Dungeon)",
+      "Chinchompas"
+    ],
+    "rates": [
+      {
+        "level": 45,
+        "afk": null,
+        "active": 290000,
+        "gpPerHour": null
+      },
+      {
+        "level": 55,
+        "afk": null,
+        "active": 360000,
+        "gpPerHour": null
+      },
+      {
+        "level": 65,
+        "afk": null,
+        "active": 470000,
+        "gpPerHour": null
+      },
+      {
+        "level": 75,
+        "afk": null,
+        "active": 570000,
+        "gpPerHour": null
+      },
+      {
+        "level": 85,
+        "afk": null,
+        "active": 640000,
+        "gpPerHour": null
+      },
+      {
+        "level": 95,
+        "afk": null,
+        "active": 710000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 740000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Ranged_training",
+    "retrieved": "2026-10-19",
+    "notes": "Assumes best damage gear, Rigour, two dancing accounts, divine ranging potions and 1,970 chinchompas/hr; the wiki shows no GP/hr. Wiki columns are not labelled AFK or active."
+  },
+  {
+    "id": "ranged_chinning_red_chinchompa",
+    "skill": "RANGED",
+    "name": "Chinning maniacal monkeys (red chinchompa)",
+    "category": "TRAINING",
+    "minLevel": 55,
+    "requirements": [
+      "Monkey Madness II chapter II started (Kruk's Dungeon)",
+      "Red chinchompas"
+    ],
+    "rates": [
+      {
+        "level": 55,
+        "afk": null,
+        "active": 430000,
+        "gpPerHour": null
+      },
+      {
+        "level": 65,
+        "afk": null,
+        "active": 540000,
+        "gpPerHour": null
+      },
+      {
+        "level": 75,
+        "afk": null,
+        "active": 670000,
+        "gpPerHour": null
+      },
+      {
+        "level": 85,
+        "afk": null,
+        "active": 740000,
+        "gpPerHour": null
+      },
+      {
+        "level": 95,
+        "afk": null,
+        "active": 810000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 840000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Ranged_training",
+    "retrieved": "2026-10-19",
+    "notes": "Assumes best damage gear, Rigour, two dancing accounts, divine ranging potions and 1,970 chinchompas/hr; the wiki shows no GP/hr. Wiki columns are not labelled AFK or active."
+  },
+  {
+    "id": "ranged_chinning_black_chinchompa",
+    "skill": "RANGED",
+    "name": "Chinning maniacal monkeys (black chinchompa)",
+    "category": "TRAINING",
+    "minLevel": 65,
+    "requirements": [
+      "Monkey Madness II chapter II started (Kruk's Dungeon)",
+      "Black chinchompas"
+    ],
+    "rates": [
+      {
+        "level": 65,
+        "afk": null,
+        "active": 690000,
+        "gpPerHour": null
+      },
+      {
+        "level": 75,
+        "afk": null,
+        "active": 830000,
+        "gpPerHour": null
+      },
+      {
+        "level": 85,
+        "afk": null,
+        "active": 930000,
+        "gpPerHour": null
+      },
+      {
+        "level": 95,
+        "afk": null,
+        "active": 1000000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 1030000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Ranged_training",
+    "retrieved": "2026-10-19",
+    "notes": "Assumes best damage gear, Rigour, two dancing accounts, divine ranging potions and 1,970 chinchompas/hr; the wiki shows no GP/hr. Wiki columns are not labelled AFK or active."
+  },
+  {
+    "id": "ranged_pest_control_basic",
+    "skill": "RANGED",
+    "name": "Pest Control (no Combat Achievement bonus)",
+    "category": "TRAINING",
+    "minLevel": 70,
+    "requirements": [
+      "Combat level 100+ recommended for the veteran boat"
+    ],
+    "rates": [
+      {
+        "level": 70,
+        "afk": null,
+        "active": 76600,
+        "gpPerHour": null
+      },
+      {
+        "level": 74,
+        "afk": null,
+        "active": 81200,
+        "gpPerHour": null
+      },
+      {
+        "level": 78,
+        "afk": null,
+        "active": 85800,
+        "gpPerHour": null
+      },
+      {
+        "level": 82,
+        "afk": null,
+        "active": 90300,
+        "gpPerHour": null
+      },
+      {
+        "level": 85,
+        "afk": null,
+        "active": 94900,
+        "gpPerHour": null
+      },
+      {
+        "level": 89,
+        "afk": null,
+        "active": 99500,
+        "gpPerHour": null
+      },
+      {
+        "level": 92,
+        "afk": null,
+        "active": 104100,
+        "gpPerHour": null
+      },
+      {
+        "level": 95,
+        "afk": null,
+        "active": 108600,
+        "gpPerHour": null
+      },
+      {
+        "level": 98,
+        "afk": null,
+        "active": 113200,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Ranged_training",
+    "retrieved": "2026-10-19",
+    "notes": "Assumes 26 games/hr, 5 points per game, and 40,000 XP/hr from fighting pests. Rates are for Ranged XP points."
+  },
+  {
+    "id": "ranged_pest_control_hard",
+    "skill": "RANGED",
+    "name": "Pest Control (hard Combat Achievements)",
+    "category": "TRAINING",
+    "minLevel": 70,
+    "requirements": [
+      "Combat level 100+ recommended for the veteran boat",
+      "Hard Combat Achievements"
+    ],
+    "rates": [
+      {
+        "level": 70,
+        "afk": null,
+        "active": 98600,
+        "gpPerHour": null
+      },
+      {
+        "level": 74,
+        "afk": null,
+        "active": 105900,
+        "gpPerHour": null
+      },
+      {
+        "level": 78,
+        "afk": null,
+        "active": 113200,
+        "gpPerHour": null
+      },
+      {
+        "level": 82,
+        "afk": null,
+        "active": 120500,
+        "gpPerHour": null
+      },
+      {
+        "level": 85,
+        "afk": null,
+        "active": 127900,
+        "gpPerHour": null
+      },
+      {
+        "level": 89,
+        "afk": null,
+        "active": 135200,
+        "gpPerHour": null
+      },
+      {
+        "level": 92,
+        "afk": null,
+        "active": 142500,
+        "gpPerHour": null
+      },
+      {
+        "level": 95,
+        "afk": null,
+        "active": 149800,
+        "gpPerHour": null
+      },
+      {
+        "level": 98,
+        "afk": null,
+        "active": 157100,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Ranged_training",
+    "retrieved": "2026-10-19",
+    "notes": "Assumes 26 games/hr and 8 points per game."
+  },
+  {
+    "id": "ranged_nmz_venator",
+    "skill": "RANGED",
+    "name": "Nightmare Zone (venator bow)",
+    "category": "TRAINING",
+    "minLevel": 80,
+    "requirements": [
+      "Venator bow",
+      "Super ranging potions",
+      "Absorption potions"
+    ],
+    "rates": [
+      {
+        "level": 80,
+        "afk": null,
+        "active": 140000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Ranged_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki: up to 140,000-150,000 XP/hr at level 99 (180,000-190,000 hard mode); lower bound used for all levels. Rumble setup allows long AFK stretches."
+  },
+  {
+    "id": "ranged_monkeys_venator",
+    "skill": "RANGED",
+    "name": "Maniacal monkeys (venator bow)",
+    "category": "TRAINING",
+    "minLevel": 80,
+    "requirements": [
+      "Venator bow",
+      "Amethyst arrows",
+      "Monkey Madness II chapter II started"
+    ],
+    "rates": [
+      {
+        "level": 80,
+        "afk": null,
+        "active": 140000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Ranged_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki range is 140,000-230,000 XP/hr with no level breakdown; lower bound used."
+  },
+  {
+    "id": "ranged_cannon_ogres",
+    "skill": "RANGED",
+    "name": "Ogre cannoning (Castle Wars)",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [
+      "Dwarf Cannon quest"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 40000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Ranged_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki: around 40,000 XP/hr from the cannon alone, levels 1-45."
+  }
+]

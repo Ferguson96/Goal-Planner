@@ -1,0 +1,314 @@
+{
+  "id": "giant_mole",
+  "name": "Giant Mole",
+  "category": "BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Giant_Mole",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Spade",
+      "Light source and tinderbox"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Long bone",
+      "rarity": "1/400",
+      "chance": 0.0025,
+      "notes": ""
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/500",
+      "chance": 0.002,
+      "notes": ""
+    },
+    {
+      "item": "Curved bone",
+      "rarity": "10/50125",
+      "chance": 0.00019950124688279303,
+      "notes": "Wiki rate 1/5,012.5."
+    },
+    {
+      "item": "Baby mole",
+      "rarity": "1/3000",
+      "chance": 0.0003333333333333333,
+      "notes": ""
+    },
+    {
+      "item": "Brimstone key",
+      "rarity": "1/74",
+      "chance": 0.013513513513513514,
+      "notes": "Only on a Konar task."
+    }
+  ],
+  "setups": [
+    {
+      "name": "Ranged",
+      "source": "https://oldschool.runescape.wiki/w/Giant_Mole/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Masori mask (f)",
+          "Void ranger helm",
+          "Crystal helm",
+          "Blessed coif"
+        ],
+        "CAPE": [
+          "Dizana's quiver",
+          "Ava's assembler"
+        ],
+        "NECK": [
+          "Necklace of rupture",
+          "Necklace of anguish",
+          "Amulet of fury"
+        ],
+        "AMMO": [
+          "Dragon arrow",
+          "Diamond dragon bolts (e)",
+          "Diamond bolts (e)",
+          "Amethyst arrow",
+          "Rune arrow"
+        ],
+        "WEAPON": [
+          "Twisted bow",
+          "Bow of faerdhinen",
+          "Crystal bow",
+          "Zaryte crossbow",
+          "Armadyl crossbow"
+        ],
+        "BODY": [
+          "Masori body (f)",
+          "Elite void top",
+          "Crystal body",
+          "Blessed body",
+          "Black d'hide body"
+        ],
+        "LEGS": [
+          "Masori chaps (f)",
+          "Elite void robe",
+          "Crystal legs",
+          "Blessed chaps",
+          "Black d'hide chaps"
+        ],
+        "HANDS": [
+          "Zaryte vambraces",
+          "Void knight gloves",
+          "Barrows gloves"
+        ],
+        "FEET": [
+          "Avernic treads (max)",
+          "Pegasian boots",
+          "Ranger boots",
+          "Blessed boots"
+        ],
+        "RING": [
+          "Venator ring",
+          "Lightbearer",
+          "Archers ring (i)",
+          "Ring of endurance"
+        ]
+      },
+      "inventory": [
+        {
+          "item": "Spade",
+          "quantity": 1
+        },
+        {
+          "item": "Bullseye lantern",
+          "quantity": 1
+        },
+        {
+          "item": "Divine ranging potion(4)",
+          "quantity": 3
+        },
+        {
+          "item": "Prayer potion(4)",
+          "quantity": 11
+        },
+        {
+          "item": "Stamina potion(4)",
+          "quantity": 3
+        },
+        {
+          "item": "Falador shield 3",
+          "quantity": 1
+        },
+        {
+          "item": "Rune pouch",
+          "quantity": 1
+        }
+      ],
+      "notes": "Wiki: 11-14 prayer potions and 3-4 staminas (lower bounds). Falador shield 3 or 4 locates the mole. Any light source works."
+    },
+    {
+      "name": "Magic",
+      "source": "https://oldschool.runescape.wiki/w/Giant_Mole/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Ancestral hat",
+          "Virtus mask",
+          "Ahrim's hood",
+          "Mystic hat"
+        ],
+        "CAPE": [
+          "Imbued god cape",
+          "Ardougne cloak 4"
+        ],
+        "NECK": [
+          "Occult necklace",
+          "Amulet of fury",
+          "Amulet of glory"
+        ],
+        "AMMO": [
+          "Rada's blessing 4",
+          "God blessing"
+        ],
+        "WEAPON": [
+          "Tumeken's shadow",
+          "Harmonised nightmare staff",
+          "Sanguinesti staff",
+          "Ahrim's staff"
+        ],
+        "BODY": [
+          "Ancestral robe top",
+          "Virtus robe top",
+          "Ahrim's robetop",
+          "Mystic robe top"
+        ],
+        "SHIELD": [
+          "Tome of earth",
+          "Elidinis' ward (f)",
+          "Arcane spirit shield",
+          "Mage's book",
+          "Book of darkness"
+        ],
+        "LEGS": [
+          "Ancestral robe bottom",
+          "Virtus robe bottom",
+          "Ahrim's robeskirt",
+          "Mystic robe bottom"
+        ],
+        "HANDS": [
+          "Confliction gauntlets",
+          "Tormented bracelet",
+          "Barrows gloves"
+        ],
+        "FEET": [
+          "Avernic treads (max)",
+          "Eternal boots",
+          "Infinity boots"
+        ],
+        "RING": [
+          "Magus ring",
+          "Seers ring (i)",
+          "Ring of endurance"
+        ]
+      },
+      "inventory": [
+        {
+          "item": "Spade",
+          "quantity": 1
+        },
+        {
+          "item": "Bullseye lantern",
+          "quantity": 1
+        },
+        {
+          "item": "Saturated heart",
+          "quantity": 1
+        },
+        {
+          "item": "Prayer potion(4)",
+          "quantity": 8
+        },
+        {
+          "item": "Stamina potion(4)",
+          "quantity": 4
+        },
+        {
+          "item": "Falador shield 3",
+          "quantity": 1
+        },
+        {
+          "item": "Rune pouch",
+          "quantity": 1
+        }
+      ],
+      "notes": "Wiki: 8-12 prayer potions (lower bound)."
+    },
+    {
+      "name": "Melee",
+      "source": "https://oldschool.runescape.wiki/w/Giant_Mole/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Torva full helm",
+          "Neitiznot faceguard",
+          "Serpentine helm",
+          "Helm of Neitiznot"
+        ],
+        "CAPE": [
+          "Infernal cape",
+          "Fire cape",
+          "Ardougne cloak 4"
+        ],
+        "NECK": [
+          "Amulet of rancour",
+          "Amulet of torture",
+          "Amulet of fury",
+          "Amulet of glory"
+        ],
+        "AMMO": [
+          "Rada's blessing 4",
+          "God blessing"
+        ],
+        "WEAPON": [
+          "Osmumten's fang",
+          "Noxious halberd",
+          "Ghrazi rapier",
+          "Zamorakian hasta",
+          "Abyssal dagger"
+        ],
+        "BODY": [
+          "Torva platebody",
+          "Bandos chestplate",
+          "Elite void top",
+          "Fighter torso"
+        ],
+        "SHIELD": [
+          "Avernic defender",
+          "Dragon defender",
+          "Rune defender"
+        ],
+        "LEGS": [
+          "Torva platelegs",
+          "Bandos tassets",
+          "Elite void robe"
+        ],
+        "HANDS": [
+          "Ferocious gloves",
+          "Barrows gloves",
+          "Dragon gloves"
+        ],
+        "FEET": [
+          "Avernic treads (max)",
+          "Primordial boots",
+          "Dragon boots"
+        ],
+        "RING": [
+          "Ultor ring",
+          "Lightbearer",
+          "Berserker ring (i)",
+          "Brimstone ring"
+        ]
+      },
+      "inventory": [],
+      "notes": "The wiki's melee inventory was not captured; the ranged/magic lists show the essentials (spade, light source, Falador shield)."
+    }
+  ],
+  "notes": "Instanced fight costs 25,000 coins (less with Combat Achievements)."
+}

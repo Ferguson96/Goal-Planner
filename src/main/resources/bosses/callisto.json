@@ -1,0 +1,181 @@
+{
+  "id": "callisto",
+  "name": "Callisto",
+  "category": "WILDERNESS_BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Callisto",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Medium Wilderness Diary, or a matching boss Slayer task",
+      "50,000 coins entry fee",
+      "Wilderness level 40"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Claws of Callisto",
+      "rarity": "1/196",
+      "chance": 0.00510204081632653,
+      "notes": ""
+    },
+    {
+      "item": "Dragon 2h sword",
+      "rarity": "1/256",
+      "chance": 0.00390625,
+      "notes": ""
+    },
+    {
+      "item": "Dragon pickaxe",
+      "rarity": "1/256",
+      "chance": 0.00390625,
+      "notes": ""
+    },
+    {
+      "item": "Voidwaker hilt",
+      "rarity": "1/360",
+      "chance": 0.002777777777777778,
+      "notes": ""
+    },
+    {
+      "item": "Tyrannical ring",
+      "rarity": "1/512",
+      "chance": 0.001953125,
+      "notes": ""
+    },
+    {
+      "item": "Callisto cub",
+      "rarity": "1/1500",
+      "chance": 0.0006666666666666666,
+      "notes": ""
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/100",
+      "chance": 0.01,
+      "notes": "1/50 with a ring of wealth (i) per the wiki."
+    }
+  ],
+  "setups": [
+    {
+      "name": "Ranged",
+      "source": "https://oldschool.runescape.wiki/w/Callisto/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Crystal helm",
+          "Karil's coif",
+          "Archer helm"
+        ],
+        "CAPE": [
+          "Ava's assembler",
+          "Ava's accumulator",
+          "Ranging cape"
+        ],
+        "NECK": [
+          "Necklace of rupture",
+          "Necklace of anguish",
+          "Amulet of fury",
+          "Amulet of glory"
+        ],
+        "AMMO": [
+          "Rada's blessing 4",
+          "Ruby dragon bolts (e)",
+          "Ruby bolts (e)",
+          "Amethyst arrow"
+        ],
+        "WEAPON": [
+          "Webweaver bow",
+          "Craw's bow",
+          "Bow of faerdhinen",
+          "Zaryte crossbow",
+          "Armadyl crossbow",
+          "Rune crossbow",
+          "Magic shortbow (i)"
+        ],
+        "BODY": [
+          "Masori body (f)",
+          "Crystal body",
+          "Masori body",
+          "Black d'hide body"
+        ],
+        "SHIELD": [
+          "Twisted buckler",
+          "Dragonfire ward",
+          "Odium ward",
+          "Book of law"
+        ],
+        "LEGS": [
+          "Black d'hide chaps",
+          "Crystal legs",
+          "Red d'hide chaps"
+        ],
+        "HANDS": [
+          "Barrows gloves",
+          "Black d'hide vambraces"
+        ],
+        "FEET": [
+          "Blessed boots",
+          "Mixed hide boots",
+          "Snakeskin boots"
+        ],
+        "RING": [
+          "Ring of shadows",
+          "Explorer's ring",
+          "Ring of wealth (i)"
+        ]
+      },
+      "inventory": [
+        {
+          "item": "Royal seed pod",
+          "quantity": 1
+        },
+        {
+          "item": "Blighted super restore(4)",
+          "quantity": 4
+        },
+        {
+          "item": "Divine ranging potion(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Antidote++(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Blighted ancient ice sack",
+          "quantity": 1
+        },
+        {
+          "item": "Stamina potion(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Looting bag",
+          "quantity": 1
+        },
+        {
+          "item": "Blighted karambwan",
+          "quantity": 7
+        },
+        {
+          "item": "Blighted manta ray",
+          "quantity": 6
+        },
+        {
+          "item": "Saradomin brew(4)",
+          "quantity": 3
+        },
+        {
+          "item": "Phoenix necklace",
+          "quantity": 1
+        }
+      ],
+      "notes": "Wilderness: only bring what you can afford to lose and protect the most valuable items. Quantities read from the wiki's inventory grid."
+    }
+  ],
+  "notes": ""
+}

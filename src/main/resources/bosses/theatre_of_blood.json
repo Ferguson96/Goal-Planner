@@ -1,0 +1,69 @@
+{
+  "id": "theatre_of_blood",
+  "name": "Theatre of Blood",
+  "category": "RAID",
+  "source": "https://oldschool.runescape.wiki/w/Monumental_chest",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [
+      "Priest in Peril"
+    ],
+    "questsStarted": [],
+    "other": []
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Scythe of vitur (uncharged)",
+      "rarity": "10/1729",
+      "chance": 0.00578368999421631,
+      "notes": ""
+    },
+    {
+      "item": "Ghrazi rapier",
+      "rarity": "20/1729",
+      "chance": 0.01156737998843262,
+      "notes": ""
+    },
+    {
+      "item": "Sanguinesti staff (uncharged)",
+      "rarity": "20/1729",
+      "chance": 0.01156737998843262,
+      "notes": ""
+    },
+    {
+      "item": "Justiciar faceguard",
+      "rarity": "20/1729",
+      "chance": 0.01156737998843262,
+      "notes": ""
+    },
+    {
+      "item": "Justiciar chestguard",
+      "rarity": "20/1729",
+      "chance": 0.01156737998843262,
+      "notes": ""
+    },
+    {
+      "item": "Justiciar legguards",
+      "rarity": "20/1729",
+      "chance": 0.01156737998843262,
+      "notes": ""
+    },
+    {
+      "item": "Avernic defender hilt",
+      "rarity": "80/1729",
+      "chance": 0.04626951995373048,
+      "notes": ""
+    },
+    {
+      "item": "Lil' zik",
+      "rarity": "1/650",
+      "chance": 0.0015384615384615385,
+      "notes": ""
+    }
+  ],
+  "setups": [],
+  "notes": "Normal mode, per raid for the whole team: the wiki's 1/9.1 unique chance times each item's weight out of 19. Divide by team size for your own share."
+}

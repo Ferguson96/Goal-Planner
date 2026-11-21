@@ -1,0 +1,701 @@
+{
+  "id": "lumbridge_draynor",
+  "name": "Lumbridge & Draynor Diary",
+  "source": "https://oldschool.runescape.wiki/w/Lumbridge_%26_Draynor_Diary",
+  "retrieved": "2026-10-27",
+  "tiers": {
+    "EASY": [
+      {
+        "id": "lumbridge_draynor_easy_1",
+        "description": "Complete a lap of the Draynor Village Rooftop Course.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_easy_2",
+        "description": "Slay a cave bug beneath Lumbridge Swamp Caves.",
+        "skills": [
+          {
+            "skill": "SLAYER",
+            "level": 7,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Light source",
+          "Rope if the caves haven't been entered yet"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_easy_3",
+        "description": "Have Sedridor teleport you to the Rune Essence Mine.",
+        "skills": [],
+        "quests": [
+          "Rune Mysteries"
+        ],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_easy_4",
+        "description": "Craft water runes from essence.",
+        "skills": [
+          {
+            "skill": "RUNECRAFT",
+            "level": 5,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Pure, daeyalt or rune essence",
+          "Access to the Water Altar"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_easy_5",
+        "description": "Learn your age from Hans in Lumbridge.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_easy_6",
+        "description": "Pickpocket a man or woman in Lumbridge.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_easy_7",
+        "description": "Chop and burn oak logs in Lumbridge.",
+        "skills": [
+          {
+            "skill": "WOODCUTTING",
+            "level": 15,
+            "boostable": true
+          },
+          {
+            "skill": "FIREMAKING",
+            "level": 15,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any axe",
+          "Tinderbox"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_easy_8",
+        "description": "Kill a zombie in Draynor Sewers.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_easy_9",
+        "description": "Catch anchovies in Al Kharid.",
+        "skills": [
+          {
+            "skill": "FISHING",
+            "level": 15,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Small fishing net"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_easy_10",
+        "description": "Bake bread on the Lumbridge Castle kitchen range.",
+        "skills": [],
+        "quests": [
+          "Cook's Assistant"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Bread dough"
+        ],
+        "notes": "Cooking 34 guarantees success but isn't required."
+      },
+      {
+        "id": "lumbridge_draynor_easy_11",
+        "description": "Mine iron ore at the Al Kharid mine.",
+        "skills": [
+          {
+            "skill": "MINING",
+            "level": 15,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any pickaxe"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_easy_12",
+        "description": "Enter the H.A.M. Hideout.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Lockpick recommended"
+        ],
+        "notes": ""
+      }
+    ],
+    "MEDIUM": [
+      {
+        "id": "lumbridge_draynor_medium_1",
+        "description": "Complete a lap of the Al Kharid Rooftop Course.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 20,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_medium_2",
+        "description": "Grapple across the River Lum.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 8,
+            "boostable": true
+          },
+          {
+            "skill": "STRENGTH",
+            "level": 19,
+            "boostable": true
+          },
+          {
+            "skill": "RANGED",
+            "level": 37,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Mith grapple",
+          "Any crossbow"
+        ],
+        "notes": "Ironmen need Ancient Cavern access, or 59 Smithing and 59 Fletching, for the grapple."
+      },
+      {
+        "id": "lumbridge_draynor_medium_3",
+        "description": "Purchase an upgraded device (Ava's accumulator) from Ava.",
+        "skills": [
+          {
+            "skill": "RANGED",
+            "level": 50,
+            "boostable": false
+          }
+        ],
+        "quests": [
+          "Animal Magnetism"
+        ],
+        "questsStarted": [],
+        "other": [
+          "75 steel arrows with Ava's attractor, or 75 steel arrows and 999 coins"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_medium_4",
+        "description": "Travel to the Wizards' Tower by fairy ring.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [
+          "Fairytale II - Cure a Queen"
+        ],
+        "other": [
+          "Dramen or Lunar staff (fairy ring code DIS)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_medium_5",
+        "description": "Cast the Lumbridge Teleport spell.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 31,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Runes: 3 air, 1 earth, 1 law"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_medium_6",
+        "description": "Catch salmon in Lumbridge.",
+        "skills": [
+          {
+            "skill": "FISHING",
+            "level": 30,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Fly fishing rod",
+          "Feathers"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_medium_7",
+        "description": "Craft a coif in the Lumbridge cow pen.",
+        "skills": [
+          {
+            "skill": "CRAFTING",
+            "level": 38,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Leather",
+          "Needle and thread (or costume needle)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_medium_8",
+        "description": "Chop willow logs in Draynor Village.",
+        "skills": [
+          {
+            "skill": "WOODCUTTING",
+            "level": 30,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any axe"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_medium_9",
+        "description": "Pickpocket Martin the Master Gardener.",
+        "skills": [
+          {
+            "skill": "THIEVING",
+            "level": 38,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_medium_10",
+        "description": "Get a slayer task from Chaeldar.",
+        "skills": [],
+        "quests": [
+          "Lost City"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Combat level 70",
+          "Dramen or Lunar staff to enter Zanaris"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_medium_11",
+        "description": "Catch an essence or eclectic impling in Puro-Puro.",
+        "skills": [
+          {
+            "skill": "HUNTER",
+            "level": 42,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Dramen or Lunar staff to enter Zanaris",
+          "Butterfly net",
+          "Impling jar"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_medium_12",
+        "description": "Craft lava runes at the Fire Altar in Al Kharid.",
+        "skills": [
+          {
+            "skill": "RUNECRAFT",
+            "level": 23,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Earth talisman",
+          "Earth runes",
+          "Pure or daeyalt essence",
+          "Access to the Fire Altar"
+        ],
+        "notes": ""
+      }
+    ],
+    "HARD": [
+      {
+        "id": "lumbridge_draynor_hard_1",
+        "description": "Cast Bones to Peaches in Al Kharid Palace.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 60,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Access via the Mage Training Arena",
+          "Bones",
+          "Runes: 4 earth, 4 water, 2 nature"
+        ],
+        "notes": "The tablet doesn't count."
+      },
+      {
+        "id": "lumbridge_draynor_hard_2",
+        "description": "Squeeze past the jutting wall on the way to the Cosmic Altar.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 46,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Lost City"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Dramen or Lunar staff to enter Zanaris, or access to the Abyss"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_hard_3",
+        "description": "Craft 56 cosmic runes simultaneously from essence without extracts.",
+        "skills": [
+          {
+            "skill": "RUNECRAFT",
+            "level": 59,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Lost City"
+        ],
+        "questsStarted": [],
+        "other": [
+          "28 pure or daeyalt essence",
+          "Access to the Cosmic Altar"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_hard_4",
+        "description": "Travel from Lumbridge to Edgeville on a Waka Canoe.",
+        "skills": [
+          {
+            "skill": "WOODCUTTING",
+            "level": 57,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any axe"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_hard_5",
+        "description": "Collect at least 100 Tears of Guthix in one visit.",
+        "skills": [],
+        "quests": [
+          "Tears of Guthix"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Games necklace recommended",
+          "150+ quest points recommended"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_hard_6",
+        "description": "Take the train from Dorgesh-Kaan to Keldagrim.",
+        "skills": [],
+        "quests": [
+          "Another Slice of H.A.M."
+        ],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_hard_7",
+        "description": "Purchase Barrows gloves from the Lumbridge bank chest.",
+        "skills": [],
+        "quests": [
+          "Recipe for Disaster"
+        ],
+        "questsStarted": [],
+        "other": [
+          "130,000 coins"
+        ],
+        "notes": "Recipe for Disaster must be fully complete."
+      },
+      {
+        "id": "lumbridge_draynor_hard_8",
+        "description": "Pick belladonna from the Draynor Manor farming patch.",
+        "skills": [
+          {
+            "skill": "FARMING",
+            "level": 63,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Belladonna seed",
+          "Seed dibber",
+          "Spade",
+          "Rake",
+          "Any gloves"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_hard_9",
+        "description": "Light your mining helmet in the Lumbridge Castle basement.",
+        "skills": [
+          {
+            "skill": "FIREMAKING",
+            "level": 65,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Tinderbox",
+          "Mining helmet"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_hard_10",
+        "description": "Recharge prayer at Emir's Arena with Smite activated.",
+        "skills": [
+          {
+            "skill": "PRAYER",
+            "level": 52,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_hard_11",
+        "description": "Craft, string and enchant an Amulet of Power in Lumbridge.",
+        "skills": [
+          {
+            "skill": "CRAFTING",
+            "level": 70,
+            "boostable": true
+          },
+          {
+            "skill": "MAGIC",
+            "level": 57,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Gold bar",
+          "Cut diamond",
+          "Amulet mould",
+          "Ball of wool",
+          "Runes: 10 earth, 1 cosmic"
+        ],
+        "notes": "Upstairs in the castle doesn't count."
+      }
+    ],
+    "ELITE": [
+      {
+        "id": "lumbridge_draynor_elite_1",
+        "description": "Steal from a Dorgesh-Kaan rich chest.",
+        "skills": [
+          {
+            "skill": "THIEVING",
+            "level": 78,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Death to the Dorgeshuun"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Lockpick"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_elite_2",
+        "description": "Grapple across a pylon on the Dorgesh-Kaan Agility Course.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 70,
+            "boostable": true
+          },
+          {
+            "skill": "RANGED",
+            "level": 70,
+            "boostable": true
+          },
+          {
+            "skill": "STRENGTH",
+            "level": 70,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Death to the Dorgeshuun"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Mith grapple",
+          "Any crossbow",
+          "Light source"
+        ],
+        "notes": "Ironmen need Ancient Cavern access, or 59 Smithing and 59 Fletching, for the grapple."
+      },
+      {
+        "id": "lumbridge_draynor_elite_3",
+        "description": "Chop magic logs at the Mage Training Arena.",
+        "skills": [
+          {
+            "skill": "WOODCUTTING",
+            "level": 75,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any axe"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_elite_4",
+        "description": "Smith an adamant platebody in Draynor Sewer.",
+        "skills": [
+          {
+            "skill": "SMITHING",
+            "level": 88,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "5 adamantite bars",
+          "Hammer"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "lumbridge_draynor_elite_5",
+        "description": "Craft 140+ water runes simultaneously from essence without extracts.",
+        "skills": [
+          {
+            "skill": "RUNECRAFT",
+            "level": 76,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "28 pure, daeyalt or rune essence",
+          "Access to the Water Altar"
+        ],
+        "notes": "Lower Runecraft works with Raiments of the Eye pieces."
+      },
+      {
+        "id": "lumbridge_draynor_elite_6",
+        "description": "Perform the Quest cape emote in the Wise Old Man's house.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "All quests completed",
+          "Quest point cape"
+        ],
+        "notes": ""
+      }
+    ]
+  }
+}

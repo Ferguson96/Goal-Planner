@@ -1,0 +1,725 @@
+{
+  "id": "karamja",
+  "name": "Karamja Diary",
+  "source": "https://oldschool.runescape.wiki/w/Karamja_Diary",
+  "retrieved": "2026-10-27",
+  "tiers": {
+    "EASY": [
+      {
+        "id": "karamja_easy_1",
+        "description": "Pick 5 bananas from the banana plantation east of the volcano.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "karamja_easy_2",
+        "description": "Use the rope swing to reach Moss Giant Island.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 10,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "karamja_easy_3",
+        "description": "Mine gold from the rocks on Karamja's north-west peninsula.",
+        "skills": [
+          {
+            "skill": "MINING",
+            "level": 40,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any pickaxe"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "karamja_easy_4",
+        "description": "Travel to Port Sarim via the dock east of Musa Point.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "30 coins or a Ring of Charos(a)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "karamja_easy_5",
+        "description": "Travel to Ardougne via the port near Brimhaven.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "30 coins or a Ring of Charos(a)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "karamja_easy_6",
+        "description": "Explore Cairn Island, west of Karamja.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 15,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "karamja_easy_7",
+        "description": "Fish at the fishing spots north of the banana plantation.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Harpoon, lobster pot, small fishing net or rod and bait, depending on spot"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "karamja_easy_8",
+        "description": "Collect 5 seaweed from anywhere on Karamja.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Seaweed (near Jiminua's Jungle Store)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "karamja_easy_9",
+        "description": "Attempt the TzHaar Fight Pits or Fight Cave.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": "Leaving after wave 1 begins is enough; Fight Pits needs another player."
+      },
+      {
+        "id": "karamja_easy_10",
+        "description": "Kill a jogre in the Pothole dungeon.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Weaponry"
+        ],
+        "notes": ""
+      }
+    ],
+    "MEDIUM": [
+      {
+        "id": "karamja_medium_1",
+        "description": "Claim a ticket from the Brimhaven Agility Arena.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 40,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "200 coins"
+        ],
+        "notes": "Agility 40 is recommended."
+      },
+      {
+        "id": "karamja_medium_2",
+        "description": "Discover the hidden wall in the dungeon below the volcano.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [
+          "Dragon Slayer I"
+        ],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "karamja_medium_3",
+        "description": "Visit the Isle of Crandor via the dungeon below the volcano.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [
+          "Dragon Slayer I"
+        ],
+        "other": [
+          "Pass the hidden wall and lesser demons, then climb the rope to Crandor"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "karamja_medium_4",
+        "description": "Use Vigroy and Hajedy's cart service.",
+        "skills": [],
+        "quests": [
+          "Shilo Village"
+        ],
+        "questsStarted": [],
+        "other": [
+          "200 coins"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "karamja_medium_5",
+        "description": "Earn 100% favour in Tai Bwo Wannai.",
+        "skills": [
+          {
+            "skill": "WOODCUTTING",
+            "level": 10,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Jungle Potion"
+        ],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "karamja_medium_6",
+        "description": "Cook a spider on a stick.",
+        "skills": [
+          {
+            "skill": "COOKING",
+            "level": 16,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Spider carcass",
+          "Skewer stick or arrow shaft"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "karamja_medium_7",
+        "description": "Charter the Lady of the Waves from Cairn Isle to Port Khazard.",
+        "skills": [],
+        "quests": [
+          "Shilo Village"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Ship ticket or 20-50 coins"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "karamja_medium_8",
+        "description": "Cut a log from a teak tree.",
+        "skills": [
+          {
+            "skill": "WOODCUTTING",
+            "level": 35,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Jungle Potion"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Any axe"
+        ],
+        "notes": "Hardwood Grove needs 100 trading sticks; Kharazi Jungle needs a machete or Agility 79 and Legends' Quest started."
+      },
+      {
+        "id": "karamja_medium_9",
+        "description": "Cut a log from a mahogany tree.",
+        "skills": [
+          {
+            "skill": "WOODCUTTING",
+            "level": 50,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Jungle Potion"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Any axe"
+        ],
+        "notes": "Hardwood Grove needs 100 trading sticks; Kharazi Jungle needs a machete or Agility 79 and Legends' Quest started."
+      },
+      {
+        "id": "karamja_medium_10",
+        "description": "Catch a karambwan.",
+        "skills": [
+          {
+            "skill": "FISHING",
+            "level": 65,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "Tai Bwo Wannai Trio"
+        ],
+        "other": [
+          "Karambwan vessel",
+          "Raw karambwanji",
+          "Small fishing net"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "karamja_medium_11",
+        "description": "Exchange gems for a machete with Safta Doc.",
+        "skills": [],
+        "quests": [
+          "Jungle Potion"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Gout tuber",
+          "300 trading sticks and 3 opals, or 600 and 3 jades, or 1200 and 3 red topaz"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "karamja_medium_12",
+        "description": "Use the gnome glider to travel to Karamja.",
+        "skills": [],
+        "quests": [
+          "The Grand Tree"
+        ],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "karamja_medium_13",
+        "description": "Grow a healthy fruit tree in the patch near Brimhaven.",
+        "skills": [
+          {
+            "skill": "FARMING",
+            "level": 27,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any fruit tree sapling",
+          "Spade",
+          "Rake"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "karamja_medium_14",
+        "description": "Trap a horned graahk.",
+        "skills": [
+          {
+            "skill": "HUNTER",
+            "level": 41,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Teasing stick or hunter's spear",
+          "Knife",
+          "Any logs"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "karamja_medium_15",
+        "description": "Chop the vines inside the main entrance of Brimhaven Dungeon.",
+        "skills": [
+          {
+            "skill": "WOODCUTTING",
+            "level": 10,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any axe",
+          "875 coins"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "karamja_medium_16",
+        "description": "Cross the lava using the western stepping stones in Brimhaven Dungeon.",
+        "skills": [
+          {
+            "skill": "WOODCUTTING",
+            "level": 10,
+            "boostable": true
+          },
+          {
+            "skill": "AGILITY",
+            "level": 12,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any axe",
+          "875 coins"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "karamja_medium_17",
+        "description": "Climb the stairs in Brimhaven Dungeon, south of the stepping stones.",
+        "skills": [
+          {
+            "skill": "WOODCUTTING",
+            "level": 10,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any axe",
+          "875 coins"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "karamja_medium_18",
+        "description": "Charter a ship from the shipyard in far east Karamja.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [
+          "The Grand Tree"
+        ],
+        "other": [
+          "Charter fare"
+        ],
+        "notes": "Destination does not matter."
+      },
+      {
+        "id": "karamja_medium_19",
+        "description": "Mine a red topaz from a gem rock.",
+        "skills": [
+          {
+            "skill": "MINING",
+            "level": 40,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Jungle Potion"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Any pickaxe",
+          "Shilo Village completed, or the Tai Bwo Wannai Cleanup items"
+        ],
+        "notes": ""
+      }
+    ],
+    "HARD": [
+      {
+        "id": "karamja_hard_1",
+        "description": "Become Champion of the Fight Pits.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "At least one other player",
+          "Weaponry"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "karamja_hard_2",
+        "description": "Kill a Ket-Zek in the Fight Caves.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "See the TzHaar Fight Cave strategy guide"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "karamja_hard_3",
+        "description": "Eat an oomlie wrap.",
+        "skills": [
+          {
+            "skill": "COOKING",
+            "level": 50,
+            "boostable": false
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Cooked oomlie wrap, or a palm leaf and raw oomlie"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "karamja_hard_4",
+        "description": "Craft nature runes from essence.",
+        "skills": [
+          {
+            "skill": "RUNECRAFT",
+            "level": 44,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Pure or daeyalt essence",
+          "Access to the Nature Altar"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "karamja_hard_5",
+        "description": "Cook a karambwan thoroughly.",
+        "skills": [
+          {
+            "skill": "COOKING",
+            "level": 30,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Tai Bwo Wannai Trio"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Raw karambwan (several recommended)"
+        ],
+        "notes": "Speak to Tinsay afterwards."
+      },
+      {
+        "id": "karamja_hard_6",
+        "description": "Kill a death wing in the Shaman Caves under Kharazi Jungle.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 50,
+            "boostable": true
+          },
+          {
+            "skill": "THIEVING",
+            "level": 50,
+            "boostable": true
+          },
+          {
+            "skill": "MINING",
+            "level": 52,
+            "boostable": true
+          },
+          {
+            "skill": "STRENGTH",
+            "level": 50,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "Legends' Quest"
+        ],
+        "other": [
+          "Any axe",
+          "Any machete",
+          "Any pickaxe",
+          "Lockpick"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "karamja_hard_7",
+        "description": "Use the crossbow shortcut south of the volcano.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 53,
+            "boostable": true
+          },
+          {
+            "skill": "RANGED",
+            "level": 42,
+            "boostable": true
+          },
+          {
+            "skill": "STRENGTH",
+            "level": 21,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Mith grapple",
+          "Any crossbow"
+        ],
+        "notes": "Ironmen need Ancient Cavern access, or 59 Smithing and 59 Fletching, for the grapple."
+      },
+      {
+        "id": "karamja_hard_8",
+        "description": "Collect 5 palm leaves.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [
+          "Legends' Quest"
+        ],
+        "other": [
+          "Any axe and machete, or Agility 79 for the vine shortcut"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "karamja_hard_9",
+        "description": "Be assigned a Slayer task by the Slayer Master in Shilo Village.",
+        "skills": [],
+        "quests": [
+          "Shilo Village"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Combat level 100 and Slayer 50, or a Slayer cape"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "karamja_hard_10",
+        "description": "Kill a metal dragon in Brimhaven Dungeon.",
+        "skills": [
+          {
+            "skill": "WOODCUTTING",
+            "level": 10,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any axe",
+          "Protection from dragonfire",
+          "Weaponry",
+          "875 coins"
+        ],
+        "notes": ""
+      }
+    ],
+    "ELITE": [
+      {
+        "id": "karamja_elite_1",
+        "description": "Craft 56 nature runes simultaneously from essence without extracts.",
+        "skills": [
+          {
+            "skill": "RUNECRAFT",
+            "level": 91,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "28 pure or daeyalt essence",
+          "Access to the Nature Altar"
+        ],
+        "notes": "Fewer essence needed with Raiments of the Eye pieces."
+      },
+      {
+        "id": "karamja_elite_2",
+        "description": "Equip a Fire Cape or Infernal Cape in Mor Ul Rek.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Fire cape or infernal cape"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "karamja_elite_3",
+        "description": "Check the health of a palm tree in Brimhaven.",
+        "skills": [
+          {
+            "skill": "FARMING",
+            "level": 68,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Palm sapling",
+          "Spade",
+          "Rake"
+        ],
+        "notes": "15 papaya fruit recommended to pay the gardener."
+      },
+      {
+        "id": "karamja_elite_4",
+        "description": "Create an antivenom potion while standing in the horseshoe mine.",
+        "skills": [
+          {
+            "skill": "HERBLORE",
+            "level": 87,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Antidote++",
+          "5-20 Zulrah's scales"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "karamja_elite_5",
+        "description": "Check the health of your calquat tree patch.",
+        "skills": [
+          {
+            "skill": "FARMING",
+            "level": 72,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Calquat sapling",
+          "Spade",
+          "Rake"
+        ],
+        "notes": "8 poison ivy berries recommended to pay the gardener."
+      }
+    ]
+  }
+}

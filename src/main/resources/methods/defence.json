@@ -1,0 +1,267 @@
+[
+  {
+    "id": "defence_sulphur_nagua",
+    "skill": "DEFENCE",
+    "name": "Sulphur Nagua",
+    "category": "TRAINING",
+    "minLevel": 55,
+    "requirements": [
+      "Partial Perilous Moons",
+      "55 Attack for glacial temotli",
+      "43 Prayer",
+      "Dual macuahuitl recommended"
+    ],
+    "rates": [
+      {
+        "level": 60,
+        "afk": null,
+        "active": 75000,
+        "gpPerHour": null
+      },
+      {
+        "level": 75,
+        "afk": null,
+        "active": 130000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Melee_training",
+    "retrieved": "2026-10-27",
+    "notes": "XP/hr is combat XP in the skill you train (set by combat style); Hitpoints XP comes alongside. Wiki: 75,000 at 60 Strength, up to 130,000 at 75 Strength with full Blood Moon armour and Piety."
+  },
+  {
+    "id": "defence_scurrius",
+    "skill": "DEFENCE",
+    "name": "Scurrius",
+    "category": "TRAINING",
+    "minLevel": 55,
+    "maxLevel": 75,
+    "requirements": [
+      "40 Prayer",
+      "Bone mace from Scurrius' spine recommended"
+    ],
+    "rates": [
+      {
+        "level": 55,
+        "afk": null,
+        "active": 100000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Melee_training",
+    "retrieved": "2026-10-27",
+    "notes": "XP/hr is combat XP in the skill you train (set by combat style); Hitpoints XP comes alongside. Wiki: 100,000 or more for solo group variant at base 70 stats with a bone mace."
+  },
+  {
+    "id": "defence_maniacal_monkeys",
+    "skill": "DEFENCE",
+    "name": "Maniacal monkeys",
+    "category": "TRAINING",
+    "minLevel": 75,
+    "requirements": [
+      "75 Attack to wield Hallowfell",
+      "Partial Monkey Madness II",
+      "Crystal or dragon halberd recommended"
+    ],
+    "rates": [
+      {
+        "level": 75,
+        "afk": null,
+        "active": 200000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Melee_training",
+    "retrieved": "2026-10-27",
+    "notes": "XP/hr is combat XP in the skill you train (set by combat style); Hitpoints XP comes alongside. Wiki: 200,000 or more, up to 300,000 with an optimal setup."
+  },
+  {
+    "id": "defence_gemstone_crab",
+    "skill": "DEFENCE",
+    "name": "Gemstone crab",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [
+      "Children of the Sun"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": 100000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "XP/hr is in the combat skill you train. Infinite health, no food needed (87.5% of normal XP per hit). From the wiki's AFK skilling methods guide (AFK rate)."
+  },
+  {
+    "id": "defence_nightmare_zone",
+    "skill": "DEFENCE",
+    "name": "Nightmare Zone",
+    "category": "TRAINING",
+    "minLevel": 60,
+    "requirements": [
+      "At least 5 quests",
+      "Coin fee per dream",
+      "Absorption potions"
+    ],
+    "rates": [
+      {
+        "level": 60,
+        "afk": 105000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "XP/hr is in the combat skill you train. Ironman guide: up to 85,000 (about 70,000 with mid-game gear) at base 70 stats. From the wiki's AFK skilling methods guide (AFK rate)."
+  },
+  {
+    "id": "defence_gargoyles",
+    "skill": "DEFENCE",
+    "name": "Gargoyles",
+    "category": "TRAINING",
+    "minLevel": 80,
+    "requirements": [
+      "75 Slayer",
+      "Rock hammer",
+      "Priest in Peril"
+    ],
+    "rates": [
+      {
+        "level": 80,
+        "afk": null,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Melee_training",
+    "retrieved": "2026-10-27",
+    "notes": "XP/hr is combat XP in the skill you train (set by combat style); Hitpoints XP comes alongside. Wiki gives no XP/hr but says substantially less than other options at 80-99; upwards of 700,000 GP/hr profit."
+  },
+  {
+    "id": "defence_sand_crabs",
+    "skill": "DEFENCE",
+    "name": "Sand crabs",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 1,
+        "afk": 100000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "XP/hr is in the combat skill you train.  From the wiki's AFK skilling methods guide (AFK rate)."
+  },
+  {
+    "id": "defence_ammonite_crabs",
+    "skill": "DEFENCE",
+    "name": "Ammonite crabs",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [
+      "Fossil Island access (Bone Voyage)"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": 100000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "XP/hr is in the combat skill you train.  From the wiki's AFK skilling methods guide (AFK rate)."
+  },
+  {
+    "id": "defence_sulphur_nagua_afk",
+    "skill": "DEFENCE",
+    "name": "Sulphur Nagua (AFK)",
+    "category": "TRAINING",
+    "minLevel": 60,
+    "requirements": [
+      "Partial Perilous Moons",
+      "43 Prayer"
+    ],
+    "rates": [
+      {
+        "level": 60,
+        "afk": 120000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "XP/hr is in the combat skill you train.  From the wiki's AFK skilling methods guide (AFK rate)."
+  },
+  {
+    "id": "defence_vyrewatch_sentinels",
+    "skill": "DEFENCE",
+    "name": "Vyrewatch sentinels",
+    "category": "TRAINING",
+    "minLevel": 70,
+    "requirements": [
+      "Sins of the Father",
+      "Blisterwood flail"
+    ],
+    "rates": [
+      {
+        "level": 70,
+        "afk": 54000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "XP/hr is in the combat skill you train.  From the wiki's AFK skilling methods guide (AFK rate)."
+  },
+  {
+    "id": "defence_desert_bandits",
+    "skill": "DEFENCE",
+    "name": "Desert bandits",
+    "category": "TRAINING",
+    "minLevel": 75,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 75,
+        "afk": 130000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "XP/hr is in the combat skill you train.  From the wiki's AFK skilling methods guide (AFK rate)."
+  },
+  {
+    "id": "defence_brutus",
+    "skill": "DEFENCE",
+    "name": "Brutus (AFK)",
+    "category": "TRAINING",
+    "minLevel": 80,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 80,
+        "afk": 55500,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "XP/hr is in the combat skill you train.  From the wiki's AFK skilling methods guide (AFK rate)."
+  }
+]

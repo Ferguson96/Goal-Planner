@@ -1,0 +1,128 @@
+{
+  "id": "abyssal_sire",
+  "name": "Abyssal Sire",
+  "category": "SLAYER_BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Abyssal_Sire",
+  "retrieved": "2026-10-24",
+  "requirements": {
+    "skills": [
+      {
+        "skill": "SLAYER",
+        "level": 85,
+        "boostable": true
+      }
+    ],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Visited the Abyss at least once (Mage of Zamorak or the fairy ring network)",
+      "An abyssal demon Slayer task, or the boss Slayer task"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Unsired",
+      "rarity": "1/100",
+      "chance": 0.01,
+      "notes": ""
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/180",
+      "chance": 0.005555555555555556,
+      "notes": ""
+    }
+  ],
+  "setups": [
+    {
+      "name": "Phase 2 and 3 melee",
+      "source": "https://oldschool.runescape.wiki/w/Abyssal_Sire/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Slayer helmet (i)",
+          "Black mask (i)"
+        ],
+        "CAPE": [
+          "Infernal cape",
+          "Fire cape",
+          "Ardougne cloak 4"
+        ],
+        "NECK": [
+          "Amulet of rancour",
+          "Amulet of torture",
+          "Amulet of fury"
+        ],
+        "WEAPON": [
+          "Emberlight",
+          "Osmumten's fang"
+        ],
+        "BODY": [
+          "Torva platebody",
+          "Bandos chestplate",
+          "Justiciar chestguard"
+        ],
+        "SHIELD": [
+          "Avernic defender",
+          "Dragon defender",
+          "Dragonfire shield"
+        ],
+        "LEGS": [
+          "Torva platelegs",
+          "Bandos tassets",
+          "Justiciar legguards"
+        ]
+      },
+      "inventory": [],
+      "notes": "Hands, feet and ring slots and the inventory were cut off on the source page."
+    },
+    {
+      "name": "Phase 1 ranged",
+      "source": "https://oldschool.runescape.wiki/w/Abyssal_Sire/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Slayer helmet (i)",
+          "Black mask (i)"
+        ],
+        "CAPE": [
+          "Dizana's quiver",
+          "Ava's assembler"
+        ],
+        "NECK": [
+          "Necklace of rupture",
+          "Amulet of fury",
+          "Amulet of glory"
+        ],
+        "AMMO": [
+          "Seeking dragon arrow",
+          "Seeking amethyst arrow",
+          "Amethyst arrow"
+        ],
+        "WEAPON": [
+          "Scorching bow",
+          "Bow of Faerdhinen",
+          "Toxic blowpipe"
+        ],
+        "BODY": [
+          "Masori body (f)",
+          "Crystal body",
+          "Hueycoatl hide body"
+        ],
+        "LEGS": [
+          "Masori chaps (f)",
+          "Crystal legs",
+          "Hueycoatl hide chaps"
+        ],
+        "HANDS": [
+          "Zaryte vambraces",
+          "Barrows gloves",
+          "Blessed vambraces"
+        ]
+      },
+      "inventory": [],
+      "notes": ""
+    }
+  ],
+  "notes": "Fought only on a Slayer task. The pet and jar rates were not listed on the page that was read."
+}

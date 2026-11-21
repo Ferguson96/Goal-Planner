@@ -1,0 +1,1631 @@
+[
+  {
+    "id": "fletching_bolts_bronze",
+    "skill": "FLETCHING",
+    "name": "Bolts: Bronze",
+    "category": "TRAINING",
+    "minLevel": 9,
+    "requirements": [
+      "Feathers",
+      "Bronze bolts (unf)"
+    ],
+    "rates": [
+      {
+        "level": 9,
+        "afk": null,
+        "active": 15000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Zero-time method. Profit per bolt -18 at the wiki's prices (not converted to GP/hr)."
+  },
+  {
+    "id": "fletching_bolts_blurite",
+    "skill": "FLETCHING",
+    "name": "Bolts: Blurite",
+    "category": "TRAINING",
+    "minLevel": 24,
+    "requirements": [
+      "Feathers",
+      "Blurite bolts (unf)"
+    ],
+    "rates": [
+      {
+        "level": 24,
+        "afk": null,
+        "active": 30000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Zero-time method. Profit per bolt not listed at the wiki's prices (not converted to GP/hr)."
+  },
+  {
+    "id": "fletching_bolts_iron",
+    "skill": "FLETCHING",
+    "name": "Bolts: Iron",
+    "category": "TRAINING",
+    "minLevel": 39,
+    "requirements": [
+      "Feathers",
+      "Iron bolts (unf)"
+    ],
+    "rates": [
+      {
+        "level": 39,
+        "afk": null,
+        "active": 45000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Zero-time method. Profit per bolt -5 at the wiki's prices (not converted to GP/hr)."
+  },
+  {
+    "id": "fletching_bolts_silver",
+    "skill": "FLETCHING",
+    "name": "Bolts: Silver",
+    "category": "TRAINING",
+    "minLevel": 43,
+    "requirements": [
+      "Feathers",
+      "Silver bolts (unf)"
+    ],
+    "rates": [
+      {
+        "level": 43,
+        "afk": null,
+        "active": 75000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Zero-time method. Profit per bolt -8 at the wiki's prices (not converted to GP/hr)."
+  },
+  {
+    "id": "fletching_bolts_steel",
+    "skill": "FLETCHING",
+    "name": "Bolts: Steel",
+    "category": "TRAINING",
+    "minLevel": 46,
+    "requirements": [
+      "Feathers",
+      "Steel bolts (unf)"
+    ],
+    "rates": [
+      {
+        "level": 46,
+        "afk": null,
+        "active": 105000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Zero-time method. Profit per bolt -9 at the wiki's prices (not converted to GP/hr)."
+  },
+  {
+    "id": "fletching_bolts_mithril",
+    "skill": "FLETCHING",
+    "name": "Bolts: Mithril",
+    "category": "TRAINING",
+    "minLevel": 54,
+    "requirements": [
+      "Feathers",
+      "Mithril bolts (unf)"
+    ],
+    "rates": [
+      {
+        "level": 54,
+        "afk": null,
+        "active": 150000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Zero-time method. Profit per bolt -41 at the wiki's prices (not converted to GP/hr)."
+  },
+  {
+    "id": "fletching_bolts_broad",
+    "skill": "FLETCHING",
+    "name": "Bolts: Broad",
+    "category": "TRAINING",
+    "minLevel": 55,
+    "requirements": [
+      "Feathers",
+      "Broad bolts (unf)",
+      "Broader fletching Slayer reward"
+    ],
+    "rates": [
+      {
+        "level": 55,
+        "afk": null,
+        "active": 90000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Zero-time method. Profit per bolt -6 at the wiki's prices (not converted to GP/hr)."
+  },
+  {
+    "id": "fletching_bolts_adamant",
+    "skill": "FLETCHING",
+    "name": "Bolts: Adamant",
+    "category": "TRAINING",
+    "minLevel": 61,
+    "requirements": [
+      "Feathers",
+      "Adamant bolts (unf)"
+    ],
+    "rates": [
+      {
+        "level": 61,
+        "afk": null,
+        "active": 210000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Zero-time method. Profit per bolt -11 at the wiki's prices (not converted to GP/hr)."
+  },
+  {
+    "id": "fletching_bolts_runite",
+    "skill": "FLETCHING",
+    "name": "Bolts: Runite",
+    "category": "TRAINING",
+    "minLevel": 69,
+    "requirements": [
+      "Feathers",
+      "Runite bolts (unf)"
+    ],
+    "rates": [
+      {
+        "level": 69,
+        "afk": null,
+        "active": 300000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Zero-time method. Profit per bolt -26 at the wiki's prices (not converted to GP/hr)."
+  },
+  {
+    "id": "fletching_bolts_dragon",
+    "skill": "FLETCHING",
+    "name": "Bolts: Dragon",
+    "category": "TRAINING",
+    "minLevel": 84,
+    "requirements": [
+      "Feathers",
+      "Dragon bolts (unf)"
+    ],
+    "rates": [
+      {
+        "level": 84,
+        "afk": null,
+        "active": 360000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Zero-time method. Profit per bolt +21 at the wiki's prices (not converted to GP/hr)."
+  },
+  {
+    "id": "fletching_cutting_bolt_tips_topaz",
+    "skill": "FLETCHING",
+    "name": "Cutting bolt tips: Topaz",
+    "category": "TRAINING",
+    "minLevel": 48,
+    "requirements": [
+      "Topaz gems",
+      "Chisel"
+    ],
+    "rates": [
+      {
+        "level": 48,
+        "afk": null,
+        "active": 4600,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "About 1,150 gems/hr; semi-zero-time."
+  },
+  {
+    "id": "fletching_cutting_bolt_tips_sapphire",
+    "skill": "FLETCHING",
+    "name": "Cutting bolt tips: Sapphire",
+    "category": "TRAINING",
+    "minLevel": 56,
+    "requirements": [
+      "Sapphire gems",
+      "Chisel"
+    ],
+    "rates": [
+      {
+        "level": 56,
+        "afk": null,
+        "active": 4600,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "About 1,150 gems/hr; semi-zero-time."
+  },
+  {
+    "id": "fletching_cutting_bolt_tips_emerald",
+    "skill": "FLETCHING",
+    "name": "Cutting bolt tips: Emerald",
+    "category": "TRAINING",
+    "minLevel": 58,
+    "requirements": [
+      "Emerald gems",
+      "Chisel"
+    ],
+    "rates": [
+      {
+        "level": 58,
+        "afk": null,
+        "active": 6325,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "About 1,150 gems/hr; semi-zero-time."
+  },
+  {
+    "id": "fletching_cutting_bolt_tips_ruby",
+    "skill": "FLETCHING",
+    "name": "Cutting bolt tips: Ruby",
+    "category": "TRAINING",
+    "minLevel": 63,
+    "requirements": [
+      "Ruby gems",
+      "Chisel"
+    ],
+    "rates": [
+      {
+        "level": 63,
+        "afk": null,
+        "active": 6900,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "About 1,150 gems/hr; semi-zero-time."
+  },
+  {
+    "id": "fletching_cutting_bolt_tips_diamond",
+    "skill": "FLETCHING",
+    "name": "Cutting bolt tips: Diamond",
+    "category": "TRAINING",
+    "minLevel": 65,
+    "requirements": [
+      "Diamond gems",
+      "Chisel"
+    ],
+    "rates": [
+      {
+        "level": 65,
+        "afk": null,
+        "active": 8050,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "About 1,150 gems/hr; semi-zero-time."
+  },
+  {
+    "id": "fletching_cutting_bolt_tips_dragonstone",
+    "skill": "FLETCHING",
+    "name": "Cutting bolt tips: Dragonstone",
+    "category": "TRAINING",
+    "minLevel": 71,
+    "requirements": [
+      "Dragonstone gems",
+      "Chisel"
+    ],
+    "rates": [
+      {
+        "level": 71,
+        "afk": null,
+        "active": 9430,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "About 1,150 gems/hr; semi-zero-time."
+  },
+  {
+    "id": "fletching_cutting_bolt_tips_onyx",
+    "skill": "FLETCHING",
+    "name": "Cutting bolt tips: Onyx",
+    "category": "TRAINING",
+    "minLevel": 73,
+    "requirements": [
+      "Onyx gems",
+      "Chisel"
+    ],
+    "rates": [
+      {
+        "level": 73,
+        "afk": null,
+        "active": 10810,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "About 1,150 gems/hr; semi-zero-time."
+  },
+  {
+    "id": "fletching_tipping_bolts_opal_tipped_bronze",
+    "skill": "FLETCHING",
+    "name": "Tipping bolts: Opal-tipped bronze",
+    "category": "TRAINING",
+    "minLevel": 11,
+    "requirements": [
+      "Bolt tips",
+      "Matching bolts"
+    ],
+    "rates": [
+      {
+        "level": 11,
+        "afk": null,
+        "active": 48000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Semi-zero-time method."
+  },
+  {
+    "id": "fletching_tipping_bolts_jade_tipped_blurite",
+    "skill": "FLETCHING",
+    "name": "Tipping bolts: Jade-tipped blurite",
+    "category": "TRAINING",
+    "minLevel": 26,
+    "requirements": [
+      "Bolt tips",
+      "Matching bolts"
+    ],
+    "rates": [
+      {
+        "level": 26,
+        "afk": null,
+        "active": 72000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Semi-zero-time method."
+  },
+  {
+    "id": "fletching_tipping_bolts_pearl_tipped_iron",
+    "skill": "FLETCHING",
+    "name": "Tipping bolts: Pearl-tipped iron",
+    "category": "TRAINING",
+    "minLevel": 41,
+    "requirements": [
+      "Bolt tips",
+      "Matching bolts"
+    ],
+    "rates": [
+      {
+        "level": 41,
+        "afk": null,
+        "active": 96000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Semi-zero-time method."
+  },
+  {
+    "id": "fletching_tipping_bolts_red_topaz_tipped_steel",
+    "skill": "FLETCHING",
+    "name": "Tipping bolts: Red topaz-tipped steel",
+    "category": "TRAINING",
+    "minLevel": 48,
+    "requirements": [
+      "Bolt tips",
+      "Matching bolts"
+    ],
+    "rates": [
+      {
+        "level": 48,
+        "afk": null,
+        "active": 120000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Semi-zero-time method."
+  },
+  {
+    "id": "fletching_tipping_bolts_barb_tipped_bronze",
+    "skill": "FLETCHING",
+    "name": "Tipping bolts: Barb-tipped bronze",
+    "category": "TRAINING",
+    "minLevel": 51,
+    "requirements": [
+      "Bolt tips",
+      "Matching bolts"
+    ],
+    "rates": [
+      {
+        "level": 51,
+        "afk": null,
+        "active": 285000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Semi-zero-time method."
+  },
+  {
+    "id": "fletching_tipping_bolts_sapphire_tipped_mithril",
+    "skill": "FLETCHING",
+    "name": "Tipping bolts: Sapphire-tipped mithril",
+    "category": "TRAINING",
+    "minLevel": 56,
+    "requirements": [
+      "Bolt tips",
+      "Matching bolts"
+    ],
+    "rates": [
+      {
+        "level": 56,
+        "afk": null,
+        "active": 141000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Semi-zero-time method."
+  },
+  {
+    "id": "fletching_tipping_bolts_emerald_tipped_mithril",
+    "skill": "FLETCHING",
+    "name": "Tipping bolts: Emerald-tipped mithril",
+    "category": "TRAINING",
+    "minLevel": 58,
+    "requirements": [
+      "Bolt tips",
+      "Matching bolts"
+    ],
+    "rates": [
+      {
+        "level": 58,
+        "afk": null,
+        "active": 165000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Semi-zero-time method."
+  },
+  {
+    "id": "fletching_tipping_bolts_ruby_tipped_adamant",
+    "skill": "FLETCHING",
+    "name": "Tipping bolts: Ruby-tipped adamant",
+    "category": "TRAINING",
+    "minLevel": 63,
+    "requirements": [
+      "Bolt tips",
+      "Matching bolts"
+    ],
+    "rates": [
+      {
+        "level": 63,
+        "afk": null,
+        "active": 189000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Semi-zero-time method."
+  },
+  {
+    "id": "fletching_tipping_bolts_diamond_tipped_adamant",
+    "skill": "FLETCHING",
+    "name": "Tipping bolts: Diamond-tipped adamant",
+    "category": "TRAINING",
+    "minLevel": 65,
+    "requirements": [
+      "Bolt tips",
+      "Matching bolts"
+    ],
+    "rates": [
+      {
+        "level": 65,
+        "afk": null,
+        "active": 210000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Semi-zero-time method."
+  },
+  {
+    "id": "fletching_tipping_bolts_dragonstone_tipped_runite",
+    "skill": "FLETCHING",
+    "name": "Tipping bolts: Dragonstone-tipped runite",
+    "category": "TRAINING",
+    "minLevel": 71,
+    "requirements": [
+      "Bolt tips",
+      "Matching bolts"
+    ],
+    "rates": [
+      {
+        "level": 71,
+        "afk": null,
+        "active": 246000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Semi-zero-time method."
+  },
+  {
+    "id": "fletching_tipping_bolts_onyx_tipped_runite",
+    "skill": "FLETCHING",
+    "name": "Tipping bolts: Onyx-tipped runite",
+    "category": "TRAINING",
+    "minLevel": 73,
+    "requirements": [
+      "Bolt tips",
+      "Matching bolts"
+    ],
+    "rates": [
+      {
+        "level": 73,
+        "afk": null,
+        "active": 282000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Semi-zero-time method."
+  },
+  {
+    "id": "fletching_tipping_bolts_amethyst_tipped_broad",
+    "skill": "FLETCHING",
+    "name": "Tipping bolts: Amethyst-tipped broad",
+    "category": "TRAINING",
+    "minLevel": 76,
+    "requirements": [
+      "Bolt tips",
+      "Matching bolts"
+    ],
+    "rates": [
+      {
+        "level": 76,
+        "afk": null,
+        "active": 318000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Semi-zero-time method."
+  },
+  {
+    "id": "fletching_tipping_dragon_bolts_opal",
+    "skill": "FLETCHING",
+    "name": "Tipping dragon bolts: Opal",
+    "category": "TRAINING",
+    "minLevel": 84,
+    "requirements": [
+      "Opal bolt tips",
+      "Dragon bolts (unf)"
+    ],
+    "rates": [
+      {
+        "level": 84,
+        "afk": null,
+        "active": 48000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Semi-zero-time method."
+  },
+  {
+    "id": "fletching_tipping_dragon_bolts_jade",
+    "skill": "FLETCHING",
+    "name": "Tipping dragon bolts: Jade",
+    "category": "TRAINING",
+    "minLevel": 84,
+    "requirements": [
+      "Jade bolt tips",
+      "Dragon bolts (unf)"
+    ],
+    "rates": [
+      {
+        "level": 84,
+        "afk": null,
+        "active": 72000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Semi-zero-time method."
+  },
+  {
+    "id": "fletching_tipping_dragon_bolts_pearl",
+    "skill": "FLETCHING",
+    "name": "Tipping dragon bolts: Pearl",
+    "category": "TRAINING",
+    "minLevel": 84,
+    "requirements": [
+      "Pearl bolt tips",
+      "Dragon bolts (unf)"
+    ],
+    "rates": [
+      {
+        "level": 84,
+        "afk": null,
+        "active": 96000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Semi-zero-time method."
+  },
+  {
+    "id": "fletching_tipping_dragon_bolts_red_topaz",
+    "skill": "FLETCHING",
+    "name": "Tipping dragon bolts: Red topaz",
+    "category": "TRAINING",
+    "minLevel": 84,
+    "requirements": [
+      "Red topaz bolt tips",
+      "Dragon bolts (unf)"
+    ],
+    "rates": [
+      {
+        "level": 84,
+        "afk": null,
+        "active": 120000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Semi-zero-time method."
+  },
+  {
+    "id": "fletching_tipping_dragon_bolts_sapphire",
+    "skill": "FLETCHING",
+    "name": "Tipping dragon bolts: Sapphire",
+    "category": "TRAINING",
+    "minLevel": 84,
+    "requirements": [
+      "Sapphire bolt tips",
+      "Dragon bolts (unf)"
+    ],
+    "rates": [
+      {
+        "level": 84,
+        "afk": null,
+        "active": 141000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Semi-zero-time method."
+  },
+  {
+    "id": "fletching_tipping_dragon_bolts_emerald",
+    "skill": "FLETCHING",
+    "name": "Tipping dragon bolts: Emerald",
+    "category": "TRAINING",
+    "minLevel": 84,
+    "requirements": [
+      "Emerald bolt tips",
+      "Dragon bolts (unf)"
+    ],
+    "rates": [
+      {
+        "level": 84,
+        "afk": null,
+        "active": 165000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Semi-zero-time method."
+  },
+  {
+    "id": "fletching_tipping_dragon_bolts_ruby",
+    "skill": "FLETCHING",
+    "name": "Tipping dragon bolts: Ruby",
+    "category": "TRAINING",
+    "minLevel": 84,
+    "requirements": [
+      "Ruby bolt tips",
+      "Dragon bolts (unf)"
+    ],
+    "rates": [
+      {
+        "level": 84,
+        "afk": null,
+        "active": 189000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Semi-zero-time method."
+  },
+  {
+    "id": "fletching_tipping_dragon_bolts_diamond",
+    "skill": "FLETCHING",
+    "name": "Tipping dragon bolts: Diamond",
+    "category": "TRAINING",
+    "minLevel": 84,
+    "requirements": [
+      "Diamond bolt tips",
+      "Dragon bolts (unf)"
+    ],
+    "rates": [
+      {
+        "level": 84,
+        "afk": null,
+        "active": 210000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Semi-zero-time method."
+  },
+  {
+    "id": "fletching_tipping_dragon_bolts_dragonstone",
+    "skill": "FLETCHING",
+    "name": "Tipping dragon bolts: Dragonstone",
+    "category": "TRAINING",
+    "minLevel": 84,
+    "requirements": [
+      "Dragonstone bolt tips",
+      "Dragon bolts (unf)"
+    ],
+    "rates": [
+      {
+        "level": 84,
+        "afk": null,
+        "active": 246000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Semi-zero-time method."
+  },
+  {
+    "id": "fletching_tipping_dragon_bolts_onyx",
+    "skill": "FLETCHING",
+    "name": "Tipping dragon bolts: Onyx",
+    "category": "TRAINING",
+    "minLevel": 84,
+    "requirements": [
+      "Onyx bolt tips",
+      "Dragon bolts (unf)"
+    ],
+    "rates": [
+      {
+        "level": 84,
+        "afk": null,
+        "active": 282500,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Semi-zero-time method."
+  },
+  {
+    "id": "fletching_ascension_bolts_shard_chiseling",
+    "skill": "FLETCHING",
+    "name": "Ascension bolts (shard chiseling)",
+    "category": "TRAINING",
+    "minLevel": 86,
+    "requirements": [
+      "Ascension shards",
+      "Chisel"
+    ],
+    "rates": [
+      {
+        "level": 86,
+        "afk": null,
+        "active": 365000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "About 2,600 actions/hr; 140 XP per shard. Wiki profit +1,196 per shard; buy limit 100 shards per 4 hours."
+  },
+  {
+    "id": "fletching_headless_arrows",
+    "skill": "FLETCHING",
+    "name": "Headless arrows",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [
+      "Arrow shafts and feathers"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 45000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Zero-time method; wiki shows a loss per arrow for most tiers."
+  },
+  {
+    "id": "fletching_bronze_arrows",
+    "skill": "FLETCHING",
+    "name": "Bronze arrows",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [
+      "Headless arrows"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 58500,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Zero-time method; wiki shows a loss per arrow for most tiers."
+  },
+  {
+    "id": "fletching_iron_arrows",
+    "skill": "FLETCHING",
+    "name": "Iron arrows",
+    "category": "TRAINING",
+    "minLevel": 15,
+    "requirements": [
+      "Headless arrows"
+    ],
+    "rates": [
+      {
+        "level": 15,
+        "afk": null,
+        "active": 112500,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Zero-time method; wiki shows a loss per arrow for most tiers."
+  },
+  {
+    "id": "fletching_steel_arrows",
+    "skill": "FLETCHING",
+    "name": "Steel arrows",
+    "category": "TRAINING",
+    "minLevel": 30,
+    "requirements": [
+      "Headless arrows"
+    ],
+    "rates": [
+      {
+        "level": 30,
+        "afk": null,
+        "active": 225000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Zero-time method; wiki shows a loss per arrow for most tiers."
+  },
+  {
+    "id": "fletching_mithril_arrows",
+    "skill": "FLETCHING",
+    "name": "Mithril arrows",
+    "category": "TRAINING",
+    "minLevel": 45,
+    "requirements": [
+      "Headless arrows"
+    ],
+    "rates": [
+      {
+        "level": 45,
+        "afk": null,
+        "active": 337500,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Zero-time method; wiki shows a loss per arrow for most tiers."
+  },
+  {
+    "id": "fletching_broad_arrows",
+    "skill": "FLETCHING",
+    "name": "Broad arrows",
+    "category": "TRAINING",
+    "minLevel": 52,
+    "requirements": [
+      "Headless arrows",
+      "Broader fletching Slayer reward"
+    ],
+    "rates": [
+      {
+        "level": 52,
+        "afk": null,
+        "active": 450000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Zero-time method; wiki shows a loss per arrow for most tiers."
+  },
+  {
+    "id": "fletching_adamant_arrows",
+    "skill": "FLETCHING",
+    "name": "Adamant arrows",
+    "category": "TRAINING",
+    "minLevel": 60,
+    "requirements": [
+      "Headless arrows"
+    ],
+    "rates": [
+      {
+        "level": 60,
+        "afk": null,
+        "active": 450000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Zero-time method; wiki shows a loss per arrow for most tiers."
+  },
+  {
+    "id": "fletching_rune_arrows",
+    "skill": "FLETCHING",
+    "name": "Rune arrows",
+    "category": "TRAINING",
+    "minLevel": 75,
+    "requirements": [
+      "Headless arrows"
+    ],
+    "rates": [
+      {
+        "level": 75,
+        "afk": null,
+        "active": 562500,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Zero-time method; wiki shows a loss per arrow for most tiers."
+  },
+  {
+    "id": "fletching_amethyst_arrows",
+    "skill": "FLETCHING",
+    "name": "Amethyst arrows",
+    "category": "TRAINING",
+    "minLevel": 82,
+    "requirements": [
+      "Headless arrows"
+    ],
+    "rates": [
+      {
+        "level": 82,
+        "afk": null,
+        "active": 607500,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Zero-time method; wiki shows a loss per arrow for most tiers."
+  },
+  {
+    "id": "fletching_dragon_arrows",
+    "skill": "FLETCHING",
+    "name": "Dragon arrows",
+    "category": "TRAINING",
+    "minLevel": 90,
+    "requirements": [
+      "Headless arrows"
+    ],
+    "rates": [
+      {
+        "level": 90,
+        "afk": null,
+        "active": 675000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Zero-time method; wiki shows a loss per arrow for most tiers."
+  },
+  {
+    "id": "fletching_javelins_bronze",
+    "skill": "FLETCHING",
+    "name": "Javelins: Bronze",
+    "category": "TRAINING",
+    "minLevel": 3,
+    "requirements": [
+      "Javelin shaft",
+      "Bronze javelin tips"
+    ],
+    "rates": [
+      {
+        "level": 3,
+        "afk": 45000,
+        "active": 60000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "AFK column is the normal click rate; active is 3-tick manipulation. 1-tick rate is 90,000 XP/hr."
+  },
+  {
+    "id": "fletching_javelins_iron",
+    "skill": "FLETCHING",
+    "name": "Javelins: Iron",
+    "category": "TRAINING",
+    "minLevel": 17,
+    "requirements": [
+      "Javelin shaft",
+      "Iron javelin tips"
+    ],
+    "rates": [
+      {
+        "level": 17,
+        "afk": 90000,
+        "active": 120000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "AFK column is the normal click rate; active is 3-tick manipulation. 1-tick rate is 180,000 XP/hr."
+  },
+  {
+    "id": "fletching_javelins_steel",
+    "skill": "FLETCHING",
+    "name": "Javelins: Steel",
+    "category": "TRAINING",
+    "minLevel": 32,
+    "requirements": [
+      "Javelin shaft",
+      "Steel javelin tips"
+    ],
+    "rates": [
+      {
+        "level": 32,
+        "afk": 225000,
+        "active": 300000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "AFK column is the normal click rate; active is 3-tick manipulation. 1-tick rate is 450,000 XP/hr."
+  },
+  {
+    "id": "fletching_javelins_mithril",
+    "skill": "FLETCHING",
+    "name": "Javelins: Mithril",
+    "category": "TRAINING",
+    "minLevel": 47,
+    "requirements": [
+      "Javelin shaft",
+      "Mithril javelin tips"
+    ],
+    "rates": [
+      {
+        "level": 47,
+        "afk": 360000,
+        "active": 480000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "AFK column is the normal click rate; active is 3-tick manipulation. 1-tick rate is 720,000 XP/hr."
+  },
+  {
+    "id": "fletching_javelins_adamant",
+    "skill": "FLETCHING",
+    "name": "Javelins: Adamant",
+    "category": "TRAINING",
+    "minLevel": 62,
+    "requirements": [
+      "Javelin shaft",
+      "Adamant javelin tips"
+    ],
+    "rates": [
+      {
+        "level": 62,
+        "afk": 450000,
+        "active": 600000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "AFK column is the normal click rate; active is 3-tick manipulation. 1-tick rate is 900,000 XP/hr."
+  },
+  {
+    "id": "fletching_javelins_rune",
+    "skill": "FLETCHING",
+    "name": "Javelins: Rune",
+    "category": "TRAINING",
+    "minLevel": 77,
+    "requirements": [
+      "Javelin shaft",
+      "Rune javelin tips"
+    ],
+    "rates": [
+      {
+        "level": 77,
+        "afk": 558000,
+        "active": 744000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "AFK column is the normal click rate; active is 3-tick manipulation. 1-tick rate is 1,116,000 XP/hr."
+  },
+  {
+    "id": "fletching_javelins_amethyst",
+    "skill": "FLETCHING",
+    "name": "Javelins: Amethyst",
+    "category": "TRAINING",
+    "minLevel": 84,
+    "requirements": [
+      "Javelin shaft",
+      "Amethyst javelin tips"
+    ],
+    "rates": [
+      {
+        "level": 84,
+        "afk": 607500,
+        "active": 810000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "AFK column is the normal click rate; active is 3-tick manipulation. 1-tick rate is 1,215,000 XP/hr."
+  },
+  {
+    "id": "fletching_javelins_dragon",
+    "skill": "FLETCHING",
+    "name": "Javelins: Dragon",
+    "category": "TRAINING",
+    "minLevel": 92,
+    "requirements": [
+      "Javelin shaft",
+      "Dragon javelin tips"
+    ],
+    "rates": [
+      {
+        "level": 92,
+        "afk": 675000,
+        "active": 900000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "AFK column is the normal click rate; active is 3-tick manipulation. 1-tick rate is 1,350,000 XP/hr."
+  },
+  {
+    "id": "fletching_vale_totems_loop_oak_shortbow_u",
+    "skill": "FLETCHING",
+    "name": "Vale Totems loop: Oak shortbow (u)",
+    "category": "TRAINING",
+    "minLevel": 20,
+    "requirements": [
+      "Vale Totems miniquest",
+      "Knife",
+      "25 logs per loop"
+    ],
+    "rates": [
+      {
+        "level": 20,
+        "afk": null,
+        "active": 27150,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Partial loop at the Vale Totems; XP/hr with a knife (fletching knife is faster). Yew and magic bows and battlestaves were not captured from the wiki."
+  },
+  {
+    "id": "fletching_vale_totems_loop_oak_shortbow",
+    "skill": "FLETCHING",
+    "name": "Vale Totems loop: Oak shortbow",
+    "category": "TRAINING",
+    "minLevel": 20,
+    "requirements": [
+      "Vale Totems miniquest",
+      "Knife",
+      "25 logs per loop"
+    ],
+    "rates": [
+      {
+        "level": 20,
+        "afk": null,
+        "active": 25920,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Partial loop at the Vale Totems; XP/hr with a knife (fletching knife is faster). Yew and magic bows and battlestaves were not captured from the wiki."
+  },
+  {
+    "id": "fletching_vale_totems_loop_oak_longbow_u",
+    "skill": "FLETCHING",
+    "name": "Vale Totems loop: Oak longbow (u)",
+    "category": "TRAINING",
+    "minLevel": 25,
+    "requirements": [
+      "Vale Totems miniquest",
+      "Knife",
+      "25 logs per loop"
+    ],
+    "rates": [
+      {
+        "level": 25,
+        "afk": null,
+        "active": 28000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Partial loop at the Vale Totems; XP/hr with a knife (fletching knife is faster). Yew and magic bows and battlestaves were not captured from the wiki."
+  },
+  {
+    "id": "fletching_vale_totems_loop_willow_shortbow_u",
+    "skill": "FLETCHING",
+    "name": "Vale Totems loop: Willow shortbow (u)",
+    "category": "TRAINING",
+    "minLevel": 35,
+    "requirements": [
+      "Vale Totems miniquest",
+      "Knife",
+      "25 logs per loop"
+    ],
+    "rates": [
+      {
+        "level": 35,
+        "afk": null,
+        "active": 66130,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Partial loop at the Vale Totems; XP/hr with a knife (fletching knife is faster). Yew and magic bows and battlestaves were not captured from the wiki."
+  },
+  {
+    "id": "fletching_vale_totems_loop_willow_shortbow",
+    "skill": "FLETCHING",
+    "name": "Vale Totems loop: Willow shortbow",
+    "category": "TRAINING",
+    "minLevel": 35,
+    "requirements": [
+      "Vale Totems miniquest",
+      "Knife",
+      "25 logs per loop"
+    ],
+    "rates": [
+      {
+        "level": 35,
+        "afk": null,
+        "active": 62514,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Partial loop at the Vale Totems; XP/hr with a knife (fletching knife is faster). Yew and magic bows and battlestaves were not captured from the wiki."
+  },
+  {
+    "id": "fletching_vale_totems_loop_willow_longbow_u",
+    "skill": "FLETCHING",
+    "name": "Vale Totems loop: Willow longbow (u)",
+    "category": "TRAINING",
+    "minLevel": 40,
+    "requirements": [
+      "Vale Totems miniquest",
+      "Knife",
+      "25 logs per loop"
+    ],
+    "rates": [
+      {
+        "level": 40,
+        "afk": null,
+        "active": 66950,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Partial loop at the Vale Totems; XP/hr with a knife (fletching knife is faster). Yew and magic bows and battlestaves were not captured from the wiki."
+  },
+  {
+    "id": "fletching_vale_totems_loop_willow_longbow",
+    "skill": "FLETCHING",
+    "name": "Vale Totems loop: Willow longbow",
+    "category": "TRAINING",
+    "minLevel": 40,
+    "requirements": [
+      "Vale Totems miniquest",
+      "Knife",
+      "25 logs per loop"
+    ],
+    "rates": [
+      {
+        "level": 40,
+        "afk": null,
+        "active": 63990,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Partial loop at the Vale Totems; XP/hr with a knife (fletching knife is faster). Yew and magic bows and battlestaves were not captured from the wiki."
+  },
+  {
+    "id": "fletching_vale_totems_loop_maple_shortbow_u",
+    "skill": "FLETCHING",
+    "name": "Vale Totems loop: Maple shortbow (u)",
+    "category": "TRAINING",
+    "minLevel": 50,
+    "requirements": [
+      "Vale Totems miniquest",
+      "Knife",
+      "25 logs per loop"
+    ],
+    "rates": [
+      {
+        "level": 50,
+        "afk": null,
+        "active": 105800,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Partial loop at the Vale Totems; XP/hr with a knife (fletching knife is faster). Yew and magic bows and battlestaves were not captured from the wiki."
+  },
+  {
+    "id": "fletching_vale_totems_loop_maple_shortbow",
+    "skill": "FLETCHING",
+    "name": "Vale Totems loop: Maple shortbow",
+    "category": "TRAINING",
+    "minLevel": 50,
+    "requirements": [
+      "Vale Totems miniquest",
+      "Knife",
+      "25 logs per loop"
+    ],
+    "rates": [
+      {
+        "level": 50,
+        "afk": null,
+        "active": 99720,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Partial loop at the Vale Totems; XP/hr with a knife (fletching knife is faster). Yew and magic bows and battlestaves were not captured from the wiki."
+  },
+  {
+    "id": "fletching_vale_totems_loop_maple_longbow_u",
+    "skill": "FLETCHING",
+    "name": "Vale Totems loop: Maple longbow (u)",
+    "category": "TRAINING",
+    "minLevel": 55,
+    "requirements": [
+      "Vale Totems miniquest",
+      "Knife",
+      "25 logs per loop"
+    ],
+    "rates": [
+      {
+        "level": 55,
+        "afk": null,
+        "active": 106630,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Partial loop at the Vale Totems; XP/hr with a knife (fletching knife is faster). Yew and magic bows and battlestaves were not captured from the wiki."
+  },
+  {
+    "id": "fletching_vale_totems_loop_maple_longbow",
+    "skill": "FLETCHING",
+    "name": "Vale Totems loop: Maple longbow",
+    "category": "TRAINING",
+    "minLevel": 55,
+    "requirements": [
+      "Vale Totems miniquest",
+      "Knife",
+      "25 logs per loop"
+    ],
+    "rates": [
+      {
+        "level": 55,
+        "afk": null,
+        "active": 101214,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
+    "retrieved": "2026-10-27",
+    "notes": "Partial loop at the Vale Totems; XP/hr with a knife (fletching knife is faster). Yew and magic bows and battlestaves were not captured from the wiki."
+  },
+  {
+    "id": "fletching_vale_totems_yew_shortbow_u",
+    "skill": "FLETCHING",
+    "name": "Vale Totems: Yew shortbow (u)",
+    "category": "TRAINING",
+    "minLevel": 65,
+    "requirements": [
+      "Vale Totems miniquest",
+      "Yew logs"
+    ],
+    "rates": [
+      {
+        "level": 65,
+        "afk": null,
+        "active": 170060,
+        "gpPerHour": 57200
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Vale_Totems/Strategies",
+    "retrieved": "2026-10-27",
+    "notes": "Cheapest decoration per log type at 13 loops/hr; wiki calls the rates approximate. Level inferred from the log requirement."
+  },
+  {
+    "id": "fletching_vale_totems_magic_shortbow_u",
+    "skill": "FLETCHING",
+    "name": "Vale Totems: Magic shortbow (u)",
+    "category": "TRAINING",
+    "minLevel": 80,
+    "requirements": [
+      "Vale Totems miniquest",
+      "Magic logs"
+    ],
+    "rates": [
+      {
+        "level": 80,
+        "afk": null,
+        "active": 322774,
+        "gpPerHour": 275392
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Vale_Totems/Strategies",
+    "retrieved": "2026-10-27",
+    "notes": "Cheapest decoration per log type at 13 loops/hr; wiki calls the rates approximate. Level inferred from the log requirement."
+  },
+  {
+    "id": "fletching_vale_totems_redwood_shield",
+    "skill": "FLETCHING",
+    "name": "Vale Totems: Redwood shield",
+    "category": "TRAINING",
+    "minLevel": 92,
+    "requirements": [
+      "Vale Totems miniquest",
+      "Redwood logs"
+    ],
+    "rates": [
+      {
+        "level": 92,
+        "afk": null,
+        "active": 393686,
+        "gpPerHour": 324376
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Vale_Totems/Strategies",
+    "retrieved": "2026-10-27",
+    "notes": "Cheapest decoration at 13 loops/hr; wiki calls the rates approximate."
+  },
+  {
+    "id": "fletching_battlestaves_afk",
+    "skill": "FLETCHING",
+    "name": "Battlestaves (AFK)",
+    "category": "TRAINING",
+    "minLevel": 40,
+    "requirements": [
+      "Battlestaff, orbs"
+    ],
+    "rates": [
+      {
+        "level": 40,
+        "afk": 143000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "From the wiki's AFK skilling methods guide (AFK rate)."
+  },
+  {
+    "id": "fletching_redwood_shields_afk",
+    "skill": "FLETCHING",
+    "name": "Redwood shields (AFK)",
+    "category": "TRAINING",
+    "minLevel": 92,
+    "requirements": [
+      "Redwood logs"
+    ],
+    "rates": [
+      {
+        "level": 92,
+        "afk": 193000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "From the wiki's AFK skilling methods guide (AFK rate)."
+  }
+]

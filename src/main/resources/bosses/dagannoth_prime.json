@@ -1,0 +1,93 @@
+{
+  "id": "dagannoth_prime",
+  "name": "Dagannoth Prime",
+  "category": "BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Dagannoth_Prime",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Waterbirth Island Dungeon access (Kings' ladder)"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Seers ring",
+      "rarity": "1/128",
+      "chance": 0.0078125,
+      "notes": ""
+    },
+    {
+      "item": "Mud battlestaff",
+      "rarity": "1/128",
+      "chance": 0.0078125,
+      "notes": ""
+    },
+    {
+      "item": "Dragon axe",
+      "rarity": "1/128",
+      "chance": 0.0078125,
+      "notes": ""
+    },
+    {
+      "item": "Farseer helm",
+      "rarity": "1/128",
+      "chance": 0.0078125,
+      "notes": ""
+    },
+    {
+      "item": "Skeletal top",
+      "rarity": "1/128",
+      "chance": 0.0078125,
+      "notes": ""
+    },
+    {
+      "item": "Skeletal bottoms",
+      "rarity": "1/128",
+      "chance": 0.0078125,
+      "notes": ""
+    },
+    {
+      "item": "Fremennik blade",
+      "rarity": "1/128",
+      "chance": 0.0078125,
+      "notes": ""
+    },
+    {
+      "item": "Fremennik shield",
+      "rarity": "1/128",
+      "chance": 0.0078125,
+      "notes": ""
+    },
+    {
+      "item": "Fremennik helm",
+      "rarity": "1/128",
+      "chance": 0.0078125,
+      "notes": ""
+    },
+    {
+      "item": "Brimstone key",
+      "rarity": "1/60",
+      "chance": 0.016666666666666666,
+      "notes": "Only on a Konar task."
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/750",
+      "chance": 0.0013333333333333333,
+      "notes": ""
+    },
+    {
+      "item": "Pet Dagannoth Prime",
+      "rarity": "1/5000",
+      "chance": 0.0002,
+      "notes": ""
+    }
+  ],
+  "setups": [],
+  "notes": "Seeds, talismans, potions and resources rarer than 1/50 are left out; see the wiki drop table."
+}

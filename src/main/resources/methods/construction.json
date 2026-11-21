@@ -1,0 +1,424 @@
+[
+  {
+    "id": "construction_oak_larders",
+    "skill": "CONSTRUCTION",
+    "name": "Oak larders",
+    "category": "TRAINING",
+    "minLevel": 33,
+    "maxLevel": 52,
+    "requirements": [
+      "Kitchen",
+      "Oak planks"
+    ],
+    "rates": [
+      {
+        "level": 33,
+        "afk": null,
+        "active": 480000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Construction_training",
+    "retrieved": "2026-10-27",
+    "notes": "480 XP per larder, 8 oak planks each. Wiki: 480,000-490,000 typical, up to 500,000 perfect. Cost about -7 to -8 GP per XP."
+  },
+  {
+    "id": "construction_mahogany_tables",
+    "skill": "CONSTRUCTION",
+    "name": "Mahogany tables",
+    "category": "TRAINING",
+    "minLevel": 52,
+    "maxLevel": 77,
+    "requirements": [
+      "Dining room",
+      "Mahogany planks",
+      "Demon butler"
+    ],
+    "rates": [
+      {
+        "level": 52,
+        "afk": null,
+        "active": 900000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Construction_training",
+    "retrieved": "2026-10-27",
+    "notes": "840 XP each, 6 planks each. Cost about -13 GP per XP."
+  },
+  {
+    "id": "construction_gnome_benches",
+    "skill": "CONSTRUCTION",
+    "name": "Gnome benches",
+    "category": "TRAINING",
+    "minLevel": 77,
+    "requirements": [
+      "Superior garden",
+      "Mahogany planks",
+      "Demon butler"
+    ],
+    "rates": [
+      {
+        "level": 77,
+        "afk": null,
+        "active": 1100000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Construction_training",
+    "retrieved": "2026-10-27",
+    "notes": "840 XP each, 6 planks each; wiki says just over 1,100,000 XP/hr."
+  },
+  {
+    "id": "construction_mounted_mythical_capes",
+    "skill": "CONSTRUCTION",
+    "name": "Mounted mythical capes",
+    "category": "TRAINING",
+    "minLevel": 50,
+    "requirements": [
+      "Dragon Slayer II",
+      "Mythical cape",
+      "Teak planks",
+      "Demon butler"
+    ],
+    "rates": [
+      {
+        "level": 50,
+        "afk": null,
+        "active": 430000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Construction_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki says 'up to about 430,000' XP/hr; 370 XP each, 3 teak planks each."
+  },
+  {
+    "id": "construction_teak_garden_benches",
+    "skill": "CONSTRUCTION",
+    "name": "Teak garden benches",
+    "category": "TRAINING",
+    "minLevel": 66,
+    "requirements": [
+      "Teak planks",
+      "Servant"
+    ],
+    "rates": [
+      {
+        "level": 66,
+        "afk": null,
+        "active": 500000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Construction_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki: 500,000-600,000 typical, about 700,000 max at 66; lower figure used. 540 XP each."
+  },
+  {
+    "id": "construction_oak_dungeon_doors",
+    "skill": "CONSTRUCTION",
+    "name": "Oak dungeon doors",
+    "category": "TRAINING",
+    "minLevel": 74,
+    "requirements": [
+      "Oak planks",
+      "Demon butler"
+    ],
+    "rates": [
+      {
+        "level": 74,
+        "afk": null,
+        "active": 500000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Construction_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki: 500,000+ typical, up to about 550,000. 600 XP each, 10 oak planks each."
+  },
+  {
+    "id": "construction_mahogany_homes_beginner",
+    "skill": "CONSTRUCTION",
+    "name": "Mahogany Homes (Beginner)",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [
+      "Player-owned house",
+      "Steel bars",
+      "Hammer, saw",
+      "Teleports"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 35000,
+        "gpPerHour": -54093
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Construction_training",
+    "retrieved": "2026-10-27",
+    "notes": "Lower bound without a plank sack; with a plank sack the wiki lists 50,000 XP/hr (GP/hr -57,068)."
+  },
+  {
+    "id": "construction_mahogany_homes_novice",
+    "skill": "CONSTRUCTION",
+    "name": "Mahogany Homes (Novice)",
+    "category": "TRAINING",
+    "minLevel": 20,
+    "requirements": [
+      "Player-owned house",
+      "Steel bars",
+      "Hammer, saw",
+      "Teleports"
+    ],
+    "rates": [
+      {
+        "level": 20,
+        "afk": null,
+        "active": 80000,
+        "gpPerHour": -181172
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Construction_training",
+    "retrieved": "2026-10-27",
+    "notes": "Lower bound without a plank sack; with a plank sack the wiki lists 110,000 XP/hr (GP/hr -202,372)."
+  },
+  {
+    "id": "construction_mahogany_homes_adept",
+    "skill": "CONSTRUCTION",
+    "name": "Mahogany Homes (Adept)",
+    "category": "TRAINING",
+    "minLevel": 50,
+    "requirements": [
+      "Player-owned house",
+      "Steel bars",
+      "Hammer, saw",
+      "Teleports"
+    ],
+    "rates": [
+      {
+        "level": 50,
+        "afk": null,
+        "active": 130000,
+        "gpPerHour": -311298
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Construction_training",
+    "retrieved": "2026-10-27",
+    "notes": "Lower bound without a plank sack; with a plank sack the wiki lists 155,000 XP/hr (GP/hr -346,498)."
+  },
+  {
+    "id": "construction_mahogany_homes_expert",
+    "skill": "CONSTRUCTION",
+    "name": "Mahogany Homes (Expert)",
+    "category": "TRAINING",
+    "minLevel": 70,
+    "requirements": [
+      "Player-owned house",
+      "Steel bars",
+      "Hammer, saw",
+      "Teleports"
+    ],
+    "rates": [
+      {
+        "level": 70,
+        "afk": null,
+        "active": 185000,
+        "gpPerHour": -842846
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Construction_training",
+    "retrieved": "2026-10-27",
+    "notes": "Lower bound without a plank sack; with a plank sack the wiki lists 240,000 XP/hr (GP/hr -977,246)."
+  },
+  {
+    "id": "construction_shipwrights_workbench_repair_kits",
+    "skill": "CONSTRUCTION",
+    "name": "Shipwrights' workbench: repair kits",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [
+      "Pandemonium",
+      "Shipwrights' workbench near a bank (Red Rock or Port Khazard)"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 52200,
+        "gpPerHour": null
+      },
+      {
+        "level": 18,
+        "afk": null,
+        "active": 52200,
+        "gpPerHour": null
+      },
+      {
+        "level": 19,
+        "afk": null,
+        "active": 108000,
+        "gpPerHour": null
+      },
+      {
+        "level": 29,
+        "afk": null,
+        "active": 108000,
+        "gpPerHour": null
+      },
+      {
+        "level": 30,
+        "afk": null,
+        "active": 162000,
+        "gpPerHour": null
+      },
+      {
+        "level": 46,
+        "afk": null,
+        "active": 162000,
+        "gpPerHour": null
+      },
+      {
+        "level": 47,
+        "afk": null,
+        "active": 252000,
+        "gpPerHour": null
+      },
+      {
+        "level": 65,
+        "afk": null,
+        "active": 252000,
+        "gpPerHour": null
+      },
+      {
+        "level": 66,
+        "afk": null,
+        "active": 306000,
+        "gpPerHour": null
+      },
+      {
+        "level": 79,
+        "afk": null,
+        "active": 306000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 360000,
+        "gpPerHour": null
+      },
+      {
+        "level": 91,
+        "afk": null,
+        "active": 360000,
+        "gpPerHour": null
+      },
+      {
+        "level": 92,
+        "afk": null,
+        "active": 396000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Construction_training",
+    "retrieved": "2026-10-27",
+    "notes": "Tiers unlock at levels 1 (repair kit), 19 oak, 30 teak, 47 mahogany, 66 camphor, 80 ironwood, 92 rosewood. About 1,200 kits/hr."
+  },
+  {
+    "id": "construction_shipwrights_workbench_hull_parts",
+    "skill": "CONSTRUCTION",
+    "name": "Shipwrights' workbench: hull parts",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [
+      "Pandemonium",
+      "Shipwrights' workbench at Deepfin Point"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 72500,
+        "gpPerHour": null
+      },
+      {
+        "level": 7,
+        "afk": null,
+        "active": 72500,
+        "gpPerHour": null
+      },
+      {
+        "level": 8,
+        "afk": null,
+        "active": 150000,
+        "gpPerHour": null
+      },
+      {
+        "level": 22,
+        "afk": null,
+        "active": 150000,
+        "gpPerHour": null
+      },
+      {
+        "level": 23,
+        "afk": null,
+        "active": 225000,
+        "gpPerHour": null
+      },
+      {
+        "level": 40,
+        "afk": null,
+        "active": 225000,
+        "gpPerHour": null
+      },
+      {
+        "level": 41,
+        "afk": null,
+        "active": 350000,
+        "gpPerHour": null
+      },
+      {
+        "level": 52,
+        "afk": null,
+        "active": 350000,
+        "gpPerHour": null
+      },
+      {
+        "level": 53,
+        "afk": null,
+        "active": 400000,
+        "gpPerHour": null
+      },
+      {
+        "level": 76,
+        "afk": null,
+        "active": 400000,
+        "gpPerHour": null
+      },
+      {
+        "level": 77,
+        "afk": null,
+        "active": 437500,
+        "gpPerHour": null
+      },
+      {
+        "level": 83,
+        "afk": null,
+        "active": 437500,
+        "gpPerHour": null
+      },
+      {
+        "level": 84,
+        "afk": null,
+        "active": 475000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Construction_training",
+    "retrieved": "2026-10-27",
+    "notes": "Tiers unlock at levels 1 (wooden), 8 oak, 23 teak, 41 mahogany, 53 camphor, 77 ironwood, 84 rosewood. About 1,000 hull parts/hr."
+  }
+]

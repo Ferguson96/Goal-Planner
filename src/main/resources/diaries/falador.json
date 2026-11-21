@@ -1,0 +1,697 @@
+{
+  "id": "falador",
+  "name": "Falador Diary",
+  "source": "https://oldschool.runescape.wiki/w/Falador_Diary",
+  "retrieved": "2026-10-27",
+  "tiers": {
+    "EASY": [
+      {
+        "id": "falador_easy_1",
+        "description": "Find your family crest via Sir Renitee, finishing the dialogue.",
+        "skills": [
+          {
+            "skill": "CONSTRUCTION",
+            "level": 16,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "falador_easy_2",
+        "description": "Climb over the western Falador wall.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 5,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "falador_easy_3",
+        "description": "Browse Sarah's farm shop.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "falador_easy_4",
+        "description": "Get a haircut or shave from the Falador Hairdresser.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "falador_easy_5",
+        "description": "Fill a bucket from the pump north of Falador west bank.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Bucket"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "falador_easy_6",
+        "description": "Kill a duck in Falador Park.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": "Magic or ranged recommended."
+      },
+      {
+        "id": "falador_easy_7",
+        "description": "Make a mind tiara.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Tiara",
+          "Mind talisman"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "falador_easy_8",
+        "description": "Take the boat to Entrana with no weapons or armour.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "No weapons or armour equipped or carried"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "falador_easy_9",
+        "description": "Repair a broken strut in the Motherlode Mine.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Hammer",
+          "Any pickaxe"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "falador_easy_10",
+        "description": "Claim a security book from the security guard upstairs in Port Sarim jail.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "falador_easy_11",
+        "description": "Smith Blurite limbs on Doric's anvil.",
+        "skills": [
+          {
+            "skill": "MINING",
+            "level": 10,
+            "boostable": true
+          },
+          {
+            "skill": "SMITHING",
+            "level": 13,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Doric's Quest",
+          "The Knight's Sword"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Hammer",
+          "Blurite bar"
+        ],
+        "notes": ""
+      }
+    ],
+    "MEDIUM": [
+      {
+        "id": "falador_medium_1",
+        "description": "Light a bullseye lantern at the Chemist's in Rimmington.",
+        "skills": [
+          {
+            "skill": "FIREMAKING",
+            "level": 49,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Tinderbox",
+          "Bullseye lantern"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "falador_medium_2",
+        "description": "Telegrab Wine of Zamorak at the Chaos Temple altar.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 33,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Runes: 1 air, 1 law"
+        ],
+        "notes": "Stay inside until the jug appears."
+      },
+      {
+        "id": "falador_medium_3",
+        "description": "Unlock the crystal chest in Taverley.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Crystal key"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "falador_medium_4",
+        "description": "Place a scarecrow in the Falador farm flower patch.",
+        "skills": [
+          {
+            "skill": "FARMING",
+            "level": 23,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Bronze spear",
+          "Watermelon",
+          "Hay sack"
+        ],
+        "notes": "Ironmen need Farming 47 or the ability to kill gryphons."
+      },
+      {
+        "id": "falador_medium_5",
+        "description": "Kill a mogre at Mudskipper Point.",
+        "skills": [
+          {
+            "skill": "SLAYER",
+            "level": 32,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Skippy and the Mogres"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Fishing explosive"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "falador_medium_6",
+        "description": "Visit the Port Sarim Rat Pits.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [
+          "Ratcatchers"
+        ],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "falador_medium_7",
+        "description": "Grapple up and jump off the north Falador wall.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 11,
+            "boostable": true
+          },
+          {
+            "skill": "STRENGTH",
+            "level": 37,
+            "boostable": true
+          },
+          {
+            "skill": "RANGED",
+            "level": 19,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Mith grapple",
+          "Any crossbow"
+        ],
+        "notes": "Ironmen need Ancient Cavern access, or 59 Smithing and 59 Fletching, for the grapple."
+      },
+      {
+        "id": "falador_medium_8",
+        "description": "Pickpocket a Falador guard.",
+        "skills": [
+          {
+            "skill": "THIEVING",
+            "level": 40,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "falador_medium_9",
+        "description": "Pray at the Altar of Guthix in Taverley wearing full Initiate armour.",
+        "skills": [
+          {
+            "skill": "PRAYER",
+            "level": 10,
+            "boostable": true
+          },
+          {
+            "skill": "DEFENCE",
+            "level": 20,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Recruitment Drive"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Full Initiate armour"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "falador_medium_10",
+        "description": "Mine gold ore at the Crafting Guild.",
+        "skills": [
+          {
+            "skill": "CRAFTING",
+            "level": 40,
+            "boostable": true
+          },
+          {
+            "skill": "MINING",
+            "level": 40,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any pickaxe",
+          "Brown apron, golden apron or Crafting cape"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "falador_medium_11",
+        "description": "Squeeze through the crevice in the Dwarven mines.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 42,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "falador_medium_12",
+        "description": "Chop and burn willow logs in Taverley.",
+        "skills": [
+          {
+            "skill": "WOODCUTTING",
+            "level": 30,
+            "boostable": true
+          },
+          {
+            "skill": "FIREMAKING",
+            "level": 30,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any axe",
+          "Tinderbox"
+        ],
+        "notes": "Player-grown willows don't count."
+      },
+      {
+        "id": "falador_medium_13",
+        "description": "Craft a fruit basket on the Falador Farm loom.",
+        "skills": [
+          {
+            "skill": "CRAFTING",
+            "level": 36,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "6 willow branches"
+        ],
+        "notes": "Ironmen need Farming 30."
+      },
+      {
+        "id": "falador_medium_14",
+        "description": "Teleport to Falador.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 37,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Runes: 3 air, 1 water, 1 law"
+        ],
+        "notes": ""
+      }
+    ],
+    "HARD": [
+      {
+        "id": "falador_hard_1",
+        "description": "Craft 140 mind runes simultaneously from essence without extracts.",
+        "skills": [
+          {
+            "skill": "RUNECRAFT",
+            "level": 56,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "28 pure, daeyalt or rune essence",
+          "Access to the Mind Altar"
+        ],
+        "notes": "Runecraft 42 works with 3+ Raiments of the Eye pieces. Mind cores don't count."
+      },
+      {
+        "id": "falador_hard_2",
+        "description": "Change your family crest to the Saradomin symbol via Sir Renitee.",
+        "skills": [
+          {
+            "skill": "PRAYER",
+            "level": 70,
+            "boostable": false
+          },
+          {
+            "skill": "CONSTRUCTION",
+            "level": 16,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "5,000 coins (10,000 if your crest is already Saradomin)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "falador_hard_3",
+        "description": "Kill the Giant Mole beneath Falador Park.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Spade",
+          "Light source"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "falador_hard_4",
+        "description": "Kill a skeletal wyvern in the Asgarnia Ice Dungeon.",
+        "skills": [
+          {
+            "skill": "SLAYER",
+            "level": 72,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Protection from icy breath",
+          "Weaponry"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "falador_hard_5",
+        "description": "Complete a lap of the Falador rooftop agility course.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 50,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "falador_hard_6",
+        "description": "Enter the Mining Guild wearing a prospector helmet.",
+        "skills": [
+          {
+            "skill": "MINING",
+            "level": 60,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Prospector helmet or golden prospector helmet"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "falador_hard_7",
+        "description": "Kill the Blue Dragon under the Heroes' Guild.",
+        "skills": [],
+        "quests": [
+          "Heroes' Quest"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Protection from dragonfire",
+          "Weaponry"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "falador_hard_8",
+        "description": "Crack a wall safe in the Rogues' Den lobby.",
+        "skills": [
+          {
+            "skill": "THIEVING",
+            "level": 50,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": "Maze safes don't count."
+      },
+      {
+        "id": "falador_hard_9",
+        "description": "Recharge prayer in the Port Sarim church while wearing full Proselyte armour.",
+        "skills": [
+          {
+            "skill": "DEFENCE",
+            "level": 30,
+            "boostable": true
+          },
+          {
+            "skill": "PRAYER",
+            "level": 20,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "The Slug Menace"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Full Proselyte armour"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "falador_hard_10",
+        "description": "Enter the Warriors' Guild.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "130 combined Attack and Strength, or level 99 in either"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "falador_hard_11",
+        "description": "Equip a dwarven helmet within the Dwarven mines.",
+        "skills": [
+          {
+            "skill": "DEFENCE",
+            "level": 50,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Grim Tales"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Dwarven helmet"
+        ],
+        "notes": ""
+      }
+    ],
+    "ELITE": [
+      {
+        "id": "falador_elite_1",
+        "description": "Craft 252 air runes simultaneously from essence without runic extracts.",
+        "skills": [
+          {
+            "skill": "RUNECRAFT",
+            "level": 88,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "28 pure, daeyalt or rune essence",
+          "Access to the Air Altar"
+        ],
+        "notes": "Lower Runecraft works with Raiments of the Eye pieces (77 with 2, 66 with 3, 55 with 4)."
+      },
+      {
+        "id": "falador_elite_2",
+        "description": "Purchase a white 2h sword from Sir Vyvin.",
+        "skills": [],
+        "quests": [
+          "Wanted!"
+        ],
+        "questsStarted": [],
+        "other": [
+          "1,920 coins",
+          "White Knight Master rank (Black Knight kill score 1300)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "falador_elite_3",
+        "description": "Find at least 3 magic roots when digging up your magic tree in Falador.",
+        "skills": [
+          {
+            "skill": "FARMING",
+            "level": 91,
+            "boostable": true
+          },
+          {
+            "skill": "WOODCUTTING",
+            "level": 75,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Magic sapling",
+          "Spade",
+          "Any axe"
+        ],
+        "notes": "You must cut the tree down yourself."
+      },
+      {
+        "id": "falador_elite_4",
+        "description": "Perform a skillcape or quest cape emote at the top of Falador Castle.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "All quests completed or level 99 in any skill",
+          "A matching Cape of Accomplishment (not joke or Max cape)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "falador_elite_5",
+        "description": "Jump over the strange floor in the Taverley Dungeon without taking damage.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 80,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "falador_elite_6",
+        "description": "Mix a Saradomin brew in Falador east bank.",
+        "skills": [
+          {
+            "skill": "HERBLORE",
+            "level": 81,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Toadflax potion (unf)",
+          "Crushed nest"
+        ],
+        "notes": ""
+      }
+    ]
+  }
+}

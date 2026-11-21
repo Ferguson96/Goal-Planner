@@ -1,0 +1,57 @@
+{
+  "id": "kraken",
+  "name": "Kraken",
+  "category": "SLAYER_BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Kraken",
+  "retrieved": "2026-10-24",
+  "requirements": {
+    "skills": [
+      {
+        "skill": "SLAYER",
+        "level": 87,
+        "boostable": true
+      }
+    ],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Magic 50 is only needed when attacking through a cave kraken Slayer task"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Trident of the seas (full)",
+      "rarity": "1/512",
+      "chance": 0.001953125,
+      "notes": ""
+    },
+    {
+      "item": "Kraken tentacle",
+      "rarity": "1/400",
+      "chance": 0.0025,
+      "notes": ""
+    },
+    {
+      "item": "Jar of dirt",
+      "rarity": "1/1000",
+      "chance": 0.001,
+      "notes": ""
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/500",
+      "chance": 0.002,
+      "notes": ""
+    },
+    {
+      "item": "Pet kraken",
+      "rarity": "1/3000",
+      "chance": 0.0003333333333333333,
+      "notes": ""
+    }
+  ],
+  "setups": [],
+  "notes": ""
+}

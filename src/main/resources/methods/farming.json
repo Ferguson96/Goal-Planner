@@ -1,0 +1,508 @@
+[
+  {
+    "id": "farming_tree_acorn_oak",
+    "skill": "FARMING",
+    "name": "Tree: acorn (oak)",
+    "category": "TRAINING",
+    "minLevel": 15,
+    "requirements": [
+      "Sapling or seed",
+      "Spade",
+      "Protection payment: Basket of tomatoes"
+    ],
+    "rates": [
+      {
+        "level": 15,
+        "afk": null,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay_to_play_farming_training",
+    "retrieved": "2026-10-27",
+    "notes": "Farming XP is per growth cycle, not per hour: 481.3 XP per cycle, growth time 3hr20m. The wiki gives no XP/hr, so no time estimate."
+  },
+  {
+    "id": "farming_tree_willow",
+    "skill": "FARMING",
+    "name": "Tree: willow",
+    "category": "TRAINING",
+    "minLevel": 30,
+    "requirements": [
+      "Sapling or seed",
+      "Spade",
+      "Protection payment: Basket of apples"
+    ],
+    "rates": [
+      {
+        "level": 30,
+        "afk": null,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay_to_play_farming_training",
+    "retrieved": "2026-10-27",
+    "notes": "Farming XP is per growth cycle, not per hour: 1,481.5 XP per cycle, growth time 4hr00m. The wiki gives no XP/hr, so no time estimate."
+  },
+  {
+    "id": "farming_tree_maple",
+    "skill": "FARMING",
+    "name": "Tree: maple",
+    "category": "TRAINING",
+    "minLevel": 45,
+    "requirements": [
+      "Sapling or seed",
+      "Spade",
+      "Protection payment: Basket of oranges"
+    ],
+    "rates": [
+      {
+        "level": 45,
+        "afk": null,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay_to_play_farming_training",
+    "retrieved": "2026-10-27",
+    "notes": "Farming XP is per growth cycle, not per hour: 3,448.4 XP per cycle, growth time 5hr20m. The wiki gives no XP/hr, so no time estimate."
+  },
+  {
+    "id": "farming_tree_yew",
+    "skill": "FARMING",
+    "name": "Tree: yew",
+    "category": "TRAINING",
+    "minLevel": 60,
+    "requirements": [
+      "Sapling or seed",
+      "Spade",
+      "Protection payment: 10 cactus spines"
+    ],
+    "rates": [
+      {
+        "level": 60,
+        "afk": null,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay_to_play_farming_training",
+    "retrieved": "2026-10-27",
+    "notes": "Farming XP is per growth cycle, not per hour: 7,150.9 XP per cycle, growth time 6hr40m. The wiki gives no XP/hr, so no time estimate."
+  },
+  {
+    "id": "farming_tree_magic",
+    "skill": "FARMING",
+    "name": "Tree: magic",
+    "category": "TRAINING",
+    "minLevel": 75,
+    "requirements": [
+      "Sapling or seed",
+      "Spade",
+      "Protection payment: 25 coconuts"
+    ],
+    "rates": [
+      {
+        "level": 75,
+        "afk": null,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay_to_play_farming_training",
+    "retrieved": "2026-10-27",
+    "notes": "Farming XP is per growth cycle, not per hour: 13,913.8 XP per cycle, growth time 8hr00m. The wiki gives no XP/hr, so no time estimate."
+  },
+  {
+    "id": "farming_fruit_tree_apple",
+    "skill": "FARMING",
+    "name": "Fruit tree: apple",
+    "category": "TRAINING",
+    "minLevel": 27,
+    "requirements": [
+      "Sapling or seed",
+      "Spade",
+      "Protection payment: 9 sweetcorn"
+    ],
+    "rates": [
+      {
+        "level": 27,
+        "afk": null,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay_to_play_farming_training",
+    "retrieved": "2026-10-27",
+    "notes": "Farming XP is per growth cycle, not per hour: 1,272.5 XP per cycle, growth time 16hr. The wiki gives no XP/hr, so no time estimate."
+  },
+  {
+    "id": "farming_fruit_tree_banana",
+    "skill": "FARMING",
+    "name": "Fruit tree: banana",
+    "category": "TRAINING",
+    "minLevel": 33,
+    "requirements": [
+      "Sapling or seed",
+      "Spade",
+      "Protection payment: 4 baskets of apples"
+    ],
+    "rates": [
+      {
+        "level": 33,
+        "afk": null,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay_to_play_farming_training",
+    "retrieved": "2026-10-27",
+    "notes": "Farming XP is per growth cycle, not per hour: 1,841.5 XP per cycle, growth time 16hr. The wiki gives no XP/hr, so no time estimate."
+  },
+  {
+    "id": "farming_fruit_tree_orange",
+    "skill": "FARMING",
+    "name": "Fruit tree: orange",
+    "category": "TRAINING",
+    "minLevel": 39,
+    "requirements": [
+      "Sapling or seed",
+      "Spade",
+      "Protection payment: 3 baskets of strawberries"
+    ],
+    "rates": [
+      {
+        "level": 39,
+        "afk": null,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay_to_play_farming_training",
+    "retrieved": "2026-10-27",
+    "notes": "Farming XP is per growth cycle, not per hour: 2,586.7 XP per cycle, growth time 16hr. The wiki gives no XP/hr, so no time estimate."
+  },
+  {
+    "id": "farming_fruit_tree_curry",
+    "skill": "FARMING",
+    "name": "Fruit tree: curry",
+    "category": "TRAINING",
+    "minLevel": 42,
+    "requirements": [
+      "Sapling or seed",
+      "Spade",
+      "Protection payment: 5 baskets of bananas"
+    ],
+    "rates": [
+      {
+        "level": 42,
+        "afk": null,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay_to_play_farming_training",
+    "retrieved": "2026-10-27",
+    "notes": "Farming XP is per growth cycle, not per hour: 3,036.9 XP per cycle, growth time 16hr. The wiki gives no XP/hr, so no time estimate."
+  },
+  {
+    "id": "farming_fruit_tree_pineapple",
+    "skill": "FARMING",
+    "name": "Fruit tree: pineapple",
+    "category": "TRAINING",
+    "minLevel": 51,
+    "requirements": [
+      "Sapling or seed",
+      "Spade",
+      "Protection payment: 10 watermelons"
+    ],
+    "rates": [
+      {
+        "level": 51,
+        "afk": null,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay_to_play_farming_training",
+    "retrieved": "2026-10-27",
+    "notes": "Farming XP is per growth cycle, not per hour: 4,791.7 XP per cycle, growth time 16hr. The wiki gives no XP/hr, so no time estimate."
+  },
+  {
+    "id": "farming_fruit_tree_papaya",
+    "skill": "FARMING",
+    "name": "Fruit tree: papaya",
+    "category": "TRAINING",
+    "minLevel": 57,
+    "requirements": [
+      "Sapling or seed",
+      "Spade",
+      "Protection payment: 10 pineapples"
+    ],
+    "rates": [
+      {
+        "level": 57,
+        "afk": null,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay_to_play_farming_training",
+    "retrieved": "2026-10-27",
+    "notes": "Farming XP is per growth cycle, not per hour: 6,380.4 XP per cycle, growth time 16hr. The wiki gives no XP/hr, so no time estimate."
+  },
+  {
+    "id": "farming_fruit_tree_palm",
+    "skill": "FARMING",
+    "name": "Fruit tree: palm",
+    "category": "TRAINING",
+    "minLevel": 68,
+    "requirements": [
+      "Sapling or seed",
+      "Spade",
+      "Protection payment: 15 papaya fruit"
+    ],
+    "rates": [
+      {
+        "level": 68,
+        "afk": null,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay_to_play_farming_training",
+    "retrieved": "2026-10-27",
+    "notes": "Farming XP is per growth cycle, not per hour: 10,509.6 XP per cycle, growth time 16hr. The wiki gives no XP/hr, so no time estimate."
+  },
+  {
+    "id": "farming_fruit_tree_dragonfruit",
+    "skill": "FARMING",
+    "name": "Fruit tree: dragonfruit",
+    "category": "TRAINING",
+    "minLevel": 81,
+    "requirements": [
+      "Sapling or seed",
+      "Spade",
+      "Protection payment: 15 coconuts"
+    ],
+    "rates": [
+      {
+        "level": 81,
+        "afk": null,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay_to_play_farming_training",
+    "retrieved": "2026-10-27",
+    "notes": "Farming XP is per growth cycle, not per hour: 17,825 XP per cycle, growth time 16hr. The wiki gives no XP/hr, so no time estimate."
+  },
+  {
+    "id": "farming_hardwood_teak",
+    "skill": "FARMING",
+    "name": "Hardwood: teak",
+    "category": "TRAINING",
+    "minLevel": 35,
+    "requirements": [
+      "Sapling or seed",
+      "Spade",
+      "Protection payment: 15 limpwurt roots"
+    ],
+    "rates": [
+      {
+        "level": 35,
+        "afk": null,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay_to_play_farming_training",
+    "retrieved": "2026-10-27",
+    "notes": "Farming XP is per growth cycle, not per hour: 7,325 XP per cycle, growth time 74hr40m. The wiki gives no XP/hr, so no time estimate."
+  },
+  {
+    "id": "farming_hardwood_mahogany",
+    "skill": "FARMING",
+    "name": "Hardwood: mahogany",
+    "category": "TRAINING",
+    "minLevel": 55,
+    "requirements": [
+      "Sapling or seed",
+      "Spade",
+      "Protection payment: 25 yanillian hops"
+    ],
+    "rates": [
+      {
+        "level": 55,
+        "afk": null,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay_to_play_farming_training",
+    "retrieved": "2026-10-27",
+    "notes": "Farming XP is per growth cycle, not per hour: 15,783 XP per cycle, growth time 85hr20m. The wiki gives no XP/hr, so no time estimate."
+  },
+  {
+    "id": "farming_hardwood_camphor",
+    "skill": "FARMING",
+    "name": "Hardwood: camphor",
+    "category": "TRAINING",
+    "minLevel": 66,
+    "requirements": [
+      "Sapling or seed",
+      "Spade",
+      "Protection payment: 10 white berries"
+    ],
+    "rates": [
+      {
+        "level": 66,
+        "afk": null,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay_to_play_farming_training",
+    "retrieved": "2026-10-27",
+    "notes": "Farming XP is per growth cycle, not per hour: 17,928 XP per cycle, growth time 85hr20m. The wiki gives no XP/hr, so no time estimate."
+  },
+  {
+    "id": "farming_hardwood_ironwood",
+    "skill": "FARMING",
+    "name": "Hardwood: ironwood",
+    "category": "TRAINING",
+    "minLevel": 80,
+    "requirements": [
+      "Sapling or seed",
+      "Spade",
+      "Protection payment: 10 curry leaves"
+    ],
+    "rates": [
+      {
+        "level": 80,
+        "afk": null,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay_to_play_farming_training",
+    "retrieved": "2026-10-27",
+    "notes": "Farming XP is per growth cycle, not per hour: 20,525 XP per cycle, growth time 85hr20m. The wiki gives no XP/hr, so no time estimate."
+  },
+  {
+    "id": "farming_hardwood_rosewood",
+    "skill": "FARMING",
+    "name": "Hardwood: rosewood",
+    "category": "TRAINING",
+    "minLevel": 92,
+    "requirements": [
+      "Sapling or seed",
+      "Spade",
+      "Protection payment: 8 dragonfruit"
+    ],
+    "rates": [
+      {
+        "level": 92,
+        "afk": null,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay_to_play_farming_training",
+    "retrieved": "2026-10-27",
+    "notes": "Farming XP is per growth cycle, not per hour: 23,352 XP per cycle, growth time 106hr40m. The wiki gives no XP/hr, so no time estimate."
+  },
+  {
+    "id": "farming_special_tree_calquat",
+    "skill": "FARMING",
+    "name": "Special tree: calquat",
+    "category": "TRAINING",
+    "minLevel": 72,
+    "requirements": [
+      "Sapling or seed",
+      "Spade",
+      "Protection payment: 8 poison ivy berries"
+    ],
+    "rates": [
+      {
+        "level": 72,
+        "afk": null,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay_to_play_farming_training",
+    "retrieved": "2026-10-27",
+    "notes": "Farming XP is per growth cycle, not per hour: 12,516.5 XP per cycle, growth time 21hr20m. The wiki gives no XP/hr, so no time estimate."
+  },
+  {
+    "id": "farming_special_tree_crystal",
+    "skill": "FARMING",
+    "name": "Special tree: crystal",
+    "category": "TRAINING",
+    "minLevel": 74,
+    "requirements": [
+      "Sapling or seed",
+      "Spade",
+      "Protection payment: Crystal acorn"
+    ],
+    "rates": [
+      {
+        "level": 74,
+        "afk": null,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay_to_play_farming_training",
+    "retrieved": "2026-10-27",
+    "notes": "Farming XP is per growth cycle, not per hour: 13,366 XP per cycle, growth time 8hr00m. The wiki gives no XP/hr, so no time estimate."
+  },
+  {
+    "id": "farming_special_tree_celastrus",
+    "skill": "FARMING",
+    "name": "Special tree: celastrus",
+    "category": "TRAINING",
+    "minLevel": 85,
+    "requirements": [
+      "Sapling or seed",
+      "Spade",
+      "Protection payment: 8 potato cactus"
+    ],
+    "rates": [
+      {
+        "level": 85,
+        "afk": null,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay_to_play_farming_training",
+    "retrieved": "2026-10-27",
+    "notes": "Farming XP is per growth cycle, not per hour: 14,404.5 XP per cycle, growth time 13hr20m. The wiki gives no XP/hr, so no time estimate."
+  },
+  {
+    "id": "farming_special_tree_redwood",
+    "skill": "FARMING",
+    "name": "Special tree: redwood",
+    "category": "TRAINING",
+    "minLevel": 90,
+    "requirements": [
+      "Sapling or seed",
+      "Spade",
+      "Protection payment: 6 dragonfruit"
+    ],
+    "rates": [
+      {
+        "level": 90,
+        "afk": null,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay_to_play_farming_training",
+    "retrieved": "2026-10-27",
+    "notes": "Farming XP is per growth cycle, not per hour: 22,680 XP per cycle, growth time 106hr40m. The wiki gives no XP/hr, so no time estimate."
+  }
+]

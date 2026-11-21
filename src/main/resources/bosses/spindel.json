@@ -1,0 +1,64 @@
+{
+  "id": "spindel",
+  "name": "Spindel",
+  "category": "WILDERNESS_BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Spindel",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Hard Wilderness Diary, or a matching boss Slayer task",
+      "Wilderness level 29"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Dragon 2h sword",
+      "rarity": "1/358",
+      "chance": 0.002793296089385475,
+      "notes": ""
+    },
+    {
+      "item": "Dragon pickaxe",
+      "rarity": "1/358",
+      "chance": 0.002793296089385475,
+      "notes": ""
+    },
+    {
+      "item": "Fangs of Venenatis",
+      "rarity": "1/618",
+      "chance": 0.0016181229773462784,
+      "notes": ""
+    },
+    {
+      "item": "Treasonous ring",
+      "rarity": "1/716",
+      "chance": 0.0013966480446927375,
+      "notes": ""
+    },
+    {
+      "item": "Voidwaker gem",
+      "rarity": "1/912",
+      "chance": 0.0010964912280701754,
+      "notes": ""
+    },
+    {
+      "item": "Venenatis spiderling",
+      "rarity": "1/2800",
+      "chance": 0.00035714285714285714,
+      "notes": ""
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/100",
+      "chance": 0.01,
+      "notes": "1/50 with a ring of wealth (i) per the wiki."
+    }
+  ],
+  "setups": [],
+  "notes": "Lesser version of Venenatis."
+}

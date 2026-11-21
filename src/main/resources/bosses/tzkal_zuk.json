@@ -1,0 +1,27 @@
+{
+  "id": "tzkal_zuk",
+  "name": "TzKal-Zuk (Inferno)",
+  "category": "MINIGAME_BOSS",
+  "source": "https://oldschool.runescape.wiki/w/TzKal-Zuk",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Fire cape (sacrificed to enter the Inferno)"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Jal-nib-rek",
+      "rarity": "1/100",
+      "chance": 0.01,
+      "notes": "1/75 on a TzHaar Slayer task."
+    }
+  ],
+  "setups": [],
+  "notes": "An infernal cape is guaranteed on completion. Zuk can't be attacked with melee."
+}

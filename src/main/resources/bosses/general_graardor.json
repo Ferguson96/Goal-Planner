@@ -1,0 +1,186 @@
+{
+  "id": "general_graardor",
+  "name": "General Graardor",
+  "category": "BOSS",
+  "source": "https://oldschool.runescape.wiki/w/General_Graardor",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [
+      {
+        "skill": "STRENGTH",
+        "level": 70,
+        "boostable": false
+      }
+    ],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Hammer (to enter Bandos' Stronghold)",
+      "Ecumenical key, or 40 kills of the god's followers (fewer with Combat Achievement tiers: 35 hard, 30 elite, 25 master, 15 grandmaster)"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Bandos chestplate",
+      "rarity": "1/381",
+      "chance": 0.0026246719160104987,
+      "notes": ""
+    },
+    {
+      "item": "Bandos tassets",
+      "rarity": "1/381",
+      "chance": 0.0026246719160104987,
+      "notes": ""
+    },
+    {
+      "item": "Bandos boots",
+      "rarity": "1/381",
+      "chance": 0.0026246719160104987,
+      "notes": ""
+    },
+    {
+      "item": "Bandos hilt",
+      "rarity": "1/508",
+      "chance": 0.001968503937007874,
+      "notes": ""
+    },
+    {
+      "item": "Godsword shard 1",
+      "rarity": "1/762",
+      "chance": 0.0013123359580052493,
+      "notes": ""
+    },
+    {
+      "item": "Godsword shard 2",
+      "rarity": "1/762",
+      "chance": 0.0013123359580052493,
+      "notes": ""
+    },
+    {
+      "item": "Godsword shard 3",
+      "rarity": "1/762",
+      "chance": 0.0013123359580052493,
+      "notes": ""
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/250",
+      "chance": 0.004,
+      "notes": ""
+    },
+    {
+      "item": "Long bone",
+      "rarity": "1/400",
+      "chance": 0.0025,
+      "notes": ""
+    },
+    {
+      "item": "Curved bone",
+      "rarity": "10/50125",
+      "chance": 0.00019950124688279303,
+      "notes": "Wiki rate 1/5,012.5."
+    },
+    {
+      "item": "Pet General Graardor",
+      "rarity": "1/5000",
+      "chance": 0.0002,
+      "notes": ""
+    }
+  ],
+  "setups": [
+    {
+      "name": "Melee (solo)",
+      "source": "https://oldschool.runescape.wiki/w/General_Graardor/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Torva full helm",
+          "Justiciar faceguard",
+          "Serpentine helm",
+          "Neitiznot faceguard",
+          "Helm of Neitiznot"
+        ],
+        "CAPE": [
+          "Infernal cape",
+          "Fire cape"
+        ],
+        "NECK": [
+          "Amulet of blood fury",
+          "Amulet of rancour",
+          "Amulet of torture",
+          "Amulet of fury"
+        ],
+        "AMMO": [
+          "Rada's blessing 4"
+        ],
+        "WEAPON": [
+          "Osmumten's fang",
+          "Inquisitor's mace",
+          "Ghrazi rapier",
+          "Abyssal tentacle",
+          "Abyssal whip"
+        ],
+        "BODY": [
+          "Torva platebody",
+          "Justiciar chestguard",
+          "Bandos chestplate"
+        ],
+        "SHIELD": [
+          "Elysian spirit shield",
+          "Dragonfire shield",
+          "Avernic defender",
+          "Toktz-ket-xil"
+        ],
+        "LEGS": [
+          "Torva platelegs",
+          "Justiciar legguards",
+          "Bandos tassets"
+        ],
+        "HANDS": [
+          "Barrows gloves",
+          "Ferocious gloves"
+        ],
+        "FEET": [
+          "Avernic treads (max)",
+          "Echo boots",
+          "Primordial boots",
+          "Dragon boots"
+        ],
+        "RING": [
+          "Lightbearer",
+          "Ring of suffering (ri)",
+          "Berserker ring (i)"
+        ]
+      },
+      "inventory": [
+        {
+          "item": "Saradomin godsword",
+          "quantity": 1
+        },
+        {
+          "item": "Rune pouch",
+          "quantity": 1
+        },
+        {
+          "item": "Super combat potion(4)",
+          "quantity": 2
+        },
+        {
+          "item": "Super restore(4)",
+          "quantity": 5
+        },
+        {
+          "item": "Saradomin brew(4)",
+          "quantity": 8
+        },
+        {
+          "item": "Teleport to house",
+          "quantity": 1
+        }
+      ],
+      "notes": "Wiki inventory ranges (2-4 combats, 5-6 restores, 8-10 brews): lower bounds used. Also listed: a magic switch for Blood Barrage and Bones to peaches tablets."
+    }
+  ],
+  "notes": "Wiki recommends 80+ Attack and Defence, 75+ Magic and 70+ Prayer."
+}

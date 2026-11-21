@@ -1,0 +1,82 @@
+{
+  "id": "calvarion",
+  "name": "Calvar'ion",
+  "category": "WILDERNESS_BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Calvar%27ion",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Hard Wilderness Diary, or a matching boss Slayer task",
+      "Wilderness level 21"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Dragon 2h sword",
+      "rarity": "1/358",
+      "chance": 0.002793296089385475,
+      "notes": ""
+    },
+    {
+      "item": "Dragon pickaxe",
+      "rarity": "1/358",
+      "chance": 0.002793296089385475,
+      "notes": ""
+    },
+    {
+      "item": "Skull of Vet'ion",
+      "rarity": "1/618",
+      "chance": 0.0016181229773462784,
+      "notes": ""
+    },
+    {
+      "item": "Ring of the gods",
+      "rarity": "1/716",
+      "chance": 0.0013966480446927375,
+      "notes": ""
+    },
+    {
+      "item": "Voidwaker blade",
+      "rarity": "1/912",
+      "chance": 0.0010964912280701754,
+      "notes": ""
+    },
+    {
+      "item": "Vet'ion jr.",
+      "rarity": "1/2800",
+      "chance": 0.00035714285714285714,
+      "notes": ""
+    },
+    {
+      "item": "Long bone",
+      "rarity": "1/400",
+      "chance": 0.0025,
+      "notes": ""
+    },
+    {
+      "item": "Skeleton champion scroll",
+      "rarity": "1/5000",
+      "chance": 0.0002,
+      "notes": ""
+    },
+    {
+      "item": "Curved bone",
+      "rarity": "10/50125",
+      "chance": 0.00019950124688279303,
+      "notes": "Wiki rate 1/5,012.5."
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/100",
+      "chance": 0.01,
+      "notes": "1/50 with a ring of wealth (i) per the wiki."
+    }
+  ],
+  "setups": [],
+  "notes": "Lesser version of Vet'ion."
+}

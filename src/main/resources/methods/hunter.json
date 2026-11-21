@@ -1,0 +1,446 @@
+[
+  {
+    "id": "hunter_bird_house_trapping",
+    "skill": "HUNTER",
+    "name": "Bird house trapping",
+    "category": "TRAINING",
+    "minLevel": 9,
+    "requirements": [
+      "Bone Voyage",
+      "Digsite pendant",
+      "Hammer",
+      "Chisel",
+      "Clockworks",
+      "Logs",
+      "Seeds"
+    ],
+    "rates": [
+      {
+        "level": 9,
+        "afk": null,
+        "active": 20160,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Hunter_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki: 20,160 (regular) to 216,000 (redwood) XP/hr by tier; lowest figure used. About 40-49 runs/hr."
+  },
+  {
+    "id": "hunter_drift_net_fishing",
+    "skill": "HUNTER",
+    "name": "Drift net fishing",
+    "category": "TRAINING",
+    "minLevel": 44,
+    "requirements": [
+      "Fishing 47",
+      "Bone Voyage",
+      "Fishbowl helmet, diving apparatus, flippers",
+      "Ceto access"
+    ],
+    "rates": [
+      {
+        "level": 44,
+        "afk": null,
+        "active": 60145,
+        "gpPerHour": -173190
+      },
+      {
+        "level": 70,
+        "afk": null,
+        "active": 116725,
+        "gpPerHour": -173190
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Hunter_training",
+    "retrieved": "2026-10-27",
+    "notes": "Hunter XP only; also gives Fishing XP (53,130 at 44 to 88,550 at 70 per hour). GP -173,190/hr from drift nets bought on the GE."
+  },
+  {
+    "id": "hunter_feldip_weasels",
+    "skill": "HUNTER",
+    "name": "Feldip weasels",
+    "category": "TRAINING",
+    "minLevel": 9,
+    "maxLevel": 15,
+    "requirements": [
+      "Noose wand",
+      "Rings of pursuit",
+      "Feldip Hills teleport"
+    ],
+    "rates": [
+      {
+        "level": 9,
+        "afk": null,
+        "active": 13000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Hunter_training",
+    "retrieved": "2026-10-27",
+    "notes": "About 13,000 XP/hr."
+  },
+  {
+    "id": "hunter_ruby_harvests_copper_longtails",
+    "skill": "HUNTER",
+    "name": "Ruby harvests (copper longtails)",
+    "category": "TRAINING",
+    "minLevel": 15,
+    "maxLevel": 21,
+    "requirements": [
+      "Butterfly net",
+      "Piscatoris hunter area"
+    ],
+    "rates": [
+      {
+        "level": 15,
+        "afk": null,
+        "active": 20000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Hunter_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki: up to 20,000 with two traps."
+  },
+  {
+    "id": "hunter_red_crabs",
+    "skill": "HUNTER",
+    "name": "Red crabs",
+    "category": "TRAINING",
+    "minLevel": 21,
+    "maxLevel": 39,
+    "requirements": [
+      "Partial Pandemonium",
+      "10 Construction",
+      "Hammer, saw, 2 planks, 4 nails, 2 buckets",
+      "Fish offcuts"
+    ],
+    "rates": [
+      {
+        "level": 21,
+        "afk": null,
+        "active": 31000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Hunter_training",
+    "retrieved": "2026-10-27",
+    "notes": "About 31,000 XP/hr with two traps."
+  },
+  {
+    "id": "hunter_embertailed_jerboas",
+    "skill": "HUNTER",
+    "name": "Embertailed jerboas",
+    "category": "TRAINING",
+    "minLevel": 39,
+    "maxLevel": 43,
+    "requirements": [
+      "Partial Eagles' Peak",
+      "Box traps",
+      "Fairy ring AJP"
+    ],
+    "rates": [
+      {
+        "level": 39,
+        "afk": null,
+        "active": 50000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Hunter_training",
+    "retrieved": "2026-10-27",
+    "notes": "About 50,000 XP/hr with three traps."
+  },
+  {
+    "id": "hunter_spotted_kebbits_falconry",
+    "skill": "HUNTER",
+    "name": "Spotted kebbits (falconry)",
+    "category": "TRAINING",
+    "minLevel": 43,
+    "maxLevel": 49,
+    "requirements": [
+      "Fairy ring AKQ",
+      "Empty weapon, shield and hand slots",
+      "Stamina potion"
+    ],
+    "rates": [
+      {
+        "level": 43,
+        "afk": null,
+        "active": 60000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Hunter_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki: 60,000-70,000 XP/hr (lower bound); falcon rental 500 coins per use."
+  },
+  {
+    "id": "hunter_razor_backed_kebbits",
+    "skill": "HUNTER",
+    "name": "Razor-backed kebbits",
+    "category": "TRAINING",
+    "minLevel": 49,
+    "maxLevel": 73,
+    "requirements": [
+      "Noose wand",
+      "Ring of pursuit",
+      "Fairy ring AKQ"
+    ],
+    "rates": [
+      {
+        "level": 49,
+        "afk": null,
+        "active": 100000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Hunter_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki: up to 130,000, about 140,000 with an alt supplying rings and stamina potions, about 100,000 without stamina potions; 100,000 used."
+  },
+  {
+    "id": "hunter_dark_kebbits_falconry",
+    "skill": "HUNTER",
+    "name": "Dark kebbits (falconry)",
+    "category": "TRAINING",
+    "minLevel": 57,
+    "maxLevel": 69,
+    "requirements": [
+      "Fairy ring AKQ",
+      "Empty weapon, shield and hand slots",
+      "Stamina potion"
+    ],
+    "rates": [
+      {
+        "level": 57,
+        "afk": null,
+        "active": 75000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Hunter_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki: 75,000-80,000 XP/hr (lower bound); falcon rental 500 coins per use."
+  },
+  {
+    "id": "hunter_dashing_kebbits_falconry",
+    "skill": "HUNTER",
+    "name": "Dashing kebbits (falconry)",
+    "category": "TRAINING",
+    "minLevel": 69,
+    "requirements": [
+      "Fairy ring AKQ",
+      "Empty weapon, shield and hand slots"
+    ],
+    "rates": [
+      {
+        "level": 69,
+        "afk": null,
+        "active": 85000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Hunter_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki: 85,000-95,000 XP/hr (lower bound); the wiki says salamanders are better from level 60."
+  },
+  {
+    "id": "hunter_hunters_rumours",
+    "skill": "HUNTER",
+    "name": "Hunters' Rumours",
+    "category": "TRAINING",
+    "minLevel": 72,
+    "requirements": [
+      "Hunter Guild rumours unlocked at 72 (Expert) and 91 (Master)",
+      "Full guild hunter outfit",
+      "Teleports"
+    ],
+    "rates": [
+      {
+        "level": 72,
+        "afk": null,
+        "active": 160000,
+        "gpPerHour": null
+      },
+      {
+        "level": 91,
+        "afk": null,
+        "active": 195000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 250000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Hunter_training",
+    "retrieved": "2026-10-27",
+    "notes": "Expert rumours recommended from 72."
+  },
+  {
+    "id": "hunter_black_chinchompas_alt_shooter",
+    "skill": "HUNTER",
+    "name": "Black chinchompas (alt shooter)",
+    "category": "TRAINING",
+    "minLevel": 73,
+    "requirements": [
+      "Partial Eagles' Peak",
+      "Wilderness access",
+      "Box traps",
+      "Knife and teak or mahogany logs",
+      "Augury or Mystic Vigour and Steel Skin",
+      "A shooting alt with a crystal bow or magic shortbow"
+    ],
+    "rates": [
+      {
+        "level": 73,
+        "afk": null,
+        "active": 157000,
+        "gpPerHour": 1673171
+      },
+      {
+        "level": 75,
+        "afk": null,
+        "active": 164000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 197000,
+        "gpPerHour": null
+      },
+      {
+        "level": 85,
+        "afk": null,
+        "active": 214000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 233000,
+        "gpPerHour": null
+      },
+      {
+        "level": 95,
+        "afk": null,
+        "active": 251000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 265000,
+        "gpPerHour": 2824143
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Hunter_training",
+    "retrieved": "2026-10-27",
+    "notes": "Tick manipulation assumed; Wilderness PK risk. GP/hr only listed for 73 and 99 (interpolated between)."
+  },
+  {
+    "id": "hunter_black_chinchompas_solo",
+    "skill": "HUNTER",
+    "name": "Black chinchompas (solo)",
+    "category": "TRAINING",
+    "minLevel": 73,
+    "requirements": [
+      "Partial Eagles' Peak",
+      "Wilderness access",
+      "Box traps",
+      "Augury or Mystic Vigour and Steel Skin"
+    ],
+    "rates": [
+      {
+        "level": 73,
+        "afk": null,
+        "active": 145000,
+        "gpPerHour": 1545286
+      },
+      {
+        "level": 75,
+        "afk": null,
+        "active": 151000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 167000,
+        "gpPerHour": null
+      },
+      {
+        "level": 85,
+        "afk": null,
+        "active": 182000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 197000,
+        "gpPerHour": null
+      },
+      {
+        "level": 95,
+        "afk": null,
+        "active": 213000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 225000,
+        "gpPerHour": 2397857
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Hunter_training",
+    "retrieved": "2026-10-27",
+    "notes": "Tick manipulation assumed; Wilderness PK risk. GP/hr only listed for 73 and 99. Salamanders, herbiboar and other methods were not captured."
+  },
+  {
+    "id": "hunter_maniacal_monkey_afk",
+    "skill": "HUNTER",
+    "name": "Maniacal monkeys",
+    "category": "TRAINING",
+    "minLevel": 60,
+    "requirements": [
+      "Monkey Madness II"
+    ],
+    "rates": [
+      {
+        "level": 60,
+        "afk": 120000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "From the wiki's AFK skilling methods guide (AFK rate)."
+  },
+  {
+    "id": "hunter_stymphike",
+    "skill": "HUNTER",
+    "name": "Stymphikes",
+    "category": "TRAINING",
+    "minLevel": 82,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 82,
+        "afk": 140000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "From the wiki's AFK skilling methods guide (AFK rate)."
+  }
+]

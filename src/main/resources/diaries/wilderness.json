@@ -1,0 +1,630 @@
+{
+  "id": "wilderness",
+  "name": "Wilderness Diary",
+  "source": "https://oldschool.runescape.wiki/w/Wilderness_Diary",
+  "retrieved": "2026-10-27",
+  "tiers": {
+    "EASY": [
+      {
+        "id": "wilderness_easy_1",
+        "description": "Cast Low Alchemy at the Fountain of Rune.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 21,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "An item that can be alchemised"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_easy_2",
+        "description": "Enter the Wilderness from the Ardougne or Edgeville lever.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_easy_3",
+        "description": "Pray at the Chaos Altar in the Western Wilderness.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_easy_4",
+        "description": "Enter the Chaos Runecrafting temple, not via the Tunnel of Chaos or Guardians of the Rift.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Access to the Chaos Altar (chaos talisman/tiara, catalytic talisman/tiara or the Abyss)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_easy_5",
+        "description": "Kill a Mammoth in the Wilderness.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Weaponry"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_easy_6",
+        "description": "Kill an Earth Warrior in the Wilderness beneath Edgeville.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 15,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Weaponry"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_easy_7",
+        "description": "Restore some prayer points at the demonic ruins.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_easy_8",
+        "description": "Enter the King Black Dragon's lair beneath the Lava Maze.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_easy_9",
+        "description": "Collect 5 red spiders' eggs from the Wilderness.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_easy_10",
+        "description": "Mine some iron ore in the Wilderness.",
+        "skills": [
+          {
+            "skill": "MINING",
+            "level": 15,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any pickaxe"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_easy_11",
+        "description": "Have the Mage of Zamorak teleport you to the Abyss.",
+        "skills": [],
+        "quests": [
+          "Enter the Abyss"
+        ],
+        "questsStarted": [],
+        "other": [],
+        "notes": "The Temple of the Eye teleport does not count."
+      },
+      {
+        "id": "wilderness_easy_12",
+        "description": "Equip any team cape in the Wilderness.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any team cape"
+        ],
+        "notes": "Entering while already wearing one does not count."
+      }
+    ],
+    "MEDIUM": [
+      {
+        "id": "wilderness_medium_1",
+        "description": "Mine some mithril ore in the Wilderness.",
+        "skills": [
+          {
+            "skill": "MINING",
+            "level": 55,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any pickaxe"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_medium_2",
+        "description": "Chop some yew logs from a fallen Ent in the Wilderness.",
+        "skills": [
+          {
+            "skill": "WOODCUTTING",
+            "level": 61,
+            "boostable": false
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "At least a mithril axe",
+          "Weaponry"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_medium_3",
+        "description": "Enter the Wilderness God Wars Dungeon.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Agility 60 or Strength 60",
+          "God equipment recommended"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_medium_4",
+        "description": "Complete a lap of the Wilderness Agility course.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 52,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_medium_5",
+        "description": "Kill a Green Dragon in the Wilderness.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Weaponry",
+          "Dragonfire protection recommended"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_medium_6",
+        "description": "Kill an Ankou in the Wilderness.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Weaponry"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_medium_7",
+        "description": "Charge an Earth Orb.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 60,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Unpowered orb",
+          "Runes: 30 earth, 3 cosmic"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_medium_8",
+        "description": "Kill a Bloodveld in the Wilderness God Wars Dungeon.",
+        "skills": [
+          {
+            "skill": "SLAYER",
+            "level": 50,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Agility 60 or Strength 60",
+          "Weaponry",
+          "God equipment"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_medium_9",
+        "description": "Talk to the Emblem Trader in Edgeville.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_medium_10",
+        "description": "Smith a gold helmet in the Resource Area.",
+        "skills": [
+          {
+            "skill": "SMITHING",
+            "level": 50,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "Between a Rock..."
+        ],
+        "other": [
+          "7,500 coins",
+          "3 gold bars",
+          "Hammer",
+          "No gold helmet in inventory or bank"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_medium_11",
+        "description": "Open the Muddy Chest in the Lava Maze.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Muddy key",
+          "Knife, Wilderness sword 1 or a slashing weapon"
+        ],
+        "notes": "Agility 82 is an alternative via the stepping stone shortcut."
+      }
+    ],
+    "HARD": [
+      {
+        "id": "wilderness_hard_1",
+        "description": "Cast any of the 3 god spells against another player in the Wilderness.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 60,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Mage Arena I"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Any god staff",
+          "Runes: 1-4 air, 1-4 fire, 2 blood per cast"
+        ],
+        "notes": "The hit must succeed."
+      },
+      {
+        "id": "wilderness_hard_2",
+        "description": "Charge an Air Orb.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 66,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Unpowered orb",
+          "Runes: 30 air, 3 cosmic"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_hard_3",
+        "description": "Catch a Black Salamander in the Wilderness.",
+        "skills": [
+          {
+            "skill": "HUNTER",
+            "level": 67,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Net trap"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_hard_4",
+        "description": "Smith an adamant scimitar in the Resource Area.",
+        "skills": [
+          {
+            "skill": "SMITHING",
+            "level": 75,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Hammer",
+          "2 adamantite bars",
+          "6,000-7,500 coins (entry fee)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_hard_5",
+        "description": "Kill a Lava Dragon.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Weaponry",
+          "Dragonfire protection recommended"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_hard_6",
+        "description": "Kill the Chaos Elemental.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "See the strategy guide"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_hard_7",
+        "description": "Kill the Crazy Archaeologist, Chaos Fanatic and Scorpia.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "See the individual strategy guides"
+        ],
+        "notes": "Completing another task in between resets progress."
+      },
+      {
+        "id": "wilderness_hard_8",
+        "description": "Take the agility shortcut from Trollheim into the Wilderness.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 64,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "Troll Stronghold"
+        ],
+        "other": [],
+        "notes": "Easy Combat Achievements (Ghommal's hilt 1) is an alternative to the quest."
+      },
+      {
+        "id": "wilderness_hard_9",
+        "description": "Kill a Spiritual warrior in the Wilderness God Wars Dungeon.",
+        "skills": [
+          {
+            "skill": "SLAYER",
+            "level": 68,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Agility 60 or Strength 60",
+          "Weaponry",
+          "God equipment"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_hard_10",
+        "description": "Fish some Raw Lava Eel in the Wilderness.",
+        "skills": [
+          {
+            "skill": "FISHING",
+            "level": 53,
+            "boostable": true
+          },
+          {
+            "skill": "HERBLORE",
+            "level": 25,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Oily fishing rod",
+          "Fishing bait",
+          "Knife, Wilderness sword 1/2 or a slashing weapon"
+        ],
+        "notes": ""
+      }
+    ],
+    "ELITE": [
+      {
+        "id": "wilderness_elite_1",
+        "description": "Kill Callisto, Venenatis and Vet'ion.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Medium Wilderness diary completed (greater versions)",
+          "Hard Wilderness diary completed (lesser versions: Artio, Spindel, Calvar'ion)",
+          "Hard diary rewards claimed"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_elite_2",
+        "description": "Teleport to Ghorrock.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 96,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Desert Treasure I"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Ancient Magicks spellbook",
+          "Runes: 8 water, 2 law"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_elite_3",
+        "description": "Fish and cook a dark crab in the Resource Area.",
+        "skills": [
+          {
+            "skill": "FISHING",
+            "level": 85,
+            "boostable": true
+          },
+          {
+            "skill": "COOKING",
+            "level": 90,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Lobster pot",
+          "Dark fishing bait",
+          "3,750-7,500 coins (Resource Area fee)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_elite_4",
+        "description": "Smith a rune scimitar from scratch in the Resource Area.",
+        "skills": [
+          {
+            "skill": "MINING",
+            "level": 85,
+            "boostable": true
+          },
+          {
+            "skill": "SMITHING",
+            "level": 90,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Weaponry",
+          "Any pickaxe",
+          "Any hammer",
+          "16 coal",
+          "3,750-7,500 coins (Resource Area fee)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_elite_5",
+        "description": "Steal from the Rogues' chest.",
+        "skills": [
+          {
+            "skill": "THIEVING",
+            "level": 84,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_elite_6",
+        "description": "Slay a spiritual mage inside the Wilderness God Wars Dungeon.",
+        "skills": [
+          {
+            "skill": "SLAYER",
+            "level": 83,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Agility 60 or Strength 60",
+          "Weaponry",
+          "God equipment"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "wilderness_elite_7",
+        "description": "Cut and burn magic logs in the Resource Area.",
+        "skills": [
+          {
+            "skill": "WOODCUTTING",
+            "level": 75,
+            "boostable": true
+          },
+          {
+            "skill": "FIREMAKING",
+            "level": 75,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any axe",
+          "Tinderbox",
+          "3,750-7,500 coins (Resource Area fee)"
+        ],
+        "notes": ""
+      }
+    ]
+  }
+}

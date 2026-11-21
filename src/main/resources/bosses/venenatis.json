@@ -1,0 +1,191 @@
+{
+  "id": "venenatis",
+  "name": "Venenatis",
+  "category": "WILDERNESS_BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Venenatis",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Medium Wilderness Diary, or a matching boss Slayer task",
+      "Wilderness level 35"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Fangs of Venenatis",
+      "rarity": "1/196",
+      "chance": 0.00510204081632653,
+      "notes": ""
+    },
+    {
+      "item": "Dragon 2h sword",
+      "rarity": "1/256",
+      "chance": 0.00390625,
+      "notes": ""
+    },
+    {
+      "item": "Dragon pickaxe",
+      "rarity": "1/256",
+      "chance": 0.00390625,
+      "notes": ""
+    },
+    {
+      "item": "Voidwaker gem",
+      "rarity": "1/360",
+      "chance": 0.002777777777777778,
+      "notes": ""
+    },
+    {
+      "item": "Treasonous ring",
+      "rarity": "1/512",
+      "chance": 0.001953125,
+      "notes": ""
+    },
+    {
+      "item": "Venenatis spiderling",
+      "rarity": "1/1500",
+      "chance": 0.0006666666666666666,
+      "notes": ""
+    },
+    {
+      "item": "Long bone",
+      "rarity": "1/400",
+      "chance": 0.0025,
+      "notes": ""
+    },
+    {
+      "item": "Curved bone",
+      "rarity": "10/50125",
+      "chance": 0.00019950124688279303,
+      "notes": "Wiki rate 1/5,012.5."
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/100",
+      "chance": 0.01,
+      "notes": "1/50 with a ring of wealth (i) per the wiki."
+    }
+  ],
+  "setups": [
+    {
+      "name": "Melee",
+      "source": "https://oldschool.runescape.wiki/w/Venenatis/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Helm of Neitiznot",
+          "Zombie helmet",
+          "Dwarven helmet",
+          "Proselyte sallet"
+        ],
+        "CAPE": [
+          "Infernal cape",
+          "Fire cape",
+          "Mythical cape",
+          "Ardougne cloak 4"
+        ],
+        "NECK": [
+          "Amulet of rancour",
+          "Amulet of strength",
+          "Amulet of glory"
+        ],
+        "AMMO": [
+          "Rada's blessing 4",
+          "God blessing"
+        ],
+        "WEAPON": [
+          "Ursine chainmace",
+          "Viggora's chainmace",
+          "Inquisitor's mace",
+          "Elder maul",
+          "Soulreaper axe",
+          "Zamorakian hasta"
+        ],
+        "BODY": [
+          "Fighter torso",
+          "Mixed hide top",
+          "Black d'hide body",
+          "Proselyte hauberk"
+        ],
+        "SHIELD": [
+          "Avernic defender",
+          "Dragon defender",
+          "Dragonfire shield",
+          "Rune defender"
+        ],
+        "LEGS": [
+          "Black d'hide chaps",
+          "Proselyte cuisse",
+          "Monk's robe"
+        ],
+        "HANDS": [
+          "Barrows gloves",
+          "Rune gloves",
+          "Combat bracelet"
+        ],
+        "FEET": [
+          "Dragon boots",
+          "Mixed hide boots",
+          "Rune boots"
+        ],
+        "RING": [
+          "Ultor ring",
+          "Berserker ring (i)",
+          "Ring of shadows"
+        ]
+      },
+      "inventory": [
+        {
+          "item": "Blighted super restore(4)",
+          "quantity": 8
+        },
+        {
+          "item": "Saradomin brew(4)",
+          "quantity": 7
+        },
+        {
+          "item": "Blighted anglerfish",
+          "quantity": 4
+        },
+        {
+          "item": "Divine bastion potion(4)",
+          "quantity": 2
+        },
+        {
+          "item": "Anti-venom+(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Stamina potion(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Teleport to house",
+          "quantity": 1
+        },
+        {
+          "item": "Dinh's bulwark",
+          "quantity": 1
+        },
+        {
+          "item": "Royal seed pod",
+          "quantity": 1
+        },
+        {
+          "item": "Looting bag",
+          "quantity": 1
+        },
+        {
+          "item": "Sanfew serum(4)",
+          "quantity": 1
+        }
+      ],
+      "notes": "Wilderness: protect your most valuable items."
+    }
+  ],
+  "notes": ""
+}

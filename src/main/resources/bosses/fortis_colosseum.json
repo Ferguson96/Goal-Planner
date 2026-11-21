@@ -1,0 +1,27 @@
+{
+  "id": "fortis_colosseum",
+  "name": "Fortis Colosseum (Sol Heredit)",
+  "category": "MINIGAME_BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Fortis_Colosseum",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [
+      "Children of the Sun"
+    ],
+    "questsStarted": [],
+    "other": []
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Smol heredit",
+      "rarity": "1/200",
+      "chance": 0.005,
+      "notes": "Only the extra quiver-exchange chance has a stated rate; completion also has its own chance."
+    }
+  ],
+  "setups": [],
+  "notes": "Uniques from wave 4: unique table weights armour 9/16, Echo crystal 6/16, Tonalztics of ralos 1/16 (wave 7+). Dizana's quiver is guaranteed on completion."
+}

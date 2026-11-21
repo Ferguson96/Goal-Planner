@@ -1,0 +1,159 @@
+{
+  "id": "king_black_dragon",
+  "name": "King Black Dragon",
+  "category": "BOSS",
+  "source": "https://oldschool.runescape.wiki/w/King_Black_Dragon",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Anti-dragon shield and antifire potion (dragonfire protection)"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Dragon med helm",
+      "rarity": "1/128",
+      "chance": 0.0078125,
+      "notes": ""
+    },
+    {
+      "item": "Kbd heads",
+      "rarity": "1/128",
+      "chance": 0.0078125,
+      "notes": ""
+    },
+    {
+      "item": "Dragon pickaxe",
+      "rarity": "1/1000",
+      "chance": 0.001,
+      "notes": ""
+    },
+    {
+      "item": "Draconic visage",
+      "rarity": "1/5000",
+      "chance": 0.0002,
+      "notes": ""
+    },
+    {
+      "item": "Brimstone key",
+      "rarity": "1/65",
+      "chance": 0.015384615384615385,
+      "notes": "Only on a Konar task."
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/450",
+      "chance": 0.0022222222222222222,
+      "notes": ""
+    },
+    {
+      "item": "Prince Black Dragon",
+      "rarity": "1/3000",
+      "chance": 0.0003333333333333333,
+      "notes": ""
+    }
+  ],
+  "setups": [
+    {
+      "name": "4-item melee",
+      "source": "https://oldschool.runescape.wiki/w/King_Black_Dragon/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Helm of Neitiznot",
+          "Berserker helm"
+        ],
+        "CAPE": [
+          "Infernal cape",
+          "Fire cape",
+          "Ardougne cloak"
+        ],
+        "NECK": [
+          "Amulet of rancour",
+          "Amulet of torture",
+          "Amulet of fury",
+          "Amulet of glory"
+        ],
+        "AMMO": [
+          "Rada's blessing 4",
+          "God blessing"
+        ],
+        "WEAPON": [
+          "Dragon hunter lance",
+          "Osmumten's fang",
+          "Ghrazi rapier",
+          "Zamorakian hasta",
+          "Abyssal dagger (p++)"
+        ],
+        "BODY": [
+          "Mixed hide top",
+          "Proselyte hauberk",
+          "Monk's robe top"
+        ],
+        "SHIELD": [
+          "Avernic defender",
+          "Dragon defender",
+          "Dragonfire shield",
+          "Anti-dragon shield"
+        ],
+        "LEGS": [
+          "Mixed hide legs",
+          "Proselyte cuisse",
+          "Monk's robe"
+        ],
+        "HANDS": [
+          "Barrows gloves",
+          "Dragon gloves",
+          "Rune gloves",
+          "Combat bracelet"
+        ],
+        "FEET": [
+          "Dragon boots",
+          "Rune boots",
+          "Climbing boots"
+        ],
+        "RING": [
+          "Ultor ring",
+          "Berserker ring (i)",
+          "Brimstone ring"
+        ]
+      },
+      "inventory": [
+        {
+          "item": "Antidote++(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Extended antifire(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Super combat potion(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Teleport to house",
+          "quantity": 1
+        },
+        {
+          "item": "Super restore(4)",
+          "quantity": 4
+        },
+        {
+          "item": "Dark crab",
+          "quantity": 19
+        },
+        {
+          "item": "Burning amulet(5)",
+          "quantity": 1
+        }
+      ],
+      "notes": "Up to four items can be taken in through the Wilderness lever route, hence the light armour."
+    }
+  ],
+  "notes": "No requirements; dragonfire protection is strongly advised. Private instance costs 50,000 coins."
+}

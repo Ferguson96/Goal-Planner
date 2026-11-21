@@ -1,0 +1,57 @@
+{
+  "id": "scorpia",
+  "name": "Scorpia",
+  "category": "WILDERNESS_BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Scorpia",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Wilderness level 53-55"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Odium shard 3",
+      "rarity": "1/256",
+      "chance": 0.00390625,
+      "notes": ""
+    },
+    {
+      "item": "Malediction shard 3",
+      "rarity": "1/256",
+      "chance": 0.00390625,
+      "notes": ""
+    },
+    {
+      "item": "Dragon scimitar",
+      "rarity": "1/128",
+      "chance": 0.0078125,
+      "notes": ""
+    },
+    {
+      "item": "Dragon 2h sword",
+      "rarity": "1/128",
+      "chance": 0.0078125,
+      "notes": ""
+    },
+    {
+      "item": "Scorpia's offspring",
+      "rarity": "100/201575",
+      "chance": 0.0004960932655339203,
+      "notes": "Wiki rate 1/2,015.75."
+    },
+    {
+      "item": "Clue scroll (hard)",
+      "rarity": "1/100",
+      "chance": 0.01,
+      "notes": "1/50 with a ring of wealth (i)."
+    }
+  ],
+  "setups": [],
+  "notes": ""
+}

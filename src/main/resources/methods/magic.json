@@ -1,0 +1,787 @@
+[
+  {
+    "id": "magic_enchant_bolt_opal",
+    "skill": "MAGIC",
+    "name": "Enchant crossbow bolts (Opal)",
+    "category": "TRAINING",
+    "minLevel": 4,
+    "requirements": [
+      "Crossbow bolts of the matching gem",
+      "Cosmic runes plus the gem's runes"
+    ],
+    "rates": [
+      {
+        "level": 4,
+        "afk": null,
+        "active": 49500,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Manual casting at 5,500 casts/hr. Same rate for the dragon-bolt version."
+  },
+  {
+    "id": "magic_enchant_bolt_sapphire",
+    "skill": "MAGIC",
+    "name": "Enchant crossbow bolts (Sapphire)",
+    "category": "TRAINING",
+    "minLevel": 7,
+    "requirements": [
+      "Crossbow bolts of the matching gem",
+      "Cosmic runes plus the gem's runes"
+    ],
+    "rates": [
+      {
+        "level": 7,
+        "afk": null,
+        "active": 93500,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Manual casting at 5,500 casts/hr. Same rate for the dragon-bolt version."
+  },
+  {
+    "id": "magic_enchant_bolt_pearl",
+    "skill": "MAGIC",
+    "name": "Enchant crossbow bolts (Pearl)",
+    "category": "TRAINING",
+    "minLevel": 24,
+    "requirements": [
+      "Crossbow bolts of the matching gem",
+      "Cosmic runes plus the gem's runes"
+    ],
+    "rates": [
+      {
+        "level": 24,
+        "afk": null,
+        "active": 159500,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Manual casting at 5,500 casts/hr. Same rate for the dragon-bolt version."
+  },
+  {
+    "id": "magic_enchant_bolt_emerald",
+    "skill": "MAGIC",
+    "name": "Enchant crossbow bolts (Emerald)",
+    "category": "TRAINING",
+    "minLevel": 27,
+    "requirements": [
+      "Crossbow bolts of the matching gem",
+      "Cosmic runes plus the gem's runes"
+    ],
+    "rates": [
+      {
+        "level": 27,
+        "afk": null,
+        "active": 203500,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Manual casting at 5,500 casts/hr. Same rate for the dragon-bolt version."
+  },
+  {
+    "id": "magic_enchant_bolt_topaz",
+    "skill": "MAGIC",
+    "name": "Enchant crossbow bolts (Topaz)",
+    "category": "TRAINING",
+    "minLevel": 29,
+    "requirements": [
+      "Crossbow bolts of the matching gem",
+      "Cosmic runes plus the gem's runes"
+    ],
+    "rates": [
+      {
+        "level": 29,
+        "afk": null,
+        "active": 181500,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Manual casting at 5,500 casts/hr. Same rate for the dragon-bolt version."
+  },
+  {
+    "id": "magic_enchant_bolt_ruby",
+    "skill": "MAGIC",
+    "name": "Enchant crossbow bolts (Ruby)",
+    "category": "TRAINING",
+    "minLevel": 49,
+    "requirements": [
+      "Crossbow bolts of the matching gem",
+      "Cosmic runes plus the gem's runes"
+    ],
+    "rates": [
+      {
+        "level": 49,
+        "afk": null,
+        "active": 324500,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Manual casting at 5,500 casts/hr. Same rate for the dragon-bolt version."
+  },
+  {
+    "id": "magic_enchant_bolt_diamond",
+    "skill": "MAGIC",
+    "name": "Enchant crossbow bolts (Diamond)",
+    "category": "TRAINING",
+    "minLevel": 57,
+    "requirements": [
+      "Crossbow bolts of the matching gem",
+      "Cosmic runes plus the gem's runes"
+    ],
+    "rates": [
+      {
+        "level": 57,
+        "afk": null,
+        "active": 368500,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Manual casting at 5,500 casts/hr. Same rate for the dragon-bolt version."
+  },
+  {
+    "id": "magic_enchant_bolt_dragonstone",
+    "skill": "MAGIC",
+    "name": "Enchant crossbow bolts (Dragonstone)",
+    "category": "TRAINING",
+    "minLevel": 68,
+    "requirements": [
+      "Crossbow bolts of the matching gem",
+      "Cosmic runes plus the gem's runes"
+    ],
+    "rates": [
+      {
+        "level": 68,
+        "afk": null,
+        "active": 429000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Manual casting at 5,500 casts/hr. Same rate for the dragon-bolt version."
+  },
+  {
+    "id": "magic_enchant_bolt_onyx",
+    "skill": "MAGIC",
+    "name": "Enchant crossbow bolts (Onyx)",
+    "category": "TRAINING",
+    "minLevel": 87,
+    "requirements": [
+      "Crossbow bolts of the matching gem",
+      "Cosmic runes plus the gem's runes"
+    ],
+    "rates": [
+      {
+        "level": 87,
+        "afk": null,
+        "active": 533500,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Manual casting at 5,500 casts/hr. Same rate for the dragon-bolt version."
+  },
+  {
+    "id": "magic_low_alchemy",
+    "skill": "MAGIC",
+    "name": "Low Level Alchemy",
+    "category": "TRAINING",
+    "minLevel": 21,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 21,
+        "afk": null,
+        "active": 60000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki: up to around 60,000 XP/hr standing still; lower when doing other things. Small loss per cast."
+  },
+  {
+    "id": "magic_high_alchemy",
+    "skill": "MAGIC",
+    "name": "High Level Alchemy",
+    "category": "TRAINING",
+    "minLevel": 55,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 55,
+        "afk": 20000,
+        "active": 78000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki: up to 78,000 standing still; 20,000-50,000 when doing other activities (lower bound used for afk). Profit is several hundred coins per cast."
+  },
+  {
+    "id": "magic_superheat",
+    "skill": "MAGIC",
+    "name": "Superheat Item",
+    "category": "TRAINING",
+    "minLevel": 43,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 43,
+        "afk": null,
+        "active": 97000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki: up to 97,000 with decent focus; cost varies by ore."
+  },
+  {
+    "id": "magic_camelot_teleport",
+    "skill": "MAGIC",
+    "name": "Camelot Teleport",
+    "category": "TRAINING",
+    "minLevel": 45,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 45,
+        "afk": null,
+        "active": 80000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki: around 80,000 XP/hr from 45 to 55; costs law runes."
+  },
+  {
+    "id": "magic_bake_pie",
+    "skill": "MAGIC",
+    "name": "Bake Pie",
+    "category": "TRAINING",
+    "minLevel": 65,
+    "requirements": [
+      "Lunar Diplomacy",
+      "Lunar spellbook"
+    ],
+    "rates": [
+      {
+        "level": 65,
+        "afk": 113000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki: up to 113,000 passive; usually expensive."
+  },
+  {
+    "id": "magic_magic_imbue",
+    "skill": "MAGIC",
+    "name": "Magic Imbue",
+    "category": "TRAINING",
+    "minLevel": 82,
+    "requirements": [
+      "Lunar Diplomacy",
+      "Steam battlestaff or equivalent"
+    ],
+    "rates": [
+      {
+        "level": 82,
+        "afk": 20000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki: around 20,000-24,000 passive (lower bound used); costs about 2.80 GP per XP."
+  },
+  {
+    "id": "magic_ice_burst_monkeys",
+    "skill": "MAGIC",
+    "name": "Ice Burst on maniacal monkeys",
+    "category": "TRAINING",
+    "minLevel": 62,
+    "requirements": [
+      "Ancient Magicks",
+      "Monkey Madness II started (Kruk's Dungeon)"
+    ],
+    "rates": [
+      {
+        "level": 62,
+        "afk": 250000,
+        "active": 310000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki: up to around 310,000 active; 250,000+ AFK with auto retaliate. Costs money."
+  },
+  {
+    "id": "magic_ice_barrage_monkeys",
+    "skill": "MAGIC",
+    "name": "Ice Barrage on maniacal monkeys",
+    "category": "TRAINING",
+    "minLevel": 94,
+    "requirements": [
+      "Ancient Magicks",
+      "Monkey Madness II started (Kruk's Dungeon)"
+    ],
+    "rates": [
+      {
+        "level": 94,
+        "afk": 320000,
+        "active": 400000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki: up to around 400,000 active; 320,000+ AFK. Costs money."
+  },
+  {
+    "id": "magic_bandit_camp_burst",
+    "skill": "MAGIC",
+    "name": "Bursting bandits (Bandit camp)",
+    "category": "TRAINING",
+    "minLevel": 68,
+    "requirements": [
+      "Saradomin or Zamorak item",
+      "Ancient Magicks autocast staff"
+    ],
+    "rates": [
+      {
+        "level": 68,
+        "afk": null,
+        "active": 150000,
+        "gpPerHour": -1831200
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki: 150,000 base, 235,000 with defensive autocasting."
+  },
+  {
+    "id": "magic_bandit_camp_barrage",
+    "skill": "MAGIC",
+    "name": "Barraging bandits (Bandit camp)",
+    "category": "TRAINING",
+    "minLevel": 94,
+    "requirements": [
+      "Saradomin or Zamorak item",
+      "Ancient Magicks autocast staff"
+    ],
+    "rates": [
+      {
+        "level": 94,
+        "afk": null,
+        "active": 230000,
+        "gpPerHour": -3117600
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki: 230,000 base, 305,000 with defensive autocasting. Barrage needs 94 Magic; the wiki section header says 68+."
+  },
+  {
+    "id": "magic_bandit_wilderness_barrage",
+    "skill": "MAGIC",
+    "name": "Ice Barrage on Wilderness bandits",
+    "category": "TRAINING",
+    "minLevel": 94,
+    "requirements": [
+      "Level 19 Wilderness",
+      "Burning amulet suggested"
+    ],
+    "rates": [
+      {
+        "level": 94,
+        "afk": 220000,
+        "active": 330000,
+        "gpPerHour": 750000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki: up to 330k active (stacking), up to 220k idle; roughly 750k GP/hr profit from drops after supplies. PvP risk."
+  },
+  {
+    "id": "magic_cure_me",
+    "skill": "MAGIC",
+    "name": "Cure Me",
+    "category": "TRAINING",
+    "minLevel": 71,
+    "requirements": [
+      "Lunar spellbook",
+      "Morytania Spider Cave"
+    ],
+    "rates": [
+      {
+        "level": 71,
+        "afk": null,
+        "active": 414000,
+        "gpPerHour": -3738000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki: up to 414,000 optimal; 65 Magic with boosts. GP excludes prayer potions."
+  },
+  {
+    "id": "magic_stat_restore_share",
+    "skill": "MAGIC",
+    "name": "Stat Restore Pot Share",
+    "category": "TRAINING",
+    "minLevel": 81,
+    "requirements": [
+      "Second player",
+      "Mud battlestaff"
+    ],
+    "rates": [
+      {
+        "level": 81,
+        "afk": null,
+        "active": 140000,
+        "gpPerHour": -460575
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki: up to around 140,000; earlier with boosts."
+  },
+  {
+    "id": "magic_string_jewellery",
+    "skill": "MAGIC",
+    "name": "String Jewellery",
+    "category": "TRAINING",
+    "minLevel": 80,
+    "requirements": [
+      "Lunar spellbook",
+      "Mud battlestaff recommended"
+    ],
+    "rates": [
+      {
+        "level": 80,
+        "afk": null,
+        "active": 150000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Also gives about 6,265 Crafting XP/hr."
+  },
+  {
+    "id": "magic_plank_make",
+    "skill": "MAGIC",
+    "name": "Plank Make",
+    "category": "TRAINING",
+    "minLevel": 86,
+    "requirements": [
+      "Dream Mentor",
+      "Lunar spellbook"
+    ],
+    "rates": [
+      {
+        "level": 86,
+        "afk": 90000,
+        "active": 166000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki: AFK auto-cast about 90,000; manual about 166,000; over 180,000 with Magic Imbue every 7th cast."
+  },
+  {
+    "id": "magic_enchant_lvl1",
+    "skill": "MAGIC",
+    "name": "Lvl-1 Enchant (sapphire jewellery)",
+    "category": "TRAINING",
+    "minLevel": 7,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 7,
+        "afk": null,
+        "active": 28000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Investment 502 per cast, profit 301 per cast."
+  },
+  {
+    "id": "magic_enchant_lvl2",
+    "skill": "MAGIC",
+    "name": "Lvl-2 Enchant (rings of dueling)",
+    "category": "TRAINING",
+    "minLevel": 27,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 27,
+        "afk": null,
+        "active": 59200,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Investment 658 per cast, profit 141 per cast."
+  },
+  {
+    "id": "magic_enchant_lvl3",
+    "skill": "MAGIC",
+    "name": "Lvl-3 Enchant",
+    "category": "TRAINING",
+    "minLevel": 49,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 49,
+        "afk": null,
+        "active": 94400,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Investment 1,972 per cast, profit 119 per cast."
+  },
+  {
+    "id": "magic_enchant_lvl4",
+    "skill": "MAGIC",
+    "name": "Lvl-4 Enchant (diamond jewellery)",
+    "category": "TRAINING",
+    "minLevel": 57,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 57,
+        "afk": null,
+        "active": 111300,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Investment 2,000 per cast, profit 75 per cast."
+  },
+  {
+    "id": "magic_enchant_lvl5",
+    "skill": "MAGIC",
+    "name": "Lvl-5 Enchant (dragonstone jewellery)",
+    "category": "TRAINING",
+    "minLevel": 68,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 68,
+        "afk": null,
+        "active": 124800,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Investment 11,314 per cast, profit 757 per cast."
+  },
+  {
+    "id": "magic_charge_water_orb",
+    "skill": "MAGIC",
+    "name": "Charge Water Orb",
+    "category": "TRAINING",
+    "minLevel": 56,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 56,
+        "afk": null,
+        "active": 33300,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Investment 576 per cast, profit 254 per cast."
+  },
+  {
+    "id": "magic_charge_earth_orb",
+    "skill": "MAGIC",
+    "name": "Charge Earth Orb",
+    "category": "TRAINING",
+    "minLevel": 60,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 60,
+        "afk": null,
+        "active": 36500,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Investment 576 per cast, profit 233 per cast."
+  },
+  {
+    "id": "magic_charge_fire_orb",
+    "skill": "MAGIC",
+    "name": "Charge Fire Orb",
+    "category": "TRAINING",
+    "minLevel": 63,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 63,
+        "afk": null,
+        "active": 38000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Investment 576 per cast, profit 451 per cast."
+  },
+  {
+    "id": "magic_charge_air_orb",
+    "skill": "MAGIC",
+    "name": "Charge Air Orb",
+    "category": "TRAINING",
+    "minLevel": 66,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 66,
+        "afk": null,
+        "active": 40000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Investment 576 per cast, profit 461 per cast."
+  },
+  {
+    "id": "magic_hunter_kit",
+    "skill": "MAGIC",
+    "name": "Hunter Kit",
+    "category": "TRAINING",
+    "minLevel": 71,
+    "requirements": [
+      "Lunar spellbook"
+    ],
+    "rates": [
+      {
+        "level": 71,
+        "afk": null,
+        "active": 52000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Investment 244 per cast, profit 133 per cast."
+  },
+  {
+    "id": "magic_spin_flax",
+    "skill": "MAGIC",
+    "name": "Spin Flax",
+    "category": "TRAINING",
+    "minLevel": 76,
+    "requirements": [
+      "Lunar spellbook"
+    ],
+    "rates": [
+      {
+        "level": 76,
+        "afk": null,
+        "active": 77600,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Investment 414 per cast, profit 516 per cast."
+  },
+  {
+    "id": "magic_superglass_make",
+    "skill": "MAGIC",
+    "name": "Superglass Make",
+    "category": "TRAINING",
+    "minLevel": 77,
+    "requirements": [
+      "Lunar spellbook"
+    ],
+    "rates": [
+      {
+        "level": 77,
+        "afk": null,
+        "active": 46800,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Investment 610 per cast, profit 1,895.60 per cast. Also trains Crafting."
+  },
+  {
+    "id": "magic_tan_leather",
+    "skill": "MAGIC",
+    "name": "Tan Leather",
+    "category": "TRAINING",
+    "minLevel": 78,
+    "requirements": [
+      "Lunar spellbook"
+    ],
+    "rates": [
+      {
+        "level": 78,
+        "afk": null,
+        "active": 132000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Investment 17,345 per cast, profit 1,590 per cast."
+  },
+  {
+    "id": "magic_splashing",
+    "skill": "MAGIC",
+    "name": "Splashing",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [
+      "Equipment giving at least -64 Magic attack bonus"
+    ],
+    "rates": [],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Magic_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki gives a range of 6,600 to 75,750 XP/hr without saying which level gives which, so no rate is stored."
+  }
+]

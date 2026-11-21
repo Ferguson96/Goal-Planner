@@ -1,0 +1,188 @@
+{
+  "id": "vardorvis",
+  "name": "Vardorvis",
+  "category": "BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Vardorvis",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [
+      "Desert Treasure II - The Fallen Empire"
+    ],
+    "questsStarted": [],
+    "other": []
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Ultor vestige",
+      "rarity": "1/1088",
+      "chance": 0.0009191176470588235,
+      "notes": ""
+    },
+    {
+      "item": "Executioner's axe head",
+      "rarity": "1/1088",
+      "chance": 0.0009191176470588235,
+      "notes": ""
+    },
+    {
+      "item": "Chromium ingot",
+      "rarity": "3/1088",
+      "chance": 0.0027573529411764708,
+      "notes": ""
+    },
+    {
+      "item": "Virtus mask",
+      "rarity": "1/3264",
+      "chance": 0.00030637254901960784,
+      "notes": ""
+    },
+    {
+      "item": "Virtus robe top",
+      "rarity": "1/3264",
+      "chance": 0.00030637254901960784,
+      "notes": ""
+    },
+    {
+      "item": "Virtus robe bottom",
+      "rarity": "1/3264",
+      "chance": 0.00030637254901960784,
+      "notes": ""
+    },
+    {
+      "item": "Awakener's orb",
+      "rarity": "10/806",
+      "chance": 0.01240694789081886,
+      "notes": "Wiki rate 1/80.6."
+    },
+    {
+      "item": "Blood quartz",
+      "rarity": "1/204",
+      "chance": 0.004901960784313725,
+      "notes": ""
+    },
+    {
+      "item": "Butch",
+      "rarity": "1/3000",
+      "chance": 0.0003333333333333333,
+      "notes": ""
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/160",
+      "chance": 0.00625,
+      "notes": ""
+    },
+    {
+      "item": "Clue scroll (hard)",
+      "rarity": "1/160",
+      "chance": 0.00625,
+      "notes": ""
+    }
+  ],
+  "setups": [
+    {
+      "name": "Melee",
+      "source": "https://oldschool.runescape.wiki/w/Vardorvis/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Oathplate helm",
+          "Torva full helm",
+          "Neitiznot faceguard",
+          "Serpentine helm",
+          "Justiciar faceguard"
+        ],
+        "CAPE": [
+          "Infernal cape",
+          "Fire cape",
+          "Mythical cape"
+        ],
+        "NECK": [
+          "Amulet of rancour",
+          "Amulet of blood fury",
+          "Amulet of torture",
+          "Amulet of fury"
+        ],
+        "AMMO": [
+          "Rada's blessing 4",
+          "God blessing"
+        ],
+        "WEAPON": [
+          "Soulreaper axe",
+          "Scythe of vitur",
+          "Blade of saeldor",
+          "Noxious halberd",
+          "Abyssal tentacle",
+          "Abyssal whip"
+        ],
+        "BODY": [
+          "Oathplate chest",
+          "Torva platebody",
+          "Bandos chestplate",
+          "Fighter torso",
+          "Blood moon chestplate"
+        ],
+        "SHIELD": [
+          "Avernic defender",
+          "Dragon defender"
+        ],
+        "LEGS": [
+          "Oathplate legs",
+          "Torva platelegs",
+          "Bandos tassets",
+          "Blood moon tassets"
+        ],
+        "HANDS": [
+          "Ferocious gloves",
+          "Barrows gloves"
+        ],
+        "FEET": [
+          "Avernic treads (max)",
+          "Echo boots",
+          "Primordial boots",
+          "Dragon boots"
+        ],
+        "RING": [
+          "Bellator ring",
+          "Ultor ring",
+          "Berserker ring (i)",
+          "Lightbearer"
+        ]
+      },
+      "inventory": [
+        {
+          "item": "Dragon claws",
+          "quantity": 1
+        },
+        {
+          "item": "Divine super combat potion(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Super restore(4)",
+          "quantity": 2
+        },
+        {
+          "item": "Book of the dead",
+          "quantity": 1
+        },
+        {
+          "item": "Divine rune pouch",
+          "quantity": 1
+        },
+        {
+          "item": "Ring of shadows",
+          "quantity": 1
+        },
+        {
+          "item": "Teleport to house",
+          "quantity": 1
+        }
+      ],
+      "notes": "Wiki: 2-4 restores (lower bound). Bring anglerfish as main food (the wiki gives no count). Slayer helmet (i) is best on task."
+    }
+  ],
+  "notes": "Normal (post-quest) version; wiki rates are Drop Rate Project estimates. Recommends 90+ melee and 70+ Prayer."
+}

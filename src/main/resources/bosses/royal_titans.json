@@ -1,0 +1,57 @@
+{
+  "id": "royal_titans",
+  "name": "Royal Titans",
+  "category": "BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Royal_Titans",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Asgarnian Ice Dungeon (western entrance)"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Fire element staff crown",
+      "rarity": "1/75",
+      "chance": 0.013333333333333334,
+      "notes": "From Branda."
+    },
+    {
+      "item": "Ice element staff crown",
+      "rarity": "1/75",
+      "chance": 0.013333333333333334,
+      "notes": "From Eldric."
+    },
+    {
+      "item": "Mystic vigour prayer scroll",
+      "rarity": "1/75",
+      "chance": 0.013333333333333334,
+      "notes": "From Branda."
+    },
+    {
+      "item": "Deadeye prayer scroll",
+      "rarity": "1/75",
+      "chance": 0.013333333333333334,
+      "notes": "From Eldric."
+    },
+    {
+      "item": "Bran",
+      "rarity": "1/3000",
+      "chance": 0.0003333333333333333,
+      "notes": "1/1,500 when sacrificing loot."
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/100",
+      "chance": 0.01,
+      "notes": ""
+    }
+  ],
+  "setups": [],
+  "notes": "Duo boss; unique rates scale with your share of damage. Wiki recommends two players at 90+ combat."
+}

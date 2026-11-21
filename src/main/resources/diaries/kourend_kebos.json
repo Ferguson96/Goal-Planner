@@ -1,0 +1,692 @@
+{
+  "id": "kourend_kebos",
+  "name": "Kourend & Kebos Diary",
+  "source": "https://oldschool.runescape.wiki/w/Kourend_%26_Kebos_Diary",
+  "retrieved": "2026-10-27",
+  "tiers": {
+    "EASY": [
+      {
+        "id": "kourend_kebos_easy_1",
+        "description": "Mine Iron at Mount Karuulm mine.",
+        "skills": [
+          {
+            "skill": "MINING",
+            "level": 15,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any pickaxe"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_easy_2",
+        "description": "Kill a Sand Crab.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_easy_3",
+        "description": "Hand in a book at the Arceuus Library.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_easy_4",
+        "description": "Steal from a Hosidius food stall.",
+        "skills": [
+          {
+            "skill": "THIEVING",
+            "level": 25,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_easy_5",
+        "description": "Browse the Warrens General Store.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_easy_6",
+        "description": "Take a boat to Land's End.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": "Travel with Veos or Cabin Boy Herbert from Port Sarim or Port Piscarilius."
+      },
+      {
+        "id": "kourend_kebos_easy_7",
+        "description": "Pray at the altar on the top floor of Kourend Castle.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_easy_8",
+        "description": "Dig up Saltpetre.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Spade"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_easy_9",
+        "description": "Enter your POH from Hosidius.",
+        "skills": [
+          {
+            "skill": "CONSTRUCTION",
+            "level": 25,
+            "boostable": false
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "8,750 coins for the estate agent (only after visiting Great Kourend)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_easy_10",
+        "description": "Complete a lap of either tier of the Shayzien Agility Course.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_easy_11",
+        "description": "Make a Strength potion in the Lovakengj Pub.",
+        "skills": [
+          {
+            "skill": "HERBLORE",
+            "level": 12,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Druidic Ritual"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Tarromin potion (unf)",
+          "Limpwurt root"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_easy_12",
+        "description": "Catch a Trout in the River Molch.",
+        "skills": [
+          {
+            "skill": "FISHING",
+            "level": 20,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Fly fishing rod",
+          "Feathers"
+        ],
+        "notes": ""
+      }
+    ],
+    "MEDIUM": [
+      {
+        "id": "kourend_kebos_medium_1",
+        "description": "Travel to the fairy ring south of Mount Karuulm (code CIR).",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [
+          "Fairytale II - Cure a Queen"
+        ],
+        "other": [
+          "Dramen or Lunar staff"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_medium_2",
+        "description": "Kill a Lizardman.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Combat gear",
+          "Antipoison recommended"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_medium_3",
+        "description": "Use Kharedst's memoirs to teleport to all five Great Kourend cities.",
+        "skills": [],
+        "quests": [
+          "The Depths of Despair",
+          "The Queen of Thieves",
+          "Tale of the Righteous",
+          "The Forsaken Tower",
+          "The Ascent of Arceuus"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Kharedst's memoirs or Book of the Dead"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_medium_4",
+        "description": "Mine Volcanic Sulphur.",
+        "skills": [
+          {
+            "skill": "MINING",
+            "level": 42,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any pickaxe",
+          "Face mask, gas mask or slayer helmet"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_medium_5",
+        "description": "Enter the Farming Guild through its main entrance.",
+        "skills": [
+          {
+            "skill": "FARMING",
+            "level": 45,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_medium_6",
+        "description": "Switch to the Necromancy spellbook at Tyss.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_medium_7",
+        "description": "Repair a Piscarilius crane.",
+        "skills": [
+          {
+            "skill": "CRAFTING",
+            "level": 30,
+            "boostable": true
+          },
+          {
+            "skill": "CONSTRUCTION",
+            "level": 30,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Hammer",
+          "3 regular planks",
+          "About 50 nails of any type"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_medium_8",
+        "description": "Deliver intelligence to Captain Ginea.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Combat gear"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_medium_9",
+        "description": "Catch a Bluegill on Molch Island.",
+        "skills": [
+          {
+            "skill": "FISHING",
+            "level": 43,
+            "boostable": true
+          },
+          {
+            "skill": "HUNTER",
+            "level": 35,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "King worms (on the island) or fish offcuts"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_medium_10",
+        "description": "Use the boulder leap shortcut in the Arceuus essence mine.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 49,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_medium_11",
+        "description": "Subdue the Wintertodt, earning at least 500 points.",
+        "skills": [
+          {
+            "skill": "FIREMAKING",
+            "level": 50,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any axe",
+          "Tinderbox",
+          "Warm clothing"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_medium_12",
+        "description": "Catch a Chinchompa in the Kourend Woodland.",
+        "skills": [
+          {
+            "skill": "HUNTER",
+            "level": 53,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "Eagles' Peak"
+        ],
+        "other": [
+          "Box trap"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_medium_13",
+        "description": "Chop Mahogany logs north of the Farming Guild.",
+        "skills": [
+          {
+            "skill": "WOODCUTTING",
+            "level": 50,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any axe"
+        ],
+        "notes": ""
+      }
+    ],
+    "HARD": [
+      {
+        "id": "kourend_kebos_hard_1",
+        "description": "Enter the Woodcutting Guild.",
+        "skills": [
+          {
+            "skill": "WOODCUTTING",
+            "level": 60,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_hard_2",
+        "description": "Smelt an Adamantite bar in The Forsaken Tower.",
+        "skills": [
+          {
+            "skill": "SMITHING",
+            "level": 70,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "The Forsaken Tower"
+        ],
+        "other": [
+          "Adamantite ore",
+          "6 coal"
+        ],
+        "notes": "Superheat Item does not count."
+      },
+      {
+        "id": "kourend_kebos_hard_3",
+        "description": "Kill a Lizardman Shaman in the Lizardman Temple.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "See the strategy guide"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_hard_4",
+        "description": "Mine Lovakite.",
+        "skills": [
+          {
+            "skill": "MINING",
+            "level": 65,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any pickaxe"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_hard_5",
+        "description": "Plant Logavano seeds at the Tithe Farm.",
+        "skills": [
+          {
+            "skill": "FARMING",
+            "level": 74,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Seed dibber"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_hard_6",
+        "description": "Kill a Zombie in the Shayzien Crypts.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Combat gear",
+          "Light source"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_hard_7",
+        "description": "Teleport to Xeric's Heart using Xeric's Talisman.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Xeric's talisman charged with a lizardman fang, or a mounted one in a POH"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_hard_8",
+        "description": "Deliver an artefact to Captain Khaled.",
+        "skills": [
+          {
+            "skill": "THIEVING",
+            "level": 49,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Lockpick"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_hard_9",
+        "description": "Kill a Wyrm in the Karuulm Slayer Dungeon.",
+        "skills": [
+          {
+            "skill": "SLAYER",
+            "level": 62,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Combat gear",
+          "Boots of stone, brimstone boots or granite boots"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_hard_10",
+        "description": "Cast Monster Examine on a troll south of Mount Quidamortem.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 66,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Dream Mentor"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Lunar spellbook",
+          "Runes: 1 astral, 1 cosmic, 1 mind"
+        ],
+        "notes": ""
+      }
+    ],
+    "ELITE": [
+      {
+        "id": "kourend_kebos_elite_1",
+        "description": "Craft one or more Blood runes from Dark essence fragments at the Kourend Blood Altar.",
+        "skills": [
+          {
+            "skill": "RUNECRAFT",
+            "level": 77,
+            "boostable": true
+          },
+          {
+            "skill": "MINING",
+            "level": 38,
+            "boostable": true
+          },
+          {
+            "skill": "CRAFTING",
+            "level": 38,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any pickaxe",
+          "Chisel",
+          "A mined dark essence block"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_elite_2",
+        "description": "Chop some Redwood logs.",
+        "skills": [
+          {
+            "skill": "WOODCUTTING",
+            "level": 90,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any axe"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_elite_3",
+        "description": "Defeat Skotizo in the Catacombs of Kourend.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Dark totem",
+          "See the strategy guide"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_elite_4",
+        "description": "Catch an Anglerfish and cook it whilst in Great Kourend.",
+        "skills": [
+          {
+            "skill": "FISHING",
+            "level": 82,
+            "boostable": true
+          },
+          {
+            "skill": "COOKING",
+            "level": 84,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Fishing rod",
+          "Sandworms"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_elite_5",
+        "description": "Kill a Hydra in the Karuulm Slayer Dungeon.",
+        "skills": [
+          {
+            "skill": "SLAYER",
+            "level": 95,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Weaponry",
+          "Antipoison recommended"
+        ],
+        "notes": "Only the Alchemical Hydra needs a Slayer task."
+      },
+      {
+        "id": "kourend_kebos_elite_6",
+        "description": "Create an Ape Atoll teleport tablet.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 90,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Arceuus spellbook",
+          "Dark essence block",
+          "Runes: 2 blood, 2 law, 2 soul"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_elite_7",
+        "description": "Complete a Raid in the Chambers of Xeric.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "See the Chambers of Xeric strategy guide"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kourend_kebos_elite_8",
+        "description": "Create your own Battlestaff from scratch within the Farming Guild.",
+        "skills": [
+          {
+            "skill": "FARMING",
+            "level": 85,
+            "boostable": true
+          },
+          {
+            "skill": "FLETCHING",
+            "level": 40,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Celastrus sapling",
+          "Knife",
+          "Spade",
+          "Rake",
+          "Any axe"
+        ],
+        "notes": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "phosanis_nightmare",
+  "name": "Phosani's Nightmare",
+  "category": "BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Phosani%27s_Nightmare",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Morytania access (Sisterhood Sanctuary)"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Nightmare staff",
+      "rarity": "69/35000",
+      "chance": 0.0019714285714285715,
+      "notes": ""
+    },
+    {
+      "item": "Inquisitor's great helm",
+      "rarity": "1/700",
+      "chance": 0.0014285714285714286,
+      "notes": ""
+    },
+    {
+      "item": "Inquisitor's hauberk",
+      "rarity": "1/700",
+      "chance": 0.0014285714285714286,
+      "notes": ""
+    },
+    {
+      "item": "Inquisitor's plateskirt",
+      "rarity": "1/700",
+      "chance": 0.0014285714285714286,
+      "notes": ""
+    },
+    {
+      "item": "Inquisitor's mace",
+      "rarity": "31/35000",
+      "chance": 0.0008857142857142857,
+      "notes": ""
+    },
+    {
+      "item": "Eldritch orb",
+      "rarity": "1/1600",
+      "chance": 0.000625,
+      "notes": ""
+    },
+    {
+      "item": "Harmonised orb",
+      "rarity": "1/1600",
+      "chance": 0.000625,
+      "notes": ""
+    },
+    {
+      "item": "Volatile orb",
+      "rarity": "1/1600",
+      "chance": 0.000625,
+      "notes": ""
+    },
+    {
+      "item": "Little nightmare",
+      "rarity": "1/1400",
+      "chance": 0.0007142857142857143,
+      "notes": ""
+    },
+    {
+      "item": "Jar of dreams",
+      "rarity": "1/4000",
+      "chance": 0.00025,
+      "notes": ""
+    },
+    {
+      "item": "Parasitic egg",
+      "rarity": "1/200",
+      "chance": 0.005,
+      "notes": ""
+    }
+  ],
+  "setups": [],
+  "notes": "Solo only."
+}

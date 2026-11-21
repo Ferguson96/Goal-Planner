@@ -1,0 +1,350 @@
+[
+  {
+    "id": "runecraft_talisman_tiaras_air",
+    "skill": "RUNECRAFT",
+    "name": "Talisman tiaras (Air)",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "maxLevel": 50,
+    "requirements": [
+      "Ring of elements and amulet of glory recommended"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 36300,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Runecraft_training",
+    "retrieved": "2026-10-27",
+    "notes": "Click-intensive; 1-50 only. Wiki GP/XP strongly negative (a loss of about 1 to 7.6 million for levels 1-50)."
+  },
+  {
+    "id": "runecraft_talisman_tiaras_water",
+    "skill": "RUNECRAFT",
+    "name": "Talisman tiaras (Water)",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "maxLevel": 50,
+    "requirements": [
+      "Ring of elements and amulet of glory recommended"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 43500,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Runecraft_training",
+    "retrieved": "2026-10-27",
+    "notes": "Click-intensive; 1-50 only. Wiki GP/XP strongly negative (a loss of about 1 to 7.6 million for levels 1-50)."
+  },
+  {
+    "id": "runecraft_talisman_tiaras_earth",
+    "skill": "RUNECRAFT",
+    "name": "Talisman tiaras (Earth)",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "maxLevel": 50,
+    "requirements": [
+      "Ring of elements and amulet of glory recommended"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 47100,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Runecraft_training",
+    "retrieved": "2026-10-27",
+    "notes": "Click-intensive; 1-50 only. Wiki GP/XP strongly negative (a loss of about 1 to 7.6 million for levels 1-50)."
+  },
+  {
+    "id": "runecraft_talisman_tiaras_fire",
+    "skill": "RUNECRAFT",
+    "name": "Talisman tiaras (Fire)",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "maxLevel": 50,
+    "requirements": [
+      "Ring of elements and amulet of glory recommended"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 50800,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Runecraft_training",
+    "retrieved": "2026-10-27",
+    "notes": "Click-intensive; 1-50 only. Wiki GP/XP strongly negative (a loss of about 1 to 7.6 million for levels 1-50)."
+  },
+  {
+    "id": "runecraft_talisman_tiaras_elemental",
+    "skill": "RUNECRAFT",
+    "name": "Talisman tiaras (Elemental)",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "maxLevel": 50,
+    "requirements": [
+      "Ring of elements and amulet of glory recommended"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 58000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Runecraft_training",
+    "retrieved": "2026-10-27",
+    "notes": "Click-intensive; 1-50 only. Wiki GP/XP strongly negative (a loss of about 1 to 7.6 million for levels 1-50)."
+  },
+  {
+    "id": "runecraft_solo_lava_runes_astral_contact_pouch_repair",
+    "skill": "RUNECRAFT",
+    "name": "Solo lava runes (Astral Contact pouch repair)",
+    "category": "TRAINING",
+    "minLevel": 23,
+    "requirements": [
+      "Fire Altar access (Hat of the Eye or tiaras)",
+      "Binding necklace",
+      "Lunar Diplomacy and 82 Magic for Magic Imbue and Astral Contact",
+      "Ring of endurance",
+      "Stamina potions"
+    ],
+    "rates": [
+      {
+        "level": 23,
+        "afk": null,
+        "active": 43200,
+        "gpPerHour": null
+      },
+      {
+        "level": 25,
+        "afk": null,
+        "active": 52300,
+        "gpPerHour": null
+      },
+      {
+        "level": 50,
+        "afk": null,
+        "active": 65700,
+        "gpPerHour": null
+      },
+      {
+        "level": 75,
+        "afk": null,
+        "active": 80000,
+        "gpPerHour": null
+      },
+      {
+        "level": 85,
+        "afk": null,
+        "active": 100800,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 102100,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Runecraft_training",
+    "retrieved": "2026-10-27",
+    "notes": "Rates use the colossal pouch where the wiki lists it; smaller pouches are a bit slower. Wiki: beginners reach 50-90% of the listed rates."
+  },
+  {
+    "id": "runecraft_solo_lava_runes_apprentice_cordelia_repair",
+    "skill": "RUNECRAFT",
+    "name": "Solo lava runes (Apprentice Cordelia repair)",
+    "category": "TRAINING",
+    "minLevel": 23,
+    "requirements": [
+      "Fire Altar access",
+      "Binding necklace",
+      "Earth talismans",
+      "Abyssal pearls for repairs"
+    ],
+    "rates": [
+      {
+        "level": 23,
+        "afk": null,
+        "active": 42400,
+        "gpPerHour": null
+      },
+      {
+        "level": 25,
+        "afk": null,
+        "active": 47900,
+        "gpPerHour": null
+      },
+      {
+        "level": 50,
+        "afk": null,
+        "active": 58400,
+        "gpPerHour": null
+      },
+      {
+        "level": 75,
+        "afk": null,
+        "active": 67300,
+        "gpPerHour": null
+      },
+      {
+        "level": 85,
+        "afk": null,
+        "active": 81100,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 96000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Runecraft_training",
+    "retrieved": "2026-10-27",
+    "notes": "Pearl costs of repair not included in the rates."
+  },
+  {
+    "id": "runecraft_ourania_altar_pure_essence",
+    "skill": "RUNECRAFT",
+    "name": "Ourania Altar (pure essence)",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [
+      "Lunar Diplomacy / Ourania Teleport",
+      "Seal of Passage (Baba Yaga)",
+      "Lunar spellbook",
+      "71 Magic strongly recommended"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 20423,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 77121,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Runecraft_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki: 20,423 XP/hr at levels 1-9 to 77,121 at 99; the two endpoints are interpolated. About 350,000-400,000 coins/hr at higher levels depending on rune prices."
+  },
+  {
+    "id": "runecraft_ourania_altar_daeyalt_essence",
+    "skill": "RUNECRAFT",
+    "name": "Ourania Altar (daeyalt essence)",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [
+      "Lunar Diplomacy / Ourania Teleport",
+      "Seal of Passage (Baba Yaga)",
+      "Daeyalt essence"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 30635,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 115682,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Runecraft_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki: 30,635 XP/hr at 1-9 to 115,682 at 99."
+  },
+  {
+    "id": "runecraft_guardians_of_the_rift",
+    "skill": "RUNECRAFT",
+    "name": "Guardians of the Rift",
+    "category": "TRAINING",
+    "minLevel": 27,
+    "requirements": [
+      "Temple of the Eye",
+      "Best pickaxe and essence pouches"
+    ],
+    "rates": [
+      {
+        "level": 27,
+        "afk": null,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Runecraft_training",
+    "retrieved": "2026-10-27",
+    "notes": "No XP/hr figure was captured from the wiki page text, so no time estimate. Wiki also credits passive Mining and Crafting XP and Raiments of the Eye / colossal pouch rewards."
+  },
+  {
+    "id": "runecraft_zeah_blood_runes",
+    "skill": "RUNECRAFT",
+    "name": "Blood runes (Kourend/Zeah)",
+    "category": "TRAINING",
+    "minLevel": 77,
+    "requirements": [
+      "38 Mining",
+      "38 Crafting",
+      "Chisel",
+      "Pickaxe"
+    ],
+    "rates": [
+      {
+        "level": 77,
+        "afk": 36000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "From the wiki's AFK skilling methods guide (AFK rate)."
+  },
+  {
+    "id": "runecraft_zeah_soul_runes",
+    "skill": "RUNECRAFT",
+    "name": "Soul runes (Kourend/Zeah)",
+    "category": "TRAINING",
+    "minLevel": 90,
+    "requirements": [
+      "38 Mining",
+      "38 Crafting",
+      "Chisel",
+      "Pickaxe"
+    ],
+    "rates": [
+      {
+        "level": 90,
+        "afk": 44000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "From the wiki's AFK skilling methods guide (AFK rate)."
+  }
+]

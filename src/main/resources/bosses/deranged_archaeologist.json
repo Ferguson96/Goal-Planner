@@ -1,0 +1,39 @@
+{
+  "id": "deranged_archaeologist",
+  "name": "Deranged Archaeologist",
+  "category": "BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Deranged_archaeologist",
+  "retrieved": "2026-10-24",
+  "requirements": {
+    "skills": [],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Axe to chop the swamp vine blocking access"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Steel ring",
+      "rarity": "3/131",
+      "chance": 0.022900763358778626,
+      "notes": ""
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/200",
+      "chance": 0.005,
+      "notes": ""
+    },
+    {
+      "item": "Unidentified rare fossil",
+      "rarity": "12/3500",
+      "chance": 0.0034285714285714284,
+      "notes": ""
+    }
+  ],
+  "setups": [],
+  "notes": "No pet."
+}

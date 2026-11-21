@@ -1,0 +1,70 @@
+{
+  "id": "araxxor",
+  "name": "Araxxor",
+  "category": "SLAYER_BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Araxxor",
+  "retrieved": "2026-10-24",
+  "requirements": {
+    "skills": [
+      {
+        "skill": "SLAYER",
+        "level": 92,
+        "boostable": true
+      }
+    ],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Access to Morytania",
+      "A spider or araxyte Slayer task, or a boss task from Konar quo Maten"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Noxious pommel",
+      "rarity": "1/200",
+      "chance": 0.005,
+      "notes": ""
+    },
+    {
+      "item": "Noxious point",
+      "rarity": "1/200",
+      "chance": 0.005,
+      "notes": ""
+    },
+    {
+      "item": "Noxious blade",
+      "rarity": "1/200",
+      "chance": 0.005,
+      "notes": ""
+    },
+    {
+      "item": "Araxyte fang",
+      "rarity": "1/600",
+      "chance": 0.0016666666666666668,
+      "notes": ""
+    },
+    {
+      "item": "Araxyte head",
+      "rarity": "1/250",
+      "chance": 0.004,
+      "notes": ""
+    },
+    {
+      "item": "Jar of venom",
+      "rarity": "1/1500",
+      "chance": 0.0006666666666666666,
+      "notes": ""
+    },
+    {
+      "item": "Nid",
+      "rarity": "1/1500",
+      "chance": 0.0006666666666666666,
+      "notes": "Wiki: 1/1500 if you destroy the corpse, 1/3000 if you harvest it."
+    }
+  ],
+  "setups": [],
+  "notes": "Instanced fight: unprotected items go to a grave on death."
+}

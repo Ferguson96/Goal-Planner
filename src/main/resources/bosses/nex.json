@@ -1,0 +1,85 @@
+{
+  "id": "nex",
+  "name": "Nex",
+  "category": "BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Nex",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [
+      {
+        "skill": "HITPOINTS",
+        "level": 70,
+        "boostable": true
+      },
+      {
+        "skill": "RANGED",
+        "level": 70,
+        "boostable": false
+      },
+      {
+        "skill": "STRENGTH",
+        "level": 70,
+        "boostable": false
+      },
+      {
+        "skill": "AGILITY",
+        "level": 70,
+        "boostable": false
+      }
+    ],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "The Frozen Door miniquest (needs Desert Treasure I and a kill of each God Wars general or bodyguards)",
+      "Frozen key"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Ancient hilt",
+      "rarity": "1/516",
+      "chance": 0.001937984496124031,
+      "notes": ""
+    },
+    {
+      "item": "Nihil horn",
+      "rarity": "1/258",
+      "chance": 0.003875968992248062,
+      "notes": ""
+    },
+    {
+      "item": "Torva full helm (damaged)",
+      "rarity": "1/258",
+      "chance": 0.003875968992248062,
+      "notes": ""
+    },
+    {
+      "item": "Torva platebody (damaged)",
+      "rarity": "1/258",
+      "chance": 0.003875968992248062,
+      "notes": ""
+    },
+    {
+      "item": "Torva platelegs (damaged)",
+      "rarity": "1/258",
+      "chance": 0.003875968992248062,
+      "notes": ""
+    },
+    {
+      "item": "Zaryte vambraces",
+      "rarity": "1/172",
+      "chance": 0.005813953488372093,
+      "notes": ""
+    },
+    {
+      "item": "Nexling",
+      "rarity": "1/500",
+      "chance": 0.002,
+      "notes": ""
+    }
+  ],
+  "setups": [],
+  "notes": "Only the Hitpoints requirement can be boosted. Rates are for the MVP of a team kill; see the wiki for team scaling."
+}

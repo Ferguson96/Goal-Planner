@@ -1,0 +1,51 @@
+{
+  "id": "corrupted_gauntlet",
+  "name": "Corrupted Gauntlet (Corrupted Hunllef)",
+  "category": "MINIGAME_BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Reward_Chest_(The_Gauntlet)",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [
+      "Song of the Elves"
+    ],
+    "questsStarted": [],
+    "other": []
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Crystal weapon seed",
+      "rarity": "1/50",
+      "chance": 0.02,
+      "notes": ""
+    },
+    {
+      "item": "Crystal armour seed",
+      "rarity": "1/50",
+      "chance": 0.02,
+      "notes": ""
+    },
+    {
+      "item": "Enhanced crystal weapon seed",
+      "rarity": "1/400",
+      "chance": 0.0025,
+      "notes": ""
+    },
+    {
+      "item": "Youngllef",
+      "rarity": "1/800",
+      "chance": 0.00125,
+      "notes": ""
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/20",
+      "chance": 0.05,
+      "notes": ""
+    }
+  ],
+  "setups": [],
+  "notes": "Rates are per completion. A Gauntlet cape is always given if you have none."
+}

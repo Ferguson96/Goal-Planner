@@ -1,0 +1,222 @@
+{
+  "id": "commander_zilyana",
+  "name": "Commander Zilyana",
+  "category": "BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Commander_Zilyana",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [
+      {
+        "skill": "AGILITY",
+        "level": 70,
+        "boostable": false
+      }
+    ],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Ropes (two, or three on a first God Wars visit)",
+      "Ecumenical key, or 40 kills of the god's followers (fewer with Combat Achievement tiers: 35 hard, 30 elite, 25 master, 15 grandmaster)"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Saradomin sword",
+      "rarity": "1/127",
+      "chance": 0.007874015748031496,
+      "notes": ""
+    },
+    {
+      "item": "Saradomin's light",
+      "rarity": "1/254",
+      "chance": 0.003937007874015748,
+      "notes": ""
+    },
+    {
+      "item": "Armadyl crossbow",
+      "rarity": "1/508",
+      "chance": 0.001968503937007874,
+      "notes": ""
+    },
+    {
+      "item": "Saradomin hilt",
+      "rarity": "1/508",
+      "chance": 0.001968503937007874,
+      "notes": ""
+    },
+    {
+      "item": "Godsword shard 1",
+      "rarity": "1/762",
+      "chance": 0.0013123359580052493,
+      "notes": ""
+    },
+    {
+      "item": "Godsword shard 2",
+      "rarity": "1/762",
+      "chance": 0.0013123359580052493,
+      "notes": ""
+    },
+    {
+      "item": "Godsword shard 3",
+      "rarity": "1/762",
+      "chance": 0.0013123359580052493,
+      "notes": ""
+    },
+    {
+      "item": "Magic seed",
+      "rarity": "1/127",
+      "chance": 0.007874015748031496,
+      "notes": ""
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/250",
+      "chance": 0.004,
+      "notes": ""
+    },
+    {
+      "item": "Pet Zilyana",
+      "rarity": "1/5000",
+      "chance": 0.0002,
+      "notes": ""
+    }
+  ],
+  "setups": [
+    {
+      "name": "Magic",
+      "source": "https://oldschool.runescape.wiki/w/Commander_Zilyana/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Ancestral hat",
+          "Virtus mask"
+        ],
+        "CAPE": [
+          "Imbued saradomin cape"
+        ],
+        "NECK": [
+          "Occult necklace"
+        ],
+        "AMMO": [
+          "Unholy blessing"
+        ],
+        "WEAPON": [
+          "Tumeken's shadow",
+          "Eye of ayak"
+        ],
+        "BODY": [
+          "Ancestral robe top",
+          "Virtus robe top"
+        ],
+        "LEGS": [
+          "Ancestral robe bottom",
+          "Virtus robe bottom"
+        ],
+        "SHIELD": [
+          "Elidinis' ward (f)",
+          "Arcane spirit shield",
+          "Elidinis' ward",
+          "Mage's book"
+        ],
+        "HANDS": [
+          "Confliction gauntlets",
+          "Tormented bracelet"
+        ],
+        "FEET": [
+          "Avernic treads (max)",
+          "Eternal boots",
+          "Infinity boots"
+        ],
+        "RING": [
+          "Magus ring",
+          "Lightbearer"
+        ]
+      },
+      "inventory": [
+        {
+          "item": "Eldritch nightmare staff",
+          "quantity": 1
+        },
+        {
+          "item": "Saradomin brew(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Anglerfish",
+          "quantity": 4
+        },
+        {
+          "item": "Super restore(4)",
+          "quantity": 16
+        },
+        {
+          "item": "Saturated heart",
+          "quantity": 1
+        },
+        {
+          "item": "Divine rune pouch",
+          "quantity": 1
+        }
+      ],
+      "notes": "Quantities read from the wiki's inventory grid (one slot each)."
+    },
+    {
+      "name": "Ranged",
+      "source": "https://oldschool.runescape.wiki/w/Commander_Zilyana/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Masori mask (f)",
+          "Crystal helm",
+          "Justiciar faceguard",
+          "Karil's coif"
+        ],
+        "CAPE": [
+          "Dizana's quiver",
+          "Ava's assembler"
+        ],
+        "NECK": [
+          "Necklace of rupture",
+          "Necklace of anguish",
+          "Amulet of fury"
+        ],
+        "AMMO": [
+          "Dragon arrow",
+          "Diamond dragon bolts (e)",
+          "Diamond bolts (e)"
+        ],
+        "WEAPON": [
+          "Twisted bow",
+          "Bow of faerdhinen",
+          "Zaryte crossbow",
+          "Armadyl crossbow",
+          "Rune crossbow"
+        ],
+        "BODY": [
+          "Masori body (f)",
+          "Crystal body",
+          "Karil's leathertop",
+          "Black d'hide body"
+        ],
+        "SHIELD": [
+          "Twisted buckler",
+          "Dragonfire ward",
+          "Odium ward",
+          "Crystal shield"
+        ],
+        "LEGS": [
+          "Masori chaps (f)",
+          "Crystal legs",
+          "Karil's leatherskirt",
+          "Black d'hide chaps"
+        ],
+        "HANDS": [
+          "Zaryte vambraces"
+        ]
+      },
+      "inventory": [],
+      "notes": "Feet and ring rows were cut off in the page text."
+    }
+  ],
+  "notes": "Agility 70 cannot be boosted."
+}

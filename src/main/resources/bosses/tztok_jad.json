@@ -1,0 +1,25 @@
+{
+  "id": "tztok_jad",
+  "name": "TzTok-Jad (Fight Caves)",
+  "category": "MINIGAME_BOSS",
+  "source": "https://oldschool.runescape.wiki/w/TzTok-Jad",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [],
+    "questsStarted": [],
+    "other": []
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "TzRek-Jad",
+      "rarity": "1/200",
+      "chance": 0.005,
+      "notes": "1/100 on a TzHaar Slayer task."
+    }
+  ],
+  "setups": [],
+  "notes": "A fire cape is guaranteed on completion."
+}

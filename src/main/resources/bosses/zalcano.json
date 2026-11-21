@@ -1,0 +1,58 @@
+{
+  "id": "zalcano",
+  "name": "Zalcano",
+  "category": "SKILLING_BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Zalcano",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [
+      {
+        "skill": "MINING",
+        "level": 70,
+        "boostable": false
+      },
+      {
+        "skill": "SMITHING",
+        "level": 70,
+        "boostable": false
+      }
+    ],
+    "quests": [
+      "Song of the Elves"
+    ],
+    "questsStarted": [],
+    "other": [
+      "Any pickaxe"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Crystal tool seed",
+      "rarity": "39/8000",
+      "chance": 0.004875,
+      "notes": ""
+    },
+    {
+      "item": "Zalcano shard",
+      "rarity": "1/1500",
+      "chance": 0.0006666666666666666,
+      "notes": "Wiki: 1/750-1/1,500 depending on contribution."
+    },
+    {
+      "item": "Smolcano",
+      "rarity": "1/2250",
+      "chance": 0.00044444444444444447,
+      "notes": ""
+    },
+    {
+      "item": "Uncut onyx",
+      "rarity": "1/8000",
+      "chance": 0.000125,
+      "notes": ""
+    }
+  ],
+  "setups": [],
+  "notes": ""
+}

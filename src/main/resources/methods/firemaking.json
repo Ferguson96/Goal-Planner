@@ -1,0 +1,477 @@
+[
+  {
+    "id": "firemaking_burn_red_logs",
+    "skill": "FIREMAKING",
+    "name": "Burning red logs (Grand Exchange or Varrock)",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 74250,
+        "gpPerHour": -120285
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Firemaking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Assumes 1,485 logs/hr. GP/hr is the wiki's GP per XP (-1.62) times XP/hr."
+  },
+  {
+    "id": "firemaking_burn_willow_logs",
+    "skill": "FIREMAKING",
+    "name": "Burning willow logs (Grand Exchange or Varrock)",
+    "category": "TRAINING",
+    "minLevel": 30,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 30,
+        "afk": null,
+        "active": 107000,
+        "gpPerHour": -23540
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Firemaking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Assumes 1,485 logs/hr. GP/hr is the wiki's GP per XP (-0.22) times XP/hr."
+  },
+  {
+    "id": "firemaking_burn_teak_logs",
+    "skill": "FIREMAKING",
+    "name": "Burning teak logs (Grand Exchange or Varrock)",
+    "category": "TRAINING",
+    "minLevel": 35,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 35,
+        "afk": null,
+        "active": 138000,
+        "gpPerHour": -136620
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Firemaking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Assumes 1,485 logs/hr. GP/hr is the wiki's GP per XP (-0.99) times XP/hr."
+  },
+  {
+    "id": "firemaking_burn_arctic_pine_logs",
+    "skill": "FIREMAKING",
+    "name": "Burning arctic pine logs (Grand Exchange or Varrock)",
+    "category": "TRAINING",
+    "minLevel": 42,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 42,
+        "afk": null,
+        "active": 185625,
+        "gpPerHour": -968962
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Firemaking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Assumes 1,485 logs/hr. GP/hr is the wiki's GP per XP (-5.22) times XP/hr."
+  },
+  {
+    "id": "firemaking_burn_maple_logs",
+    "skill": "FIREMAKING",
+    "name": "Burning maple logs (Grand Exchange or Varrock)",
+    "category": "TRAINING",
+    "minLevel": 45,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 45,
+        "afk": null,
+        "active": 200475,
+        "gpPerHour": -14033
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Firemaking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Assumes 1,485 logs/hr. GP/hr is the wiki's GP per XP (-0.07) times XP/hr."
+  },
+  {
+    "id": "firemaking_burn_mahogany_logs",
+    "skill": "FIREMAKING",
+    "name": "Burning mahogany logs (Grand Exchange or Varrock)",
+    "category": "TRAINING",
+    "minLevel": 50,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 50,
+        "afk": null,
+        "active": 233887,
+        "gpPerHour": -152027
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Firemaking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Assumes 1,485 logs/hr. GP/hr is the wiki's GP per XP (-0.65) times XP/hr."
+  },
+  {
+    "id": "firemaking_burn_yew_logs",
+    "skill": "FIREMAKING",
+    "name": "Burning yew logs (Grand Exchange or Varrock)",
+    "category": "TRAINING",
+    "minLevel": 60,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 60,
+        "afk": null,
+        "active": 300712,
+        "gpPerHour": -132313
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Firemaking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Assumes 1,485 logs/hr. GP/hr is the wiki's GP per XP (-0.44) times XP/hr."
+  },
+  {
+    "id": "firemaking_burn_magic_logs",
+    "skill": "FIREMAKING",
+    "name": "Burning magic logs (Grand Exchange or Varrock)",
+    "category": "TRAINING",
+    "minLevel": 75,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 75,
+        "afk": null,
+        "active": 451143,
+        "gpPerHour": -1001537
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Firemaking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Assumes 1,485 logs/hr. GP/hr is the wiki's GP per XP (-2.22) times XP/hr."
+  },
+  {
+    "id": "firemaking_burn_redwood_logs",
+    "skill": "FIREMAKING",
+    "name": "Burning redwood logs (Grand Exchange or Varrock)",
+    "category": "TRAINING",
+    "minLevel": 90,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 90,
+        "afk": null,
+        "active": 519750,
+        "gpPerHour": -1065488
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Firemaking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Assumes 1,485 logs/hr. GP/hr is the wiki's GP per XP (-2.05) times XP/hr."
+  },
+  {
+    "id": "firemaking_campfire_logs",
+    "skill": "FIREMAKING",
+    "name": "Forester's campfire (logs)",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [
+      "Campfire lit next to a bank"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": 26600,
+        "active": 39000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Firemaking_training",
+    "retrieved": "2026-10-19",
+    "notes": "afk = automatic, active = manual. About 665 logs/hr automatic, up to 975 manual. GP per XP is on the wiki, not per hour."
+  },
+  {
+    "id": "firemaking_campfire_oak_logs",
+    "skill": "FIREMAKING",
+    "name": "Forester's campfire (oak logs)",
+    "category": "TRAINING",
+    "minLevel": 15,
+    "requirements": [
+      "Campfire lit next to a bank"
+    ],
+    "rates": [
+      {
+        "level": 15,
+        "afk": 39900,
+        "active": 58500,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Firemaking_training",
+    "retrieved": "2026-10-19",
+    "notes": "afk = automatic, active = manual. About 665 logs/hr automatic, up to 975 manual. GP per XP is on the wiki, not per hour."
+  },
+  {
+    "id": "firemaking_campfire_willow_logs",
+    "skill": "FIREMAKING",
+    "name": "Forester's campfire (willow logs)",
+    "category": "TRAINING",
+    "minLevel": 30,
+    "requirements": [
+      "Campfire lit next to a bank"
+    ],
+    "rates": [
+      {
+        "level": 30,
+        "afk": 59850,
+        "active": 87750,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Firemaking_training",
+    "retrieved": "2026-10-19",
+    "notes": "afk = automatic, active = manual. About 665 logs/hr automatic, up to 975 manual. GP per XP is on the wiki, not per hour."
+  },
+  {
+    "id": "firemaking_campfire_teak_logs",
+    "skill": "FIREMAKING",
+    "name": "Forester's campfire (teak logs)",
+    "category": "TRAINING",
+    "minLevel": 35,
+    "requirements": [
+      "Campfire lit next to a bank"
+    ],
+    "rates": [
+      {
+        "level": 35,
+        "afk": 69825,
+        "active": 102375,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Firemaking_training",
+    "retrieved": "2026-10-19",
+    "notes": "afk = automatic, active = manual. About 665 logs/hr automatic, up to 975 manual. GP per XP is on the wiki, not per hour."
+  },
+  {
+    "id": "firemaking_campfire_arctic_pine_logs",
+    "skill": "FIREMAKING",
+    "name": "Forester's campfire (arctic pine logs)",
+    "category": "TRAINING",
+    "minLevel": 42,
+    "requirements": [
+      "Campfire lit next to a bank"
+    ],
+    "rates": [
+      {
+        "level": 42,
+        "afk": 83125,
+        "active": 121875,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Firemaking_training",
+    "retrieved": "2026-10-19",
+    "notes": "afk = automatic, active = manual. About 665 logs/hr automatic, up to 975 manual. GP per XP is on the wiki, not per hour."
+  },
+  {
+    "id": "firemaking_campfire_maple_logs",
+    "skill": "FIREMAKING",
+    "name": "Forester's campfire (maple logs)",
+    "category": "TRAINING",
+    "minLevel": 45,
+    "requirements": [
+      "Campfire lit next to a bank"
+    ],
+    "rates": [
+      {
+        "level": 45,
+        "afk": 89775,
+        "active": 131625,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Firemaking_training",
+    "retrieved": "2026-10-19",
+    "notes": "afk = automatic, active = manual. About 665 logs/hr automatic, up to 975 manual. GP per XP is on the wiki, not per hour."
+  },
+  {
+    "id": "firemaking_campfire_mahogany_logs",
+    "skill": "FIREMAKING",
+    "name": "Forester's campfire (mahogany logs)",
+    "category": "TRAINING",
+    "minLevel": 50,
+    "requirements": [
+      "Campfire lit next to a bank"
+    ],
+    "rates": [
+      {
+        "level": 50,
+        "afk": 104737,
+        "active": 153562,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Firemaking_training",
+    "retrieved": "2026-10-19",
+    "notes": "afk = automatic, active = manual. About 665 logs/hr automatic, up to 975 manual. GP per XP is on the wiki, not per hour."
+  },
+  {
+    "id": "firemaking_campfire_yew_logs",
+    "skill": "FIREMAKING",
+    "name": "Forester's campfire (yew logs)",
+    "category": "TRAINING",
+    "minLevel": 60,
+    "requirements": [
+      "Campfire lit next to a bank"
+    ],
+    "rates": [
+      {
+        "level": 60,
+        "afk": 134662,
+        "active": 197437,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Firemaking_training",
+    "retrieved": "2026-10-19",
+    "notes": "afk = automatic, active = manual. About 665 logs/hr automatic, up to 975 manual. GP per XP is on the wiki, not per hour."
+  },
+  {
+    "id": "firemaking_campfire_magic_logs",
+    "skill": "FIREMAKING",
+    "name": "Forester's campfire (magic logs)",
+    "category": "TRAINING",
+    "minLevel": 75,
+    "requirements": [
+      "Campfire lit next to a bank"
+    ],
+    "rates": [
+      {
+        "level": 75,
+        "afk": 202027,
+        "active": 296205,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Firemaking_training",
+    "retrieved": "2026-10-19",
+    "notes": "afk = automatic, active = manual. About 665 logs/hr automatic, up to 975 manual. GP per XP is on the wiki, not per hour."
+  },
+  {
+    "id": "firemaking_campfire_ironwood_logs",
+    "skill": "FIREMAKING",
+    "name": "Forester's campfire (ironwood logs)",
+    "category": "TRAINING",
+    "minLevel": 80,
+    "requirements": [
+      "Campfire lit next to a bank"
+    ],
+    "rates": [
+      {
+        "level": 80,
+        "afk": 146632,
+        "active": 214987,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Firemaking_training",
+    "retrieved": "2026-10-19",
+    "notes": "afk = automatic, active = manual. About 665 logs/hr automatic, up to 975 manual. GP per XP is on the wiki, not per hour."
+  },
+  {
+    "id": "firemaking_campfire_redwood_logs",
+    "skill": "FIREMAKING",
+    "name": "Forester's campfire (redwood logs)",
+    "category": "TRAINING",
+    "minLevel": 90,
+    "requirements": [
+      "Campfire lit next to a bank"
+    ],
+    "rates": [
+      {
+        "level": 90,
+        "afk": 232750,
+        "active": 341250,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Firemaking_training",
+    "retrieved": "2026-10-19",
+    "notes": "afk = automatic, active = manual. About 665 logs/hr automatic, up to 975 manual. GP per XP is on the wiki, not per hour."
+  },
+  {
+    "id": "firemaking_pyre_logs",
+    "skill": "FIREMAKING",
+    "name": "Creating pyre logs (redwood or rosewood)",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [
+      "Shades of Mort'ton",
+      "Sacred oil"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": 29400,
+        "active": 92000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Firemaking_training",
+    "retrieved": "2026-10-19",
+    "notes": "afk = without tick manipulation, active = 1-tick."
+  },
+  {
+    "id": "firemaking_wintertodt",
+    "skill": "FIREMAKING",
+    "name": "Wintertodt",
+    "category": "TRAINING",
+    "minLevel": 50,
+    "requirements": [
+      "Firemaking 50"
+    ],
+    "rates": [
+      {
+        "level": 50,
+        "afk": null,
+        "active": 161000,
+        "gpPerHour": null
+      },
+      {
+        "level": 60,
+        "afk": null,
+        "active": 193000,
+        "gpPerHour": null
+      },
+      {
+        "level": 70,
+        "afk": null,
+        "active": 226000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 258000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 290000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 320000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Firemaking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Also gives Woodcutting XP (10,000/hr at 50 up to 21,000/hr at 99). Official worlds recommended."
+  }
+]

@@ -1,0 +1,521 @@
+[
+  {
+    "id": "smithing_anvil_1_40",
+    "skill": "SMITHING",
+    "name": "Anvil smithing: bronze to steel items (levels 1-40)",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "maxLevel": 40,
+    "requirements": [
+      "Hammer",
+      "Bars (bronze, iron, steel)",
+      "Anvil (Varrock)"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 13900,
+        "gpPerHour": null
+      },
+      {
+        "level": 4,
+        "afk": null,
+        "active": 13900,
+        "gpPerHour": null
+      },
+      {
+        "level": 5,
+        "afk": null,
+        "active": 25700,
+        "gpPerHour": null
+      },
+      {
+        "level": 8,
+        "afk": null,
+        "active": 25700,
+        "gpPerHour": null
+      },
+      {
+        "level": 9,
+        "afk": null,
+        "active": 36200,
+        "gpPerHour": null
+      },
+      {
+        "level": 17,
+        "afk": null,
+        "active": 36200,
+        "gpPerHour": null
+      },
+      {
+        "level": 18,
+        "afk": null,
+        "active": 52100,
+        "gpPerHour": null
+      },
+      {
+        "level": 23,
+        "afk": null,
+        "active": 52100,
+        "gpPerHour": null
+      },
+      {
+        "level": 24,
+        "afk": null,
+        "active": 72300,
+        "gpPerHour": null
+      },
+      {
+        "level": 32,
+        "afk": null,
+        "active": 72300,
+        "gpPerHour": null
+      },
+      {
+        "level": 33,
+        "afk": null,
+        "active": 104200,
+        "gpPerHour": null
+      },
+      {
+        "level": 38,
+        "afk": null,
+        "active": 104200,
+        "gpPerHour": null
+      },
+      {
+        "level": 39,
+        "afk": null,
+        "active": 108500,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Smithing_training",
+    "retrieved": "2026-10-26",
+    "notes": "Daggers, scimitars, warhammers and platebodies in turn. Costs money (about 259,000 GP in total to reach 40)."
+  },
+  {
+    "id": "smithing_blast_furnace_gold_gauntlets",
+    "skill": "SMITHING",
+    "name": "Blast Furnace gold bars (goldsmith gauntlets)",
+    "category": "TRAINING",
+    "minLevel": 40,
+    "requirements": [
+      "Goldsmith gauntlets",
+      "Blast Furnace access (Giant Dwarf quest, fee unless Smithing 60)"
+    ],
+    "rates": [
+      {
+        "level": 40,
+        "afk": null,
+        "active": 380000,
+        "gpPerHour": -450161
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Smithing_training",
+    "retrieved": "2026-10-26",
+    "notes": "Costs about 15.4 million GP from 40 to 99."
+  },
+  {
+    "id": "smithing_blast_furnace_gold_nogauntlets",
+    "skill": "SMITHING",
+    "name": "Blast Furnace gold bars (no gauntlets)",
+    "category": "TRAINING",
+    "minLevel": 40,
+    "requirements": [
+      "Blast Furnace access"
+    ],
+    "rates": [
+      {
+        "level": 40,
+        "afk": null,
+        "active": 164000,
+        "gpPerHour": -477582
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Smithing_training",
+    "retrieved": "2026-10-26",
+    "notes": "Costs about 37.8 million GP from 40 to 99."
+  },
+  {
+    "id": "smithing_blast_furnace_gold_cape",
+    "skill": "SMITHING",
+    "name": "Blast Furnace gold bars (Smithing cape)",
+    "category": "TRAINING",
+    "minLevel": 40,
+    "requirements": [
+      "Smithing cape (needs 99)"
+    ],
+    "rates": [
+      {
+        "level": 40,
+        "afk": null,
+        "active": 410000,
+        "gpPerHour": -477919
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Smithing_training",
+    "retrieved": "2026-10-26",
+    "notes": ""
+  },
+  {
+    "id": "smithing_blast_furnace_gold_0tick",
+    "skill": "SMITHING",
+    "name": "Blast Furnace gold bars (0-tick banking, gauntlets)",
+    "category": "TRAINING",
+    "minLevel": 40,
+    "requirements": [
+      "Goldsmith gauntlets",
+      "Tick manipulation"
+    ],
+    "rates": [
+      {
+        "level": 40,
+        "afk": null,
+        "active": 390000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Smithing_training",
+    "retrieved": "2026-10-26",
+    "notes": "420,000/hr with a Smithing cape."
+  },
+  {
+    "id": "smithing_blast_furnace_gold_1_runner",
+    "skill": "SMITHING",
+    "name": "Blast Furnace gold bars (1 runner)",
+    "category": "TRAINING",
+    "minLevel": 40,
+    "requirements": [
+      "Goldsmith gauntlets",
+      "A runner (another player)"
+    ],
+    "rates": [
+      {
+        "level": 40,
+        "afk": null,
+        "active": 530000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Smithing_training",
+    "retrieved": "2026-10-26",
+    "notes": "Needs a second player; wiki lists 530,000/hr."
+  },
+  {
+    "id": "smithing_blast_furnace_gold_3_runners",
+    "skill": "SMITHING",
+    "name": "Blast Furnace gold bars (3 runners)",
+    "category": "TRAINING",
+    "minLevel": 40,
+    "requirements": [
+      "Goldsmith gauntlets",
+      "Three runners (other players)"
+    ],
+    "rates": [
+      {
+        "level": 40,
+        "afk": null,
+        "active": 680000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Smithing_training",
+    "retrieved": "2026-10-26",
+    "notes": "Needs a group; wiki lists 680,000/hr."
+  },
+  {
+    "id": "smithing_blast_furnace_iron",
+    "skill": "SMITHING",
+    "name": "Blast Furnace iron bars (money making)",
+    "category": "TRAINING",
+    "minLevel": 15,
+    "requirements": [
+      "Blast Furnace access",
+      "Cash capital about 444,000 GP"
+    ],
+    "rates": [
+      {
+        "level": 15,
+        "afk": null,
+        "active": 75000,
+        "gpPerHour": 696096
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Smithing_training",
+    "retrieved": "2026-10-26",
+    "notes": "Profit is after GE tax at the wiki's prices on the retrieval date."
+  },
+  {
+    "id": "smithing_blast_furnace_steel",
+    "skill": "SMITHING",
+    "name": "Blast Furnace steel bars (money making)",
+    "category": "TRAINING",
+    "minLevel": 30,
+    "requirements": [
+      "Blast Furnace access",
+      "Cash capital about 1,063,000 GP"
+    ],
+    "rates": [
+      {
+        "level": 30,
+        "afk": null,
+        "active": 94500,
+        "gpPerHour": 1583496
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Smithing_training",
+    "retrieved": "2026-10-26",
+    "notes": "Profit is after GE tax at the wiki's prices on the retrieval date."
+  },
+  {
+    "id": "smithing_blast_furnace_mithril",
+    "skill": "SMITHING",
+    "name": "Blast Furnace mithril bars (money making)",
+    "category": "TRAINING",
+    "minLevel": 50,
+    "requirements": [
+      "Blast Furnace access",
+      "Cash capital about 1,338,000 GP"
+    ],
+    "rates": [
+      {
+        "level": 50,
+        "afk": null,
+        "active": 108000,
+        "gpPerHour": 1574496
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Smithing_training",
+    "retrieved": "2026-10-26",
+    "notes": "Profit is after GE tax at the wiki's prices on the retrieval date."
+  },
+  {
+    "id": "smithing_blast_furnace_adamantite",
+    "skill": "SMITHING",
+    "name": "Blast Furnace adamantite bars (money making)",
+    "category": "TRAINING",
+    "minLevel": 70,
+    "requirements": [
+      "Blast Furnace access",
+      "Cash capital about 2,229,000 GP"
+    ],
+    "rates": [
+      {
+        "level": 70,
+        "afk": null,
+        "active": 101250,
+        "gpPerHour": 2417796
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Smithing_training",
+    "retrieved": "2026-10-26",
+    "notes": "Profit is after GE tax at the wiki's prices on the retrieval date."
+  },
+  {
+    "id": "smithing_blast_furnace_runite",
+    "skill": "SMITHING",
+    "name": "Blast Furnace runite bars (money making)",
+    "category": "TRAINING",
+    "minLevel": 85,
+    "requirements": [
+      "Blast Furnace access",
+      "Cash capital about 22,746,000 GP"
+    ],
+    "rates": [
+      {
+        "level": 85,
+        "afk": null,
+        "active": 107500,
+        "gpPerHour": 2785536
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Smithing_training",
+    "retrieved": "2026-10-26",
+    "notes": "Profit is after GE tax at the wiki's prices on the retrieval date."
+  },
+  {
+    "id": "smithing_dart_tips",
+    "skill": "SMITHING",
+    "name": "Dart tips (bronze to rune)",
+    "category": "TRAINING",
+    "minLevel": 4,
+    "requirements": [
+      "The Tourist Trap",
+      "Hammer",
+      "Bars of the right metal",
+      "Anvil"
+    ],
+    "rates": [
+      {
+        "level": 4,
+        "afk": null,
+        "active": 13250,
+        "gpPerHour": null
+      },
+      {
+        "level": 18,
+        "afk": null,
+        "active": 13250,
+        "gpPerHour": null
+      },
+      {
+        "level": 19,
+        "afk": null,
+        "active": 26500,
+        "gpPerHour": null
+      },
+      {
+        "level": 33,
+        "afk": null,
+        "active": 26500,
+        "gpPerHour": null
+      },
+      {
+        "level": 34,
+        "afk": null,
+        "active": 39750,
+        "gpPerHour": null
+      },
+      {
+        "level": 53,
+        "afk": null,
+        "active": 39750,
+        "gpPerHour": null
+      },
+      {
+        "level": 54,
+        "afk": null,
+        "active": 53000,
+        "gpPerHour": null
+      },
+      {
+        "level": 73,
+        "afk": null,
+        "active": 53000,
+        "gpPerHour": null
+      },
+      {
+        "level": 74,
+        "afk": null,
+        "active": 66250,
+        "gpPerHour": null
+      },
+      {
+        "level": 88,
+        "afk": null,
+        "active": 66250,
+        "gpPerHour": null
+      },
+      {
+        "level": 89,
+        "afk": null,
+        "active": 79500,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Smithing_training",
+    "retrieved": "2026-10-26",
+    "notes": "XP/hr is the no-uniform figure (a Smiths' uniform adds about 22%). GP/hr from the same table. Rune tips cost millions per hour."
+  },
+  {
+    "id": "smithing_steel_cannonballs",
+    "skill": "SMITHING",
+    "name": "Steel cannonballs (ammo mould)",
+    "category": "TRAINING",
+    "minLevel": 35,
+    "requirements": [
+      "Dwarf Cannon",
+      "Ammo mould",
+      "Steel bars"
+    ],
+    "rates": [
+      {
+        "level": 35,
+        "afk": null,
+        "active": 13824,
+        "gpPerHour": 195000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Smithing_training",
+    "retrieved": "2026-10-26",
+    "notes": "Profit at the wiki's prices on the retrieval date."
+  },
+  {
+    "id": "smithing_steel_cannonballs_double",
+    "skill": "SMITHING",
+    "name": "Steel cannonballs (double ammo mould)",
+    "category": "TRAINING",
+    "minLevel": 35,
+    "requirements": [
+      "Dwarf Cannon",
+      "Double ammo mould",
+      "Steel bars"
+    ],
+    "rates": [
+      {
+        "level": 35,
+        "afk": null,
+        "active": 27648,
+        "gpPerHour": 390000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Smithing_training",
+    "retrieved": "2026-10-26",
+    "notes": "Profit at the wiki's prices on the retrieval date."
+  },
+  {
+    "id": "smithing_anvil_armour_48_99",
+    "skill": "SMITHING",
+    "name": "Anvil smithing: steel, mithril and adamant platebodies (levels 48-99)",
+    "category": "TRAINING",
+    "minLevel": 48,
+    "requirements": [
+      "Hammer",
+      "Bars (steel, mithril, adamantite)",
+      "Anvil"
+    ],
+    "rates": [
+      {
+        "level": 48,
+        "afk": null,
+        "active": 144000,
+        "gpPerHour": -1471196
+      },
+      {
+        "level": 67,
+        "afk": null,
+        "active": 144000,
+        "gpPerHour": -1471196
+      },
+      {
+        "level": 68,
+        "afk": null,
+        "active": 200000,
+        "gpPerHour": -1329787
+      },
+      {
+        "level": 87,
+        "afk": null,
+        "active": 200000,
+        "gpPerHour": -1329787
+      },
+      {
+        "level": 88,
+        "afk": null,
+        "active": 240000,
+        "gpPerHour": 254984
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 240000,
+        "gpPerHour": 254984
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Smithing_training",
+    "retrieved": "2026-10-26",
+    "notes": "Steel platebody to 68, mithril platebody 68-88, adamant platebody 88+. A Smiths' uniform at Prifddinas gives about 300,000/hr for adamant. GP/hr is at normal GE prices."
+  }
+]

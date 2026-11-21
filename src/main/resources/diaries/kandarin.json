@@ -1,0 +1,765 @@
+{
+  "id": "kandarin",
+  "name": "Kandarin Diary",
+  "source": "https://oldschool.runescape.wiki/w/Kandarin_Diary",
+  "retrieved": "2026-10-27",
+  "tiers": {
+    "EASY": [
+      {
+        "id": "kandarin_easy_1",
+        "description": "Catch a Mackerel at Catherby.",
+        "skills": [
+          {
+            "skill": "FISHING",
+            "level": 16,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Big fishing net"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kandarin_easy_2",
+        "description": "Buy a candle from the Chandler in Catherby.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "3 coins"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kandarin_easy_3",
+        "description": "Collect five Flax from the Seers' flax fields.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "kandarin_easy_4",
+        "description": "Play the Organ in Seers' church.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "kandarin_easy_5",
+        "description": "Plant some Jute seeds in the patch north of McGrubor's Wood.",
+        "skills": [
+          {
+            "skill": "FARMING",
+            "level": 13,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "3 jute seeds",
+          "Rake",
+          "Seed dibber"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kandarin_easy_6",
+        "description": "Have Galahad make you a cup of tea.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "kandarin_easy_7",
+        "description": "Defeat one of each elemental in the workshop.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [
+          "Elemental Workshop I"
+        ],
+        "other": [
+          "Battered key",
+          "Weaponry"
+        ],
+        "notes": "Roaming earth elementals only."
+      },
+      {
+        "id": "kandarin_easy_8",
+        "description": "Get a pet fish from Harry in Catherby.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Fishbowl with water",
+          "Seaweed",
+          "10 coins"
+        ],
+        "notes": "Ironmen: 42 Crafting, or Skippy and the Mogres plus 32 Slayer, for a fishbowl."
+      },
+      {
+        "id": "kandarin_easy_9",
+        "description": "Buy a Stew from the Seers' pub (Forester's Arms).",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "20 coins"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kandarin_easy_10",
+        "description": "Speak to Sherlock.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "kandarin_easy_11",
+        "description": "Cross the Coal truck log shortcut.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 20,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      }
+    ],
+    "MEDIUM": [
+      {
+        "id": "kandarin_medium_1",
+        "description": "Complete a lap of the Barbarian Outpost agility course.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 35,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Alfred Grimhand's Barcrawl"
+        ],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "kandarin_medium_2",
+        "description": "Create a Super Antipoison from scratch in the Seers/Catherby area.",
+        "skills": [
+          {
+            "skill": "HERBLORE",
+            "level": 48,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Vial of water",
+          "Irit leaf",
+          "Unicorn horn dust"
+        ],
+        "notes": "Progress resets if another task is completed or updated mid-way."
+      },
+      {
+        "id": "kandarin_medium_3",
+        "description": "Enter the Ranging Guild.",
+        "skills": [
+          {
+            "skill": "RANGED",
+            "level": 40,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "kandarin_medium_4",
+        "description": "Use the grapple shortcut from the water obelisk to the Catherby shore.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 36,
+            "boostable": true
+          },
+          {
+            "skill": "STRENGTH",
+            "level": 22,
+            "boostable": true
+          },
+          {
+            "skill": "RANGED",
+            "level": 39,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Mith grapple",
+          "Any crossbow",
+          "Dusty key or Agility 70",
+          "Dragonfire protection recommended"
+        ],
+        "notes": "Ironmen need Ancient Cavern access, or 59 Smithing and 59 Fletching, for the grapple."
+      },
+      {
+        "id": "kandarin_medium_5",
+        "description": "Catch and cook a Bass in Catherby.",
+        "skills": [
+          {
+            "skill": "FISHING",
+            "level": 46,
+            "boostable": true
+          },
+          {
+            "skill": "COOKING",
+            "level": 43,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Big fishing net"
+        ],
+        "notes": "Progress resets if another task is completed or updated mid-way."
+      },
+      {
+        "id": "kandarin_medium_6",
+        "description": "Teleport to Camelot.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 45,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Runes: 5 air, 1 law"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kandarin_medium_7",
+        "description": "String a Maple shortbow in the Seers' Village bank.",
+        "skills": [
+          {
+            "skill": "FLETCHING",
+            "level": 50,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Maple shortbow (u)",
+          "Bow string"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kandarin_medium_8",
+        "description": "Pick Limpwurt root from the Catherby farming patch.",
+        "skills": [
+          {
+            "skill": "FARMING",
+            "level": 26,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Limpwurt seed",
+          "Seed dibber (or Barbarian Farming)",
+          "Rake"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kandarin_medium_9",
+        "description": "Create a Mind helmet.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [
+          "Elemental Workshop II"
+        ],
+        "other": [],
+        "notes": "Completed automatically during Elemental Workshop II."
+      },
+      {
+        "id": "kandarin_medium_10",
+        "description": "Kill a Fire Giant inside the Baxtorian Waterfall Dungeon.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [
+          "Waterfall Quest"
+        ],
+        "other": [
+          "Weaponry",
+          "Rope",
+          "Glarial's amulet (only if Waterfall Quest not complete)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kandarin_medium_11",
+        "description": "Complete a wave of Barbarian Assault.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Barbarian Assault tutorial completed"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kandarin_medium_12",
+        "description": "Steal from the chest in Hemenster.",
+        "skills": [
+          {
+            "skill": "THIEVING",
+            "level": 47,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Lockpick"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kandarin_medium_13",
+        "description": "Travel to McGrubor's Wood by fairy ring.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [
+          "Fairytale II - Cure a Queen"
+        ],
+        "other": [
+          "Dramen or Lunar staff (fairy ring code ALS)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kandarin_medium_14",
+        "description": "Mine some coal near the coal trucks.",
+        "skills": [
+          {
+            "skill": "MINING",
+            "level": 30,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any pickaxe"
+        ],
+        "notes": ""
+      }
+    ],
+    "HARD": [
+      {
+        "id": "kandarin_hard_1",
+        "description": "Catch a Leaping Sturgeon at Otto's Grotto.",
+        "skills": [
+          {
+            "skill": "FISHING",
+            "level": 70,
+            "boostable": true
+          },
+          {
+            "skill": "AGILITY",
+            "level": 45,
+            "boostable": true
+          },
+          {
+            "skill": "STRENGTH",
+            "level": 45,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Access to Barbarian Fishing",
+          "Barbarian rod and bait"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kandarin_hard_2",
+        "description": "Complete a lap of the Seers' Village agility course.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 60,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "kandarin_hard_3",
+        "description": "Create a Yew Longbow from scratch around Seers' Village.",
+        "skills": [
+          {
+            "skill": "FLETCHING",
+            "level": 70,
+            "boostable": true
+          },
+          {
+            "skill": "WOODCUTTING",
+            "level": 60,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any axe",
+          "Bow string",
+          "Knife"
+        ],
+        "notes": "Progress resets if another task is completed or updated mid-way."
+      },
+      {
+        "id": "kandarin_hard_4",
+        "description": "Enter the Seers' Village courthouse with piety turned on.",
+        "skills": [
+          {
+            "skill": "PRAYER",
+            "level": 70,
+            "boostable": false
+          },
+          {
+            "skill": "DEFENCE",
+            "level": 70,
+            "boostable": false
+          }
+        ],
+        "quests": [
+          "King's Ransom",
+          "Knight Waves Training Grounds"
+        ],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "kandarin_hard_5",
+        "description": "Charge a Water Orb.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 56,
+            "boostable": true
+          },
+          {
+            "skill": "AGILITY",
+            "level": 70,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Unpowered orb",
+          "Runes: 30 water, 3 cosmic",
+          "Dusty key can replace Agility 70"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kandarin_hard_6",
+        "description": "Burn some Maple logs with a bow in Seers' Village.",
+        "skills": [
+          {
+            "skill": "FIREMAKING",
+            "level": 65,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Access to Barbarian Firemaking",
+          "Maple logs",
+          "Any bow (not twisted, cursed goblin, dark, crystal, ogre, rain, starter or signed oak bow)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kandarin_hard_7",
+        "description": "Kill a Shadow Hound in the Shadow dungeon.",
+        "skills": [
+          {
+            "skill": "THIEVING",
+            "level": 53,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "Desert Treasure I"
+        ],
+        "other": [
+          "Ring of visibility (or ring of shadows)",
+          "Weaponry"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kandarin_hard_8",
+        "description": "Kill a Mithril Dragon.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Access to Barbarian Firemaking",
+          "Weaponry",
+          "Protection from dragonfire"
+        ],
+        "notes": "The one fought in Dragon Slayer II doesn't count."
+      },
+      {
+        "id": "kandarin_hard_9",
+        "description": "Purchase and equip a granite body from Barbarian Assault.",
+        "skills": [
+          {
+            "skill": "STRENGTH",
+            "level": 50,
+            "boostable": true
+          },
+          {
+            "skill": "DEFENCE",
+            "level": 50,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Defeated the Penance Queen",
+          "95,000 coins"
+        ],
+        "notes": "Buying and equipping are separate steps; another task in between resets progress."
+      },
+      {
+        "id": "kandarin_hard_10",
+        "description": "Have the Seers' estate agent decorate your house with Fancy Stone.",
+        "skills": [
+          {
+            "skill": "CONSTRUCTION",
+            "level": 50,
+            "boostable": false
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "25,000 coins (30,000 if already Fancy Stone)"
+        ],
+        "notes": "You must finish the dialogue."
+      },
+      {
+        "id": "kandarin_hard_11",
+        "description": "Smith an Adamant spear at Otto's Grotto.",
+        "skills": [
+          {
+            "skill": "SMITHING",
+            "level": 75,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Access to Barbarian Smithing",
+          "Yew logs",
+          "Adamantite bar",
+          "Hammer"
+        ],
+        "notes": ""
+      }
+    ],
+    "ELITE": [
+      {
+        "id": "kandarin_elite_1",
+        "description": "Read the Blackboard at Barbarian Assault after reaching level 5 in every role.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Level 5 in every Barbarian Assault role (about 5,600 honour points if nothing else is bought)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kandarin_elite_2",
+        "description": "Pick some Dwarf weed from the herb patch at Catherby.",
+        "skills": [
+          {
+            "skill": "FARMING",
+            "level": 79,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Dwarf weed seed",
+          "Spade",
+          "Seed dibber (or Barbarian Farming)",
+          "Rake"
+        ],
+        "notes": "The Farming level and items for rows 2-7 were read from a secondary diary site."
+      },
+      {
+        "id": "kandarin_elite_3",
+        "description": "Fish and cook 5 Sharks in Catherby using the Cooking gauntlets.",
+        "skills": [
+          {
+            "skill": "FISHING",
+            "level": 76,
+            "boostable": true
+          },
+          {
+            "skill": "COOKING",
+            "level": 80,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Family Crest"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Harpoon (or Barbarian Fishing)",
+          "Cooking gauntlets"
+        ],
+        "notes": "Use the range between the Catherby bank and archery shop. Sharks from Rada's blessing don't count."
+      },
+      {
+        "id": "kandarin_elite_4",
+        "description": "Mix a Stamina Mix on top of the Seers' Village bank.",
+        "skills": [
+          {
+            "skill": "HERBLORE",
+            "level": 86,
+            "boostable": true
+          },
+          {
+            "skill": "AGILITY",
+            "level": 60,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Access to Barbarian Herblore",
+          "Stamina potion (2)",
+          "Caviar"
+        ],
+        "notes": "Start the Seers' Village agility course to climb onto the bank."
+      },
+      {
+        "id": "kandarin_elite_5",
+        "description": "Smith a Rune Hasta at Otto's Grotto.",
+        "skills": [
+          {
+            "skill": "SMITHING",
+            "level": 90,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Access to Barbarian Smithing",
+          "Runite bar",
+          "Magic logs",
+          "Hammer"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kandarin_elite_6",
+        "description": "Construct a Pyre ship from Magic Logs.",
+        "skills": [
+          {
+            "skill": "FIREMAKING",
+            "level": 85,
+            "boostable": true
+          },
+          {
+            "skill": "CRAFTING",
+            "level": 85,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Access to Barbarian Firemaking",
+          "Magic logs",
+          "Chewed bones",
+          "Tinderbox",
+          "Any axe"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "kandarin_elite_7",
+        "description": "Teleport to Catherby.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 87,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Lunar Diplomacy"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Lunar spellbook",
+          "Runes: 3 law, 3 astral, 10 water"
+        ],
+        "notes": "Tele Group Catherby also works."
+      }
+    ]
+  }
+}

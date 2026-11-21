@@ -1,0 +1,214 @@
+{
+  "id": "scurrius",
+  "name": "Scurrius",
+  "category": "BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Scurrius",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [],
+    "questsStarted": [],
+    "other": []
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Scurrius' spine",
+      "rarity": "1/33",
+      "chance": 0.030303030303030304,
+      "notes": ""
+    },
+    {
+      "item": "Scurry",
+      "rarity": "1/3000",
+      "chance": 0.0003333333333333333,
+      "notes": "MVP only."
+    },
+    {
+      "item": "Long bone",
+      "rarity": "1/400",
+      "chance": 0.0025,
+      "notes": "MVP only."
+    },
+    {
+      "item": "Curved bone",
+      "rarity": "10/50125",
+      "chance": 0.00019950124688279303,
+      "notes": "MVP only. Wiki rate 1/5,012.5."
+    }
+  ],
+  "setups": [
+    {
+      "name": "Melee (mid level)",
+      "source": "https://oldschool.runescape.wiki/w/Scurrius/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Void melee helm",
+          "Helm of Neitiznot",
+          "Berserker helm",
+          "Rune full helm"
+        ],
+        "CAPE": [
+          "Fire cape",
+          "Team cape"
+        ],
+        "NECK": [
+          "Amulet of fury",
+          "Amulet of glory",
+          "Amulet of strength"
+        ],
+        "AMMO": [
+          "God blessing"
+        ],
+        "WEAPON": [
+          "Bone mace",
+          "Abyssal tentacle",
+          "Abyssal whip",
+          "Sarachnis cudgel",
+          "Dragon scimitar",
+          "Rune scimitar"
+        ],
+        "BODY": [
+          "Void knight top",
+          "Fighter torso",
+          "Proselyte hauberk",
+          "Rune platebody"
+        ],
+        "SHIELD": [
+          "Dragon defender",
+          "Rune defender",
+          "Toktz-ket-xil"
+        ],
+        "LEGS": [
+          "Void knight robe",
+          "Dragon platelegs",
+          "Proselyte cuisse",
+          "Rune plateskirt"
+        ],
+        "HANDS": [
+          "Void knight gloves",
+          "Barrows gloves",
+          "Rune gloves",
+          "Combat bracelet"
+        ],
+        "FEET": [
+          "Dragon boots",
+          "Rune boots",
+          "Climbing boots"
+        ],
+        "RING": [
+          "Berserker ring (i)",
+          "Lightbearer"
+        ]
+      },
+      "inventory": [
+        {
+          "item": "Super strength(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Super attack(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Super defence(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Prayer potion(4)",
+          "quantity": 4
+        },
+        {
+          "item": "Dragon dagger(p++)",
+          "quantity": 1
+        },
+        {
+          "item": "Cooked karambwan",
+          "quantity": 15
+        }
+      ],
+      "notes": "Void pieces only with a full Void set. Quantities read from the wiki's inventory grid."
+    },
+    {
+      "name": "Ranged (mid level)",
+      "source": "https://oldschool.runescape.wiki/w/Scurrius/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Void ranger helm",
+          "Blessed coif",
+          "Archer helm"
+        ],
+        "CAPE": [
+          "Ava's accumulator",
+          "Ava's attractor"
+        ],
+        "NECK": [
+          "Amulet of fury",
+          "Amulet of glory",
+          "Amulet of power"
+        ],
+        "AMMO": [
+          "Amethyst arrow",
+          "Rune arrow",
+          "Adamant arrow"
+        ],
+        "WEAPON": [
+          "Bone shortbow",
+          "Hunters' sunlight crossbow",
+          "Magic shortbow (i)",
+          "Magic shortbow"
+        ],
+        "BODY": [
+          "Void knight top",
+          "Blessed body",
+          "Black d'hide body",
+          "Red d'hide body"
+        ],
+        "SHIELD": [
+          "Book of law",
+          "Unholy book"
+        ],
+        "LEGS": [
+          "Void knight robe",
+          "Blessed chaps",
+          "Black d'hide chaps",
+          "Red d'hide chaps"
+        ],
+        "HANDS": [
+          "Void knight gloves",
+          "Blessed bracers",
+          "Black d'hide vambraces"
+        ],
+        "FEET": [
+          "Blessed boots",
+          "Mixed hide boots",
+          "Snakeskin boots"
+        ],
+        "RING": [
+          "Archers ring (i)"
+        ]
+      },
+      "inventory": [
+        {
+          "item": "Ranging potion(4)",
+          "quantity": 2
+        },
+        {
+          "item": "Super defence(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Prayer potion(4)",
+          "quantity": 5
+        },
+        {
+          "item": "Cooked karambwan",
+          "quantity": 16
+        }
+      ],
+      "notes": "Quantities read from the wiki's inventory grid."
+    }
+  ],
+  "notes": "Meant for combat levels 60-90; wiki suggests 60+ combat and 43+ Prayer."
+}

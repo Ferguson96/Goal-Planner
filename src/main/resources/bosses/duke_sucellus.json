@@ -1,0 +1,172 @@
+{
+  "id": "duke_sucellus",
+  "name": "Duke Sucellus",
+  "category": "BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Duke_Sucellus",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [
+      "Desert Treasure II - The Fallen Empire"
+    ],
+    "questsStarted": [],
+    "other": []
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Magus vestige",
+      "rarity": "1/720",
+      "chance": 0.001388888888888889,
+      "notes": ""
+    },
+    {
+      "item": "Baron",
+      "rarity": "1/2500",
+      "chance": 0.0004,
+      "notes": ""
+    }
+  ],
+  "setups": [
+    {
+      "name": "Most effective",
+      "source": "https://oldschool.runescape.wiki/w/Duke_Sucellus/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Oathplate helm",
+          "Serpentine helm"
+        ],
+        "CAPE": [
+          "Infernal cape"
+        ],
+        "NECK": [
+          "Amulet of rancour"
+        ],
+        "AMMO": [
+          "Rada's blessing 4"
+        ],
+        "WEAPON": [
+          "Scythe of vitur"
+        ],
+        "BODY": [
+          "Oathplate chest"
+        ],
+        "SHIELD": [
+          "Avernic defender"
+        ],
+        "LEGS": [
+          "Oathplate legs"
+        ],
+        "HANDS": [
+          "Ferocious gloves"
+        ],
+        "FEET": [
+          "Avernic treads (max)"
+        ],
+        "RING": [
+          "Bellator ring",
+          "Lightbearer"
+        ]
+      },
+      "inventory": [
+        {
+          "item": "Bandos godsword",
+          "quantity": 1
+        },
+        {
+          "item": "Anglerfish",
+          "quantity": 1
+        },
+        {
+          "item": "Cooked moonlight antelope",
+          "quantity": 9
+        },
+        {
+          "item": "Saradomin brew(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Prayer regeneration potion(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Super restore(4)",
+          "quantity": 3
+        },
+        {
+          "item": "Divine super combat potion(4)",
+          "quantity": 2
+        },
+        {
+          "item": "Book of the dead",
+          "quantity": 1
+        },
+        {
+          "item": "Ring of shadows",
+          "quantity": 1
+        },
+        {
+          "item": "Crystal pickaxe",
+          "quantity": 1
+        },
+        {
+          "item": "Divine rune pouch",
+          "quantity": 1
+        },
+        {
+          "item": "Teleport to house",
+          "quantity": 1
+        }
+      ],
+      "notes": "Quantities read from the wiki's inventory grid."
+    },
+    {
+      "name": "Second tier",
+      "source": "https://oldschool.runescape.wiki/w/Duke_Sucellus/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Torva full helm",
+          "Neitiznot faceguard"
+        ],
+        "CAPE": [
+          "Fire cape"
+        ],
+        "NECK": [
+          "Amulet of torture"
+        ],
+        "AMMO": [
+          "God blessing",
+          "Rada's blessing 3"
+        ],
+        "WEAPON": [
+          "Emberlight",
+          "Soulreaper axe"
+        ],
+        "BODY": [
+          "Torva platebody"
+        ],
+        "SHIELD": [
+          "Dragon defender",
+          "Rondache"
+        ],
+        "LEGS": [
+          "Torva platelegs"
+        ],
+        "HANDS": [
+          "Barrows gloves",
+          "Void knight gloves"
+        ],
+        "FEET": [
+          "Primordial boots"
+        ],
+        "RING": [
+          "Ultor ring"
+        ]
+      },
+      "inventory": [],
+      "notes": ""
+    }
+  ],
+  "notes": "Rates read from the item pages (they do not separate the awakened version). Eye of the Duke, chromium ingot and Virtus rates were not captured."
+}

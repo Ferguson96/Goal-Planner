@@ -1,0 +1,51 @@
+{
+  "id": "skotizo",
+  "name": "Skotizo",
+  "category": "BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Skotizo",
+  "retrieved": "2026-10-24",
+  "requirements": {
+    "skills": [],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Dark totem used on the altar in the middle of the Catacombs of Kourend (one per attempt)"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Skotos",
+      "rarity": "1/65",
+      "chance": 0.015384615384615385,
+      "notes": ""
+    },
+    {
+      "item": "Jar of darkness",
+      "rarity": "1/200",
+      "chance": 0.005,
+      "notes": ""
+    },
+    {
+      "item": "Dark claw",
+      "rarity": "1/25",
+      "chance": 0.04,
+      "notes": ""
+    },
+    {
+      "item": "Uncut onyx",
+      "rarity": "1/1000",
+      "chance": 0.001,
+      "notes": ""
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/5",
+      "chance": 0.2,
+      "notes": ""
+    }
+  ],
+  "setups": [],
+  "notes": ""
+}

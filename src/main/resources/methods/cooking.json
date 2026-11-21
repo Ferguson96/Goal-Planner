@@ -1,0 +1,544 @@
+[
+  {
+    "id": "cooking_karambwan",
+    "skill": "COOKING",
+    "name": "Cooked karambwan (AFK / 1-tick)",
+    "category": "TRAINING",
+    "minLevel": 30,
+    "requirements": [
+      "Tai Bwo Wannai Trio",
+      "Raw karambwan"
+    ],
+    "rates": [
+      {
+        "level": 30,
+        "afk": 141000,
+        "active": 464000,
+        "gpPerHour": 296960
+      },
+      {
+        "level": 40,
+        "afk": 160000,
+        "active": 534000,
+        "gpPerHour": 341760
+      },
+      {
+        "level": 50,
+        "afk": 180000,
+        "active": 605000,
+        "gpPerHour": 387200
+      },
+      {
+        "level": 60,
+        "afk": 198000,
+        "active": 672000,
+        "gpPerHour": 430080
+      },
+      {
+        "level": 70,
+        "afk": 218000,
+        "active": 742000,
+        "gpPerHour": 474880
+      },
+      {
+        "level": 80,
+        "afk": 251000,
+        "active": 813000,
+        "gpPerHour": 520320
+      },
+      {
+        "level": 90,
+        "afk": 263000,
+        "active": 883000,
+        "gpPerHour": 565120
+      },
+      {
+        "level": 99,
+        "afk": 273000,
+        "active": 950000,
+        "gpPerHour": 608000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
+    "retrieved": "2026-10-19",
+    "notes": "afk = AFK, active = 1-tick (hard to keep up). GP/hr is the wiki's 0.64 GP per XP (1-tick) times XP/hr; AFK profit is 0.71 GP per XP."
+  },
+  {
+    "id": "cooking_bake_redberry_pie",
+    "skill": "COOKING",
+    "name": "Bake Pie (Redberry pie)",
+    "category": "TRAINING",
+    "minLevel": 10,
+    "requirements": [
+      "Lunar Diplomacy",
+      "Unlimited water and fire runes (e.g. steam battlestaff)"
+    ],
+    "rates": [
+      {
+        "level": 10,
+        "afk": 147000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Assumes 1,885 pies/hr. The wiki lists profit per pie, not per hour."
+  },
+  {
+    "id": "cooking_bake_meat_pie",
+    "skill": "COOKING",
+    "name": "Bake Pie (Meat pie)",
+    "category": "TRAINING",
+    "minLevel": 20,
+    "requirements": [
+      "Lunar Diplomacy",
+      "Unlimited water and fire runes (e.g. steam battlestaff)"
+    ],
+    "rates": [
+      {
+        "level": 20,
+        "afk": 207000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Assumes 1,885 pies/hr. The wiki lists profit per pie, not per hour."
+  },
+  {
+    "id": "cooking_bake_mud_pie",
+    "skill": "COOKING",
+    "name": "Bake Pie (Mud pie)",
+    "category": "TRAINING",
+    "minLevel": 29,
+    "requirements": [
+      "Lunar Diplomacy",
+      "Unlimited water and fire runes (e.g. steam battlestaff)"
+    ],
+    "rates": [
+      {
+        "level": 29,
+        "afk": 241000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Assumes 1,885 pies/hr. The wiki lists profit per pie, not per hour."
+  },
+  {
+    "id": "cooking_bake_apple_pie",
+    "skill": "COOKING",
+    "name": "Bake Pie (Apple pie)",
+    "category": "TRAINING",
+    "minLevel": 30,
+    "requirements": [
+      "Lunar Diplomacy",
+      "Unlimited water and fire runes (e.g. steam battlestaff)"
+    ],
+    "rates": [
+      {
+        "level": 30,
+        "afk": 245000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Assumes 1,885 pies/hr. The wiki lists profit per pie, not per hour."
+  },
+  {
+    "id": "cooking_bake_garden_pie",
+    "skill": "COOKING",
+    "name": "Bake Pie (Garden pie)",
+    "category": "TRAINING",
+    "minLevel": 34,
+    "requirements": [
+      "Lunar Diplomacy",
+      "Unlimited water and fire runes (e.g. steam battlestaff)"
+    ],
+    "rates": [
+      {
+        "level": 34,
+        "afk": 260000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Assumes 1,885 pies/hr. The wiki lists profit per pie, not per hour."
+  },
+  {
+    "id": "cooking_bake_fish_pie",
+    "skill": "COOKING",
+    "name": "Bake Pie (Fish pie)",
+    "category": "TRAINING",
+    "minLevel": 47,
+    "requirements": [
+      "Lunar Diplomacy",
+      "Unlimited water and fire runes (e.g. steam battlestaff)"
+    ],
+    "rates": [
+      {
+        "level": 47,
+        "afk": 309000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Assumes 1,885 pies/hr. The wiki lists profit per pie, not per hour."
+  },
+  {
+    "id": "cooking_bake_botanical_pie",
+    "skill": "COOKING",
+    "name": "Bake Pie (Botanical pie)",
+    "category": "TRAINING",
+    "minLevel": 52,
+    "requirements": [
+      "Lunar Diplomacy",
+      "Unlimited water and fire runes (e.g. steam battlestaff)"
+    ],
+    "rates": [
+      {
+        "level": 52,
+        "afk": 339000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Assumes 1,885 pies/hr. The wiki lists profit per pie, not per hour."
+  },
+  {
+    "id": "cooking_bake_mushroom_pie",
+    "skill": "COOKING",
+    "name": "Bake Pie (Mushroom pie)",
+    "category": "TRAINING",
+    "minLevel": 60,
+    "requirements": [
+      "Lunar Diplomacy",
+      "Unlimited water and fire runes (e.g. steam battlestaff)"
+    ],
+    "rates": [
+      {
+        "level": 60,
+        "afk": 377000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Assumes 1,885 pies/hr. The wiki lists profit per pie, not per hour."
+  },
+  {
+    "id": "cooking_bake_admiral_pie",
+    "skill": "COOKING",
+    "name": "Bake Pie (Admiral pie)",
+    "category": "TRAINING",
+    "minLevel": 70,
+    "requirements": [
+      "Lunar Diplomacy",
+      "Unlimited water and fire runes (e.g. steam battlestaff)"
+    ],
+    "rates": [
+      {
+        "level": 70,
+        "afk": 396000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Assumes 1,885 pies/hr. The wiki lists profit per pie, not per hour."
+  },
+  {
+    "id": "cooking_bake_dragonfruit_pie",
+    "skill": "COOKING",
+    "name": "Bake Pie (Dragonfruit pie)",
+    "category": "TRAINING",
+    "minLevel": 73,
+    "requirements": [
+      "Lunar Diplomacy",
+      "Unlimited water and fire runes (e.g. steam battlestaff)"
+    ],
+    "rates": [
+      {
+        "level": 73,
+        "afk": 415000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Assumes 1,885 pies/hr. The wiki lists profit per pie, not per hour."
+  },
+  {
+    "id": "cooking_bake_wild_pie",
+    "skill": "COOKING",
+    "name": "Bake Pie (Wild pie)",
+    "category": "TRAINING",
+    "minLevel": 85,
+    "requirements": [
+      "Lunar Diplomacy",
+      "Unlimited water and fire runes (e.g. steam battlestaff)"
+    ],
+    "rates": [
+      {
+        "level": 85,
+        "afk": 452000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Assumes 1,885 pies/hr. The wiki lists profit per pie, not per hour."
+  },
+  {
+    "id": "cooking_bake_summer_pie",
+    "skill": "COOKING",
+    "name": "Bake Pie (Summer pie)",
+    "category": "TRAINING",
+    "minLevel": 95,
+    "requirements": [
+      "Lunar Diplomacy",
+      "Unlimited water and fire runes (e.g. steam battlestaff)"
+    ],
+    "rates": [
+      {
+        "level": 95,
+        "afk": 490000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Assumes 1,885 pies/hr. The wiki lists profit per pie, not per hour."
+  },
+  {
+    "id": "cooking_jug_of_wine",
+    "skill": "COOKING",
+    "name": "Jugs of wine",
+    "category": "TRAINING",
+    "minLevel": 68,
+    "requirements": [
+      "Grapes",
+      "Jugs of water"
+    ],
+    "rates": [
+      {
+        "level": 68,
+        "afk": null,
+        "active": 470000,
+        "gpPerHour": -210700
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki: 470,000-490,000 XP/hr (lower bound used); cost of -210,700 GP/hr is quoted at the 490,000 rate."
+  },
+  {
+    "id": "cooking_fish_tuna",
+    "skill": "COOKING",
+    "name": "Cooking tuna (Hosidius kitchen)",
+    "category": "TRAINING",
+    "minLevel": 30,
+    "requirements": [
+      "Hosidius kitchen (easy Kourend & Kebos diary)",
+      "Cooking gauntlets for lobster and better"
+    ],
+    "rates": [
+      {
+        "level": 30,
+        "afk": null,
+        "active": 85000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki range 85,000-100,000 (lower bound used). Rates exclude burns."
+  },
+  {
+    "id": "cooking_fish_lobster",
+    "skill": "COOKING",
+    "name": "Cooking lobster (Hosidius kitchen)",
+    "category": "TRAINING",
+    "minLevel": 40,
+    "requirements": [
+      "Hosidius kitchen (easy Kourend & Kebos diary)",
+      "Cooking gauntlets for lobster and better"
+    ],
+    "rates": [
+      {
+        "level": 40,
+        "afk": null,
+        "active": 120000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki range 120,000-165,000 (lower bound used). Rates exclude burns."
+  },
+  {
+    "id": "cooking_fish_swordfish",
+    "skill": "COOKING",
+    "name": "Cooking swordfish (Hosidius kitchen)",
+    "category": "TRAINING",
+    "minLevel": 68,
+    "requirements": [
+      "Hosidius kitchen (easy Kourend & Kebos diary)",
+      "Cooking gauntlets for lobster and better"
+    ],
+    "rates": [
+      {
+        "level": 68,
+        "afk": null,
+        "active": 165000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki range 165,000-200,000. Rates exclude burns."
+  },
+  {
+    "id": "cooking_fish_monkfish",
+    "skill": "COOKING",
+    "name": "Cooking monkfish (Hosidius kitchen)",
+    "category": "TRAINING",
+    "minLevel": 68,
+    "requirements": [
+      "Hosidius kitchen (easy Kourend & Kebos diary)",
+      "Cooking gauntlets for lobster and better"
+    ],
+    "rates": [
+      {
+        "level": 68,
+        "afk": null,
+        "active": 165000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki range 165,000-200,000. Rates exclude burns."
+  },
+  {
+    "id": "cooking_fish_shark",
+    "skill": "COOKING",
+    "name": "Cooking shark (Hosidius kitchen)",
+    "category": "TRAINING",
+    "minLevel": 80,
+    "requirements": [
+      "Hosidius kitchen (easy Kourend & Kebos diary)",
+      "Cooking gauntlets for lobster and better"
+    ],
+    "rates": [
+      {
+        "level": 80,
+        "afk": null,
+        "active": 275000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki range 275,000-285,000. Rates exclude burns."
+  },
+  {
+    "id": "cooking_fish_anglerfish",
+    "skill": "COOKING",
+    "name": "Cooking anglerfish (Hosidius kitchen)",
+    "category": "TRAINING",
+    "minLevel": 84,
+    "requirements": [
+      "Hosidius kitchen (easy Kourend & Kebos diary)",
+      "Cooking gauntlets for lobster and better"
+    ],
+    "rates": [
+      {
+        "level": 84,
+        "afk": null,
+        "active": 305000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki range 305,000-330,000. Rates exclude burns."
+  },
+  {
+    "id": "cooking_fish_manta_ray",
+    "skill": "COOKING",
+    "name": "Cooking manta ray (Hosidius kitchen)",
+    "category": "TRAINING",
+    "minLevel": 91,
+    "requirements": [
+      "Hosidius kitchen (easy Kourend & Kebos diary)",
+      "Cooking gauntlets for lobster and better"
+    ],
+    "rates": [
+      {
+        "level": 91,
+        "afk": null,
+        "active": 285000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki range 285,000-300,000. Rates exclude burns."
+  },
+  {
+    "id": "cooking_cooking_fish_meats_afk",
+    "skill": "COOKING",
+    "name": "Cooking fish or meat (AFK)",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 1,
+        "afk": 310000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki lists levels 1-92; the food cooked changes with level. From the wiki's AFK skilling methods guide (AFK rate)."
+  },
+  {
+    "id": "cooking_foresters_rations",
+    "skill": "COOKING",
+    "name": "Forester's rations",
+    "category": "TRAINING",
+    "minLevel": 35,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 35,
+        "afk": 96579,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "From the wiki's AFK skilling methods guide (AFK rate)."
+  }
+]

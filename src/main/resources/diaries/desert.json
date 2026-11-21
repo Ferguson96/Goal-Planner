@@ -1,0 +1,625 @@
+{
+  "id": "desert",
+  "name": "Desert Diary",
+  "source": "https://oldschool.runescape.wiki/w/Desert_Diary",
+  "retrieved": "2026-10-27",
+  "tiers": {
+    "EASY": [
+      {
+        "id": "desert_easy_1",
+        "description": "Catch a Golden Warbler.",
+        "skills": [
+          {
+            "skill": "HUNTER",
+            "level": 5,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Bird snare"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "desert_easy_2",
+        "description": "Mine 5 clay in the north-eastern desert.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any pickaxe"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "desert_easy_3",
+        "description": "Enter the Kalphite Hive.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Rope"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "desert_easy_4",
+        "description": "Enter the Desert wearing desert robes.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Desert shirt, desert robe, desert boots"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "desert_easy_5",
+        "description": "Kill a Vulture.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Weaponry, preferably ranged or magic"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "desert_easy_6",
+        "description": "Have Zahur clean a herb for you.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any grimy herb",
+          "200 coins"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "desert_easy_7",
+        "description": "Collect 5 potato cactus from the Kalphite Hive.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Rope",
+          "Antipoison and food recommended"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "desert_easy_8",
+        "description": "Sell artefacts to Simon Templeton.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [
+          "Icthlarin's Little Helper"
+        ],
+        "other": [
+          "Any artefact from Pyramid Plunder (not the pyramid top)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "desert_easy_9",
+        "description": "Open the Sarcophagus in the first room of Pyramid Plunder.",
+        "skills": [
+          {
+            "skill": "THIEVING",
+            "level": 21,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "Icthlarin's Little Helper"
+        ],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "desert_easy_10",
+        "description": "Cut a desert cactus to fill a waterskin.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Knife or slash weapon",
+          "Empty waterskin"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "desert_easy_11",
+        "description": "Travel from Shantay Pass to Pollnivneach by Magic Carpet.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "200 coins and a Shantay pass, or 5 coins"
+        ],
+        "notes": ""
+      }
+    ],
+    "MEDIUM": [
+      {
+        "id": "desert_medium_1",
+        "description": "Climb to the summit of the Agility Pyramid.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 30,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "desert_medium_2",
+        "description": "Slay a desert lizard.",
+        "skills": [
+          {
+            "skill": "SLAYER",
+            "level": 22,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Ice cooler"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "desert_medium_3",
+        "description": "Catch an Orange Salamander.",
+        "skills": [
+          {
+            "skill": "HUNTER",
+            "level": 47,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Rope",
+          "Small fishing net"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "desert_medium_4",
+        "description": "Steal a feather from the Desert Phoenix.",
+        "skills": [
+          {
+            "skill": "THIEVING",
+            "level": 25,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "desert_medium_5",
+        "description": "Travel to Uzer via Magic Carpet.",
+        "skills": [],
+        "quests": [
+          "The Golem"
+        ],
+        "questsStarted": [],
+        "other": [
+          "200 coins (205 via Shantay Pass)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "desert_medium_6",
+        "description": "Travel to the Desert via Eagle.",
+        "skills": [],
+        "quests": [
+          "Eagles' Peak"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Rope"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "desert_medium_7",
+        "description": "Pray at the Elidinis statuette in Nardah with less than full Prayer points.",
+        "skills": [],
+        "quests": [
+          "Spirits of the Elid"
+        ],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "desert_medium_8",
+        "description": "Create a combat potion in the Desert.",
+        "skills": [
+          {
+            "skill": "HERBLORE",
+            "level": 36,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Harralander potion (unf)",
+          "Goat horn dust"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "desert_medium_9",
+        "description": "Teleport to Enakhra's Temple with the Camulet.",
+        "skills": [],
+        "quests": [
+          "Enakhra's Lament"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Camulet"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "desert_medium_10",
+        "description": "Visit the Genie.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [
+          "Spirits of the Elid"
+        ],
+        "other": [
+          "Rope",
+          "Light source"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "desert_medium_11",
+        "description": "Teleport to Pollnivneach with a redirected house teleport tablet.",
+        "skills": [
+          {
+            "skill": "CONSTRUCTION",
+            "level": 20,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Scroll of redirection",
+          "House teleport tablet"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "desert_medium_12",
+        "description": "Chop some teak logs near Uzer.",
+        "skills": [
+          {
+            "skill": "WOODCUTTING",
+            "level": 35,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any axe"
+        ],
+        "notes": ""
+      }
+    ],
+    "HARD": [
+      {
+        "id": "desert_hard_1",
+        "description": "Knock out and pickpocket a Menaphite Thug.",
+        "skills": [
+          {
+            "skill": "THIEVING",
+            "level": 65,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "The Feud"
+        ],
+        "other": [
+          "Any blackjack"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "desert_hard_2",
+        "description": "Mine some granite.",
+        "skills": [
+          {
+            "skill": "MINING",
+            "level": 45,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any pickaxe"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "desert_hard_3",
+        "description": "Refill waterskins in the Desert using Lunar magic.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 68,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Dream Mentor"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Lunar spellbook",
+          "Non-full waterskin",
+          "Runes: 1 fire, 3 water, 1 astral"
+        ],
+        "notes": "Cast outside a desert settlement."
+      },
+      {
+        "id": "desert_hard_4",
+        "description": "Kill the Kalphite Queen.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "See the strategy guide"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "desert_hard_5",
+        "description": "Complete a lap of the Pollnivneach agility course.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 70,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "desert_hard_6",
+        "description": "Slay a Dust Devil in the desert cave with a Slayer helmet equipped.",
+        "skills": [
+          {
+            "skill": "SLAYER",
+            "level": 65,
+            "boostable": true
+          },
+          {
+            "skill": "DEFENCE",
+            "level": 10,
+            "boostable": true
+          },
+          {
+            "skill": "CRAFTING",
+            "level": 55,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "Desert Treasure I"
+        ],
+        "other": [
+          "Slayer helmet"
+        ],
+        "notes": "Cabin Fever completion is needed on Ironman accounts only."
+      },
+      {
+        "id": "desert_hard_7",
+        "description": "Activate Ancient Magicks at the altar in the Jaldraocht Pyramid.",
+        "skills": [],
+        "quests": [
+          "Desert Treasure I"
+        ],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "desert_hard_8",
+        "description": "Defeat a Locust Rider with Keris.",
+        "skills": [
+          {
+            "skill": "ATTACK",
+            "level": 50,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "Contact!"
+        ],
+        "other": [
+          "Keris or Keris partisan (or variants)",
+          "Any light source"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "desert_hard_9",
+        "description": "Burn yew logs on the Nardah Mayor's balcony.",
+        "skills": [
+          {
+            "skill": "FIREMAKING",
+            "level": 60,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Yew log",
+          "Tinderbox"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "desert_hard_10",
+        "description": "Create a Mithril platebody in Nardah.",
+        "skills": [
+          {
+            "skill": "SMITHING",
+            "level": 68,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "5 mithril bars",
+          "Hammer"
+        ],
+        "notes": ""
+      }
+    ],
+    "ELITE": [
+      {
+        "id": "desert_elite_1",
+        "description": "Bake a wild pie at the Nardah Clay Oven.",
+        "skills": [
+          {
+            "skill": "COOKING",
+            "level": 85,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Raw wild pie"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "desert_elite_2",
+        "description": "Cast Ice Barrage against a foe in the Desert.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 94,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Desert Treasure I"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Runes: 6 water, 2 blood, 4 death"
+        ],
+        "notes": "Must hit; cast outside a desert settlement."
+      },
+      {
+        "id": "desert_elite_3",
+        "description": "Fletch dragon darts at the Bedabin Camp.",
+        "skills": [
+          {
+            "skill": "FLETCHING",
+            "level": 95,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Dragon dart tip",
+          "Feather"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "desert_elite_4",
+        "description": "Speak to the KQ head in your POH.",
+        "skills": [
+          {
+            "skill": "CONSTRUCTION",
+            "level": 78,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Priest in Peril"
+        ],
+        "questsStarted": [],
+        "other": [
+          "2 mahogany planks, 2 gold leaves, saw, hammer",
+          "KQ head (or tattered)",
+          "50,000 coins for taxidermy",
+          "15,000 coins for a Skill Hall if not built"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "desert_elite_5",
+        "description": "Steal from the Grand Gold Chest in the final room of Pyramid Plunder.",
+        "skills": [
+          {
+            "skill": "THIEVING",
+            "level": 91,
+            "boostable": false
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "Icthlarin's Little Helper"
+        ],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "desert_elite_6",
+        "description": "Restore at least 85 Prayer points at the altar in Sophanem.",
+        "skills": [
+          {
+            "skill": "PRAYER",
+            "level": 85,
+            "boostable": false
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "Icthlarin's Little Helper"
+        ],
+        "other": [],
+        "notes": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "id": "the_whisperer",
+  "name": "The Whisperer",
+  "category": "BOSS",
+  "source": "https://oldschool.runescape.wiki/w/The_Whisperer",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [
+      "Desert Treasure II - The Fallen Empire"
+    ],
+    "questsStarted": [],
+    "other": [
+      "Blackstone fragment"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Bellator vestige",
+      "rarity": "1/512",
+      "chance": 0.001953125,
+      "notes": ""
+    },
+    {
+      "item": "Siren's staff",
+      "rarity": "1/512",
+      "chance": 0.001953125,
+      "notes": ""
+    },
+    {
+      "item": "Chromium ingot",
+      "rarity": "3/512",
+      "chance": 0.005859375,
+      "notes": ""
+    },
+    {
+      "item": "Virtus mask",
+      "rarity": "1/1536",
+      "chance": 0.0006510416666666666,
+      "notes": ""
+    },
+    {
+      "item": "Virtus robe top",
+      "rarity": "1/1536",
+      "chance": 0.0006510416666666666,
+      "notes": ""
+    },
+    {
+      "item": "Virtus robe bottom",
+      "rarity": "1/1536",
+      "chance": 0.0006510416666666666,
+      "notes": ""
+    },
+    {
+      "item": "Shadow quartz",
+      "rarity": "10/2093",
+      "chance": 0.004777830864787387,
+      "notes": "Wiki rate 1/209.3."
+    },
+    {
+      "item": "Wisp",
+      "rarity": "1/2000",
+      "chance": 0.0005,
+      "notes": ""
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/160",
+      "chance": 0.00625,
+      "notes": ""
+    },
+    {
+      "item": "Clue scroll (hard)",
+      "rarity": "1/160",
+      "chance": 0.00625,
+      "notes": ""
+    }
+  ],
+  "setups": [
+    {
+      "name": "Magic",
+      "source": "https://oldschool.runescape.wiki/w/The_Whisperer/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Ancestral hat",
+          "Virtus mask",
+          "Ahrim's hood",
+          "Blue moon helm",
+          "Bloodbark helm"
+        ],
+        "CAPE": [
+          "Imbued god cape"
+        ],
+        "NECK": [
+          "Occult necklace",
+          "Elemental amulet"
+        ],
+        "AMMO": [
+          "Rada's blessing 4",
+          "God blessing"
+        ],
+        "WEAPON": [
+          "Tumeken's shadow",
+          "Harmonised nightmare staff",
+          "Eye of ayak",
+          "Sanguinesti staff",
+          "Twinflame staff",
+          "Trident of the swamp"
+        ],
+        "BODY": [
+          "Ancestral robe top",
+          "Virtus robe top",
+          "Ahrim's robetop",
+          "Blue moon chestplate",
+          "Bloodbark body"
+        ],
+        "SHIELD": [
+          "Tome of earth",
+          "Elidinis' ward (f)",
+          "Arcane spirit shield",
+          "Elidinis' ward",
+          "Mage's book",
+          "Book of darkness"
+        ],
+        "LEGS": [
+          "Ancestral robe bottom",
+          "Virtus robe bottom",
+          "Ahrim's robeskirt",
+          "Blue moon tassets",
+          "Bloodbark legs"
+        ],
+        "HANDS": [
+          "Confliction gauntlets",
+          "Tormented bracelet",
+          "Void knight gloves",
+          "Barrows gloves"
+        ],
+        "FEET": [
+          "Avernic treads (max)",
+          "Eternal boots",
+          "Infinity boots"
+        ],
+        "RING": [
+          "Magus ring",
+          "Lightbearer",
+          "Ring of the gods (i)",
+          "Ring of suffering (i)",
+          "Seers ring (i)"
+        ]
+      },
+      "inventory": [
+        {
+          "item": "Blackstone fragment",
+          "quantity": 1
+        },
+        {
+          "item": "Anglerfish",
+          "quantity": 3
+        },
+        {
+          "item": "Venator bow",
+          "quantity": 1
+        },
+        {
+          "item": "Dark crab",
+          "quantity": 3
+        },
+        {
+          "item": "Eldritch nightmare staff",
+          "quantity": 1
+        },
+        {
+          "item": "Prayer potion(4)",
+          "quantity": 9
+        },
+        {
+          "item": "Super restore(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Book of the dead",
+          "quantity": 1
+        },
+        {
+          "item": "Saturated heart",
+          "quantity": 1
+        },
+        {
+          "item": "Divine rune pouch",
+          "quantity": 1
+        },
+        {
+          "item": "Ring of shadows",
+          "quantity": 1
+        },
+        {
+          "item": "Explorer's ring 4",
+          "quantity": 1
+        }
+      ],
+      "notes": "The Venator bow (or Blisterwood stake) is for the lost souls phase."
+    }
+  ],
+  "notes": "Normal (post-quest) version. Wiki recommends 90+ Magic and 77+ Prayer."
+}

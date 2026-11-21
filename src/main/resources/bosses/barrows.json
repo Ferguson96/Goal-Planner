@@ -1,0 +1,229 @@
+{
+  "id": "barrows",
+  "name": "Barrows",
+  "category": "MINIGAME_BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Chest_(Barrows)",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Kill the brother whose items you want before looting"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Barrows equipment (any piece)",
+      "rarity": "100/1501",
+      "chance": 0.06662225183211193,
+      "notes": "Per chest with all six brothers killed. Wiki rate 1/15.01."
+    },
+    {
+      "item": "Barrows equipment (a specific piece)",
+      "rarity": "100/35014",
+      "chance": 0.002856000456960073,
+      "notes": "Per chest with all six brothers killed. Wiki rate 1/350.14."
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/29",
+      "chance": 0.034482758620689655,
+      "notes": "Best rate, with all six brothers; 1/200 with fewer."
+    }
+  ],
+  "setups": [
+    {
+      "name": "Low-level magic",
+      "source": "https://oldschool.runescape.wiki/w/Barrows/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Barrows helm",
+          "Helm of Neitiznot",
+          "Berserker helm",
+          "Rune full helm"
+        ],
+        "CAPE": [
+          "Imbued god cape",
+          "God cape",
+          "Fire cape",
+          "Ardougne cloak 3"
+        ],
+        "NECK": [
+          "Amulet of air",
+          "Elemental amulet",
+          "Occult necklace",
+          "Amulet of fury",
+          "Amulet of glory"
+        ],
+        "AMMO": [
+          "Rada's blessing 4",
+          "God blessing"
+        ],
+        "WEAPON": [
+          "Trident of the swamp",
+          "Twinflame staff",
+          "Smoke battlestaff",
+          "Ahrim's staff",
+          "Iban's staff (u)"
+        ],
+        "BODY": [
+          "Mystic robe top",
+          "Dragon chainbody",
+          "Rune platebody",
+          "Black d'hide body"
+        ],
+        "SHIELD": [
+          "Ghommal's hilt 2",
+          "Dragon defender",
+          "Rune defender",
+          "Rune kiteshield"
+        ],
+        "LEGS": [
+          "Mystic robe bottom",
+          "Black d'hide chaps",
+          "Dragon platelegs",
+          "Rune platelegs"
+        ],
+        "HANDS": [
+          "Barrows gloves",
+          "Rune gloves",
+          "Chaos gauntlets",
+          "Combat bracelet"
+        ],
+        "FEET": [
+          "Dragon boots",
+          "Rune boots",
+          "Climbing boots"
+        ],
+        "RING": [
+          "Berserker ring (i)",
+          "Ring of dueling"
+        ]
+      },
+      "inventory": [
+        {
+          "item": "Abyssal whip",
+          "quantity": 1
+        },
+        {
+          "item": "Magic shortbow (i)",
+          "quantity": 1
+        },
+        {
+          "item": "Dragon dagger",
+          "quantity": 1
+        },
+        {
+          "item": "Super attack(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Super strength(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Restore potion(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Stamina potion(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Prayer potion(4)",
+          "quantity": 4
+        },
+        {
+          "item": "Shark",
+          "quantity": 7
+        },
+        {
+          "item": "Spade",
+          "quantity": 1
+        },
+        {
+          "item": "Barrows teleport",
+          "quantity": 1
+        }
+      ],
+      "notes": "Quantities read from the wiki's inventory grid."
+    },
+    {
+      "name": "Magic",
+      "source": "https://oldschool.runescape.wiki/w/Barrows/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Ancestral hat",
+          "Virtus mask",
+          "Ahrim's hood",
+          "Blue moon helm",
+          "Bloodbark helm"
+        ],
+        "CAPE": [
+          "Imbued god cape",
+          "God cape"
+        ],
+        "NECK": [
+          "Occult necklace",
+          "Amulet of air",
+          "Amulet of fury"
+        ],
+        "AMMO": [
+          "Rada's blessing 4",
+          "God blessing"
+        ],
+        "WEAPON": [
+          "Eye of ayak",
+          "Tumeken's shadow",
+          "Harmonised nightmare staff",
+          "Sanguinesti staff",
+          "Trident of the swamp",
+          "Ahrim's staff"
+        ],
+        "BODY": [
+          "Ancestral robe top",
+          "Virtus robe top",
+          "Ahrim's robetop",
+          "Blue moon chestplate",
+          "Bloodbark body"
+        ],
+        "SHIELD": [
+          "Elidinis' ward (f)",
+          "Ghommal's hilt 2",
+          "Arcane spirit shield",
+          "Mage's book",
+          "Malediction ward"
+        ],
+        "LEGS": [
+          "Ancestral robe bottom",
+          "Virtus robe bottom",
+          "Ahrim's robeskirt",
+          "Blue moon tassets",
+          "Bloodbark legs"
+        ],
+        "HANDS": [
+          "Confliction gauntlets",
+          "Tormented bracelet",
+          "Barrows gloves"
+        ],
+        "FEET": [
+          "Avernic treads (max)",
+          "Eternal boots",
+          "Infinity boots",
+          "Wizard boots"
+        ],
+        "RING": [
+          "Magus ring",
+          "Seers ring (i)",
+          "Ring of shadows"
+        ]
+      },
+      "inventory": [],
+      "notes": ""
+    }
+  ],
+  "notes": "Rates are per chest, not per brother. Use your own chests per hour in the plugin."
+}

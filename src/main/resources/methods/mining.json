@@ -1,0 +1,854 @@
+[
+  {
+    "id": "mining_iron_ore",
+    "skill": "MINING",
+    "name": "Iron ore (Mining Guild / triangle spots, no tick manipulation)",
+    "category": "TRAINING",
+    "minLevel": 15,
+    "requirements": [
+      "Varrock armour 1 (recommended)",
+      "Mining 60 for the Mining Guild rate"
+    ],
+    "rates": [
+      {
+        "level": 15,
+        "afk": null,
+        "active": 45000,
+        "gpPerHour": null
+      },
+      {
+        "level": 59,
+        "afk": null,
+        "active": 45000,
+        "gpPerHour": null
+      },
+      {
+        "level": 60,
+        "afk": null,
+        "active": 70000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 70000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Mining_training",
+    "retrieved": "2026-10-26",
+    "notes": "Wiki gives 45,000-55,000 below level 60 and 70,000-80,000 from 60; lower bounds used. Ore is normally dropped."
+  },
+  {
+    "id": "mining_granite_3t4g",
+    "skill": "MINING",
+    "name": "Granite (3-tick, 3t4g)",
+    "category": "TRAINING",
+    "minLevel": 45,
+    "requirements": [
+      "Tick manipulation",
+      "Varrock armour 2+ (4 from level 75)",
+      "Celestial ring (uncharged)"
+    ],
+    "rates": [
+      {
+        "level": 45,
+        "afk": null,
+        "active": 87000,
+        "gpPerHour": null
+      },
+      {
+        "level": 55,
+        "afk": null,
+        "active": 95000,
+        "gpPerHour": null
+      },
+      {
+        "level": 65,
+        "afk": null,
+        "active": 103000,
+        "gpPerHour": null
+      },
+      {
+        "level": 75,
+        "afk": null,
+        "active": 109000,
+        "gpPerHour": null
+      },
+      {
+        "level": 85,
+        "afk": null,
+        "active": 114000,
+        "gpPerHour": null
+      },
+      {
+        "level": 95,
+        "afk": null,
+        "active": 119000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 126000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Mining_training",
+    "retrieved": "2026-10-26",
+    "notes": "Without tick manipulation about 63,000/hr at best. Also gives Smithing XP with an infernal pickaxe."
+  },
+  {
+    "id": "mining_motherlode_mine",
+    "skill": "MINING",
+    "name": "Motherlode Mine (level 90 setup)",
+    "category": "TRAINING",
+    "minLevel": 90,
+    "requirements": [
+      "Dragon pickaxe",
+      "Celestial ring",
+      "Prospector kit",
+      "Upgraded sack, upper level and upper chute"
+    ],
+    "rates": [
+      {
+        "level": 90,
+        "afk": null,
+        "active": 52000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Mining_training",
+    "retrieved": "2026-10-26",
+    "notes": "The wiki lists about 62,000 in its table but 52,000 in its text for this setup; the lower one is used. Usable from level 30 but slower and not given a rate at lower levels."
+  },
+  {
+    "id": "mining_gem_rocks_3tick",
+    "skill": "MINING",
+    "name": "Gem rocks (3-tick)",
+    "category": "TRAINING",
+    "minLevel": 40,
+    "requirements": [
+      "Tick manipulation",
+      "Karamja Diary (medium)",
+      "Amulet of glory (charged)",
+      "Prospector kit"
+    ],
+    "rates": [
+      {
+        "level": 40,
+        "afk": null,
+        "active": 89000,
+        "gpPerHour": null
+      },
+      {
+        "level": 50,
+        "afk": null,
+        "active": 93000,
+        "gpPerHour": null
+      },
+      {
+        "level": 60,
+        "afk": null,
+        "active": 97000,
+        "gpPerHour": null
+      },
+      {
+        "level": 70,
+        "afk": null,
+        "active": 101000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 105000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 107000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 110000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Mining_training",
+    "retrieved": "2026-10-26",
+    "notes": "Gem bag recommended. The wiki quotes about 480,000 GP/hr profit at best rates (level not stated), not used here."
+  },
+  {
+    "id": "mining_gem_rocks",
+    "skill": "MINING",
+    "name": "Gem rocks (no tick manipulation)",
+    "category": "TRAINING",
+    "minLevel": 40,
+    "requirements": [
+      "Karamja Diary (medium)",
+      "Amulet of glory (charged)",
+      "Prospector kit"
+    ],
+    "rates": [
+      {
+        "level": 40,
+        "afk": null,
+        "active": 40000,
+        "gpPerHour": null
+      },
+      {
+        "level": 50,
+        "afk": null,
+        "active": 46000,
+        "gpPerHour": null
+      },
+      {
+        "level": 60,
+        "afk": null,
+        "active": 52000,
+        "gpPerHour": null
+      },
+      {
+        "level": 70,
+        "afk": null,
+        "active": 58000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 66000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 70000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 75000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Mining_training",
+    "retrieved": "2026-10-26",
+    "notes": ""
+  },
+  {
+    "id": "mining_calcified_rocks_3tick",
+    "skill": "MINING",
+    "name": "Calcified rocks (3-tick, water-oozing veins)",
+    "category": "TRAINING",
+    "minLevel": 50,
+    "requirements": [
+      "Perilous Moons (started)",
+      "Tick manipulation"
+    ],
+    "rates": [
+      {
+        "level": 50,
+        "afk": null,
+        "active": 40000,
+        "gpPerHour": null
+      },
+      {
+        "level": 60,
+        "afk": null,
+        "active": 50000,
+        "gpPerHour": null
+      },
+      {
+        "level": 70,
+        "afk": null,
+        "active": 64000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 74000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 84000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 94000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Mining_training",
+    "retrieved": "2026-10-26",
+    "notes": "Estimated by the wiki. Method opens at level 41 but the wiki lists rates only from 50. Also gives Prayer XP from blessed bone shards."
+  },
+  {
+    "id": "mining_calcified_rocks",
+    "skill": "MINING",
+    "name": "Calcified rocks (no tick manipulation)",
+    "category": "TRAINING",
+    "minLevel": 50,
+    "requirements": [
+      "Perilous Moons (started)"
+    ],
+    "rates": [
+      {
+        "level": 50,
+        "afk": null,
+        "active": 23500,
+        "gpPerHour": null
+      },
+      {
+        "level": 60,
+        "afk": null,
+        "active": 27000,
+        "gpPerHour": null
+      },
+      {
+        "level": 70,
+        "afk": null,
+        "active": 34000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 39000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 44000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 49000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Mining_training",
+    "retrieved": "2026-10-26",
+    "notes": "Method opens at level 41 but the wiki lists rates only from 50. Also gives Prayer XP from blessed bone shards."
+  },
+  {
+    "id": "mining_rubium_rocks",
+    "skill": "MINING",
+    "name": "Rubium rocks (Charred Dungeon)",
+    "category": "TRAINING",
+    "minLevel": 48,
+    "requirements": [
+      "Sailing 60",
+      "Access to Charred Island",
+      "Rope",
+      "Dragonfire protection or Protect from Magic (recommended)"
+    ],
+    "rates": [
+      {
+        "level": 48,
+        "afk": null,
+        "active": 39000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 64000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Mining_training",
+    "retrieved": "2026-10-26",
+    "notes": "The wiki gives only 'about' figures at levels 48 and 99; the line between them is interpolated."
+  },
+  {
+    "id": "mining_crashed_star_rune",
+    "skill": "MINING",
+    "name": "Crashed stars (rune pickaxe)",
+    "category": "TRAINING",
+    "minLevel": 60,
+    "requirements": [
+      "Shooting Stars",
+      "Rune pickaxe"
+    ],
+    "rates": [
+      {
+        "level": 60,
+        "afk": null,
+        "active": 23500,
+        "gpPerHour": null
+      },
+      {
+        "level": 70,
+        "afk": null,
+        "active": 24600,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 25900,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 27000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 28200,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Mining_training",
+    "retrieved": "2026-10-26",
+    "notes": "Stars can be mined from level 10 but the wiki lists rates from 60. Prospector jacket adds about 600/hr. Stardust is a bonus."
+  },
+  {
+    "id": "mining_crashed_star_dragon",
+    "skill": "MINING",
+    "name": "Crashed stars (dragon pickaxe)",
+    "category": "TRAINING",
+    "minLevel": 60,
+    "requirements": [
+      "Shooting Stars",
+      "Dragon pickaxe"
+    ],
+    "rates": [
+      {
+        "level": 60,
+        "afk": null,
+        "active": 24900,
+        "gpPerHour": null
+      },
+      {
+        "level": 70,
+        "afk": null,
+        "active": 26100,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 27500,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 28600,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 29800,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Mining_training",
+    "retrieved": "2026-10-26",
+    "notes": "Prospector jacket adds about 600/hr. Stardust is a bonus."
+  },
+  {
+    "id": "mining_crashed_star_crystal",
+    "skill": "MINING",
+    "name": "Crashed stars (crystal pickaxe)",
+    "category": "TRAINING",
+    "minLevel": 70,
+    "requirements": [
+      "Shooting Stars",
+      "Crystal pickaxe"
+    ],
+    "rates": [
+      {
+        "level": 70,
+        "afk": null,
+        "active": 26800,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 28300,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 29500,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 30800,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Mining_training",
+    "retrieved": "2026-10-26",
+    "notes": "Prospector jacket adds about 700/hr. Stardust is a bonus."
+  },
+  {
+    "id": "mining_volcanic_mine_rune",
+    "skill": "MINING",
+    "name": "Volcanic Mine (rune pickaxe)",
+    "category": "TRAINING",
+    "minLevel": 70,
+    "requirements": [
+      "Bone Voyage",
+      "Numulites (30 per entry)",
+      "Team of 3-5 assumed"
+    ],
+    "rates": [
+      {
+        "level": 70,
+        "afk": null,
+        "active": 64200,
+        "gpPerHour": null
+      },
+      {
+        "level": 75,
+        "afk": null,
+        "active": 65200,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 68000,
+        "gpPerHour": null
+      },
+      {
+        "level": 85,
+        "afk": null,
+        "active": 71800,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 74700,
+        "gpPerHour": null
+      },
+      {
+        "level": 95,
+        "afk": null,
+        "active": 76500,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 79300,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Mining_training",
+    "retrieved": "2026-10-26",
+    "notes": "Accessible from level 50, recommended from 70. Rewards are points, not ore."
+  },
+  {
+    "id": "mining_volcanic_mine_dragon",
+    "skill": "MINING",
+    "name": "Volcanic Mine (dragon pickaxe)",
+    "category": "TRAINING",
+    "minLevel": 70,
+    "requirements": [
+      "Bone Voyage",
+      "Numulites (30 per entry)",
+      "Team of 3-5 assumed"
+    ],
+    "rates": [
+      {
+        "level": 70,
+        "afk": null,
+        "active": 68000,
+        "gpPerHour": null
+      },
+      {
+        "level": 75,
+        "afk": null,
+        "active": 69000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 72000,
+        "gpPerHour": null
+      },
+      {
+        "level": 85,
+        "afk": null,
+        "active": 76000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 79000,
+        "gpPerHour": null
+      },
+      {
+        "level": 95,
+        "afk": null,
+        "active": 81000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 84000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Mining_training",
+    "retrieved": "2026-10-26",
+    "notes": "Boosting accounts reach up to 105,000/hr at 99."
+  },
+  {
+    "id": "mining_volcanic_mine_crystal",
+    "skill": "MINING",
+    "name": "Volcanic Mine (crystal pickaxe)",
+    "category": "TRAINING",
+    "minLevel": 75,
+    "requirements": [
+      "Bone Voyage",
+      "Numulites (30 per entry)",
+      "Team of 3-5 assumed"
+    ],
+    "rates": [
+      {
+        "level": 75,
+        "afk": null,
+        "active": 75000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 81000,
+        "gpPerHour": null
+      },
+      {
+        "level": 85,
+        "afk": null,
+        "active": 86000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 90000,
+        "gpPerHour": null
+      },
+      {
+        "level": 95,
+        "afk": null,
+        "active": 91000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 94000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Mining_training",
+    "retrieved": "2026-10-26",
+    "notes": ""
+  },
+  {
+    "id": "mining_zalcano",
+    "skill": "MINING",
+    "name": "Zalcano",
+    "category": "TRAINING",
+    "minLevel": 70,
+    "requirements": [
+      "Song of the Elves",
+      "Prifddinas access"
+    ],
+    "rates": [],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Mining_training",
+    "retrieved": "2026-10-26",
+    "notes": "No representative XP rate on the wiki (depends on reward mode, team and kills per hour). The 2024 experience mode targeted about 50,000/hr."
+  },
+  {
+    "id": "mining_blast_mine",
+    "skill": "MINING",
+    "name": "Blast Mine",
+    "category": "TRAINING",
+    "minLevel": 75,
+    "requirements": [
+      "Dynamite",
+      "Chisel",
+      "Tinderbox",
+      "Ring of endurance (recommended)"
+    ],
+    "rates": [
+      {
+        "level": 75,
+        "afk": null,
+        "active": 65000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 87000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Mining_training",
+    "retrieved": "2026-10-26",
+    "notes": "Wiki ranges 65,000-76,000 at 75 and 87,000-101,000 at 99; lower bounds used."
+  },
+  {
+    "id": "mining_infernal_shale",
+    "skill": "MINING",
+    "name": "Infernal shale (Chasm of Fire, tick manipulation)",
+    "category": "TRAINING",
+    "minLevel": 78,
+    "requirements": [
+      "A Kingdom Divided",
+      "Hammer",
+      "Chisel",
+      "Jim's wet cloth (tick manipulation)"
+    ],
+    "rates": [
+      {
+        "level": 78,
+        "afk": null,
+        "active": 67000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Mining_training",
+    "retrieved": "2026-10-26",
+    "notes": "Wiki range 67,000-80,000 with tick manipulation; lower bound used for all levels."
+  },
+  {
+    "id": "mining_amethyst",
+    "skill": "MINING",
+    "name": "Amethyst",
+    "category": "TRAINING",
+    "minLevel": 92,
+    "requirements": [
+      "Expert mining gloves (recommended)",
+      "Varrock armour 4"
+    ],
+    "rates": [
+      {
+        "level": 92,
+        "afk": null,
+        "active": 20000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Mining_training",
+    "retrieved": "2026-10-26",
+    "notes": "Wiki range 20,000-25,000; lower bound used. About 80-100 amethyst per hour."
+  },
+  {
+    "id": "mining_guardian_fragments",
+    "skill": "MINING",
+    "name": "Guardian fragments (Guardians of the Rift)",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [
+      "27 Runecraft",
+      "Temple of the Eye"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": 7500,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "From the wiki's AFK skilling methods guide (AFK rate)."
+  },
+  {
+    "id": "mining_shooting_stars_afk",
+    "skill": "MINING",
+    "name": "Shooting stars",
+    "category": "TRAINING",
+    "minLevel": 10,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 10,
+        "afk": 31160,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "From the wiki's AFK skilling methods guide (AFK rate)."
+  },
+  {
+    "id": "mining_barronite_rocks",
+    "skill": "MINING",
+    "name": "Barronite rocks",
+    "category": "TRAINING",
+    "minLevel": 14,
+    "requirements": [
+      "Below Ice Mountain"
+    ],
+    "rates": [
+      {
+        "level": 14,
+        "afk": 20000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "From the wiki's AFK skilling methods guide (AFK rate)."
+  },
+  {
+    "id": "mining_daeyalt_essence",
+    "skill": "MINING",
+    "name": "Daeyalt essence",
+    "category": "TRAINING",
+    "minLevel": 60,
+    "requirements": [
+      "Sins of the Father"
+    ],
+    "rates": [
+      {
+        "level": 60,
+        "afk": 8851,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "From the wiki's AFK skilling methods guide (AFK rate)."
+  }
+]

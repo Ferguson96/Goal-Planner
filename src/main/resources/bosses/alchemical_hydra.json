@@ -1,0 +1,256 @@
+{
+  "id": "alchemical_hydra",
+  "name": "Alchemical Hydra",
+  "category": "SLAYER_BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Alchemical_Hydra",
+  "retrieved": "2026-10-24",
+  "requirements": {
+    "skills": [
+      {
+        "skill": "SLAYER",
+        "level": 95,
+        "boostable": true
+      }
+    ],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "An active hydra Slayer task (Konar or Mortimer)",
+      "Boots of stone, boots of brimstone or granite boots unless the Kourend & Kebos Elite diary is done"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Hydra's eye",
+      "rarity": "1/181",
+      "chance": 0.0055248618784530384,
+      "notes": "Wiki rate is 1/181.1."
+    },
+    {
+      "item": "Hydra's fang",
+      "rarity": "1/181",
+      "chance": 0.0055248618784530384,
+      "notes": "Wiki rate is 1/181.1."
+    },
+    {
+      "item": "Hydra's heart",
+      "rarity": "1/181",
+      "chance": 0.0055248618784530384,
+      "notes": "Wiki rate is 1/181.1."
+    },
+    {
+      "item": "Hydra tail",
+      "rarity": "1/513",
+      "chance": 0.001949317738791423,
+      "notes": ""
+    },
+    {
+      "item": "Hydra leather",
+      "rarity": "1/514",
+      "chance": 0.0019455252918287938,
+      "notes": ""
+    },
+    {
+      "item": "Hydra's claw",
+      "rarity": "1/1001",
+      "chance": 0.000999000999000999,
+      "notes": ""
+    },
+    {
+      "item": "Dragon thrownaxe",
+      "rarity": "1/2000",
+      "chance": 0.0005,
+      "notes": ""
+    },
+    {
+      "item": "Dragon knife",
+      "rarity": "1/2001",
+      "chance": 0.0004997501249375312,
+      "notes": ""
+    }
+  ],
+  "setups": [
+    {
+      "name": "Ranged (Twisted bow)",
+      "source": "https://oldschool.runescape.wiki/w/Alchemical_Hydra/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Slayer helmet (i)",
+          "Black mask (i)"
+        ],
+        "CAPE": [
+          "Dizana's quiver",
+          "Ava's assembler",
+          "Max cape"
+        ],
+        "NECK": [
+          "Necklace of rupture",
+          "Bonecrusher necklace",
+          "Necklace of anguish"
+        ],
+        "AMMO": [
+          "Seeking dragon arrow",
+          "Ruby dragon bolts (e)",
+          "Rada's blessing 4"
+        ],
+        "WEAPON": [
+          "Twisted bow",
+          "Toxic blowpipe",
+          "Dragon hunter crossbow",
+          "Bow of Faerdhinen"
+        ],
+        "BODY": [
+          "Masori body (f)",
+          "Crystal body",
+          "Eclipse Moon chestplate"
+        ],
+        "SHIELD": [
+          "Twisted buckler",
+          "Dragonfire ward",
+          "Odium ward"
+        ],
+        "LEGS": [
+          "Masori chaps (f)",
+          "Crystal legs",
+          "Eclipse Moon tassets"
+        ],
+        "HANDS": [
+          "Zaryte vambraces",
+          "Barrows gloves",
+          "Blessed bracers"
+        ],
+        "FEET": [
+          "Avernic treads (max)",
+          "Pegasian boots",
+          "Devout boots"
+        ],
+        "RING": [
+          "Lightbearer",
+          "Venator ring",
+          "Ring of the gods (i)"
+        ]
+      },
+      "inventory": [
+        {
+          "item": "Zaryte crossbow",
+          "quantity": 1
+        },
+        {
+          "item": "Divine ranging potion(4)",
+          "quantity": 3
+        },
+        {
+          "item": "Prayer potion(4)",
+          "quantity": 7
+        },
+        {
+          "item": "Cooked moonlight antelope",
+          "quantity": 11
+        },
+        {
+          "item": "Divine rune pouch",
+          "quantity": 1
+        }
+      ],
+      "notes": "Also carries Ruby bolts (e) and 5000 lava, 1000 nature, 1000 law and 1000 dust runes."
+    },
+    {
+      "name": "Melee",
+      "source": "https://oldschool.runescape.wiki/w/Alchemical_Hydra/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Slayer helmet (i)",
+          "Black mask (i)"
+        ],
+        "CAPE": [
+          "Infernal cape",
+          "Fire cape",
+          "Ardougne cloak 4"
+        ],
+        "NECK": [
+          "Amulet of rancour",
+          "Amulet of torture",
+          "Amulet of blood fury"
+        ],
+        "AMMO": [
+          "Rada's blessing 4",
+          "Rada's blessing 3"
+        ],
+        "WEAPON": [
+          "Scythe of Vitur",
+          "Osmumten's fang",
+          "Ghrazi rapier",
+          "Soulreaper axe"
+        ],
+        "BODY": [
+          "Torva platebody",
+          "Oathplate chest",
+          "Bandos chestplate"
+        ],
+        "SHIELD": [
+          "Avernic defender",
+          "Dragon defender",
+          "Dragonfire shield"
+        ],
+        "LEGS": [
+          "Torva platelegs",
+          "Oathplate legs",
+          "Bandos tassets"
+        ],
+        "HANDS": [
+          "Ferocious gloves",
+          "Barrows gloves",
+          "Regen bracelet"
+        ],
+        "FEET": [
+          "Avernic treads (max)",
+          "Primordial boots",
+          "Echo boots"
+        ],
+        "RING": [
+          "Ultor ring",
+          "Lightbearer",
+          "Berserker ring (i)"
+        ]
+      },
+      "inventory": [
+        {
+          "item": "Bandos godsword",
+          "quantity": 1
+        },
+        {
+          "item": "Burning claws",
+          "quantity": 1
+        },
+        {
+          "item": "Prayer potion(4)",
+          "quantity": 10
+        },
+        {
+          "item": "Cooked moonlight antelope",
+          "quantity": 8
+        },
+        {
+          "item": "Bracelet of slaughter",
+          "quantity": 1
+        },
+        {
+          "item": "Desert amulet 4",
+          "quantity": 1
+        },
+        {
+          "item": "Divine rune pouch",
+          "quantity": 1
+        },
+        {
+          "item": "Divine super combat potion(4)",
+          "quantity": 1
+        }
+      ],
+      "notes": "Inventory is the wiki's version for banking bones."
+    }
+  ],
+  "notes": "The pet and jar rates were not listed on the page that was read."
+}

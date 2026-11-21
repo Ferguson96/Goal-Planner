@@ -1,0 +1,947 @@
+[
+  {
+    "id": "herblore_attack_potion",
+    "skill": "HERBLORE",
+    "name": "Attack potion",
+    "category": "TRAINING",
+    "minLevel": 3,
+    "requirements": [
+      "Druidic Ritual",
+      "Guam potion (unf), Eye of newt"
+    ],
+    "rates": [
+      {
+        "level": 3,
+        "afk": null,
+        "active": 62500,
+        "gpPerHour": -1238750
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-495.5) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_antipoison",
+    "skill": "HERBLORE",
+    "name": "Antipoison",
+    "category": "TRAINING",
+    "minLevel": 5,
+    "requirements": [
+      "Druidic Ritual",
+      "Marrentill potion (unf), Unicorn horn dust"
+    ],
+    "rates": [
+      {
+        "level": 5,
+        "afk": null,
+        "active": 93750,
+        "gpPerHour": -2366875
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-946.75) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_strength_potion",
+    "skill": "HERBLORE",
+    "name": "Strength potion",
+    "category": "TRAINING",
+    "minLevel": 12,
+    "requirements": [
+      "Druidic Ritual",
+      "Tarromin potion (unf), Limpwurt root"
+    ],
+    "rates": [
+      {
+        "level": 12,
+        "afk": null,
+        "active": 125000,
+        "gpPerHour": -1231875
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-492.75) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_serum_207",
+    "skill": "HERBLORE",
+    "name": "Serum 207",
+    "category": "TRAINING",
+    "minLevel": 15,
+    "requirements": [
+      "Druidic Ritual",
+      "Tarromin potion (unf), Ashes"
+    ],
+    "rates": [
+      {
+        "level": 15,
+        "afk": null,
+        "active": 116500,
+        "gpPerHour": -934912
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-401.25) x potions/hr (2330, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_compost_potion",
+    "skill": "HERBLORE",
+    "name": "Compost potion",
+    "category": "TRAINING",
+    "minLevel": 22,
+    "requirements": [
+      "Druidic Ritual",
+      "Harralander potion (unf), Volcanic ash"
+    ],
+    "rates": [
+      {
+        "level": 22,
+        "afk": null,
+        "active": 150000,
+        "gpPerHour": -1533750
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-613.5) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_restore_potion",
+    "skill": "HERBLORE",
+    "name": "Restore potion",
+    "category": "TRAINING",
+    "minLevel": 22,
+    "requirements": [
+      "Druidic Ritual",
+      "Harralander potion (unf), Red spiders' eggs"
+    ],
+    "rates": [
+      {
+        "level": 22,
+        "afk": null,
+        "active": 156250,
+        "gpPerHour": -1551250
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-620.5) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_energy_potion",
+    "skill": "HERBLORE",
+    "name": "Energy potion",
+    "category": "TRAINING",
+    "minLevel": 26,
+    "requirements": [
+      "Druidic Ritual",
+      "Harralander potion (unf), Chocolate dust"
+    ],
+    "rates": [
+      {
+        "level": 26,
+        "afk": null,
+        "active": 168750,
+        "gpPerHour": -1186875
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-474.75) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_defence_potion",
+    "skill": "HERBLORE",
+    "name": "Defence potion",
+    "category": "TRAINING",
+    "minLevel": 30,
+    "requirements": [
+      "Druidic Ritual",
+      "Ranarr potion (unf), White berries"
+    ],
+    "rates": [
+      {
+        "level": 30,
+        "afk": null,
+        "active": 187500,
+        "gpPerHour": -15141250
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-6056.5) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_agility_potion",
+    "skill": "HERBLORE",
+    "name": "Agility potion",
+    "category": "TRAINING",
+    "minLevel": 34,
+    "requirements": [
+      "Druidic Ritual",
+      "Toadflax potion (unf), Toad's legs"
+    ],
+    "rates": [
+      {
+        "level": 34,
+        "afk": null,
+        "active": 200000,
+        "gpPerHour": -5915000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-2366) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_combat_potion",
+    "skill": "HERBLORE",
+    "name": "Combat potion",
+    "category": "TRAINING",
+    "minLevel": 36,
+    "requirements": [
+      "Druidic Ritual",
+      "Harralander potion (unf), Goat horn dust"
+    ],
+    "rates": [
+      {
+        "level": 36,
+        "afk": null,
+        "active": 210000,
+        "gpPerHour": -1308125
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-523.25) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_prayer_potion",
+    "skill": "HERBLORE",
+    "name": "Prayer potion",
+    "category": "TRAINING",
+    "minLevel": 38,
+    "requirements": [
+      "Druidic Ritual",
+      "Ranarr potion (unf), Snape grass"
+    ],
+    "rates": [
+      {
+        "level": 38,
+        "afk": null,
+        "active": 218750,
+        "gpPerHour": -435625
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-174.25) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_super_attack",
+    "skill": "HERBLORE",
+    "name": "Super attack",
+    "category": "TRAINING",
+    "minLevel": 45,
+    "requirements": [
+      "Druidic Ritual",
+      "Irit potion (unf), Eye of newt"
+    ],
+    "rates": [
+      {
+        "level": 45,
+        "afk": null,
+        "active": 250000,
+        "gpPerHour": -263750
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-105.5) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_superantipoison",
+    "skill": "HERBLORE",
+    "name": "Superantipoison",
+    "category": "TRAINING",
+    "minLevel": 48,
+    "requirements": [
+      "Druidic Ritual",
+      "Irit potion (unf), Unicorn horn dust"
+    ],
+    "rates": [
+      {
+        "level": 48,
+        "afk": null,
+        "active": 265750,
+        "gpPerHour": -3205000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-1282) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_fishing_potion",
+    "skill": "HERBLORE",
+    "name": "Fishing potion",
+    "category": "TRAINING",
+    "minLevel": 50,
+    "requirements": [
+      "Druidic Ritual",
+      "Avantoe potion (unf), Snape grass"
+    ],
+    "rates": [
+      {
+        "level": 50,
+        "afk": null,
+        "active": 281250,
+        "gpPerHour": -5942500
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-2377) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_super_energy",
+    "skill": "HERBLORE",
+    "name": "Super energy",
+    "category": "TRAINING",
+    "minLevel": 52,
+    "requirements": [
+      "Druidic Ritual",
+      "Avantoe potion (unf), Mort myre fungus"
+    ],
+    "rates": [
+      {
+        "level": 52,
+        "afk": null,
+        "active": 293750,
+        "gpPerHour": -871875
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-348.75) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_hunter_potion",
+    "skill": "HERBLORE",
+    "name": "Hunter potion",
+    "category": "TRAINING",
+    "minLevel": 53,
+    "requirements": [
+      "Druidic Ritual",
+      "Avantoe potion (unf), Kebbit teeth dust"
+    ],
+    "rates": [
+      {
+        "level": 53,
+        "afk": null,
+        "active": 300000,
+        "gpPerHour": -4475625
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-1790.25) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_super_strength",
+    "skill": "HERBLORE",
+    "name": "Super strength",
+    "category": "TRAINING",
+    "minLevel": 55,
+    "requirements": [
+      "Druidic Ritual",
+      "Kwuarm potion (unf), Limpwurt root"
+    ],
+    "rates": [
+      {
+        "level": 55,
+        "afk": null,
+        "active": 312500,
+        "gpPerHour": -330000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-132) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_haemostatic_dressing",
+    "skill": "HERBLORE",
+    "name": "Haemostatic dressing",
+    "category": "TRAINING",
+    "minLevel": 56,
+    "requirements": [
+      "Druidic Ritual",
+      "Haemostatic poultice, Cotton yarn"
+    ],
+    "rates": [
+      {
+        "level": 56,
+        "afk": null,
+        "active": 250000,
+        "gpPerHour": -1334375
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-533.75) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_prayer_regeneration_potion",
+    "skill": "HERBLORE",
+    "name": "Prayer regeneration potion",
+    "category": "TRAINING",
+    "minLevel": 58,
+    "requirements": [
+      "Druidic Ritual",
+      "Huasca potion (unf), Aldarium"
+    ],
+    "rates": [
+      {
+        "level": 58,
+        "afk": null,
+        "active": 330000,
+        "gpPerHour": -15451250
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-6180.5) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_super_fishing_potion",
+    "skill": "HERBLORE",
+    "name": "Super fishing potion",
+    "category": "TRAINING",
+    "minLevel": 62,
+    "requirements": [
+      "Druidic Ritual",
+      "Pillar potion (unf), Haddock eye"
+    ],
+    "rates": [
+      {
+        "level": 62,
+        "afk": null,
+        "active": 351250,
+        "gpPerHour": -4120000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-1648) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_super_restore",
+    "skill": "HERBLORE",
+    "name": "Super restore",
+    "category": "TRAINING",
+    "minLevel": 63,
+    "requirements": [
+      "Druidic Ritual",
+      "Snapdragon potion (unf), Red spiders' eggs"
+    ],
+    "rates": [
+      {
+        "level": 63,
+        "afk": null,
+        "active": 356000,
+        "gpPerHour": -1195411
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-478.5) x potions/hr (2498, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_super_defence",
+    "skill": "HERBLORE",
+    "name": "Super defence",
+    "category": "TRAINING",
+    "minLevel": 66,
+    "requirements": [
+      "Druidic Ritual",
+      "Cadantine potion (unf), White berries"
+    ],
+    "rates": [
+      {
+        "level": 66,
+        "afk": null,
+        "active": 375000,
+        "gpPerHour": -898750
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-359.5) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_super_hunter_potion",
+    "skill": "HERBLORE",
+    "name": "Super hunter potion",
+    "category": "TRAINING",
+    "minLevel": 67,
+    "requirements": [
+      "Druidic Ritual",
+      "Pillar potion (unf), Crab paste"
+    ],
+    "rates": [
+      {
+        "level": 67,
+        "afk": null,
+        "active": 385000,
+        "gpPerHour": -5553750
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-2221.5) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_antifire_potion",
+    "skill": "HERBLORE",
+    "name": "Antifire potion",
+    "category": "TRAINING",
+    "minLevel": 69,
+    "requirements": [
+      "Druidic Ritual",
+      "Lantadyme potion (unf), Dragon scale dust"
+    ],
+    "rates": [
+      {
+        "level": 69,
+        "afk": null,
+        "active": 393750,
+        "gpPerHour": -1998750
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-799.5) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_ranging_potion",
+    "skill": "HERBLORE",
+    "name": "Ranging potion",
+    "category": "TRAINING",
+    "minLevel": 72,
+    "requirements": [
+      "Druidic Ritual",
+      "Dwarf weed potion (unf), Wine of Zamorak"
+    ],
+    "rates": [
+      {
+        "level": 72,
+        "afk": null,
+        "active": 406250,
+        "gpPerHour": -1946875
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-778.75) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_magic_potion",
+    "skill": "HERBLORE",
+    "name": "Magic potion",
+    "category": "TRAINING",
+    "minLevel": 76,
+    "requirements": [
+      "Druidic Ritual",
+      "Lantadyme potion (unf), Potato cactus"
+    ],
+    "rates": [
+      {
+        "level": 76,
+        "afk": null,
+        "active": 431250,
+        "gpPerHour": -3030000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-1212) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_stamina_potion",
+    "skill": "HERBLORE",
+    "name": "Stamina potion",
+    "category": "TRAINING",
+    "minLevel": 77,
+    "requirements": [
+      "Druidic Ritual",
+      "Super energy(4), Amylase crystal x4"
+    ],
+    "rates": [
+      {
+        "level": 77,
+        "afk": 280500,
+        "active": 535500,
+        "gpPerHour": -3036000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-1104) x potions/hr (2750, from XP/hr / XP per potion). Active rate is with tick manipulation."
+  },
+  {
+    "id": "herblore_zamorak_brew",
+    "skill": "HERBLORE",
+    "name": "Zamorak brew",
+    "category": "TRAINING",
+    "minLevel": 78,
+    "requirements": [
+      "Druidic Ritual",
+      "Torstol potion (unf), Jangerberries"
+    ],
+    "rates": [
+      {
+        "level": 78,
+        "afk": null,
+        "active": 437500,
+        "gpPerHour": -8137500
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-3255) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_bastion_potion",
+    "skill": "HERBLORE",
+    "name": "Bastion potion",
+    "category": "TRAINING",
+    "minLevel": 80,
+    "requirements": [
+      "Druidic Ritual",
+      "Cadantine blood potion (unf), Wine of Zamorak"
+    ],
+    "rates": [
+      {
+        "level": 80,
+        "afk": null,
+        "active": 387500,
+        "gpPerHour": -3576875
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-1430.75) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_battlemage_potion",
+    "skill": "HERBLORE",
+    "name": "Battlemage potion",
+    "category": "TRAINING",
+    "minLevel": 80,
+    "requirements": [
+      "Druidic Ritual",
+      "Cadantine blood potion (unf), Potato cactus"
+    ],
+    "rates": [
+      {
+        "level": 80,
+        "afk": null,
+        "active": 387500,
+        "gpPerHour": -4280625
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-1712.25) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_saradomin_brew",
+    "skill": "HERBLORE",
+    "name": "Saradomin brew",
+    "category": "TRAINING",
+    "minLevel": 81,
+    "requirements": [
+      "Druidic Ritual",
+      "Toadflax potion (unf), Crushed nest"
+    ],
+    "rates": [
+      {
+        "level": 81,
+        "afk": null,
+        "active": 450000,
+        "gpPerHour": -3805625
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-1522.25) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_surge_potion",
+    "skill": "HERBLORE",
+    "name": "Surge potion",
+    "category": "TRAINING",
+    "minLevel": 81,
+    "requirements": [
+      "Druidic Ritual",
+      "Torstol potion (unf), Demonic tallow"
+    ],
+    "rates": [
+      {
+        "level": 81,
+        "afk": null,
+        "active": 462500,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "Profit per potion not listed."
+  },
+  {
+    "id": "herblore_extended_antifire",
+    "skill": "HERBLORE",
+    "name": "Extended antifire",
+    "category": "TRAINING",
+    "minLevel": 84,
+    "requirements": [
+      "Druidic Ritual",
+      "Antifire potion(4), Lava scale shard x4"
+    ],
+    "rates": [
+      {
+        "level": 84,
+        "afk": 302500,
+        "active": 577500,
+        "gpPerHour": -1988250
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-723) x potions/hr (2750, from XP/hr / XP per potion). Active rate is with tick manipulation."
+  },
+  {
+    "id": "herblore_ancient_brew",
+    "skill": "HERBLORE",
+    "name": "Ancient brew",
+    "category": "TRAINING",
+    "minLevel": 85,
+    "requirements": [
+      "Druidic Ritual",
+      "Dwarf weed potion (unf), Nihil dust"
+    ],
+    "rates": [
+      {
+        "level": 85,
+        "afk": null,
+        "active": 522500,
+        "gpPerHour": -15660562
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-5694.75) x potions/hr (2750, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_extended_stamina_potion",
+    "skill": "HERBLORE",
+    "name": "Extended stamina potion",
+    "category": "TRAINING",
+    "minLevel": 85,
+    "requirements": [
+      "Druidic Ritual",
+      "Stamina potion(4), Marlin scales x4"
+    ],
+    "rates": [
+      {
+        "level": 85,
+        "afk": null,
+        "active": 275000,
+        "gpPerHour": -1690000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-676) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_anti_venom",
+    "skill": "HERBLORE",
+    "name": "Anti-venom",
+    "category": "TRAINING",
+    "minLevel": 87,
+    "requirements": [
+      "Druidic Ritual",
+      "Antidote++(4), Zulrah's scales x20"
+    ],
+    "rates": [
+      {
+        "level": 87,
+        "afk": 330000,
+        "active": 630000,
+        "gpPerHour": -2332000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-848) x potions/hr (2750, from XP/hr / XP per potion). Active rate is with tick manipulation."
+  },
+  {
+    "id": "herblore_menaphite_remedy",
+    "skill": "HERBLORE",
+    "name": "Menaphite remedy",
+    "category": "TRAINING",
+    "minLevel": 88,
+    "requirements": [
+      "Druidic Ritual",
+      "Dwarf weed potion (unf), Lily of the Sands"
+    ],
+    "rates": [
+      {
+        "level": 88,
+        "afk": null,
+        "active": 500000,
+        "gpPerHour": -3410625
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-1364.25) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_armadyl_brew",
+    "skill": "HERBLORE",
+    "name": "Armadyl brew",
+    "category": "TRAINING",
+    "minLevel": 89,
+    "requirements": [
+      "Druidic Ritual",
+      "Umbral potion (unf), Rainbow crab paste"
+    ],
+    "rates": [
+      {
+        "level": 89,
+        "afk": null,
+        "active": 563750,
+        "gpPerHour": -7609250
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-2767) x potions/hr (2750, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_super_combat_potion",
+    "skill": "HERBLORE",
+    "name": "Super combat potion",
+    "category": "TRAINING",
+    "minLevel": 90,
+    "requirements": [
+      "Druidic Ritual",
+      "Super attack(4), Super strength(4), Super defence(4), Torstol"
+    ],
+    "rates": [
+      {
+        "level": 90,
+        "afk": null,
+        "active": 324900,
+        "gpPerHour": -125628
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-58) x potions/hr (2166, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_forgotten_brew",
+    "skill": "HERBLORE",
+    "name": "Forgotten brew",
+    "category": "TRAINING",
+    "minLevel": 91,
+    "requirements": [
+      "Druidic Ritual",
+      "Ancient brew(4), Ancient essence x80"
+    ],
+    "rates": [
+      {
+        "level": 91,
+        "afk": null,
+        "active": 265785,
+        "gpPerHour": -2001636
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-1092) x potions/hr (1833, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_super_antifire_potion",
+    "skill": "HERBLORE",
+    "name": "Super antifire potion",
+    "category": "TRAINING",
+    "minLevel": 92,
+    "requirements": [
+      "Druidic Ritual",
+      "Antifire potion(4), Crushed superior dragon bones"
+    ],
+    "rates": [
+      {
+        "level": 92,
+        "afk": null,
+        "active": 325000,
+        "gpPerHour": -4415000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Herblore_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr = wiki profit per potion (-1766) x potions/hr (2500, from XP/hr / XP per potion)."
+  },
+  {
+    "id": "herblore_making_tar",
+    "skill": "HERBLORE",
+    "name": "Making tar",
+    "category": "TRAINING",
+    "minLevel": 11,
+    "requirements": [
+      "Druidic Ritual",
+      "Pestle and mortar"
+    ],
+    "rates": [
+      {
+        "level": 11,
+        "afk": 170000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki lists levels 11-55. From the wiki's AFK skilling methods guide (AFK rate)."
+  },
+  {
+    "id": "herblore_cleaning_herbs_afk",
+    "skill": "HERBLORE",
+    "name": "Cleaning herbs",
+    "category": "TRAINING",
+    "minLevel": 3,
+    "requirements": [
+      "Druidic Ritual"
+    ],
+    "rates": [
+      {
+        "level": 3,
+        "afk": 45000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki lists levels 3-74. From the wiki's AFK skilling methods guide (AFK rate)."
+  }
+]

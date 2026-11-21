@@ -1,0 +1,45 @@
+{
+  "id": "crazy_archaeologist",
+  "name": "Crazy archaeologist",
+  "category": "WILDERNESS_BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Crazy_archaeologist",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Wilderness level 23"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Odium shard 2",
+      "rarity": "1/256",
+      "chance": 0.00390625,
+      "notes": ""
+    },
+    {
+      "item": "Malediction shard 2",
+      "rarity": "1/256",
+      "chance": 0.00390625,
+      "notes": ""
+    },
+    {
+      "item": "Fedora",
+      "rarity": "1/128",
+      "chance": 0.0078125,
+      "notes": ""
+    },
+    {
+      "item": "Clue scroll (hard)",
+      "rarity": "1/128",
+      "chance": 0.0078125,
+      "notes": ""
+    }
+  ],
+  "setups": [],
+  "notes": "The only Wilderness boss without a pet."
+}

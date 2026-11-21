@@ -1,0 +1,198 @@
+{
+  "id": "corporeal_beast",
+  "name": "Corporeal Beast",
+  "category": "BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Corporeal_Beast",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [],
+    "questsStarted": [],
+    "other": []
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Spectral sigil",
+      "rarity": "1/1365",
+      "chance": 0.0007326007326007326,
+      "notes": ""
+    },
+    {
+      "item": "Arcane sigil",
+      "rarity": "1/1365",
+      "chance": 0.0007326007326007326,
+      "notes": ""
+    },
+    {
+      "item": "Elysian sigil",
+      "rarity": "1/4095",
+      "chance": 0.0002442002442002442,
+      "notes": ""
+    },
+    {
+      "item": "Spirit shield",
+      "rarity": "8/512",
+      "chance": 0.015625,
+      "notes": ""
+    },
+    {
+      "item": "Holy elixir",
+      "rarity": "3/512",
+      "chance": 0.005859375,
+      "notes": ""
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/200",
+      "chance": 0.005,
+      "notes": ""
+    },
+    {
+      "item": "Jar of spirits",
+      "rarity": "1/1000",
+      "chance": 0.001,
+      "notes": ""
+    },
+    {
+      "item": "Pet dark core",
+      "rarity": "1/5000",
+      "chance": 0.0002,
+      "notes": ""
+    }
+  ],
+  "setups": [
+    {
+      "name": "Melee (solo and duo)",
+      "source": "https://oldschool.runescape.wiki/w/Corporeal_Beast/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Torva full helm"
+        ],
+        "CAPE": [
+          "Infernal cape"
+        ],
+        "NECK": [
+          "Amulet of rancour"
+        ],
+        "AMMO": [
+          "Rada's blessing 4"
+        ],
+        "WEAPON": [
+          "Noxious halberd"
+        ],
+        "BODY": [
+          "Masori body (f)"
+        ],
+        "LEGS": [
+          "Masori chaps (f)"
+        ],
+        "HANDS": [
+          "Ferocious gloves"
+        ],
+        "FEET": [
+          "Avernic treads (max)"
+        ],
+        "RING": [
+          "Ultor ring"
+        ]
+      },
+      "inventory": [
+        {
+          "item": "Dark crab",
+          "quantity": 8
+        },
+        {
+          "item": "Cooked karambwan",
+          "quantity": 6
+        },
+        {
+          "item": "Super restore(4)",
+          "quantity": 2
+        },
+        {
+          "item": "Divine super combat potion(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Elder maul",
+          "quantity": 1
+        },
+        {
+          "item": "Emberlight",
+          "quantity": 1
+        },
+        {
+          "item": "Bandos godsword",
+          "quantity": 1
+        },
+        {
+          "item": "Avernic defender",
+          "quantity": 1
+        },
+        {
+          "item": "Rune pouch",
+          "quantity": 1
+        }
+      ],
+      "notes": "Max-gear setup; the wiki also lists a stat-draining setup."
+    },
+    {
+      "name": "Stat draining",
+      "source": "https://oldschool.runescape.wiki/w/Corporeal_Beast/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Torva full helm",
+          "Inquisitor's great helm",
+          "Neitiznot faceguard",
+          "Serpentine helm",
+          "Helm of Neitiznot"
+        ],
+        "CAPE": [
+          "Infernal cape",
+          "Fire cape",
+          "Mythical cape"
+        ],
+        "NECK": [
+          "Amulet of rancour",
+          "Amulet of torture",
+          "Amulet of fury"
+        ],
+        "AMMO": [
+          "Rada's blessing 4",
+          "God blessing"
+        ],
+        "WEAPON": [
+          "Noxious halberd",
+          "Zamorakian spear",
+          "Osmumten's fang"
+        ],
+        "BODY": [
+          "Masori body (f)",
+          "Blood moon chestplate",
+          "Karil's leathertop",
+          "Elite void top"
+        ],
+        "LEGS": [
+          "Masori chaps (f)",
+          "Blood moon tassets",
+          "Karil's leatherskirt",
+          "Elite void robe"
+        ],
+        "HANDS": [
+          "Ferocious gloves",
+          "Barrows gloves"
+        ],
+        "FEET": [
+          "Avernic treads (max)",
+          "Primordial boots",
+          "Dragon boots"
+        ]
+      },
+      "inventory": [],
+      "notes": "Special attacks: Crystal halberd, Bandos godsword, Emberlight or Arclight."
+    }
+  ],
+  "notes": "No quest requirements. Wiki suggests high melee stats and 37+ Prayer."
+}

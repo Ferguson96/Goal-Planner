@@ -1,0 +1,85 @@
+{
+  "id": "wintertodt",
+  "name": "Wintertodt",
+  "category": "SKILLING_BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Reward_Cart",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [
+      {
+        "skill": "FIREMAKING",
+        "level": 50,
+        "boostable": false
+      }
+    ],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Axe",
+      "Knife",
+      "Hammer",
+      "Tinderbox or bruma torch",
+      "Warm clothing (recommended)"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Phoenix",
+      "rarity": "1/5000",
+      "chance": 0.0002,
+      "notes": ""
+    },
+    {
+      "item": "Tome of fire",
+      "rarity": "1/1000",
+      "chance": 0.001,
+      "notes": ""
+    },
+    {
+      "item": "Dragon axe",
+      "rarity": "1/10000",
+      "chance": 0.0001,
+      "notes": ""
+    },
+    {
+      "item": "Warm gloves",
+      "rarity": "1/150",
+      "chance": 0.006666666666666667,
+      "notes": ""
+    },
+    {
+      "item": "Bruma torch",
+      "rarity": "1/150",
+      "chance": 0.006666666666666667,
+      "notes": ""
+    },
+    {
+      "item": "Pyromancer garb",
+      "rarity": "1/150",
+      "chance": 0.006666666666666667,
+      "notes": ""
+    },
+    {
+      "item": "Pyromancer hood",
+      "rarity": "1/150",
+      "chance": 0.006666666666666667,
+      "notes": ""
+    },
+    {
+      "item": "Pyromancer robe",
+      "rarity": "1/150",
+      "chance": 0.006666666666666667,
+      "notes": ""
+    },
+    {
+      "item": "Pyromancer boots",
+      "rarity": "1/150",
+      "chance": 0.006666666666666667,
+      "notes": ""
+    }
+  ],
+  "setups": [],
+  "notes": "Rates are per reward roll from the Reward Cart (500 points = 2 rolls, up to 4 at 1,500 points). Pyromancer pieces come in the order you have least of."
+}

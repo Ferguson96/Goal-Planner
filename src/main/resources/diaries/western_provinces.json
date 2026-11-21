@@ -1,0 +1,723 @@
+{
+  "id": "western_provinces",
+  "name": "Western Provinces Diary",
+  "source": "https://oldschool.runescape.wiki/w/Western_Provinces_Diary",
+  "retrieved": "2026-10-27",
+  "tiers": {
+    "EASY": [
+      {
+        "id": "western_provinces_easy_1",
+        "description": "Catch a Copper Longtail.",
+        "skills": [
+          {
+            "skill": "HUNTER",
+            "level": 9,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Bird snare"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_easy_2",
+        "description": "Complete a novice Pest Control game.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Combat level 40",
+          "Commendation points needed"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_easy_3",
+        "description": "Mine Iron Ore at the Piscatoris mine.",
+        "skills": [
+          {
+            "skill": "MINING",
+            "level": 15,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any pickaxe"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_easy_4",
+        "description": "Complete a lap of the Gnome Stronghold agility course.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_easy_5",
+        "description": "Score a goal in a Gnomeball match.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_easy_6",
+        "description": "Claim a Chompy bird hat from Rantz.",
+        "skills": [],
+        "quests": [
+          "Big Chompy Bird Hunting"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Ogre bellows",
+          "Comp ogre bow",
+          "Ogre or brutal arrows",
+          "30 chompy/jubbly bird kills"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_easy_7",
+        "description": "Teleport to Pest Control via Minigame Teleport.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Combat level 40"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_easy_8",
+        "description": "Collect a swamp toad from the swamp pen northwest of the Grand Tree.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_easy_9",
+        "description": "Have Brimstail teleport you to the Essence Mine.",
+        "skills": [],
+        "quests": [
+          "Rune Mysteries"
+        ],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_easy_10",
+        "description": "Fletch an Oak Shortbow in the Gnome Stronghold.",
+        "skills": [
+          {
+            "skill": "FLETCHING",
+            "level": 20,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Oak shortbow (u)",
+          "Bow string"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_easy_11",
+        "description": "Kill a Terrorbird in the enclosure southwest of the Gnome Stronghold.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Weaponry"
+        ],
+        "notes": ""
+      }
+    ],
+    "MEDIUM": [
+      {
+        "id": "western_provinces_medium_1",
+        "description": "Take the agility shortcut from the Grand Tree to Otto's Grotto.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 37,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Tree Gnome Village",
+          "The Grand Tree"
+        ],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_medium_2",
+        "description": "Travel to the Gnome Stronghold by Spirit Tree.",
+        "skills": [],
+        "quests": [
+          "Tree Gnome Village"
+        ],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_medium_3",
+        "description": "Trap a Spined Larupia in the Feldip Hunter area.",
+        "skills": [
+          {
+            "skill": "HUNTER",
+            "level": 31,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Teasing stick",
+          "Logs",
+          "Knife"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_medium_4",
+        "description": "Fish Bass on Ape Atoll.",
+        "skills": [
+          {
+            "skill": "FISHING",
+            "level": 46,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "Monkey Madness I"
+        ],
+        "other": [
+          "Big fishing net"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_medium_5",
+        "description": "Chop and burn teak logs on Ape Atoll.",
+        "skills": [
+          {
+            "skill": "WOODCUTTING",
+            "level": 35,
+            "boostable": true
+          },
+          {
+            "skill": "FIREMAKING",
+            "level": 35,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "Monkey Madness I"
+        ],
+        "other": [
+          "Any axe",
+          "Tinderbox"
+        ],
+        "notes": "Resets if other tasks are completed in between."
+      },
+      {
+        "id": "western_provinces_medium_6",
+        "description": "Complete an intermediate Pest Control game.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Combat level 70",
+          "Commendation points needed"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_medium_7",
+        "description": "Travel to the Feldip Hills by Gnome Glider.",
+        "skills": [],
+        "quests": [
+          "The Grand Tree"
+        ],
+        "questsStarted": [
+          "One Small Favour"
+        ],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_medium_8",
+        "description": "Claim a Chompy bird hat from Rantz after 125 kills.",
+        "skills": [],
+        "quests": [
+          "Big Chompy Bird Hunting"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Ogre bellows",
+          "Comp ogre bow",
+          "Ogre or brutal arrows",
+          "125 chompy/jubbly bird kills"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_medium_9",
+        "description": "Travel from Eagles' Peak to the Feldip Hills by Eagle.",
+        "skills": [],
+        "quests": [
+          "Eagles' Peak"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Rope"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_medium_10",
+        "description": "Make a Chocolate Bomb at the Grand Tree.",
+        "skills": [
+          {
+            "skill": "COOKING",
+            "level": 42,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Gnomebowl mould",
+          "Gianne dough",
+          "4 chocolate bars",
+          "Equa leaf",
+          "2 pots of cream",
+          "Chocolate dust"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_medium_11",
+        "description": "Complete a Gnome Restaurant delivery.",
+        "skills": [
+          {
+            "skill": "COOKING",
+            "level": 29,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Gnome Restaurant tutorial completed"
+        ],
+        "notes": "Cooking 29-42 depending on the food."
+      },
+      {
+        "id": "western_provinces_medium_12",
+        "description": "Enchant a small crystal seed into a crystal saw using the singing bowl in Brimstail's cave.",
+        "skills": [],
+        "quests": [
+          "The Eyes of Glouphrie"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Crystal saw seed"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_medium_13",
+        "description": "Mine Gold ore underneath the Grand Tree.",
+        "skills": [
+          {
+            "skill": "MINING",
+            "level": 40,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "The Grand Tree"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Any pickaxe"
+        ],
+        "notes": ""
+      }
+    ],
+    "HARD": [
+      {
+        "id": "western_provinces_hard_1",
+        "description": "Kill an Elf with a Crystal bow.",
+        "skills": [
+          {
+            "skill": "RANGED",
+            "level": 70,
+            "boostable": false
+          }
+        ],
+        "quests": [
+          "Roving Elves"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Crystal bow or Bow of Faerdhinen"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_hard_2",
+        "description": "Catch and cook a Monkfish in Piscatoris.",
+        "skills": [
+          {
+            "skill": "FISHING",
+            "level": 62,
+            "boostable": true
+          },
+          {
+            "skill": "COOKING",
+            "level": 62,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Swan Song"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Small fishing net"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_hard_3",
+        "description": "Complete a veteran Pest Control game.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Combat level 100",
+          "Commendation points needed"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_hard_4",
+        "description": "Catch a Dashing Kebbit in the Piscatoris falconry area.",
+        "skills": [
+          {
+            "skill": "HUNTER",
+            "level": 69,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "500 coins"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_hard_5",
+        "description": "Complete a lap of the Ape Atoll agility course.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 48,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "Monkey Madness I"
+        ],
+        "other": [
+          "Ninja or kruk monkey greegree"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_hard_6",
+        "description": "Chop and burn mahogany logs on Ape Atoll.",
+        "skills": [
+          {
+            "skill": "WOODCUTTING",
+            "level": 50,
+            "boostable": true
+          },
+          {
+            "skill": "FIREMAKING",
+            "level": 50,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "Monkey Madness I"
+        ],
+        "other": [
+          "Any axe except felling axes",
+          "Tinderbox"
+        ],
+        "notes": "Infernal axe logs don't count."
+      },
+      {
+        "id": "western_provinces_hard_7",
+        "description": "Mine Adamantite ore in Tirannwn.",
+        "skills": [
+          {
+            "skill": "MINING",
+            "level": 70,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "Regicide"
+        ],
+        "other": [
+          "Any pickaxe"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_hard_8",
+        "description": "Check the health of a palm tree in Lletya.",
+        "skills": [
+          {
+            "skill": "FARMING",
+            "level": 68,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "Mourning's End Part I"
+        ],
+        "other": [
+          "Palm sapling",
+          "Rake",
+          "Spade"
+        ],
+        "notes": "15 papayas recommended for the gardener."
+      },
+      {
+        "id": "western_provinces_hard_9",
+        "description": "Claim a Chompy bird hat from Rantz after 300 kills.",
+        "skills": [],
+        "quests": [
+          "Big Chompy Bird Hunting"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Ogre bellows",
+          "Comp ogre bow",
+          "Ogre or brutal arrows",
+          "300 chompy/jubbly bird kills"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_hard_10",
+        "description": "Build an Isafdar painting in your POH Quest hall.",
+        "skills": [
+          {
+            "skill": "CONSTRUCTION",
+            "level": 65,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Roving Elves"
+        ],
+        "questsStarted": [],
+        "other": [
+          "3 mahogany planks",
+          "Saw",
+          "Hammer",
+          "Isafdar painting (2,000 coins from Sir Renitee)",
+          "25,000 coins to build a Quest Hall if needed"
+        ],
+        "notes": ""
+      }
+    ],
+    "ELITE": [
+      {
+        "id": "western_provinces_elite_1",
+        "description": "Fletch a Magic Longbow in Tirannwn.",
+        "skills": [
+          {
+            "skill": "FLETCHING",
+            "level": 85,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "Regicide"
+        ],
+        "other": [
+          "Magic longbow (u)",
+          "Bow string"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_elite_2",
+        "description": "Kill the Thermonuclear Smoke Devil.",
+        "skills": [
+          {
+            "skill": "SLAYER",
+            "level": 93,
+            "boostable": false
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Weaponry and armour"
+        ],
+        "notes": "No Slayer task needed for the first kill; be in the room when the death animation ends."
+      },
+      {
+        "id": "western_provinces_elite_3",
+        "description": "Have Prissy Scilla protect your Magic tree.",
+        "skills": [
+          {
+            "skill": "FARMING",
+            "level": 75,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Magic sapling",
+          "25 coconuts",
+          "Rake",
+          "Spade"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_elite_4",
+        "description": "Use the Elven overpass advanced cliffside shortcut.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 85,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Underground Pass"
+        ],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "western_provinces_elite_5",
+        "description": "Equip any complete void set.",
+        "skills": [
+          {
+            "skill": "PRAYER",
+            "level": 22,
+            "boostable": true
+          },
+          {
+            "skill": "ATTACK",
+            "level": 42,
+            "boostable": true
+          },
+          {
+            "skill": "STRENGTH",
+            "level": 42,
+            "boostable": true
+          },
+          {
+            "skill": "DEFENCE",
+            "level": 42,
+            "boostable": true
+          },
+          {
+            "skill": "HITPOINTS",
+            "level": 42,
+            "boostable": true
+          },
+          {
+            "skill": "RANGED",
+            "level": 42,
+            "boostable": true
+          },
+          {
+            "skill": "MAGIC",
+            "level": 42,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Combat level 40",
+          "Void knight top, robe and gloves, plus a void mage, ranged or melee helm"
+        ],
+        "notes": "The Prayer and 42 requirements were read from a secondary diary site (the wiki page text was cut off)."
+      },
+      {
+        "id": "western_provinces_elite_6",
+        "description": "Claim a Chompy bird hat from Rantz after registering at least 1,000 kills.",
+        "skills": [],
+        "quests": [
+          "Big Chompy Bird Hunting"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Ogre bellows",
+          "Comp ogre bow",
+          "Ogre or brutal arrows",
+          "1,000 chompy/jubbly bird kills"
+        ],
+        "notes": "Read from a secondary diary site."
+      },
+      {
+        "id": "western_provinces_elite_7",
+        "description": "Pickpocket an elf.",
+        "skills": [
+          {
+            "skill": "THIEVING",
+            "level": 85,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "Mourning's End Part I"
+        ],
+        "other": [],
+        "notes": "Read from a secondary diary site."
+      }
+    ]
+  }
+}

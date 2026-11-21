@@ -1,0 +1,39 @@
+{
+  "id": "amoxliatl",
+  "name": "Amoxliatl",
+  "category": "BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Amoxliatl",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [
+      "The Heart of Darkness"
+    ],
+    "questsStarted": [],
+    "other": []
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Glacial temotli",
+      "rarity": "1/100",
+      "chance": 0.01,
+      "notes": ""
+    },
+    {
+      "item": "Moxi",
+      "rarity": "1/3000",
+      "chance": 0.0003333333333333333,
+      "notes": ""
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/200",
+      "chance": 0.005,
+      "notes": ""
+    }
+  ],
+  "setups": [],
+  "notes": "Pendant of Ates (inert) is a 1/25 unique. Wiki money-making table lists 48 Slayer, 60+ Attack and Strength."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "the_mimic",
+  "name": "The Mimic",
+  "category": "BOSS",
+  "source": "https://oldschool.runescape.wiki/w/The_Mimic",
+  "retrieved": "2026-10-24",
+  "requirements": {
+    "skills": [],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Mimic casket from an elite or master reward casket, after enabling mimic chances with the strange casket in Watson's house"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Ring of 3rd age",
+      "rarity": "6/250",
+      "chance": 0.024,
+      "notes": "Elite casket, first attempt. Master casket first attempt is 6/228."
+    }
+  ],
+  "setups": [],
+  "notes": "Guaranteed one-time encounter on the 10th master or 25th elite casket if enabled."
+}

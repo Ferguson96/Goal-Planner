@@ -1,0 +1,176 @@
+{
+  "id": "vetion",
+  "name": "Vet'ion",
+  "category": "WILDERNESS_BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Vet%27ion",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Medium Wilderness Diary, or a matching boss Slayer task",
+      "Wilderness level 35"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Skull of Vet'ion",
+      "rarity": "1/196",
+      "chance": 0.00510204081632653,
+      "notes": ""
+    },
+    {
+      "item": "Dragon 2h sword",
+      "rarity": "1/256",
+      "chance": 0.00390625,
+      "notes": ""
+    },
+    {
+      "item": "Dragon pickaxe",
+      "rarity": "1/256",
+      "chance": 0.00390625,
+      "notes": ""
+    },
+    {
+      "item": "Voidwaker blade",
+      "rarity": "1/360",
+      "chance": 0.002777777777777778,
+      "notes": ""
+    },
+    {
+      "item": "Ring of the gods",
+      "rarity": "1/512",
+      "chance": 0.001953125,
+      "notes": ""
+    },
+    {
+      "item": "Vet'ion jr.",
+      "rarity": "1/1500",
+      "chance": 0.0006666666666666666,
+      "notes": ""
+    },
+    {
+      "item": "Long bone",
+      "rarity": "1/400",
+      "chance": 0.0025,
+      "notes": ""
+    },
+    {
+      "item": "Skeleton champion scroll",
+      "rarity": "1/5000",
+      "chance": 0.0002,
+      "notes": ""
+    },
+    {
+      "item": "Curved bone",
+      "rarity": "10/50125",
+      "chance": 0.00019950124688279303,
+      "notes": "Wiki rate 1/5,012.5."
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/100",
+      "chance": 0.01,
+      "notes": "1/50 with a ring of wealth (i) per the wiki."
+    }
+  ],
+  "setups": [
+    {
+      "name": "Example melee setup",
+      "source": "https://oldschool.runescape.wiki/w/Vet%27ion/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Helm of Neitiznot",
+          "Berserker helm",
+          "Dwarven helmet"
+        ],
+        "CAPE": [
+          "Infernal cape",
+          "Mythical cape",
+          "Fire cape"
+        ],
+        "NECK": [
+          "Salve amulet (e)",
+          "Salve amulet"
+        ],
+        "AMMO": [
+          "Rada's blessing 4",
+          "God blessing"
+        ],
+        "WEAPON": [
+          "Ursine chainmace",
+          "Viggora's chainmace",
+          "Soulreaper axe",
+          "Inquisitor's mace"
+        ],
+        "BODY": [
+          "Black d'hide body",
+          "Mixed hide top"
+        ],
+        "SHIELD": [
+          "Avernic defender",
+          "Dragon defender"
+        ],
+        "LEGS": [
+          "Black d'hide chaps",
+          "Proselyte cuisse"
+        ],
+        "HANDS": [
+          "Barrows gloves",
+          "Rune gloves"
+        ],
+        "FEET": [
+          "Mixed hide boots",
+          "Rune boots"
+        ],
+        "RING": [
+          "Ultor ring",
+          "Berserker ring (i)"
+        ]
+      },
+      "inventory": [
+        {
+          "item": "Looting bag",
+          "quantity": 1
+        },
+        {
+          "item": "Royal seed pod",
+          "quantity": 1
+        },
+        {
+          "item": "Divine super combat potion(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Revenant cave teleport",
+          "quantity": 1
+        },
+        {
+          "item": "Blighted super restore(4)",
+          "quantity": 4
+        },
+        {
+          "item": "Sanfew serum(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Saradomin brew(4)",
+          "quantity": 1
+        },
+        {
+          "item": "Blighted manta ray",
+          "quantity": 9
+        },
+        {
+          "item": "Blighted karambwan",
+          "quantity": 6
+        }
+      ],
+      "notes": "The wiki asks for 4+ restores (its grid shows 3). Wilderness: protect your most valuable items."
+    }
+  ],
+  "notes": ""
+}

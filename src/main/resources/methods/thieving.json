@@ -1,0 +1,633 @@
+[
+  {
+    "id": "thieving_blackjacking_saradomin_brews",
+    "skill": "THIEVING",
+    "name": "Blackjacking (Saradomin brews)",
+    "category": "TRAINING",
+    "minLevel": 45,
+    "requirements": [
+      "Partial The Feud",
+      "Any blackjack"
+    ],
+    "rates": [
+      {
+        "level": 45,
+        "afk": null,
+        "active": 99000,
+        "gpPerHour": null
+      },
+      {
+        "level": 50,
+        "afk": null,
+        "active": 103000,
+        "gpPerHour": null
+      },
+      {
+        "level": 55,
+        "afk": null,
+        "active": 136000,
+        "gpPerHour": null
+      },
+      {
+        "level": 60,
+        "afk": null,
+        "active": 140000,
+        "gpPerHour": null
+      },
+      {
+        "level": 65,
+        "afk": null,
+        "active": 230000,
+        "gpPerHour": null
+      },
+      {
+        "level": 70,
+        "afk": null,
+        "active": 236000,
+        "gpPerHour": null
+      },
+      {
+        "level": 75,
+        "afk": null,
+        "active": 242000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 247000,
+        "gpPerHour": null
+      },
+      {
+        "level": 85,
+        "afk": null,
+        "active": 252000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 257000,
+        "gpPerHour": null
+      },
+      {
+        "level": 95,
+        "afk": null,
+        "active": 261000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 265000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Thieving_training",
+    "retrieved": "2026-10-27",
+    "notes": "Pollnivneach bandits. Up to 270,000-275,000 XP/hr at 99 with good practice."
+  },
+  {
+    "id": "thieving_blackjacking_wine",
+    "skill": "THIEVING",
+    "name": "Blackjacking (wine)",
+    "category": "TRAINING",
+    "minLevel": 45,
+    "requirements": [
+      "Partial The Feud",
+      "Any blackjack"
+    ],
+    "rates": [
+      {
+        "level": 45,
+        "afk": null,
+        "active": 86000,
+        "gpPerHour": null
+      },
+      {
+        "level": 50,
+        "afk": null,
+        "active": 90000,
+        "gpPerHour": null
+      },
+      {
+        "level": 55,
+        "afk": null,
+        "active": 121000,
+        "gpPerHour": null
+      },
+      {
+        "level": 60,
+        "afk": null,
+        "active": 126000,
+        "gpPerHour": null
+      },
+      {
+        "level": 65,
+        "afk": null,
+        "active": 209000,
+        "gpPerHour": null
+      },
+      {
+        "level": 70,
+        "afk": null,
+        "active": 218000,
+        "gpPerHour": null
+      },
+      {
+        "level": 75,
+        "afk": null,
+        "active": 226000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 233000,
+        "gpPerHour": null
+      },
+      {
+        "level": 85,
+        "afk": null,
+        "active": 241000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 248000,
+        "gpPerHour": null
+      },
+      {
+        "level": 95,
+        "afk": null,
+        "active": 255000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 261000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Thieving_training",
+    "retrieved": "2026-10-27",
+    "notes": "Pollnivneach bandits."
+  },
+  {
+    "id": "thieving_stealing_artefacts_port_piscarilius",
+    "skill": "THIEVING",
+    "name": "Stealing artefacts (Port Piscarilius)",
+    "category": "TRAINING",
+    "minLevel": 49,
+    "requirements": [
+      "Book of the Dead or Kharedst's memoirs",
+      "Lockpick",
+      "Stamina potions"
+    ],
+    "rates": [
+      {
+        "level": 49,
+        "afk": null,
+        "active": 150000,
+        "gpPerHour": null
+      },
+      {
+        "level": 55,
+        "afk": null,
+        "active": 163000,
+        "gpPerHour": null
+      },
+      {
+        "level": 60,
+        "afk": null,
+        "active": 174000,
+        "gpPerHour": null
+      },
+      {
+        "level": 65,
+        "afk": null,
+        "active": 186000,
+        "gpPerHour": null
+      },
+      {
+        "level": 70,
+        "afk": null,
+        "active": 197000,
+        "gpPerHour": null
+      },
+      {
+        "level": 75,
+        "afk": null,
+        "active": 208000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 219000,
+        "gpPerHour": null
+      },
+      {
+        "level": 85,
+        "afk": null,
+        "active": 230000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 241000,
+        "gpPerHour": null
+      },
+      {
+        "level": 95,
+        "afk": null,
+        "active": 252000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 261000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Thieving_training",
+    "retrieved": "2026-10-27",
+    "notes": "500-1,000 coins per heist (no hourly figure). Up to 270,000-280,000 at 99 with good practice."
+  },
+  {
+    "id": "thieving_rogues_castle_chests",
+    "skill": "THIEVING",
+    "name": "Rogues' Castle chests",
+    "category": "TRAINING",
+    "minLevel": 84,
+    "requirements": [
+      "Knife",
+      "Ardougne or Edgeville lever",
+      "Protect from Melee"
+    ],
+    "rates": [
+      {
+        "level": 84,
+        "afk": null,
+        "active": 260000,
+        "gpPerHour": 2450000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Thieving_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki: 260,000-270,000 XP/hr banking loot (lower bound), 2,450,000-2,500,000 coins/hr. High PKer risk in the Wilderness."
+  },
+  {
+    "id": "thieving_pyramid_plunder",
+    "skill": "THIEVING",
+    "name": "Pyramid Plunder",
+    "category": "TRAINING",
+    "minLevel": 71,
+    "requirements": [
+      "Icthlarin's Little Helper or pharaoh's sceptre",
+      "High-healing food",
+      "Stamina potions",
+      "Antipoison"
+    ],
+    "rates": [
+      {
+        "level": 71,
+        "afk": null,
+        "active": 125000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 125000,
+        "gpPerHour": null
+      },
+      {
+        "level": 81,
+        "afk": null,
+        "active": 190000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 190000,
+        "gpPerHour": null
+      },
+      {
+        "level": 91,
+        "afk": null,
+        "active": 270000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Thieving_training",
+    "retrieved": "2026-10-27",
+    "notes": "Roughly 335 games from 91 to 99."
+  },
+  {
+    "id": "thieving_chambers_of_xeric_thieving_room",
+    "skill": "THIEVING",
+    "name": "Chambers of Xeric thieving room",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "maxLevel": 45,
+    "requirements": [
+      "Lockpick",
+      "Chambers of Xeric access"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 30000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Thieving_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki: 30,000-50,000 XP/hr (lower bound); about 1 hour to reach 40."
+  },
+  {
+    "id": "thieving_aldarin_villas_chests",
+    "skill": "THIEVING",
+    "name": "Aldarin Villas chests",
+    "category": "TRAINING",
+    "minLevel": 36,
+    "maxLevel": 45,
+    "requirements": [
+      "Lockpick",
+      "Stamina or super energy potions"
+    ],
+    "rates": [
+      {
+        "level": 36,
+        "afk": null,
+        "active": 40000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Thieving_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki: 40,000-60,000 XP/hr (lower bound); 200 XP per successful chest."
+  },
+  {
+    "id": "thieving_bakery_stalls_east_ardougne",
+    "skill": "THIEVING",
+    "name": "Bakery stalls (East Ardougne)",
+    "category": "TRAINING",
+    "minLevel": 5,
+    "maxLevel": 25,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 5,
+        "afk": null,
+        "active": 19200,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Thieving_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki: up to 19,200 XP/hr."
+  },
+  {
+    "id": "thieving_fruit_stalls_hosidius",
+    "skill": "THIEVING",
+    "name": "Fruit stalls (Hosidius)",
+    "category": "TRAINING",
+    "minLevel": 25,
+    "maxLevel": 50,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 25,
+        "afk": null,
+        "active": 34200,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Thieving_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki: 34,200 with one stall, up to 42,750 with two; lower figure used."
+  },
+  {
+    "id": "thieving_stealing_valuables_civitas_illa_fortis",
+    "skill": "THIEVING",
+    "name": "Stealing valuables (Civitas illa Fortis)",
+    "category": "TRAINING",
+    "minLevel": 50,
+    "requirements": [
+      "Children of the Sun",
+      "50 Thieving",
+      "Chisel optional"
+    ],
+    "rates": [
+      {
+        "level": 50,
+        "afk": null,
+        "active": 72000,
+        "gpPerHour": 110000
+      },
+      {
+        "level": 60,
+        "afk": null,
+        "active": 80000,
+        "gpPerHour": 110000
+      },
+      {
+        "level": 70,
+        "afk": null,
+        "active": 93000,
+        "gpPerHour": 110000
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 95000,
+        "gpPerHour": 110000
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 100000,
+        "gpPerHour": 110000
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 105000,
+        "gpPerHour": 110000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Thieving_training",
+    "retrieved": "2026-10-27",
+    "notes": "GP/hr: about 110,000 from valuables sold to Oriana plus about 6,000 from jewellery (not added in). Rogue equipment doubles house keys but not valuables."
+  },
+  {
+    "id": "thieving_knights_of_ardougne_pickpocketing",
+    "skill": "THIEVING",
+    "name": "Knights of Ardougne pickpocketing",
+    "category": "TRAINING",
+    "minLevel": 55,
+    "requirements": [
+      "Medium Ardougne Diary recommended",
+      "Dodgy necklace"
+    ],
+    "rates": [
+      {
+        "level": 55,
+        "afk": null,
+        "active": 86000,
+        "gpPerHour": null
+      },
+      {
+        "level": 60,
+        "afk": null,
+        "active": 98000,
+        "gpPerHour": null
+      },
+      {
+        "level": 65,
+        "afk": null,
+        "active": 109000,
+        "gpPerHour": null
+      },
+      {
+        "level": 70,
+        "afk": null,
+        "active": 124000,
+        "gpPerHour": null
+      },
+      {
+        "level": 75,
+        "afk": null,
+        "active": 141000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 159000,
+        "gpPerHour": null
+      },
+      {
+        "level": 85,
+        "afk": null,
+        "active": 182000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 209000,
+        "gpPerHour": null
+      },
+      {
+        "level": 95,
+        "afk": null,
+        "active": 240000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Thieving_training",
+    "retrieved": "2026-10-27",
+    "notes": "Tick-perfect 252,900 XP/hr from level 95. Wiki total profit about 7.63M coins for 55-99 (15.26M with full rogue equipment)."
+  },
+  {
+    "id": "thieving_dorgesh_kaan_rich_chests",
+    "skill": "THIEVING",
+    "name": "Dorgesh-Kaan rich chests",
+    "category": "TRAINING",
+    "minLevel": 78,
+    "requirements": [
+      "Death to the Dorgeshuun",
+      "Lockpick"
+    ],
+    "rates": [
+      {
+        "level": 78,
+        "afk": null,
+        "active": 190000,
+        "gpPerHour": 300000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Thieving_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki: 210,000-230,000 XP/hr without banking, about 190,000 with banking (lower figure used); about 300,000 coins/hr banking."
+  },
+  {
+    "id": "thieving_sorceress_s_garden_summer",
+    "skill": "THIEVING",
+    "name": "Sorceress's Garden (summer)",
+    "category": "TRAINING",
+    "minLevel": 65,
+    "requirements": [
+      "Osman access",
+      "Pestle and mortar",
+      "Beer glass"
+    ],
+    "rates": [
+      {
+        "level": 65,
+        "afk": null,
+        "active": 140000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Thieving_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki: maximum 150,000, realistic about 140,000. Winter/spring/autumn gardens list XP per glass but no hourly rate."
+  },
+  {
+    "id": "thieving_pickpocketing_vyres",
+    "skill": "THIEVING",
+    "name": "Pickpocketing vyres",
+    "category": "TRAINING",
+    "minLevel": 82,
+    "requirements": [
+      "Sins of the Father",
+      "Rogue equipment",
+      "Dodgy necklace",
+      "Hard Ardougne Diary"
+    ],
+    "rates": [
+      {
+        "level": 82,
+        "afk": null,
+        "active": 120000,
+        "gpPerHour": 2843177
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Thieving_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki: 120,000-180,000 XP/hr (lower bound). Prayer regeneration potions or Redemption for healing."
+  },
+  {
+    "id": "thieving_pickpocketing_elves_prifddinas",
+    "skill": "THIEVING",
+    "name": "Pickpocketing elves (Prifddinas)",
+    "category": "TRAINING",
+    "minLevel": 85,
+    "requirements": [
+      "Song of the Elves",
+      "Dodgy necklace",
+      "Full rogue equipment"
+    ],
+    "rates": [
+      {
+        "level": 85,
+        "afk": null,
+        "active": 150000,
+        "gpPerHour": 3949458
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Thieving_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki: about 150,000 XP/hr at 99; elves drop enhanced crystal teleport seeds."
+  }
+]

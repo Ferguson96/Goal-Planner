@@ -1,0 +1,131 @@
+{
+  "id": "cerberus",
+  "name": "Cerberus",
+  "category": "SLAYER_BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Cerberus",
+  "retrieved": "2026-10-24",
+  "requirements": {
+    "skills": [
+      {
+        "skill": "SLAYER",
+        "level": 91,
+        "boostable": true
+      }
+    ],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "A hellhound or Cerberus Slayer task",
+      "A dwarf multicannon cannot be used in the lair"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Primordial crystal",
+      "rarity": "1/520",
+      "chance": 0.0019230769230769232,
+      "notes": ""
+    },
+    {
+      "item": "Pegasian crystal",
+      "rarity": "1/520",
+      "chance": 0.0019230769230769232,
+      "notes": ""
+    },
+    {
+      "item": "Eternal crystal",
+      "rarity": "1/520",
+      "chance": 0.0019230769230769232,
+      "notes": ""
+    },
+    {
+      "item": "Smouldering stone",
+      "rarity": "1/520",
+      "chance": 0.0019230769230769232,
+      "notes": ""
+    },
+    {
+      "item": "Hellpuppy",
+      "rarity": "1/3000",
+      "chance": 0.0003333333333333333,
+      "notes": ""
+    },
+    {
+      "item": "Jar of souls",
+      "rarity": "1/2000",
+      "chance": 0.0005,
+      "notes": ""
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/100",
+      "chance": 0.01,
+      "notes": ""
+    }
+  ],
+  "setups": [
+    {
+      "name": "Melee",
+      "source": "https://oldschool.runescape.wiki/w/Cerberus/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Slayer helmet (i)",
+          "Black mask (i)"
+        ],
+        "CAPE": [
+          "Infernal cape",
+          "Fire cape"
+        ],
+        "NECK": [
+          "Amulet of rancour",
+          "Amulet of torture",
+          "Amulet of blood fury"
+        ],
+        "AMMO": [
+          "Rada's blessing 4",
+          "God blessing",
+          "Rada's blessing 3"
+        ],
+        "WEAPON": [
+          "Obligator",
+          "Scythe of Vitur",
+          "Emberlight"
+        ],
+        "BODY": [
+          "Inquisitor's hauberk",
+          "Torva platebody",
+          "Oathplate chest"
+        ],
+        "SHIELD": [
+          "Avernic defender",
+          "Spectral spirit shield",
+          "Dragon defender"
+        ],
+        "LEGS": [
+          "Inquisitor's plateskirt",
+          "Torva platelegs",
+          "Oathplate legs"
+        ],
+        "HANDS": [
+          "Ferocious gloves",
+          "Barrows gloves"
+        ],
+        "FEET": [
+          "Avernic treads (max)",
+          "Primordial boots",
+          "Echo boots"
+        ],
+        "RING": [
+          "Ultor ring",
+          "Berserker ring (i)",
+          "Lightbearer"
+        ]
+      },
+      "inventory": [],
+      "notes": "The wiki's inventory table was cut off, so no inventory is listed."
+    }
+  ],
+  "notes": ""
+}

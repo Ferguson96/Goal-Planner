@@ -1,0 +1,279 @@
+[
+  {
+    "id": "prayer_libation_blessed_wine",
+    "skill": "PRAYER",
+    "name": "Libation bowl (blessed wine, existing shards)",
+    "category": "TRAINING",
+    "minLevel": 30,
+    "requirements": [
+      "Libation bowl",
+      "Prayer shards"
+    ],
+    "rates": [
+      {
+        "level": 30,
+        "afk": null,
+        "active": 670000,
+        "gpPerHour": null
+      },
+      {
+        "level": 34,
+        "afk": null,
+        "active": 740000,
+        "gpPerHour": null
+      },
+      {
+        "level": 40,
+        "afk": null,
+        "active": 820000,
+        "gpPerHour": null
+      },
+      {
+        "level": 48,
+        "afk": null,
+        "active": 923000,
+        "gpPerHour": null
+      },
+      {
+        "level": 62,
+        "afk": null,
+        "active": 1050000,
+        "gpPerHour": null
+      },
+      {
+        "level": 88,
+        "afk": null,
+        "active": 1110000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Prayer_training",
+    "retrieved": "2026-10-19",
+    "notes": "Approximate; the last row's wiki range is 1,110,000-1,118,000 (lower bound used). Needs prayer recharge trips (7 at the start, 2 at the end)."
+  },
+  {
+    "id": "prayer_libation_sunfire_wine",
+    "skill": "PRAYER",
+    "name": "Libation bowl (sunfire wine, existing shards)",
+    "category": "TRAINING",
+    "minLevel": 30,
+    "requirements": [
+      "Libation bowl",
+      "Prayer shards"
+    ],
+    "rates": [
+      {
+        "level": 30,
+        "afk": null,
+        "active": 809000,
+        "gpPerHour": null
+      },
+      {
+        "level": 34,
+        "afk": null,
+        "active": 889000,
+        "gpPerHour": null
+      },
+      {
+        "level": 40,
+        "afk": null,
+        "active": 980000,
+        "gpPerHour": null
+      },
+      {
+        "level": 48,
+        "afk": null,
+        "active": 1100000,
+        "gpPerHour": null
+      },
+      {
+        "level": 62,
+        "afk": null,
+        "active": 1124000,
+        "gpPerHour": null
+      },
+      {
+        "level": 88,
+        "afk": null,
+        "active": 1320000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Prayer_training",
+    "retrieved": "2026-10-19",
+    "notes": "Approximate; the last row's wiki range is 1,320,000-1,420,000 (lower bound used)."
+  },
+  {
+    "id": "prayer_gilded_altar_superior",
+    "skill": "PRAYER",
+    "name": "Gilded altar (superior dragon bones)",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [
+      "Gilded altar (Construction 75, boostable)",
+      "Both burners lit (Firemaking 30)"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 1340000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Prayer_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki: about 1,340,000 XP/hr at 2,550 bones/hr, manual use; costs about 40.94 coins per XP."
+  },
+  {
+    "id": "prayer_gilded_altar_dragon",
+    "skill": "PRAYER",
+    "name": "Gilded altar (dragon bones)",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [
+      "Gilded altar (Construction 75, boostable)",
+      "Both burners lit (Firemaking 30)"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 643000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Prayer_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki: about 643,000 XP/hr at 2,550 bones/hr, manual use; costs about 14.85 coins per XP."
+  },
+  {
+    "id": "prayer_chaos_altar_superior",
+    "skill": "PRAYER",
+    "name": "Chaos altar, noted superior dragon bones",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [
+      "Wilderness level 38 temple",
+      "Noted bones"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 1800000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Prayer_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki: up to 1,800,000 XP/hr; higher with runners; high risk from player killers."
+  },
+  {
+    "id": "prayer_chaos_altar_dragon",
+    "skill": "PRAYER",
+    "name": "Chaos altar, noted dragon bones",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [
+      "Wilderness level 38 temple",
+      "Noted bones"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 860000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Prayer_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki: up to 860,000 XP/hr; high risk from player killers."
+  },
+  {
+    "id": "prayer_chaos_altar_suicide_superior",
+    "skill": "PRAYER",
+    "name": "Chaos altar suicide method (superior dragon bones)",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [
+      "Wilderness level 38 temple"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 1050000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Prayer_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki: about 1,050,000 XP/hr. Each respawn point costs 5,000,000 coins."
+  },
+  {
+    "id": "prayer_chaos_altar_suicide_dragon",
+    "skill": "PRAYER",
+    "name": "Chaos altar suicide method (dragon bones)",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [
+      "Wilderness level 38 temple"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 500000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Prayer_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki: about 500,000 XP/hr."
+  },
+  {
+    "id": "prayer_urium_remains",
+    "skill": "PRAYER",
+    "name": "Cremating urium remains",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [
+      "Zealot's robes recommended",
+      "Firemaking 95 for urium remains (80 for fiyr remains)"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 35000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Prayer_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki: 35,000 base; up to 57,000 with the hard Morytania diary and max efficiency. 9,070,056 coins upfront for 648 remains."
+  },
+  {
+    "id": "prayer_calcified_rocks",
+    "skill": "PRAYER",
+    "name": "Mining calcified rocks (banked shards)",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [
+      "Cam Torum mine"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 11000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Prayer_training",
+    "retrieved": "2026-10-19",
+    "notes": "Wiki: about 11,000-13,200 banked Prayer XP/hr (lower bound used); 20,000+ with optimal gear and focus."
+  }
+]

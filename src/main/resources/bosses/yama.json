@@ -1,0 +1,45 @@
+{
+  "id": "yama",
+  "name": "Yama",
+  "category": "BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Yama",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [
+      "A Kingdom Divided"
+    ],
+    "questsStarted": [],
+    "other": []
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Soulflame horn",
+      "rarity": "2/600",
+      "chance": 0.0033333333333333335,
+      "notes": ""
+    },
+    {
+      "item": "Oathplate helm",
+      "rarity": "1/600",
+      "chance": 0.0016666666666666668,
+      "notes": ""
+    },
+    {
+      "item": "Oathplate chest",
+      "rarity": "1/600",
+      "chance": 0.0016666666666666668,
+      "notes": ""
+    },
+    {
+      "item": "Yami",
+      "rarity": "1/2500",
+      "chance": 0.0004,
+      "notes": ""
+    }
+  ],
+  "setups": [],
+  "notes": "The drop table was cut off in the page text read; other Oathplate pieces are not listed here."
+}

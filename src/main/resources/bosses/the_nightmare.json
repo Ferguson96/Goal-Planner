@@ -1,0 +1,190 @@
+{
+  "id": "the_nightmare",
+  "name": "The Nightmare",
+  "category": "BOSS",
+  "source": "https://oldschool.runescape.wiki/w/The_Nightmare",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Morytania access"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Nightmare staff",
+      "rarity": "1/300",
+      "chance": 0.0033333333333333335,
+      "notes": "Wiki: 1/300-1/171.5 depending on team size."
+    },
+    {
+      "item": "Inquisitor's great helm",
+      "rarity": "1/420",
+      "chance": 0.002380952380952381,
+      "notes": "Wiki: 1/420-1/240.1 by team size."
+    },
+    {
+      "item": "Inquisitor's hauberk",
+      "rarity": "1/420",
+      "chance": 0.002380952380952381,
+      "notes": "Wiki: 1/420-1/240.1 by team size."
+    },
+    {
+      "item": "Inquisitor's plateskirt",
+      "rarity": "1/420",
+      "chance": 0.002380952380952381,
+      "notes": "Wiki: 1/420-1/240.1 by team size."
+    },
+    {
+      "item": "Inquisitor's mace",
+      "rarity": "1/750",
+      "chance": 0.0013333333333333333,
+      "notes": "Wiki: 1/750-1/428.7 by team size."
+    },
+    {
+      "item": "Eldritch orb",
+      "rarity": "1/960",
+      "chance": 0.0010416666666666667,
+      "notes": "Wiki: 1/960-1/548.7 by team size."
+    },
+    {
+      "item": "Harmonised orb",
+      "rarity": "1/960",
+      "chance": 0.0010416666666666667,
+      "notes": "Wiki: 1/960-1/548.7 by team size."
+    },
+    {
+      "item": "Volatile orb",
+      "rarity": "1/960",
+      "chance": 0.0010416666666666667,
+      "notes": "Wiki: 1/960-1/548.7 by team size."
+    },
+    {
+      "item": "Little nightmare",
+      "rarity": "1/800",
+      "chance": 0.00125,
+      "notes": "Solo rate; 1/1,600 for 2, up to 1/4,000 for 5+."
+    },
+    {
+      "item": "Jar of dreams",
+      "rarity": "1/2000",
+      "chance": 0.0005,
+      "notes": ""
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/200",
+      "chance": 0.005,
+      "notes": ""
+    }
+  ],
+  "setups": [
+    {
+      "name": "Melee",
+      "source": "https://oldschool.runescape.wiki/w/The_Nightmare/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Inquisitor's great helm",
+          "Torva full helm",
+          "Neitiznot faceguard",
+          "Serpentine helm",
+          "Helm of Neitiznot"
+        ],
+        "CAPE": [
+          "Infernal cape",
+          "Fire cape",
+          "Mythical cape"
+        ],
+        "NECK": [
+          "Amulet of rancour",
+          "Amulet of blood fury",
+          "Amulet of torture",
+          "Amulet of fury"
+        ],
+        "AMMO": [
+          "Rada's blessing 4",
+          "God blessing"
+        ],
+        "WEAPON": [
+          "Scythe of vitur",
+          "Inquisitor's mace",
+          "Soulreaper axe",
+          "Abyssal bludgeon",
+          "Dual macuahuitl",
+          "Zamorakian hasta"
+        ],
+        "BODY": [
+          "Inquisitor's hauberk",
+          "Torva platebody",
+          "Bandos chestplate",
+          "Blood moon chestplate",
+          "Fighter torso"
+        ],
+        "SHIELD": [
+          "Avernic defender",
+          "Dragon defender"
+        ],
+        "LEGS": [
+          "Inquisitor's plateskirt",
+          "Torva platelegs",
+          "Bandos tassets",
+          "Blood moon tassets"
+        ],
+        "HANDS": [
+          "Ferocious gloves",
+          "Barrows gloves",
+          "Combat bracelet"
+        ],
+        "FEET": [
+          "Avernic treads (max)",
+          "Primordial boots",
+          "Dragon boots"
+        ],
+        "RING": [
+          "Ultor ring",
+          "Berserker ring (i)"
+        ]
+      },
+      "inventory": [
+        {
+          "item": "Anglerfish",
+          "quantity": 6
+        },
+        {
+          "item": "Divine super combat potion(4)",
+          "quantity": 3
+        },
+        {
+          "item": "Super restore(4)",
+          "quantity": 5
+        },
+        {
+          "item": "Sanfew serum(4)",
+          "quantity": 3
+        },
+        {
+          "item": "Saradomin godsword",
+          "quantity": 1
+        },
+        {
+          "item": "Book of the dead",
+          "quantity": 1
+        },
+        {
+          "item": "Saturated heart",
+          "quantity": 1
+        },
+        {
+          "item": "Rune pouch",
+          "quantity": 1
+        }
+      ],
+      "notes": "Quantities read from the wiki's inventory grid."
+    }
+  ],
+  "notes": "Rates scale with team size; the base figure from the wiki range is stored."
+}

@@ -1,0 +1,66 @@
+{
+  "id": "tempoross",
+  "name": "Tempoross",
+  "category": "SKILLING_BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Tempoross",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [
+      {
+        "skill": "FISHING",
+        "level": 35,
+        "boostable": false
+      }
+    ],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Rope (not with the Spirit angler outfit)",
+      "Bucket",
+      "Hammer",
+      "Harpoon (not needed with barbarian fishing)"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Fish barrel",
+      "rarity": "1/400",
+      "chance": 0.0025,
+      "notes": ""
+    },
+    {
+      "item": "Tackle box",
+      "rarity": "1/400",
+      "chance": 0.0025,
+      "notes": ""
+    },
+    {
+      "item": "Big harpoonfish",
+      "rarity": "1/1600",
+      "chance": 0.000625,
+      "notes": ""
+    },
+    {
+      "item": "Tome of water (empty)",
+      "rarity": "1/1600",
+      "chance": 0.000625,
+      "notes": ""
+    },
+    {
+      "item": "Dragon harpoon",
+      "rarity": "1/8000",
+      "chance": 0.000125,
+      "notes": ""
+    },
+    {
+      "item": "Tiny tempor",
+      "rarity": "1/8000",
+      "chance": 0.000125,
+      "notes": ""
+    }
+  ],
+  "setups": [],
+  "notes": "Rates are per reward-pool roll, not per game. Wiki XP/hr (not cooking): 30,000 at 35 to 74,000 at 99."
+}

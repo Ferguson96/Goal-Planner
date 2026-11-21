@@ -1,0 +1,678 @@
+{
+  "id": "ardougne",
+  "name": "Ardougne Diary",
+  "source": "https://oldschool.runescape.wiki/w/Ardougne_Diary",
+  "retrieved": "2026-10-27",
+  "tiers": {
+    "EASY": [
+      {
+        "id": "ardougne_easy_1",
+        "description": "Have Wizard Cromperty teleport you to the Rune Essence mine.",
+        "skills": [],
+        "quests": [
+          "Rune Mysteries"
+        ],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_easy_2",
+        "description": "Steal a cake from the Ardougne market stalls.",
+        "skills": [
+          {
+            "skill": "THIEVING",
+            "level": 5,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_easy_3",
+        "description": "Sell silk to the silk merchant in Ardougne for 60 coins each.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Silk"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_easy_4",
+        "description": "Use the altar in East Ardougne's church while below full Prayer points.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_easy_5",
+        "description": "Go out fishing on the Fishing Trawler.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": "Starting it is enough."
+      },
+      {
+        "id": "ardougne_easy_6",
+        "description": "Enter the Combat Training Camp north of West Ardougne.",
+        "skills": [],
+        "quests": [
+          "Biohazard"
+        ],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_easy_7",
+        "description": "Have Tindel Marchant identify a rusty sword.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Rusty sword",
+          "100 coins"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_easy_8",
+        "description": "Use the Ardougne lever to teleport to the Wilderness.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_easy_9",
+        "description": "View Aleck's Hunter Emporium in Yanille.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_easy_10",
+        "description": "Check which pets you have insured with Probita in Ardougne.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      }
+    ],
+    "MEDIUM": [
+      {
+        "id": "ardougne_medium_1",
+        "description": "Enter the Unicorn pen in Ardougne zoo using fairy rings.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [
+          "Fairytale II - Cure a Queen"
+        ],
+        "other": [
+          "Dramen or Lunar staff (fairy ring code BIS)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_medium_2",
+        "description": "Grapple over Yanille's south wall.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 39,
+            "boostable": true
+          },
+          {
+            "skill": "STRENGTH",
+            "level": 38,
+            "boostable": true
+          },
+          {
+            "skill": "RANGED",
+            "level": 21,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Mith grapple",
+          "Any crossbow"
+        ],
+        "notes": "Ironmen need Ancient Cavern access, or 59 Smithing and 59 Fletching, for the grapple."
+      },
+      {
+        "id": "ardougne_medium_3",
+        "description": "Harvest strawberries from the Ardougne farming patch.",
+        "skills": [
+          {
+            "skill": "FARMING",
+            "level": 31,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "3 strawberry seeds",
+          "Spade",
+          "Seed dibber (or Barbarian Farming)",
+          "Rake"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_medium_4",
+        "description": "Cast the Ardougne Teleport spell.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 51,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Plague City"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Runes: 2 water, 2 law"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_medium_5",
+        "description": "Travel to Castle Wars by Hot Air Balloon.",
+        "skills": [
+          {
+            "skill": "FIREMAKING",
+            "level": 50,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Enlightened Journey"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Yew logs",
+          "1 normal log to depart to Taverley"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_medium_6",
+        "description": "Claim buckets of sand from Bert in Yanille.",
+        "skills": [],
+        "quests": [
+          "The Hand in the Sand"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Bucket"
+        ],
+        "notes": "Quest not required for Ultimate Ironmen."
+      },
+      {
+        "id": "ardougne_medium_7",
+        "description": "Catch any fish on the Fishing Platform.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [
+          "Sea Slug"
+        ],
+        "other": [
+          "Small fishing net"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_medium_8",
+        "description": "Pickpocket the master farmer north of Ardougne.",
+        "skills": [
+          {
+            "skill": "THIEVING",
+            "level": 38,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_medium_9",
+        "description": "Collect some Nightshade from the Skavid Caves (northernmost cave).",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [
+          "Watchtower"
+        ],
+        "other": [
+          "Any light source",
+          "Skavid map"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_medium_10",
+        "description": "Kill a swordchick in the Tower of Life.",
+        "skills": [],
+        "quests": [
+          "Tower of Life"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Raw chicken",
+          "Raw swordfish",
+          "Weaponry"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_medium_11",
+        "description": "Equip Iban's upgraded staff or upgrade an Iban's staff.",
+        "skills": [],
+        "quests": [
+          "Underground Pass"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Iban's upgraded staff, or 200,000 coins and an Iban's staff for the Dark Mage in West Ardougne"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_medium_12",
+        "description": "Visit the island east of the Necromancer's Tower.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [
+          "Fairytale II - Cure a Queen"
+        ],
+        "other": [
+          "Dramen or Lunar staff (fairy ring code AIR)"
+        ],
+        "notes": ""
+      }
+    ],
+    "HARD": [
+      {
+        "id": "ardougne_hard_1",
+        "description": "Recharge some Jewellery at the Totem in the Legends Guild.",
+        "skills": [],
+        "quests": [
+          "Legends' Quest"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Less than fully charged skills necklace or combat bracelet"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_hard_2",
+        "description": "Enter the Magic Guild.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 66,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_hard_3",
+        "description": "Steal from a chest in Ardougne Castle.",
+        "skills": [
+          {
+            "skill": "THIEVING",
+            "level": 72,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Lockpick (recommended)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_hard_4",
+        "description": "Have a zookeeper put you in Ardougne Zoo's monkey cage.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [
+          "Monkey Madness I"
+        ],
+        "other": [
+          "Karamjan monkey greegree"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_hard_5",
+        "description": "Teleport to the Watchtower.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 58,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Watchtower"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Runes: 2 earth, 2 law"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_hard_6",
+        "description": "Catch a Red Salamander.",
+        "skills": [
+          {
+            "skill": "HUNTER",
+            "level": 59,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Rope",
+          "Small fishing net"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_hard_7",
+        "description": "Check the health of a palm tree near Tree Gnome Village.",
+        "skills": [
+          {
+            "skill": "FARMING",
+            "level": 68,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Palm sapling",
+          "Spade",
+          "Rake"
+        ],
+        "notes": "15 papaya fruit recommended to pay the gardener."
+      },
+      {
+        "id": "ardougne_hard_8",
+        "description": "Pick some Poison Ivy berries from the patch south of Ardougne.",
+        "skills": [
+          {
+            "skill": "FARMING",
+            "level": 70,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Poison ivy seed",
+          "Seed dibber (or Barbarian Farming)",
+          "Rake"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_hard_9",
+        "description": "Smith a Mithril platebody near Ardougne.",
+        "skills": [
+          {
+            "skill": "SMITHING",
+            "level": 68,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "5 mithril bars",
+          "Hammer"
+        ],
+        "notes": "Use the Port Khazard, Yanille or West Ardougne anvil."
+      },
+      {
+        "id": "ardougne_hard_10",
+        "description": "Enter your POH from Yanille.",
+        "skills": [
+          {
+            "skill": "CONSTRUCTION",
+            "level": 50,
+            "boostable": false
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "25,000 coins for the estate agent to move your house to Yanille"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_hard_11",
+        "description": "Smith a Dragon sq shield in West Ardougne.",
+        "skills": [
+          {
+            "skill": "SMITHING",
+            "level": 60,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [
+          "Plague City"
+        ],
+        "other": [
+          "Shield left half",
+          "Shield right half",
+          "Hammer"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_hard_12",
+        "description": "Craft Death runes from Essence.",
+        "skills": [
+          {
+            "skill": "RUNECRAFT",
+            "level": 65,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Mourning's End Part II"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Pure or daeyalt essence",
+          "Access to the Death Altar via the Abyss"
+        ],
+        "notes": ""
+      }
+    ],
+    "ELITE": [
+      {
+        "id": "ardougne_elite_1",
+        "description": "Catch a Manta ray in the Fishing Trawler and cook it in Port Khazard.",
+        "skills": [
+          {
+            "skill": "FISHING",
+            "level": 81,
+            "boostable": false
+          },
+          {
+            "skill": "COOKING",
+            "level": 91,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Raw manta ray (several recommended)"
+        ],
+        "notes": "Completing or updating another task in between resets progress."
+      },
+      {
+        "id": "ardougne_elite_2",
+        "description": "Picklock the door to the basement of Yanille Agility Dungeon.",
+        "skills": [
+          {
+            "skill": "THIEVING",
+            "level": 82,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Lockpick"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_elite_3",
+        "description": "Pickpocket a Hero.",
+        "skills": [
+          {
+            "skill": "THIEVING",
+            "level": 80,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_elite_4",
+        "description": "Make a rune crossbow yourself from scratch within Witchaven or Yanille.",
+        "skills": [
+          {
+            "skill": "CRAFTING",
+            "level": 10,
+            "boostable": true
+          },
+          {
+            "skill": "SMITHING",
+            "level": 91,
+            "boostable": true
+          },
+          {
+            "skill": "FLETCHING",
+            "level": 69,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Yew logs",
+          "Runite bar",
+          "Hammer",
+          "Knife",
+          "Sinew or tree root"
+        ],
+        "notes": "String at the Witchaven spinning wheel, limbs at the Yanille anvil. Resets if another task is completed in between."
+      },
+      {
+        "id": "ardougne_elite_5",
+        "description": "Imbue a Salve amulet at the Nightmare Zone, or equip one imbued there.",
+        "skills": [],
+        "quests": [
+          "Haunted Mine"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Nightmare Zone access",
+          "Salve amulet(i) or (ei), or 800,000 NMZ points to imbue a normal one (400,000 with Hard Combat Achievements)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_elite_6",
+        "description": "Pick some Torstol from the herb patch north of Ardougne.",
+        "skills": [
+          {
+            "skill": "FARMING",
+            "level": 85,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Torstol seed",
+          "Seed dibber (or Barbarian Farming)",
+          "Rake"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_elite_7",
+        "description": "Complete a lap of the Ardougne rooftop agility course.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 90,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "ardougne_elite_8",
+        "description": "Cast Ice Barrage on another player within Castle Wars.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 94,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Desert Treasure I"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Runes: 6 water, 2 blood, 4 death per cast"
+        ],
+        "notes": "The spell must hit. Rows 7 and 8 were read from a secondary diary site."
+      }
+    ]
+  }
+}

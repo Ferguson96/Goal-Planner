@@ -1,0 +1,732 @@
+{
+  "id": "morytania",
+  "name": "Morytania Diary",
+  "source": "https://oldschool.runescape.wiki/w/Morytania_Diary",
+  "retrieved": "2026-10-27",
+  "tiers": {
+    "EASY": [
+      {
+        "id": "morytania_easy_1",
+        "description": "Craft any snelm from scratch in Morytania (not in Mort Myre Swamp).",
+        "skills": [
+          {
+            "skill": "CRAFTING",
+            "level": 15,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Priest in Peril"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Chisel",
+          "Any blamish shell"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "morytania_easy_2",
+        "description": "Cook a thin snail on the Port Phasmatys range.",
+        "skills": [
+          {
+            "skill": "COOKING",
+            "level": 12,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Priest in Peril"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Thin snail",
+          "2 ecto-tokens or Ghosts Ahoy completed to enter Port Phasmatys, or coins for a charter"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "morytania_easy_3",
+        "description": "Get a slayer task from the Canifis slayer master.",
+        "skills": [],
+        "quests": [
+          "Priest in Peril"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Combat level 20"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "morytania_easy_4",
+        "description": "Kill a banshee in the Slayer Tower.",
+        "skills": [
+          {
+            "skill": "SLAYER",
+            "level": 15,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Priest in Peril"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Earmuffs or slayer helmet recommended"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "morytania_easy_5",
+        "description": "Have Sbott in Canifis tan a hide.",
+        "skills": [],
+        "quests": [
+          "Priest in Peril"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Any tannable hide",
+          "2-45 coins depending on the hide"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "morytania_easy_6",
+        "description": "Enter Mort Myre Swamp.",
+        "skills": [],
+        "quests": [
+          "Priest in Peril"
+        ],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "morytania_easy_7",
+        "description": "Kill a ghoul.",
+        "skills": [],
+        "quests": [
+          "Priest in Peril"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Weaponry"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "morytania_easy_8",
+        "description": "Place a scarecrow in the Morytania flower patch.",
+        "skills": [
+          {
+            "skill": "FARMING",
+            "level": 23,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Priest in Peril"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Bronze spear",
+          "Watermelon",
+          "Hay sack"
+        ],
+        "notes": "Ironmen need Farming 47 or the ability to kill gryphons."
+      },
+      {
+        "id": "morytania_easy_9",
+        "description": "Offer bonemeal at the Ectofuntus.",
+        "skills": [],
+        "quests": [
+          "Priest in Peril"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Pot",
+          "Bucket",
+          "Any bones"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "morytania_easy_10",
+        "description": "Kill a werewolf in human form with a Wolfbane dagger.",
+        "skills": [],
+        "quests": [
+          "Priest in Peril"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Wolfbane"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "morytania_easy_11",
+        "description": "Restore prayer points at the nature altar.",
+        "skills": [],
+        "quests": [
+          "Priest in Peril",
+          "Nature Spirit"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Dramen or Lunar staff recommended"
+        ],
+        "notes": "Prayer points must be below full."
+      }
+    ],
+    "MEDIUM": [
+      {
+        "id": "morytania_medium_1",
+        "description": "Catch a swamp lizard.",
+        "skills": [
+          {
+            "skill": "HUNTER",
+            "level": 29,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Priest in Peril"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Rope",
+          "Small fishing net"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "morytania_medium_2",
+        "description": "Complete a lap of the Canifis agility course.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 40,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Priest in Peril"
+        ],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "morytania_medium_3",
+        "description": "Obtain bark from a hollow tree.",
+        "skills": [
+          {
+            "skill": "WOODCUTTING",
+            "level": 45,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Priest in Peril"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Any axe"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "morytania_medium_4",
+        "description": "Travel to Dragontooth Isle.",
+        "skills": [],
+        "quests": [
+          "Priest in Peril"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Ghostspeak amulet",
+          "25 ecto-tokens (10 with Ring of Charos(a))"
+        ],
+        "notes": "Completed automatically during Ghosts Ahoy."
+      },
+      {
+        "id": "morytania_medium_5",
+        "description": "Kill a terror dog.",
+        "skills": [
+          {
+            "skill": "SLAYER",
+            "level": 40,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Priest in Peril",
+          "Lair of Tarn Razorlor"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Weaponry",
+          "Slayer ring recommended"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "morytania_medium_6",
+        "description": "Complete a game of Trouble Brewing.",
+        "skills": [
+          {
+            "skill": "COOKING",
+            "level": 40,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Priest in Peril",
+          "Cabin Fever"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Empty inventory and head slot",
+          "At least one opposing player"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "morytania_medium_7",
+        "description": "Board the Swamp Boaty at the Hollows.",
+        "skills": [],
+        "quests": [
+          "Priest in Peril"
+        ],
+        "questsStarted": [
+          "Nature Spirit"
+        ],
+        "other": [
+          "Dramen or Lunar staff recommended"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "morytania_medium_8",
+        "description": "Make a batch of cannonballs at the Port Phasmatys furnace.",
+        "skills": [
+          {
+            "skill": "SMITHING",
+            "level": 35,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Priest in Peril",
+          "Dwarf Cannon"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Steel bar and ammo mould (or 2 steel bars and double ammo mould)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "morytania_medium_9",
+        "description": "Kill a fever spider on Braindeath Island.",
+        "skills": [
+          {
+            "skill": "SLAYER",
+            "level": 42,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Priest in Peril"
+        ],
+        "questsStarted": [
+          "Rum Deal"
+        ],
+        "other": [
+          "Weaponry"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "morytania_medium_10",
+        "description": "Use an ectophial to return to Port Phasmatys.",
+        "skills": [],
+        "quests": [
+          "Priest in Peril",
+          "Ghosts Ahoy"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Ectophial"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "morytania_medium_11",
+        "description": "Mix a Guthix Balance potion in Morytania.",
+        "skills": [
+          {
+            "skill": "HERBLORE",
+            "level": 22,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Priest in Peril"
+        ],
+        "questsStarted": [
+          "In Aid of the Myreque"
+        ],
+        "other": [
+          "Restore potion",
+          "Garlic",
+          "Silver dust"
+        ],
+        "notes": ""
+      }
+    ],
+    "HARD": [
+      {
+        "id": "morytania_hard_1",
+        "description": "Enter the Kharyrll Portal in your POH.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 66,
+            "boostable": true
+          },
+          {
+            "skill": "CONSTRUCTION",
+            "level": 50,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Priest in Peril",
+          "Desert Treasure I"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Portal chamber built (100,000 coins, 2 limestone bricks, 3 teak planks, hammer, saw)",
+          "200 law runes and 100 blood runes (2000 and 1000 with a portal nexus)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "morytania_hard_2",
+        "description": "Climb the advanced spike chain in the Slayer Tower.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 71,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Priest in Peril"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Slayer helmet or nose peg recommended"
+        ],
+        "notes": "Only a successful climb counts."
+      },
+      {
+        "id": "morytania_hard_3",
+        "description": "Harvest watermelon from the Allotment patch on Harmony Island.",
+        "skills": [
+          {
+            "skill": "FARMING",
+            "level": 47,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Priest in Peril"
+        ],
+        "questsStarted": [
+          "The Great Brain Robbery"
+        ],
+        "other": [
+          "Watermelon seeds",
+          "Spade",
+          "Seed dibber (or Barbarian Farming)",
+          "Rake"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "morytania_hard_4",
+        "description": "Chop and burn mahogany logs on Mos Le'Harmless.",
+        "skills": [
+          {
+            "skill": "WOODCUTTING",
+            "level": 50,
+            "boostable": true
+          },
+          {
+            "skill": "FIREMAKING",
+            "level": 50,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Priest in Peril",
+          "Cabin Fever"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Any axe",
+          "Tinderbox"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "morytania_hard_5",
+        "description": "Complete a temple trek with a hard companion.",
+        "skills": [],
+        "quests": [
+          "Priest in Peril",
+          "In Aid of the Myreque"
+        ],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "morytania_hard_6",
+        "description": "Kill a cave horror.",
+        "skills": [
+          {
+            "skill": "SLAYER",
+            "level": 58,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Priest in Peril",
+          "Cabin Fever"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Witchwood icon",
+          "Light source"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "morytania_hard_7",
+        "description": "Harvest bittercap mushrooms from the Canifis patch.",
+        "skills": [
+          {
+            "skill": "FARMING",
+            "level": 53,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Priest in Peril"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Mushroom spore",
+          "Seed dibber (or Barbarian Farming)",
+          "Rake"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "morytania_hard_8",
+        "description": "Pray at the Altar of Nature with Piety activated.",
+        "skills": [
+          {
+            "skill": "PRAYER",
+            "level": 70,
+            "boostable": false
+          },
+          {
+            "skill": "DEFENCE",
+            "level": 70,
+            "boostable": false
+          }
+        ],
+        "quests": [
+          "Priest in Peril",
+          "Nature Spirit",
+          "Knight Waves Training Grounds"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Dramen or Lunar staff recommended"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "morytania_hard_9",
+        "description": "Use the shortcut to reach the bridge over the River Salve, going downwards.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 65,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Priest in Peril"
+        ],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "morytania_hard_10",
+        "description": "Mine mithril ore in the Abandoned Mine.",
+        "skills": [
+          {
+            "skill": "MINING",
+            "level": 55,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Priest in Peril",
+          "Haunted Mine"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Any pickaxe",
+          "Crystal-mine key recommended"
+        ],
+        "notes": ""
+      }
+    ],
+    "ELITE": [
+      {
+        "id": "morytania_elite_1",
+        "description": "Catch a shark in Burgh de Rott with your bare hands.",
+        "skills": [
+          {
+            "skill": "FISHING",
+            "level": 96,
+            "boostable": true
+          },
+          {
+            "skill": "STRENGTH",
+            "level": 76,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Priest in Peril"
+        ],
+        "questsStarted": [
+          "In Aid of the Myreque"
+        ],
+        "other": [],
+        "notes": "Bank or drop any dragon harpoon first, or it won't count as barehanded."
+      },
+      {
+        "id": "morytania_elite_2",
+        "description": "Cremate any Shade remains on a Magic or Redwood pyre.",
+        "skills": [
+          {
+            "skill": "FIREMAKING",
+            "level": 80,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Priest in Peril",
+          "Shades of Mort'ton"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Magic or redwood pyre logs",
+          "Any Shade remains",
+          "Tinderbox"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "morytania_elite_3",
+        "description": "Fertilize the Morytania herb patch using Lunar Magic.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 83,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Priest in Peril",
+          "Lunar Diplomacy"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Lunar spellbook",
+          "Runes: 15 earth, 3 astral, 2 nature"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "morytania_elite_4",
+        "description": "Craft a Black dragonhide body in Canifis bank.",
+        "skills": [
+          {
+            "skill": "CRAFTING",
+            "level": 84,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Priest in Peril"
+        ],
+        "questsStarted": [],
+        "other": [
+          "3 black dragon leather",
+          "Needle and thread (or costume needle)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "morytania_elite_5",
+        "description": "Kill an Abyssal demon in the Slayer Tower.",
+        "skills": [
+          {
+            "skill": "SLAYER",
+            "level": 85,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Priest in Peril"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Weaponry"
+        ],
+        "notes": "Upper-floor demons don't need a Slayer task; basement demons do."
+      },
+      {
+        "id": "morytania_elite_6",
+        "description": "Loot the Barrows chest while wearing a complete Barrows set.",
+        "skills": [
+          {
+            "skill": "DEFENCE",
+            "level": 70,
+            "boostable": false
+          }
+        ],
+        "quests": [
+          "Priest in Peril"
+        ],
+        "questsStarted": [],
+        "other": [
+          "A complete Barrows set including its weapon"
+        ],
+        "notes": "The set's weapon and other requirements (e.g. Ahrim's: Attack 70, Magic 70) were cut off in the page text; check the wiki."
+      }
+    ]
+  }
+}

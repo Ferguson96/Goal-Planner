@@ -1,0 +1,1287 @@
+[
+  {
+    "id": "fishing_fly",
+    "skill": "FISHING",
+    "name": "Fly fishing (AFK / 3-tick)",
+    "category": "TRAINING",
+    "minLevel": 20,
+    "requirements": [
+      "Fly fishing rod",
+      "Feathers",
+      "3-tick needs herb on swamp tar and tick manipulation"
+    ],
+    "rates": [
+      {
+        "level": 20,
+        "afk": 13000,
+        "active": 23000,
+        "gpPerHour": null
+      },
+      {
+        "level": 30,
+        "afk": 25000,
+        "active": 45000,
+        "gpPerHour": null
+      },
+      {
+        "level": 40,
+        "afk": 30000,
+        "active": 53000,
+        "gpPerHour": null
+      },
+      {
+        "level": 50,
+        "afk": 34000,
+        "active": 61000,
+        "gpPerHour": null
+      },
+      {
+        "level": 60,
+        "afk": 37000,
+        "active": 68000,
+        "gpPerHour": null
+      },
+      {
+        "level": 70,
+        "afk": 41000,
+        "active": 75000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": 44000,
+        "active": 81000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": 47000,
+        "active": 87000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": 50000,
+        "active": 93000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "afk = AFK fly fishing, active = 3-tick."
+  },
+  {
+    "id": "fishing_barbarian",
+    "skill": "FISHING",
+    "name": "Barbarian fishing (AFK / 3-tick)",
+    "category": "TRAINING",
+    "minLevel": 48,
+    "requirements": [
+      "Partial Barbarian Training",
+      "Barbarian rod",
+      "Bait",
+      "30 Agility and Strength for leaping salmon, 45 for leaping sturgeon",
+      "3-tick needs knife and logs"
+    ],
+    "rates": [
+      {
+        "level": 48,
+        "afk": 23000,
+        "active": 41000,
+        "gpPerHour": null
+      },
+      {
+        "level": 58,
+        "afk": 37000,
+        "active": 68000,
+        "gpPerHour": null
+      },
+      {
+        "level": 70,
+        "afk": 48000,
+        "active": 90000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": 52000,
+        "active": 97000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": 54000,
+        "active": 103000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": 57000,
+        "active": 108000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "Fishing XP only. Also gives Strength/Agility XP (about 2,300-5,200/hr AFK) and Cooking XP with 3-tick cut-eat (assumes 99 Cooking)."
+  },
+  {
+    "id": "fishing_harpoon_2tick",
+    "skill": "FISHING",
+    "name": "2-tick swordfish/tuna (harpoon)",
+    "category": "TRAINING",
+    "minLevel": 35,
+    "requirements": [
+      "Harpoon",
+      "Shortbow with no ammo",
+      "Auto retaliate",
+      "Rats at Port Piscarilius (or darts in the Fishing Guild on a PvP world)"
+    ],
+    "rates": [
+      {
+        "level": 35,
+        "afk": null,
+        "active": 25400,
+        "gpPerHour": null
+      },
+      {
+        "level": 50,
+        "afk": null,
+        "active": 60700,
+        "gpPerHour": null
+      },
+      {
+        "level": 61,
+        "afk": null,
+        "active": 69600,
+        "gpPerHour": null
+      },
+      {
+        "level": 71,
+        "afk": null,
+        "active": 78400,
+        "gpPerHour": null
+      },
+      {
+        "level": 85,
+        "afk": null,
+        "active": 90200,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 103400,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "Active only. Wiki says up to 137,000 XP/hr at 99 at maximum efficiency."
+  },
+  {
+    "id": "fishing_harpoon_2tick_dragon",
+    "skill": "FISHING",
+    "name": "2-tick swordfish/tuna (dragon harpoon)",
+    "category": "TRAINING",
+    "minLevel": 61,
+    "requirements": [
+      "Dragon harpoon",
+      "Shortbow with no ammo",
+      "Auto retaliate",
+      "Rats at Port Piscarilius"
+    ],
+    "rates": [
+      {
+        "level": 61,
+        "afk": null,
+        "active": 79900,
+        "gpPerHour": null
+      },
+      {
+        "level": 71,
+        "afk": null,
+        "active": 91000,
+        "gpPerHour": null
+      },
+      {
+        "level": 85,
+        "afk": null,
+        "active": 104900,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 120000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "Active only."
+  },
+  {
+    "id": "fishing_harpoon_2tick_crystal",
+    "skill": "FISHING",
+    "name": "2-tick swordfish/tuna (crystal harpoon)",
+    "category": "TRAINING",
+    "minLevel": 71,
+    "requirements": [
+      "Crystal harpoon",
+      "Shortbow with no ammo",
+      "Auto retaliate",
+      "Rats at Port Piscarilius"
+    ],
+    "rates": [
+      {
+        "level": 71,
+        "afk": null,
+        "active": 101800,
+        "gpPerHour": null
+      },
+      {
+        "level": 85,
+        "afk": null,
+        "active": 116900,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 132800,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "Active only."
+  },
+  {
+    "id": "fishing_leechfin",
+    "skill": "FISHING",
+    "name": "Leechfin fishing",
+    "category": "TRAINING",
+    "minLevel": 72,
+    "requirements": [
+      "78 Fishing (boostable, e.g. super fishing potion)",
+      "The Blood Moon Rises",
+      "Big fishing net",
+      "Angler's outfit assumed"
+    ],
+    "rates": [
+      {
+        "level": 72,
+        "afk": null,
+        "active": 92000,
+        "gpPerHour": null
+      },
+      {
+        "level": 78,
+        "afk": null,
+        "active": 109000,
+        "gpPerHour": null
+      },
+      {
+        "level": 85,
+        "afk": null,
+        "active": 116000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 122000,
+        "gpPerHour": null
+      },
+      {
+        "level": 95,
+        "afk": null,
+        "active": 127000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 130000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "Level 72 figure is boosted and listed as 92,000+. Wiki lists a single rate, so it is stored as active."
+  },
+  {
+    "id": "fishing_tempoross_harpoon",
+    "skill": "FISHING",
+    "name": "Tempoross (regular harpoon, not cooking)",
+    "category": "MINIGAME",
+    "minLevel": 35,
+    "requirements": [
+      "Tempoross minigame",
+      "Regular harpoon"
+    ],
+    "rates": [
+      {
+        "level": 35,
+        "afk": null,
+        "active": 30000,
+        "gpPerHour": null
+      },
+      {
+        "level": 70,
+        "afk": null,
+        "active": 62000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 65000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 68000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 70000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "Not cooking the harpoonfish: more XP, less loot. Mass world."
+  },
+  {
+    "id": "fishing_tempoross_dragon",
+    "skill": "FISHING",
+    "name": "Tempoross (dragon harpoon, not cooking)",
+    "category": "MINIGAME",
+    "minLevel": 70,
+    "requirements": [
+      "Tempoross minigame",
+      "Dragon harpoon"
+    ],
+    "rates": [
+      {
+        "level": 70,
+        "afk": null,
+        "active": 66000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 69000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 72000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 74000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "Not cooking the harpoonfish. Mass world."
+  },
+  {
+    "id": "fishing_tempoross_infernal",
+    "skill": "FISHING",
+    "name": "Tempoross (infernal harpoon, not cooking)",
+    "category": "MINIGAME",
+    "minLevel": 80,
+    "requirements": [
+      "Tempoross minigame",
+      "Infernal harpoon"
+    ],
+    "rates": [
+      {
+        "level": 80,
+        "afk": null,
+        "active": 71000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 74000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 76000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "Not cooking the harpoonfish. Mass world."
+  },
+  {
+    "id": "fishing_tempoross_crystal",
+    "skill": "FISHING",
+    "name": "Tempoross (crystal harpoon, not cooking)",
+    "category": "MINIGAME",
+    "minLevel": 70,
+    "requirements": [
+      "Tempoross minigame",
+      "Crystal harpoon"
+    ],
+    "rates": [
+      {
+        "level": 70,
+        "afk": null,
+        "active": 77000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 85000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 92000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 95000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "Not cooking the harpoonfish. Wiki says up to 102,000 XP/hr at 99 solo. Mass world."
+  },
+  {
+    "id": "fishing_tempoross_cook_harpoon",
+    "skill": "FISHING",
+    "name": "Tempoross (regular harpoon, cooking)",
+    "category": "MINIGAME",
+    "minLevel": 35,
+    "requirements": [
+      "Tempoross minigame",
+      "Regular harpoon"
+    ],
+    "rates": [
+      {
+        "level": 35,
+        "afk": null,
+        "active": 22000,
+        "gpPerHour": null
+      },
+      {
+        "level": 70,
+        "afk": null,
+        "active": 52000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 56000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 60000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 64000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "Cooking the harpoonfish: less XP, more reward points."
+  },
+  {
+    "id": "fishing_tempoross_cook_dragon",
+    "skill": "FISHING",
+    "name": "Tempoross (dragon harpoon, cooking)",
+    "category": "MINIGAME",
+    "minLevel": 70,
+    "requirements": [
+      "Tempoross minigame",
+      "Dragon harpoon"
+    ],
+    "rates": [
+      {
+        "level": 70,
+        "afk": null,
+        "active": 54000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 58000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 62000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 66000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "Cooking the harpoonfish: less XP, more reward points."
+  },
+  {
+    "id": "fishing_tempoross_cook_infernal",
+    "skill": "FISHING",
+    "name": "Tempoross (infernal harpoon, cooking)",
+    "category": "MINIGAME",
+    "minLevel": 80,
+    "requirements": [
+      "Tempoross minigame",
+      "Infernal harpoon"
+    ],
+    "rates": [
+      {
+        "level": 80,
+        "afk": null,
+        "active": 60000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 64000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 68000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "Cooking the harpoonfish: less XP, more reward points."
+  },
+  {
+    "id": "fishing_tempoross_cook_crystal",
+    "skill": "FISHING",
+    "name": "Tempoross (crystal harpoon, cooking)",
+    "category": "MINIGAME",
+    "minLevel": 70,
+    "requirements": [
+      "Tempoross minigame",
+      "Crystal harpoon"
+    ],
+    "rates": [
+      {
+        "level": 70,
+        "afk": null,
+        "active": 58000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 62000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 66000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 70000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "Cooking the harpoonfish: less XP, more reward points."
+  },
+  {
+    "id": "fishing_drift_net",
+    "skill": "FISHING",
+    "name": "Drift net fishing",
+    "category": "TRAINING",
+    "minLevel": 47,
+    "requirements": [
+      "44 Hunter",
+      "Bone Voyage",
+      "Fishbowl helmet, diving apparatus, flippers",
+      "Drift nets (consumed)",
+      "Access: 200 numulites/day or 20,000 for permanent access"
+    ],
+    "rates": [
+      {
+        "level": 47,
+        "afk": null,
+        "active": 53130,
+        "gpPerHour": -178710
+      },
+      {
+        "level": 50,
+        "afk": null,
+        "active": 57500,
+        "gpPerHour": -178710
+      },
+      {
+        "level": 55,
+        "afk": null,
+        "active": 64745,
+        "gpPerHour": -178710
+      },
+      {
+        "level": 60,
+        "afk": null,
+        "active": 72450,
+        "gpPerHour": -178710
+      },
+      {
+        "level": 65,
+        "afk": null,
+        "active": 80270,
+        "gpPerHour": -178710
+      },
+      {
+        "level": 70,
+        "afk": null,
+        "active": 88550,
+        "gpPerHour": -178710
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "Wiki table stops at level 70, so rates above 70 reuse the level-70 figure. Assumes 1,150 shoals/hr; drift nets cost 178,710 GP/hr at GE prices when read. Also gives Hunter XP (about 60,000-117,000/hr)."
+  },
+  {
+    "id": "fishing_aerial",
+    "skill": "FISHING",
+    "name": "Aerial fishing",
+    "category": "TRAINING",
+    "minLevel": 43,
+    "requirements": [
+      "43 Fishing, 35 Hunter",
+      "Cormorant",
+      "King worms or fish offcuts",
+      "Island in Lake Molch"
+    ],
+    "rates": [
+      {
+        "level": 43,
+        "afk": null,
+        "active": 27600,
+        "gpPerHour": null
+      },
+      {
+        "level": 56,
+        "afk": null,
+        "active": 30133,
+        "gpPerHour": null
+      },
+      {
+        "level": 73,
+        "afk": null,
+        "active": 49284,
+        "gpPerHour": null
+      },
+      {
+        "level": 91,
+        "afk": null,
+        "active": 77474,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 93890,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "Assumes 2,400 fish/hr. Wiki lists a single rate, stored as active. Also gives Hunter XP. The wiki's level-73 total row does not add up, so check that row on the wiki."
+  },
+  {
+    "id": "fishing_monkfish",
+    "skill": "FISHING",
+    "name": "Monkfish",
+    "category": "TRAINING",
+    "minLevel": 62,
+    "requirements": [
+      "Swan Song",
+      "Small fishing net"
+    ],
+    "rates": [
+      {
+        "level": 62,
+        "afk": null,
+        "active": 35800,
+        "gpPerHour": 27118
+      },
+      {
+        "level": 70,
+        "afk": null,
+        "active": 37000,
+        "gpPerHour": 28028
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 38500,
+        "gpPerHour": 29211
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 40000,
+        "gpPerHour": 30394
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 42000,
+        "gpPerHour": 31850
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "Land or raft at sea (75 Sailing). Wiki lists a single rate, stored as active."
+  },
+  {
+    "id": "fishing_karambwan",
+    "skill": "FISHING",
+    "name": "Karambwan",
+    "category": "TRAINING",
+    "minLevel": 65,
+    "requirements": [
+      "Tai Bwo Wannai Trio",
+      "Karambwan vessel",
+      "Raw karambwanji (caught with a small fishing net)",
+      "Fish barrel recommended"
+    ],
+    "rates": [
+      {
+        "level": 65,
+        "afk": null,
+        "active": 26500,
+        "gpPerHour": 147900
+      },
+      {
+        "level": 70,
+        "afk": null,
+        "active": 28600,
+        "gpPerHour": 158100
+      },
+      {
+        "level": 75,
+        "afk": null,
+        "active": 30600,
+        "gpPerHour": 167790
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 32700,
+        "gpPerHour": 177990
+      },
+      {
+        "level": 85,
+        "afk": null,
+        "active": 34700,
+        "gpPerHour": 187680
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 36700,
+        "gpPerHour": 197370
+      },
+      {
+        "level": 95,
+        "afk": null,
+        "active": 38600,
+        "gpPerHour": 207060
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 40000,
+        "gpPerHour": 214200
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "XP is the wiki's average including time spent catching karambwanji (pure karambwan XP/hr is higher, 29,000-42,000). Up to 900+ karambwan/hr at best. Wiki lists a single rate, stored as active."
+  },
+  {
+    "id": "fishing_deep_sea_krill_linen",
+    "skill": "FISHING",
+    "name": "Deep sea trawling: giant krill (linen net)",
+    "category": "TRAINING",
+    "minLevel": 69,
+    "requirements": [
+      "Sloop with two nets",
+      "Linen net",
+      "Bait"
+    ],
+    "rates": [
+      {
+        "level": 69,
+        "afk": null,
+        "active": 19900,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "Fishing XP with bait. Also about 16,000 Sailing XP/hr. Wiki section is flagged incomplete."
+  },
+  {
+    "id": "fishing_deep_sea_krill_cotton",
+    "skill": "FISHING",
+    "name": "Deep sea trawling: giant krill (cotton net)",
+    "category": "TRAINING",
+    "minLevel": 69,
+    "requirements": [
+      "Sloop with two nets",
+      "Cotton net",
+      "Bait"
+    ],
+    "rates": [
+      {
+        "level": 69,
+        "afk": null,
+        "active": 26000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "Fishing XP with bait. Also about 43,000 Sailing XP/hr. Wiki section is flagged incomplete."
+  },
+  {
+    "id": "fishing_deep_sea_haddock_cotton",
+    "skill": "FISHING",
+    "name": "Deep sea trawling: haddock (cotton net)",
+    "category": "TRAINING",
+    "minLevel": 73,
+    "requirements": [
+      "Sloop with two nets",
+      "Cotton net",
+      "Bait"
+    ],
+    "rates": [
+      {
+        "level": 73,
+        "afk": null,
+        "active": 27000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "Fishing XP with bait. Also about 44,000 Sailing XP/hr. Wiki section is flagged incomplete."
+  },
+  {
+    "id": "fishing_deep_sea_halibut_cotton",
+    "skill": "FISHING",
+    "name": "Deep sea trawling: halibut (cotton net)",
+    "category": "TRAINING",
+    "minLevel": 83,
+    "requirements": [
+      "Sloop with two nets",
+      "Cotton net",
+      "Bait"
+    ],
+    "rates": [
+      {
+        "level": 83,
+        "afk": null,
+        "active": 34000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "Wiki range 34,000-38,000 with bait; lower bound used. Also 57,000-60,000 Sailing XP/hr with extractor. Wiki section is flagged incomplete."
+  },
+  {
+    "id": "fishing_deep_sea_bluefin_cotton",
+    "skill": "FISHING",
+    "name": "Deep sea trawling: bluefin (cotton net)",
+    "category": "TRAINING",
+    "minLevel": 87,
+    "requirements": [
+      "Sloop with two nets",
+      "Cotton net",
+      "Bait"
+    ],
+    "rates": [
+      {
+        "level": 87,
+        "afk": null,
+        "active": 37000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "Wiki range 37,000-43,000 with bait; lower bound used. Also 57,000-60,000 Sailing XP/hr with extractor. Wiki section is flagged incomplete."
+  },
+  {
+    "id": "fishing_infernal_eel",
+    "skill": "FISHING",
+    "name": "Infernal eel",
+    "category": "TRAINING",
+    "minLevel": 80,
+    "requirements": [
+      "Fire cape shown to a TzHaar-Ket guard",
+      "Oily fishing rod",
+      "Fishing bait",
+      "Ice gloves",
+      "Hammer"
+    ],
+    "rates": [
+      {
+        "level": 80,
+        "afk": null,
+        "active": 29700,
+        "gpPerHour": 149959
+      },
+      {
+        "level": 90,
+        "afk": null,
+        "active": 31800,
+        "gpPerHour": 160929
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 34000,
+        "gpPerHour": 171900
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "GP/hr shown is without Tokkul (with Tokkul: 194,624 / 208,862 / 223,100). Wiki lists a single rate, stored as active."
+  },
+  {
+    "id": "fishing_anglerfish_sea",
+    "skill": "FISHING",
+    "name": "Anglerfish (sea, no diabolic worms)",
+    "category": "TRAINING",
+    "minLevel": 82,
+    "requirements": [
+      "82 Fishing",
+      "Fishing rod",
+      "Sandworms",
+      "Player boat (sloop with high-tier cargo hold recommended)"
+    ],
+    "rates": [
+      {
+        "level": 82,
+        "afk": 15000,
+        "active": null,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": 23000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "Wiki calls the sea spot an 'extremely AFK option'. Only levels 82 and 90 are listed, so rates above 90 reuse the level-90 figure. Wiki totals for 82-99: 88,445 anglerfish, about 111.7M GP profit raw."
+  },
+  {
+    "id": "fishing_anglerfish_diabolic",
+    "skill": "FISHING",
+    "name": "Anglerfish (with diabolic worms)",
+    "category": "TRAINING",
+    "minLevel": 82,
+    "requirements": [
+      "82 Fishing",
+      "Fishing rod",
+      "Diabolic worms"
+    ],
+    "rates": [
+      {
+        "level": 82,
+        "afk": null,
+        "active": 30000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": null,
+        "active": 39000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "Wiki says about 30,000 XP/hr at 82 and 39,000 at 99. The level 82 to 99 totals are on the wiki page."
+  },
+  {
+    "id": "fishing_sharks",
+    "skill": "FISHING",
+    "name": "Sharks at sea",
+    "category": "TRAINING",
+    "minLevel": 76,
+    "requirements": [
+      "Harpoon",
+      "Boat"
+    ],
+    "rates": [
+      {
+        "level": 76,
+        "afk": 22550,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "24,805 with a fish barrel. From the wiki's AFK skilling methods guide (AFK rate)."
+  },
+  {
+    "id": "fishing_minnows",
+    "skill": "FISHING",
+    "name": "Minnows",
+    "category": "TRAINING",
+    "minLevel": 82,
+    "requirements": [
+      "Fishing Contest",
+      "Full angler's outfit shown to Kylie Minnow",
+      "Small fishing net"
+    ],
+    "rates": [],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
+    "retrieved": "2026-10-16",
+    "notes": "Rate table could not be read from the wiki yet, so no time is estimated. Level requirement from the wiki Fishing page."
+  },
+  {
+    "id": "fishing_sacred_eel",
+    "skill": "FISHING",
+    "name": "Sacred eels",
+    "category": "TRAINING",
+    "minLevel": 87,
+    "requirements": [
+      "Regicide (Zul-Andra)"
+    ],
+    "rates": [
+      {
+        "level": 87,
+        "afk": 27300,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "From the wiki's AFK skilling methods guide (AFK rate)."
+  },
+  {
+    "id": "fishing_dark_crab",
+    "skill": "FISHING",
+    "name": "Dark crabs",
+    "category": "TRAINING",
+    "minLevel": 85,
+    "requirements": [
+      "Lobster pot",
+      "Dark fishing bait"
+    ],
+    "rates": [
+      {
+        "level": 85,
+        "afk": 40040,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "From the wiki's AFK skilling methods guide (AFK rate)."
+  },
+  {
+    "id": "fishing_net_shrimp_anchovy",
+    "skill": "FISHING",
+    "name": "Net fishing (shrimp and anchovies)",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "maxLevel": 20,
+    "requirements": [
+      "Small fishing net"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 1500,
+        "gpPerHour": null
+      },
+      {
+        "level": 15,
+        "afk": null,
+        "active": 7500,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Free-to-play_Fishing_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki: 1,500-3,000 at level 1 (lower bound); about 7,500 once anchovies unlock at 15."
+  },
+  {
+    "id": "fishing_bait_sardine_herring",
+    "skill": "FISHING",
+    "name": "Bait fishing (sardine and herring)",
+    "category": "TRAINING",
+    "minLevel": 5,
+    "maxLevel": 20,
+    "requirements": [
+      "Fishing rod",
+      "Fishing bait"
+    ],
+    "rates": [
+      {
+        "level": 5,
+        "afk": null,
+        "active": 3000,
+        "gpPerHour": null
+      },
+      {
+        "level": 10,
+        "afk": null,
+        "active": 8000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Free-to-play_Fishing_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki: 3,000-8,000 (8,000 once herring unlock at level 10)."
+  },
+  {
+    "id": "fishing_fly_fishing_f2p",
+    "skill": "FISHING",
+    "name": "Fly fishing trout/salmon (AFK and 3-tick)",
+    "category": "TRAINING",
+    "minLevel": 20,
+    "requirements": [
+      "Fly fishing rod",
+      "Feathers"
+    ],
+    "rates": [
+      {
+        "level": 20,
+        "afk": 13000,
+        "active": 23000,
+        "gpPerHour": null
+      },
+      {
+        "level": 30,
+        "afk": 25000,
+        "active": 45000,
+        "gpPerHour": null
+      },
+      {
+        "level": 40,
+        "afk": 30000,
+        "active": 53000,
+        "gpPerHour": null
+      },
+      {
+        "level": 50,
+        "afk": 34000,
+        "active": 61000,
+        "gpPerHour": null
+      },
+      {
+        "level": 60,
+        "afk": 37000,
+        "active": 68000,
+        "gpPerHour": null
+      },
+      {
+        "level": 70,
+        "afk": 41000,
+        "active": 75000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": 44000,
+        "active": 81000,
+        "gpPerHour": null
+      },
+      {
+        "level": 90,
+        "afk": 47000,
+        "active": 87000,
+        "gpPerHour": null
+      },
+      {
+        "level": 99,
+        "afk": 50000,
+        "active": 93000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Free-to-play_Fishing_training",
+    "retrieved": "2026-10-27",
+    "notes": "Active column is 3-tick fishing."
+  },
+  {
+    "id": "fishing_cave_eel",
+    "skill": "FISHING",
+    "name": "Cave eels",
+    "category": "TRAINING",
+    "minLevel": 38,
+    "requirements": [],
+    "rates": [
+      {
+        "level": 38,
+        "afk": 40000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "From the wiki's AFK skilling methods guide (AFK rate)."
+  }
+]

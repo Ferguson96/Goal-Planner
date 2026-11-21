@@ -1,0 +1,179 @@
+{
+  "id": "vorkath",
+  "name": "Vorkath",
+  "category": "BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Vorkath",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [
+      "Dragon Slayer II"
+    ],
+    "questsStarted": [],
+    "other": []
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Dragonbone necklace",
+      "rarity": "1/1000",
+      "chance": 0.001,
+      "notes": ""
+    },
+    {
+      "item": "Jar of decay",
+      "rarity": "1/3000",
+      "chance": 0.0003333333333333333,
+      "notes": ""
+    },
+    {
+      "item": "Draconic visage",
+      "rarity": "1/5000",
+      "chance": 0.0002,
+      "notes": ""
+    },
+    {
+      "item": "Skeletal visage",
+      "rarity": "1/5000",
+      "chance": 0.0002,
+      "notes": ""
+    }
+  ],
+  "setups": [
+    {
+      "name": "Ranged (crossbow)",
+      "source": "https://oldschool.runescape.wiki/w/Vorkath/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Masori mask (f)",
+          "Crystal helm",
+          "Masori mask",
+          "Karil's coif",
+          "Blessed coif"
+        ],
+        "CAPE": [
+          "Dizana's quiver",
+          "Ava's assembler",
+          "Ava's accumulator"
+        ],
+        "NECK": [
+          "Salve amulet(ei)"
+        ],
+        "AMMO": [
+          "Ruby dragon bolts (e)",
+          "Diamond dragon bolts (e)",
+          "Ruby bolts (e)",
+          "Diamond bolts (e)"
+        ],
+        "WEAPON": [
+          "Dragon hunter crossbow",
+          "Toxic blowpipe",
+          "Bow of faerdhinen",
+          "Armadyl crossbow",
+          "Rune crossbow"
+        ],
+        "BODY": [
+          "Masori body (f)",
+          "Crystal body",
+          "Masori body",
+          "Karil's leathertop",
+          "Black d'hide body"
+        ],
+        "LEGS": [
+          "Masori chaps (f)",
+          "Crystal legs",
+          "Masori chaps",
+          "Karil's leatherskirt",
+          "Black d'hide chaps"
+        ],
+        "SHIELD": [
+          "Dragonfire ward",
+          "Twisted buckler",
+          "Anti-dragon shield"
+        ],
+        "HANDS": [
+          "Zaryte vambraces",
+          "Barrows gloves"
+        ],
+        "FEET": [
+          "Avernic treads (max)",
+          "Pegasian boots",
+          "Ranger boots",
+          "Blessed boots"
+        ],
+        "RING": [
+          "Venator ring",
+          "Lightbearer",
+          "Archers ring (i)",
+          "Ring of suffering (ri)"
+        ]
+      },
+      "inventory": [],
+      "notes": "Bring diamond bolts to switch to. The wiki's inventory list was cut off; it mentions runes for Crumble Undead and a rune pouch."
+    },
+    {
+      "name": "Melee",
+      "source": "https://oldschool.runescape.wiki/w/Vorkath/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Torva full helm",
+          "Neitiznot faceguard",
+          "Serpentine helm",
+          "Helm of Neitiznot"
+        ],
+        "CAPE": [
+          "Infernal cape",
+          "Fire cape"
+        ],
+        "NECK": [
+          "Salve amulet(ei)",
+          "Amulet of rancour",
+          "Amulet of torture"
+        ],
+        "AMMO": [
+          "Rada's blessing 4",
+          "God blessing"
+        ],
+        "WEAPON": [
+          "Dragon hunter lance",
+          "Osmumten's fang",
+          "Ghrazi rapier",
+          "Zamorakian hasta"
+        ],
+        "BODY": [
+          "Torva platebody",
+          "Bandos chestplate",
+          "Barrows platebody"
+        ],
+        "SHIELD": [
+          "Dragonfire shield",
+          "Avernic defender",
+          "Dragon defender"
+        ],
+        "LEGS": [
+          "Torva platelegs",
+          "Bandos tassets",
+          "Barrows platelegs"
+        ],
+        "HANDS": [
+          "Ferocious gloves",
+          "Barrows gloves"
+        ],
+        "FEET": [
+          "Avernic treads (max)",
+          "Primordial boots",
+          "Dragon boots"
+        ],
+        "RING": [
+          "Ultor ring",
+          "Berserker ring (i)",
+          "Lightbearer"
+        ]
+      },
+      "inventory": [],
+      "notes": ""
+    }
+  ],
+  "notes": "Rates read from the item pages. Vorki (pet) is a Vorkath unique but its rate was not captured. Wiki recommends 90 Ranged or 90 Attack with 70-74+ Prayer."
+}

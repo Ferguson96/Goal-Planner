@@ -1,0 +1,1292 @@
+[
+  {
+    "id": "crafting_cutting_uncut_gems",
+    "skill": "CRAFTING",
+    "name": "Cutting uncut gems",
+    "category": "TRAINING",
+    "minLevel": 20,
+    "requirements": [
+      "Uncut gems",
+      "Chisel"
+    ],
+    "rates": [
+      {
+        "level": 20,
+        "afk": null,
+        "active": 139000,
+        "gpPerHour": null
+      },
+      {
+        "level": 27,
+        "afk": null,
+        "active": 187650,
+        "gpPerHour": null
+      },
+      {
+        "level": 34,
+        "afk": null,
+        "active": 236300,
+        "gpPerHour": null
+      },
+      {
+        "level": 43,
+        "afk": null,
+        "active": 298850,
+        "gpPerHour": null
+      },
+      {
+        "level": 55,
+        "afk": null,
+        "active": 382250,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Assumes 2,780 gems/hr; onyx excluded. Jeweller's chisel gives higher rates (152,750 at 20 up to 420,060 at 55). Wiki GP/XP: -0.50 (20) to -21.35 (55)."
+  },
+  {
+    "id": "crafting_battlestaves",
+    "skill": "CRAFTING",
+    "name": "Battlestaves",
+    "category": "TRAINING",
+    "minLevel": 54,
+    "requirements": [
+      "Battlestaff, orbs"
+    ],
+    "rates": [
+      {
+        "level": 54,
+        "afk": null,
+        "active": 245000,
+        "gpPerHour": null
+      },
+      {
+        "level": 58,
+        "afk": null,
+        "active": 275625,
+        "gpPerHour": null
+      },
+      {
+        "level": 62,
+        "afk": null,
+        "active": 306250,
+        "gpPerHour": null
+      },
+      {
+        "level": 66,
+        "afk": null,
+        "active": 336875,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Assumes 2,450 staves/hr. Wiki GP/XP: -0.40 (54), -0.34 (58), -2.16 (62), -2.36 (66). Table continues to 77/99 on the wiki but was not captured."
+  },
+  {
+    "id": "crafting_dragonhide_bodies_green",
+    "skill": "CRAFTING",
+    "name": "Dragonhide bodies (green)",
+    "category": "TRAINING",
+    "minLevel": 63,
+    "requirements": [
+      "Dragon leather",
+      "Needle and thread or costume needle"
+    ],
+    "rates": [
+      {
+        "level": 63,
+        "afk": null,
+        "active": 313410,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki XP/hr uses a costume needle at 1,705 actions/hr; profit per body 4833 at the wiki's prices (not converted to GP/hr)."
+  },
+  {
+    "id": "crafting_dragonhide_bodies_blue",
+    "skill": "CRAFTING",
+    "name": "Dragonhide bodies (blue)",
+    "category": "TRAINING",
+    "minLevel": 71,
+    "requirements": [
+      "Dragon leather",
+      "Needle and thread or costume needle"
+    ],
+    "rates": [
+      {
+        "level": 71,
+        "afk": null,
+        "active": 353850,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki XP/hr uses a costume needle at 1,705 actions/hr; profit per body 5784 at the wiki's prices (not converted to GP/hr)."
+  },
+  {
+    "id": "crafting_dragonhide_bodies_red",
+    "skill": "CRAFTING",
+    "name": "Dragonhide bodies (red)",
+    "category": "TRAINING",
+    "minLevel": 77,
+    "requirements": [
+      "Dragon leather",
+      "Needle and thread or costume needle"
+    ],
+    "rates": [
+      {
+        "level": 77,
+        "afk": null,
+        "active": 394290,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki XP/hr uses a costume needle at 1,705 actions/hr; profit per body 7653 at the wiki's prices (not converted to GP/hr)."
+  },
+  {
+    "id": "crafting_dragonhide_bodies_black",
+    "skill": "CRAFTING",
+    "name": "Dragonhide bodies (black)",
+    "category": "TRAINING",
+    "minLevel": 84,
+    "requirements": [
+      "Dragon leather",
+      "Needle and thread or costume needle"
+    ],
+    "rates": [
+      {
+        "level": 84,
+        "afk": null,
+        "active": 434730,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki XP/hr uses a costume needle at 1,705 actions/hr; profit per body 10128 at the wiki's prices (not converted to GP/hr)."
+  },
+  {
+    "id": "crafting_molten_glass",
+    "skill": "CRAFTING",
+    "name": "Molten glass",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [
+      "Glassblowing pipe",
+      "Molten glass"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 30625,
+        "gpPerHour": null
+      },
+      {
+        "level": 4,
+        "afk": null,
+        "active": 33250,
+        "gpPerHour": null
+      },
+      {
+        "level": 12,
+        "afk": null,
+        "active": 43750,
+        "gpPerHour": null
+      },
+      {
+        "level": 33,
+        "afk": null,
+        "active": 61250,
+        "gpPerHour": null
+      },
+      {
+        "level": 42,
+        "afk": null,
+        "active": 74375,
+        "gpPerHour": null
+      },
+      {
+        "level": 46,
+        "afk": null,
+        "active": 91875,
+        "gpPerHour": null
+      },
+      {
+        "level": 49,
+        "afk": null,
+        "active": 96250,
+        "gpPerHour": null
+      },
+      {
+        "level": 87,
+        "afk": null,
+        "active": 122500,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Assumes 1,750 items/hr; the item crafted changes with level. Wiki GP/XP between -3.12 and 0.17."
+  },
+  {
+    "id": "crafting_jewellery_gold_ring",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Gold ring",
+    "category": "TRAINING",
+    "minLevel": 5,
+    "requirements": [
+      "Gold bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 5,
+        "afk": null,
+        "active": 24000,
+        "gpPerHour": 121600
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_gold_necklace",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Gold necklace",
+    "category": "TRAINING",
+    "minLevel": 6,
+    "requirements": [
+      "Gold bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 6,
+        "afk": null,
+        "active": 32000,
+        "gpPerHour": 120000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_gold_bracelet",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Gold bracelet",
+    "category": "TRAINING",
+    "minLevel": 7,
+    "requirements": [
+      "Gold bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 7,
+        "afk": null,
+        "active": 40000,
+        "gpPerHour": 256000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_gold_amulet_u",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Gold amulet (u)",
+    "category": "TRAINING",
+    "minLevel": 8,
+    "requirements": [
+      "Gold bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 8,
+        "afk": null,
+        "active": 48000,
+        "gpPerHour": 139200
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_opal_ring",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Opal ring",
+    "category": "TRAINING",
+    "minLevel": 1,
+    "requirements": [
+      "Silver bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 1,
+        "afk": null,
+        "active": 14000,
+        "gpPerHour": 709800
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_opal_necklace",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Opal necklace",
+    "category": "TRAINING",
+    "minLevel": 16,
+    "requirements": [
+      "Silver bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 16,
+        "afk": null,
+        "active": 49000,
+        "gpPerHour": 719600
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_opal_bracelet",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Opal bracelet",
+    "category": "TRAINING",
+    "minLevel": 22,
+    "requirements": [
+      "Silver bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 22,
+        "afk": null,
+        "active": 63000,
+        "gpPerHour": 400400
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_opal_amulet_u",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Opal amulet (u)",
+    "category": "TRAINING",
+    "minLevel": 27,
+    "requirements": [
+      "Silver bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 27,
+        "afk": null,
+        "active": 77000,
+        "gpPerHour": 316400
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_jade_ring",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Jade ring",
+    "category": "TRAINING",
+    "minLevel": 13,
+    "requirements": [
+      "Silver bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 13,
+        "afk": null,
+        "active": 44800,
+        "gpPerHour": 414400
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_jade_necklace",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Jade necklace",
+    "category": "TRAINING",
+    "minLevel": 25,
+    "requirements": [
+      "Silver bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 25,
+        "afk": null,
+        "active": 75600,
+        "gpPerHour": 429800
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_jade_bracelet",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Jade bracelet",
+    "category": "TRAINING",
+    "minLevel": 29,
+    "requirements": [
+      "Silver bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 29,
+        "afk": null,
+        "active": 84000,
+        "gpPerHour": 390600
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_jade_amulet_u",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Jade amulet (u)",
+    "category": "TRAINING",
+    "minLevel": 34,
+    "requirements": [
+      "Silver bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 34,
+        "afk": null,
+        "active": 98000,
+        "gpPerHour": 673400
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_topaz_ring",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Topaz ring",
+    "category": "TRAINING",
+    "minLevel": 16,
+    "requirements": [
+      "Silver bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 16,
+        "afk": null,
+        "active": 49000,
+        "gpPerHour": 656600
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_topaz_necklace",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Topaz necklace",
+    "category": "TRAINING",
+    "minLevel": 32,
+    "requirements": [
+      "Silver bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 32,
+        "afk": null,
+        "active": 98000,
+        "gpPerHour": 413000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_topaz_bracelet",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Topaz bracelet",
+    "category": "TRAINING",
+    "minLevel": 38,
+    "requirements": [
+      "Silver bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 38,
+        "afk": null,
+        "active": 105000,
+        "gpPerHour": 336000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_topaz_amulet_u",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Topaz amulet (u)",
+    "category": "TRAINING",
+    "minLevel": 45,
+    "requirements": [
+      "Silver bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 45,
+        "afk": null,
+        "active": 112000,
+        "gpPerHour": 644000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_sapphire_ring",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Sapphire ring",
+    "category": "TRAINING",
+    "minLevel": 20,
+    "requirements": [
+      "Gold bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 20,
+        "afk": null,
+        "active": 56000,
+        "gpPerHour": 229600
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_sapphire_necklace",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Sapphire necklace",
+    "category": "TRAINING",
+    "minLevel": 22,
+    "requirements": [
+      "Gold bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 22,
+        "afk": null,
+        "active": 77000,
+        "gpPerHour": 215600
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_sapphire_bracelet",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Sapphire bracelet",
+    "category": "TRAINING",
+    "minLevel": 23,
+    "requirements": [
+      "Gold bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 23,
+        "afk": null,
+        "active": 84000,
+        "gpPerHour": 302400
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_sapphire_amulet_u",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Sapphire amulet (u)",
+    "category": "TRAINING",
+    "minLevel": 24,
+    "requirements": [
+      "Gold bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 24,
+        "afk": null,
+        "active": 91000,
+        "gpPerHour": 194600
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_emerald_ring",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Emerald ring",
+    "category": "TRAINING",
+    "minLevel": 27,
+    "requirements": [
+      "Gold bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 27,
+        "afk": null,
+        "active": 77000,
+        "gpPerHour": 218400
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_emerald_necklace",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Emerald necklace",
+    "category": "TRAINING",
+    "minLevel": 29,
+    "requirements": [
+      "Gold bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 29,
+        "afk": null,
+        "active": 84000,
+        "gpPerHour": 263200
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_emerald_bracelet",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Emerald bracelet",
+    "category": "TRAINING",
+    "minLevel": 30,
+    "requirements": [
+      "Gold bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 30,
+        "afk": null,
+        "active": 91000,
+        "gpPerHour": 368200
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_emerald_amulet_u",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Emerald amulet (u)",
+    "category": "TRAINING",
+    "minLevel": 31,
+    "requirements": [
+      "Gold bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 31,
+        "afk": null,
+        "active": 98000,
+        "gpPerHour": 253400
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_ruby_ring",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Ruby ring",
+    "category": "TRAINING",
+    "minLevel": 34,
+    "requirements": [
+      "Gold bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 34,
+        "afk": null,
+        "active": 98000,
+        "gpPerHour": 218400
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_ruby_necklace",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Ruby necklace",
+    "category": "TRAINING",
+    "minLevel": 40,
+    "requirements": [
+      "Gold bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 40,
+        "afk": null,
+        "active": 105000,
+        "gpPerHour": 289800
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_ruby_bracelet",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Ruby bracelet",
+    "category": "TRAINING",
+    "minLevel": 42,
+    "requirements": [
+      "Gold bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 42,
+        "afk": null,
+        "active": 112000,
+        "gpPerHour": 438200
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_ruby_amulet_u",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Ruby amulet (u)",
+    "category": "TRAINING",
+    "minLevel": 50,
+    "requirements": [
+      "Gold bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 50,
+        "afk": null,
+        "active": 119000,
+        "gpPerHour": 322000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_diamond_ring",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Diamond ring",
+    "category": "TRAINING",
+    "minLevel": 43,
+    "requirements": [
+      "Gold bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 43,
+        "afk": null,
+        "active": 119000,
+        "gpPerHour": 375200
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_diamond_necklace",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Diamond necklace",
+    "category": "TRAINING",
+    "minLevel": 56,
+    "requirements": [
+      "Gold bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 56,
+        "afk": null,
+        "active": 126000,
+        "gpPerHour": 432600
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_diamond_bracelet",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Diamond bracelet",
+    "category": "TRAINING",
+    "minLevel": 58,
+    "requirements": [
+      "Gold bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 58,
+        "afk": null,
+        "active": 133000,
+        "gpPerHour": 413000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_diamond_amulet_u",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Diamond amulet (u)",
+    "category": "TRAINING",
+    "minLevel": 70,
+    "requirements": [
+      "Gold bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 70,
+        "afk": null,
+        "active": 140000,
+        "gpPerHour": 345800
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_dragonstone_ring",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Dragonstone ring",
+    "category": "TRAINING",
+    "minLevel": 55,
+    "requirements": [
+      "Gold bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 55,
+        "afk": null,
+        "active": 140000,
+        "gpPerHour": -1400
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_dragon_necklace",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Dragon necklace",
+    "category": "TRAINING",
+    "minLevel": 72,
+    "requirements": [
+      "Gold bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 72,
+        "afk": null,
+        "active": 147000,
+        "gpPerHour": -138600
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_dragonstone_bracelet",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Dragonstone bracelet",
+    "category": "TRAINING",
+    "minLevel": 74,
+    "requirements": [
+      "Gold bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 74,
+        "afk": null,
+        "active": 154000,
+        "gpPerHour": 435400
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_jewellery_dragonstone_amulet_u",
+    "skill": "CRAFTING",
+    "name": "Jewellery: Dragonstone amulet (u)",
+    "category": "TRAINING",
+    "minLevel": 80,
+    "requirements": [
+      "Gold bar",
+      "Matching mould",
+      "Gem if any"
+    ],
+    "rates": [
+      {
+        "level": 80,
+        "afk": null,
+        "active": 210000,
+        "gpPerHour": -93800
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
+  },
+  {
+    "id": "crafting_spinning_yarn_flax",
+    "skill": "CRAFTING",
+    "name": "Spinning yarn (flax)",
+    "category": "TRAINING",
+    "minLevel": 12,
+    "requirements": [
+      "Sailing",
+      "Fossil Island spinning wheel"
+    ],
+    "rates": [
+      {
+        "level": 12,
+        "afk": null,
+        "active": 22880,
+        "gpPerHour": 71500
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Assumes 1,430 yarn/hr."
+  },
+  {
+    "id": "crafting_spinning_yarn_hemp",
+    "skill": "CRAFTING",
+    "name": "Spinning yarn (hemp)",
+    "category": "TRAINING",
+    "minLevel": 39,
+    "requirements": [
+      "Sailing",
+      "Fossil Island spinning wheel"
+    ],
+    "rates": [
+      {
+        "level": 39,
+        "afk": null,
+        "active": 85800,
+        "gpPerHour": -210210
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Assumes 1,430 yarn/hr."
+  },
+  {
+    "id": "crafting_spinning_yarn_cotton",
+    "skill": "CRAFTING",
+    "name": "Spinning yarn (cotton)",
+    "category": "TRAINING",
+    "minLevel": 73,
+    "requirements": [
+      "Sailing",
+      "Fossil Island spinning wheel"
+    ],
+    "rates": [
+      {
+        "level": 73,
+        "afk": null,
+        "active": 150150,
+        "gpPerHour": 177320
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Assumes 1,430 yarn/hr."
+  },
+  {
+    "id": "crafting_spinning_and_weaving_bolts_flax",
+    "skill": "CRAFTING",
+    "name": "Spinning and weaving bolts (flax)",
+    "category": "TRAINING",
+    "minLevel": 12,
+    "requirements": [
+      "Sailing",
+      "Fossil Island spinning wheel and loom"
+    ],
+    "rates": [
+      {
+        "level": 12,
+        "afk": null,
+        "active": 28080,
+        "gpPerHour": 197640
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Assumes 540 bolts/hr."
+  },
+  {
+    "id": "crafting_spinning_and_weaving_bolts_hemp",
+    "skill": "CRAFTING",
+    "name": "Spinning and weaving bolts (hemp)",
+    "category": "TRAINING",
+    "minLevel": 39,
+    "requirements": [
+      "Sailing",
+      "Fossil Island spinning wheel and loom"
+    ],
+    "rates": [
+      {
+        "level": 39,
+        "afk": null,
+        "active": 105300,
+        "gpPerHour": -106920
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Assumes 540 bolts/hr."
+  },
+  {
+    "id": "crafting_spinning_and_weaving_bolts_cotton",
+    "skill": "CRAFTING",
+    "name": "Spinning and weaving bolts (cotton)",
+    "category": "TRAINING",
+    "minLevel": 73,
+    "requirements": [
+      "Sailing",
+      "Fossil Island spinning wheel and loom"
+    ],
+    "rates": [
+      {
+        "level": 73,
+        "afk": null,
+        "active": 184680,
+        "gpPerHour": -754920
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Assumes 540 bolts/hr."
+  },
+  {
+    "id": "crafting_drift_nets",
+    "skill": "CRAFTING",
+    "name": "Drift nets",
+    "category": "TRAINING",
+    "minLevel": 26,
+    "maxLevel": 46,
+    "requirements": [
+      "Loom",
+      "Bank chest (Fossil Island Museum Camp)",
+      "Jute fibre"
+    ],
+    "rates": [
+      {
+        "level": 26,
+        "afk": null,
+        "active": 60000,
+        "gpPerHour": 152000
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki: about 2.76 GP per XP; check GE volume. Table lists 26-46/99."
+  },
+  {
+    "id": "crafting_golem_crafting_wyrmscraig",
+    "skill": "CRAFTING",
+    "name": "Golem crafting (Wyrmscraig)",
+    "category": "TRAINING",
+    "minLevel": 60,
+    "requirements": [
+      "Fallen From Grace"
+    ],
+    "rates": [
+      {
+        "level": 60,
+        "afk": null,
+        "active": 180000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki says 'up to 180,000' XP/hr; that figure used. GP/XP about -0.07."
+  },
+  {
+    "id": "crafting_superglass_make",
+    "skill": "CRAFTING",
+    "name": "Superglass Make",
+    "category": "TRAINING",
+    "minLevel": 61,
+    "requirements": [
+      "Lunar Diplomacy",
+      "77 Magic (boostable)",
+      "Astral runes",
+      "Lunar spellbook",
+      "Smoke battlestaff or air battlestaff with tome of fire"
+    ],
+    "rates": [
+      {
+        "level": 61,
+        "afk": null,
+        "active": 108000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki: Crafting 108,000-153,000 XP/hr (lower bound); Magic XP 46,800-66,300 per hour as a bonus."
+  },
+  {
+    "id": "crafting_fixing_goblin_lamps_dorgesh_kaan",
+    "skill": "CRAFTING",
+    "name": "Fixing goblin lamps (Dorgesh-Kaan)",
+    "category": "TRAINING",
+    "minLevel": 52,
+    "requirements": [
+      "The Lost Tribe",
+      "52 Firemaking",
+      "87 Crafting to craft your own light orbs"
+    ],
+    "rates": [
+      {
+        "level": 52,
+        "afk": null,
+        "active": 90000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki: 90,000 (learning) to 130,000 (skilled); lower figure used. Also gives Firemaking XP."
+  }
+]

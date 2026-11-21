@@ -1,0 +1,671 @@
+{
+  "id": "varrock",
+  "name": "Varrock Diary",
+  "source": "https://oldschool.runescape.wiki/w/Varrock_Diary",
+  "retrieved": "2026-10-27",
+  "tiers": {
+    "EASY": [
+      {
+        "id": "varrock_easy_1",
+        "description": "Browse Thessalia's store.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "varrock_easy_2",
+        "description": "Have Aubury teleport you to the Essence mine.",
+        "skills": [],
+        "quests": [
+          "Rune Mysteries"
+        ],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "varrock_easy_3",
+        "description": "Mine iron in the south-east mining patch near Varrock.",
+        "skills": [
+          {
+            "skill": "MINING",
+            "level": 15,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any pickaxe"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_easy_4",
+        "description": "Make a normal plank at the Sawmill.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "100 coins",
+          "Logs"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_easy_5",
+        "description": "Enter the second level of the Stronghold of Security.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Food recommended at low combat levels"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_easy_6",
+        "description": "Jump over the fence south of Varrock.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 13,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "varrock_easy_7",
+        "description": "Chop down a dying tree in the Lumber Yard.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any axe"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_easy_8",
+        "description": "Buy a newspaper.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "50 coins"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_easy_9",
+        "description": "Give a dog a bone.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Bones"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_easy_10",
+        "description": "Spin a bowl on the pottery wheel and fire it in the Barbarian Village oven.",
+        "skills": [
+          {
+            "skill": "CRAFTING",
+            "level": 8,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Soft clay"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_easy_11",
+        "description": "Speak to Haig Halen after reaching at least 50 kudos.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "50 kudos (Varrock Museum)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_easy_12",
+        "description": "Craft Earth runes from essence.",
+        "skills": [
+          {
+            "skill": "RUNECRAFT",
+            "level": 9,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Pure, daeyalt or rune essence",
+          "Access to the Earth Altar"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_easy_13",
+        "description": "Catch trout in the River Lum at Barbarian Village.",
+        "skills": [
+          {
+            "skill": "FISHING",
+            "level": 20,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Fly fishing rod",
+          "Feathers"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_easy_14",
+        "description": "Steal from the Tea stall in Varrock.",
+        "skills": [
+          {
+            "skill": "THIEVING",
+            "level": 5,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      }
+    ],
+    "MEDIUM": [
+      {
+        "id": "varrock_medium_1",
+        "description": "Have the Varrock Apothecary make a strength potion.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Limpwurt root",
+          "Red spiders' eggs",
+          "5 coins"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_medium_2",
+        "description": "Enter the Champions' Guild.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "32 quest points"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_medium_3",
+        "description": "Select a colour for your kitten.",
+        "skills": [],
+        "quests": [
+          "Gertrude's Cat"
+        ],
+        "questsStarted": [
+          "Garden of Tranquillity"
+        ],
+        "other": [
+          "100 coins",
+          "Wear a Ring of Charos(a)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_medium_4",
+        "description": "Use the spirit tree north of Varrock.",
+        "skills": [],
+        "quests": [
+          "Tree Gnome Village"
+        ],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "varrock_medium_5",
+        "description": "Perform the 4 emotes from the Stronghold of Security.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Jagex Account or RuneScape Authenticator",
+          "Food and protection prayers recommended"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_medium_6",
+        "description": "Enter the Tolna dungeon after completing A Soul's Bane.",
+        "skills": [],
+        "quests": [
+          "A Soul's Bane"
+        ],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "varrock_medium_7",
+        "description": "Teleport to the digsite using a digsite pendant.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 49,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "The Dig Site"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Digsite pendant or a mounted one in a POH",
+          "Clean necklace",
+          "Runes: 5 fire, 1 cosmic for Lvl-3 Enchant"
+        ],
+        "notes": "Magic 49 is needed only to create the pendant the first time."
+      },
+      {
+        "id": "varrock_medium_8",
+        "description": "Cast the Varrock Teleport spell.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 25,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Runes: 3 air, 1 fire, 1 law"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_medium_9",
+        "description": "Get a Slayer task from Vannaka.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Combat level 40"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_medium_10",
+        "description": "Make 20 mahogany planks in one go.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "20 mahogany logs",
+          "30,000 coins"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_medium_11",
+        "description": "Pick a white tree fruit.",
+        "skills": [
+          {
+            "skill": "FARMING",
+            "level": 25,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Garden of Tranquillity"
+        ],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "varrock_medium_12",
+        "description": "Use the balloon to travel from Varrock.",
+        "skills": [
+          {
+            "skill": "FARMING",
+            "level": 30,
+            "boostable": true
+          },
+          {
+            "skill": "FIREMAKING",
+            "level": 40,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Enlightened Journey"
+        ],
+        "questsStarted": [],
+        "other": [
+          "One set of normal, oak, yew or magic logs depending on destination"
+        ],
+        "notes": "If Varrock's start point is locked, 10 additional willow logs are needed to fly there from Entrana."
+      },
+      {
+        "id": "varrock_medium_13",
+        "description": "Complete a lap of the Varrock Agility course.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 30,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      }
+    ],
+    "HARD": [
+      {
+        "id": "varrock_hard_1",
+        "description": "Trade furs with the Fancy Dress Seller for a spottier cape and equip it.",
+        "skills": [
+          {
+            "skill": "HUNTER",
+            "level": 66,
+            "boostable": false
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "800 coins",
+          "2 dashing kebbit fur"
+        ],
+        "notes": "Ironmen need Hunter 69 (boostable) for the dashing kebbit fur."
+      },
+      {
+        "id": "varrock_hard_2",
+        "description": "Speak to Orlando Smith after reaching 153 kudos.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "153 kudos"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_hard_3",
+        "description": "Make a waka canoe near Edgeville.",
+        "skills": [
+          {
+            "skill": "WOODCUTTING",
+            "level": 57,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any axe"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_hard_4",
+        "description": "Teleport to Paddewwa.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 54,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Desert Treasure I"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Ancient Magicks spellbook",
+          "Runes: 1 air, 1 fire, 2 law"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_hard_5",
+        "description": "Teleport to Barbarian Village with a skull sceptre.",
+        "skills": [],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Skull sceptre, or the items to create one"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_hard_6",
+        "description": "Chop yew logs in Varrock and burn them at the top of the Varrock church.",
+        "skills": [
+          {
+            "skill": "WOODCUTTING",
+            "level": 60,
+            "boostable": true
+          },
+          {
+            "skill": "FIREMAKING",
+            "level": 60,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Any axe",
+          "Tinderbox"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_hard_7",
+        "description": "Have the Varrock estate agent decorate your house with Fancy Stone.",
+        "skills": [
+          {
+            "skill": "CONSTRUCTION",
+            "level": 50,
+            "boostable": false
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "25,000 coins (30,000 if already Fancy Stone)"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_hard_8",
+        "description": "Collect at least 2 yew roots from the Varrock Palace tree patch.",
+        "skills": [
+          {
+            "skill": "FARMING",
+            "level": 68,
+            "boostable": true
+          },
+          {
+            "skill": "WOODCUTTING",
+            "level": 60,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Yew sapling",
+          "Any axe",
+          "Spade"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_hard_9",
+        "description": "Pray at the Varrock Palace altar with Smite active.",
+        "skills": [
+          {
+            "skill": "PRAYER",
+            "level": 52,
+            "boostable": false
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      },
+      {
+        "id": "varrock_hard_10",
+        "description": "Squeeze through the obstacle pipe in the Edgeville Dungeon.",
+        "skills": [
+          {
+            "skill": "AGILITY",
+            "level": 51,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [],
+        "notes": ""
+      }
+    ],
+    "ELITE": [
+      {
+        "id": "varrock_elite_1",
+        "description": "Create a super combat potion in the Varrock west bank.",
+        "skills": [
+          {
+            "skill": "HERBLORE",
+            "level": 90,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Druidic Ritual"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Super attack (4)",
+          "Super strength (4)",
+          "Super defence (4)",
+          "Torstol"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_elite_2",
+        "description": "Use Lunar magic to make 20 mahogany planks at the Lumber Yard.",
+        "skills": [
+          {
+            "skill": "MAGIC",
+            "level": 86,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "Dream Mentor"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Lunar spellbook",
+          "21,000 coins",
+          "20 mahogany logs",
+          "Runes for 20 casts of Plank Make: 300 earth, 40 astral, 20 nature"
+        ],
+        "notes": "Ten sawmill vouchers may halve the items and runes."
+      },
+      {
+        "id": "varrock_elite_3",
+        "description": "Bake a summer pie in the Cooking Guild.",
+        "skills": [
+          {
+            "skill": "COOKING",
+            "level": 95,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "Raw summer pie",
+          "Chef's hat, golden chef's hat, Varrock armour 3 or Cooking cape"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_elite_4",
+        "description": "Smith and fletch ten rune darts within Varrock.",
+        "skills": [
+          {
+            "skill": "SMITHING",
+            "level": 89,
+            "boostable": true
+          },
+          {
+            "skill": "FLETCHING",
+            "level": 81,
+            "boostable": true
+          }
+        ],
+        "quests": [
+          "The Tourist Trap"
+        ],
+        "questsStarted": [],
+        "other": [
+          "Runite bar",
+          "10 feathers",
+          "Hammer"
+        ],
+        "notes": ""
+      },
+      {
+        "id": "varrock_elite_5",
+        "description": "Craft 100 or more earth runes at once from essence, without runic extracts.",
+        "skills": [
+          {
+            "skill": "RUNECRAFT",
+            "level": 78,
+            "boostable": true
+          }
+        ],
+        "quests": [],
+        "questsStarted": [],
+        "other": [
+          "28 pure, daeyalt or rune essence",
+          "Access to the Earth Altar"
+        ],
+        "notes": "Runecraft 52 works with 2+ Raiments of the Eye pieces."
+      }
+    ]
+  }
+}

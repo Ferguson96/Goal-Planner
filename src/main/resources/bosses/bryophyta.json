@@ -1,0 +1,40 @@
+{
+  "id": "bryophyta",
+  "name": "Bryophyta",
+  "category": "BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Bryophyta",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Mossy key (one per chest; first entry)",
+      "Axe or secateurs for growthlings"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Long bone",
+      "rarity": "1/400",
+      "chance": 0.0025,
+      "notes": ""
+    },
+    {
+      "item": "Giant champion scroll",
+      "rarity": "1/5000",
+      "chance": 0.0002,
+      "notes": ""
+    },
+    {
+      "item": "Curved bone",
+      "rarity": "10/50125",
+      "chance": 0.00019950124688279303,
+      "notes": "Wiki rate 1/5,012.5."
+    }
+  ],
+  "setups": [],
+  "notes": "Free-to-play. Bryophyta's essence is a unique whose rate was not captured."
+}

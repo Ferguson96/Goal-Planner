@@ -1,0 +1,258 @@
+{
+  "id": "kalphite_queen",
+  "name": "Kalphite Queen",
+  "category": "BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Kalphite_Queen",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Two ropes for the Kalphite Lair (permanent with the hard Desert Diary)"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Lava battlestaff",
+      "rarity": "2/126",
+      "chance": 0.015873015873015872,
+      "notes": ""
+    },
+    {
+      "item": "Kq head",
+      "rarity": "1/128",
+      "chance": 0.0078125,
+      "notes": ""
+    },
+    {
+      "item": "Dragon chainbody",
+      "rarity": "1/128",
+      "chance": 0.0078125,
+      "notes": ""
+    },
+    {
+      "item": "Dragon 2h sword",
+      "rarity": "1/256",
+      "chance": 0.00390625,
+      "notes": ""
+    },
+    {
+      "item": "Dragon pickaxe",
+      "rarity": "1/400",
+      "chance": 0.0025,
+      "notes": ""
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/100",
+      "chance": 0.01,
+      "notes": ""
+    },
+    {
+      "item": "Jar of sand",
+      "rarity": "1/2000",
+      "chance": 0.0005,
+      "notes": ""
+    },
+    {
+      "item": "Kalphite Princess",
+      "rarity": "1/3000",
+      "chance": 0.0003333333333333333,
+      "notes": ""
+    },
+    {
+      "item": "Brimstone key",
+      "rarity": "1/54",
+      "chance": 0.018518518518518517,
+      "notes": "Only on a Konar task."
+    }
+  ],
+  "setups": [
+    {
+      "name": "High level melee",
+      "source": "https://oldschool.runescape.wiki/w/Kalphite_Queen/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Inquisitor's great helm",
+          "Torva full helm",
+          "Neitiznot faceguard",
+          "Serpentine helm",
+          "Helm of Neitiznot"
+        ],
+        "CAPE": [
+          "Infernal cape",
+          "Mythical cape",
+          "Fire cape"
+        ],
+        "NECK": [
+          "Amulet of rancour",
+          "Amulet of torture",
+          "Amulet of fury"
+        ],
+        "AMMO": [
+          "Rada's blessing 4",
+          "God blessing"
+        ],
+        "WEAPON": [
+          "Keris partisan of breaching",
+          "Inquisitor's mace",
+          "Scythe of vitur",
+          "Keris partisan"
+        ],
+        "BODY": [
+          "Inquisitor's hauberk",
+          "Torva platebody",
+          "Bandos chestplate",
+          "Fighter torso"
+        ],
+        "SHIELD": [
+          "Avernic defender",
+          "Dragon defender"
+        ],
+        "LEGS": [
+          "Inquisitor's plateskirt",
+          "Torva platelegs",
+          "Bandos tassets"
+        ],
+        "HANDS": [
+          "Ferocious gloves",
+          "Barrows gloves"
+        ],
+        "FEET": [
+          "Avernic treads (max)",
+          "Primordial boots",
+          "Echo boots",
+          "Dragon boots"
+        ],
+        "RING": [
+          "Ring of suffering (ri)",
+          "Lightbearer",
+          "Ultor ring",
+          "Berserker ring (i)"
+        ]
+      },
+      "inventory": [],
+      "notes": "Wiki gives no quantified inventory: bring prayer potions, food, an antidote++ (unless wearing a serpentine helm) and two ropes."
+    },
+    {
+      "name": "High level ranged",
+      "source": "https://oldschool.runescape.wiki/w/Kalphite_Queen/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Masori mask (f)",
+          "Masori mask",
+          "Crystal helm"
+        ],
+        "CAPE": [
+          "Dizana's quiver",
+          "Ava's assembler",
+          "Ava's accumulator"
+        ],
+        "NECK": [
+          "Necklace of rupture",
+          "Necklace of anguish",
+          "Amulet of fury"
+        ],
+        "AMMO": [
+          "Rada's blessing 4",
+          "Dragon arrow",
+          "Amethyst arrow",
+          "Diamond dragon bolts (e)"
+        ],
+        "WEAPON": [
+          "Toxic blowpipe",
+          "Twisted bow",
+          "Bow of faerdhinen",
+          "Dragon crossbow",
+          "Rune crossbow"
+        ],
+        "BODY": [
+          "Masori body (f)",
+          "Masori body",
+          "Crystal body",
+          "Blessed body"
+        ],
+        "LEGS": [
+          "Masori chaps (f)",
+          "Masori chaps",
+          "Crystal legs",
+          "Blessed chaps"
+        ],
+        "HANDS": [
+          "Zaryte vambraces",
+          "Barrows gloves"
+        ],
+        "FEET": [
+          "Avernic treads (max)",
+          "Pegasian boots",
+          "Echo boots"
+        ],
+        "RING": [
+          "Ring of suffering (ri)",
+          "Lightbearer"
+        ]
+      },
+      "inventory": [],
+      "notes": "Wiki gives no quantified inventory: bring prayer potions, food, an antidote++ (unless wearing a serpentine helm) and two ropes."
+    },
+    {
+      "name": "Max mage",
+      "source": "https://oldschool.runescape.wiki/w/Kalphite_Queen/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Ancestral hat",
+          "Virtus mask"
+        ],
+        "CAPE": [
+          "Imbued god cape"
+        ],
+        "NECK": [
+          "Occult necklace"
+        ],
+        "AMMO": [
+          "Rada's blessing 4",
+          "God blessing"
+        ],
+        "WEAPON": [
+          "Tumeken's shadow",
+          "Eye of ayak",
+          "Sanguinesti staff"
+        ],
+        "BODY": [
+          "Ancestral robe top",
+          "Virtus robe top"
+        ],
+        "SHIELD": [
+          "Elysian spirit shield",
+          "Elidinis' ward (f)",
+          "Arcane spirit shield",
+          "Mage's book"
+        ],
+        "LEGS": [
+          "Ancestral robe bottom",
+          "Virtus robe bottom"
+        ],
+        "HANDS": [
+          "Confliction gauntlets",
+          "Tormented bracelet"
+        ],
+        "FEET": [
+          "Avernic treads (max)",
+          "Eternal boots",
+          "Infinity boots"
+        ],
+        "RING": [
+          "Magus ring",
+          "Lightbearer",
+          "Seers ring (i)"
+        ]
+      },
+      "inventory": [],
+      "notes": "Wiki gives no quantified inventory: bring prayer potions, food, an antidote++ (unless wearing a serpentine helm) and two ropes."
+    }
+  ],
+  "notes": "A tattered KQ head is guaranteed on the 256th kill. Wiki recommends 80+ melee/Ranged, 70+ Prayer, 85+ Hitpoints."
+}

@@ -1,0 +1,97 @@
+{
+  "id": "chambers_of_xeric",
+  "name": "Chambers of Xeric",
+  "category": "RAID",
+  "source": "https://oldschool.runescape.wiki/w/Ancient_chest",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [],
+    "questsStarted": [],
+    "other": []
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Twisted bow",
+      "rarity": "1/1000",
+      "chance": 0.001,
+      "notes": ""
+    },
+    {
+      "item": "Kodai insignia",
+      "rarity": "1/1000",
+      "chance": 0.001,
+      "notes": ""
+    },
+    {
+      "item": "Elder maul",
+      "rarity": "1/1000",
+      "chance": 0.001,
+      "notes": ""
+    },
+    {
+      "item": "Dragon claws",
+      "rarity": "3/2000",
+      "chance": 0.0015,
+      "notes": ""
+    },
+    {
+      "item": "Dinh's bulwark",
+      "rarity": "3/2000",
+      "chance": 0.0015,
+      "notes": ""
+    },
+    {
+      "item": "Ancestral hat",
+      "rarity": "1/500",
+      "chance": 0.002,
+      "notes": ""
+    },
+    {
+      "item": "Ancestral robe top",
+      "rarity": "1/500",
+      "chance": 0.002,
+      "notes": ""
+    },
+    {
+      "item": "Ancestral robe bottom",
+      "rarity": "1/500",
+      "chance": 0.002,
+      "notes": ""
+    },
+    {
+      "item": "Dragon hunter crossbow",
+      "rarity": "1/500",
+      "chance": 0.002,
+      "notes": ""
+    },
+    {
+      "item": "Twisted buckler",
+      "rarity": "1/500",
+      "chance": 0.002,
+      "notes": ""
+    },
+    {
+      "item": "Dexterous prayer scroll",
+      "rarity": "7/1000",
+      "chance": 0.007,
+      "notes": ""
+    },
+    {
+      "item": "Arcane prayer scroll",
+      "rarity": "7/1000",
+      "chance": 0.007,
+      "notes": ""
+    },
+    {
+      "item": "Olmlet",
+      "rarity": "1/1765",
+      "chance": 0.0005665722379603399,
+      "notes": ""
+    }
+  ],
+  "setups": [],
+  "notes": "Per raid, assuming 26,025 points (the wiki's own example: 1% unique per 8,676 points, so 3%) times each item's weight out of 60. More points means better odds. Olmlet uses the wiki's effective rate at that point total."
+}

@@ -1,0 +1,213 @@
+{
+  "id": "zulrah",
+  "name": "Zulrah",
+  "category": "BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Zulrah",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [
+      "Regicide"
+    ],
+    "questsStarted": [],
+    "other": [
+      "Speak to High Priestess Zul-Harcinqa before boarding the boat"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Tanzanite fang",
+      "rarity": "2/1024",
+      "chance": 0.001953125,
+      "notes": "Two rolls of 1/1,024 per kill."
+    },
+    {
+      "item": "Magic fang",
+      "rarity": "2/1024",
+      "chance": 0.001953125,
+      "notes": "Two rolls of 1/1,024 per kill."
+    },
+    {
+      "item": "Serpentine visage",
+      "rarity": "2/1024",
+      "chance": 0.001953125,
+      "notes": "Two rolls of 1/1,024 per kill."
+    },
+    {
+      "item": "Uncut onyx",
+      "rarity": "2/1024",
+      "chance": 0.001953125,
+      "notes": "Two rolls of 1/1,024 per kill."
+    },
+    {
+      "item": "Tanzanite mutagen",
+      "rarity": "2/13107",
+      "chance": 0.00015259021896696422,
+      "notes": "Two rolls of 1/13,107 per kill."
+    },
+    {
+      "item": "Magma mutagen",
+      "rarity": "2/13107",
+      "chance": 0.00015259021896696422,
+      "notes": "Two rolls of 1/13,107 per kill."
+    },
+    {
+      "item": "Jar of swamp",
+      "rarity": "1/3000",
+      "chance": 0.0003333333333333333,
+      "notes": ""
+    },
+    {
+      "item": "Pet snakeling",
+      "rarity": "1/4000",
+      "chance": 0.00025,
+      "notes": ""
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/75",
+      "chance": 0.013333333333333334,
+      "notes": ""
+    }
+  ],
+  "setups": [
+    {
+      "name": "Magic",
+      "source": "https://oldschool.runescape.wiki/w/Zulrah/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Ancestral hat",
+          "Virtus mask",
+          "Serpentine helm",
+          "Ahrim's hood",
+          "Infinity hat",
+          "Mystic hat"
+        ],
+        "CAPE": [
+          "Imbued god cape"
+        ],
+        "NECK": [
+          "Occult necklace",
+          "Amulet of fury",
+          "Amulet of glory"
+        ],
+        "AMMO": [
+          "Rada's blessing 4",
+          "God blessing"
+        ],
+        "BODY": [
+          "Ancestral robe top",
+          "Virtus robe top",
+          "Ahrim's robetop",
+          "Mystic robe top"
+        ],
+        "LEGS": [
+          "Ancestral robe bottom",
+          "Virtus robe bottom",
+          "Ahrim's robeskirt",
+          "Mystic robe bottom"
+        ],
+        "WEAPON": [
+          "Tumeken's shadow",
+          "Harmonised nightmare staff",
+          "Sanguinesti staff",
+          "Trident of the swamp"
+        ],
+        "SHIELD": [
+          "Tome of fire",
+          "Elidinis' ward (f)",
+          "Arcane spirit shield",
+          "Mage's book",
+          "Book of darkness"
+        ],
+        "HANDS": [
+          "Confliction gauntlets",
+          "Tormented bracelet",
+          "Barrows gloves"
+        ],
+        "FEET": [
+          "Avernic treads (max)",
+          "Eternal boots",
+          "Infinity boots"
+        ],
+        "RING": [
+          "Magus ring",
+          "Ring of suffering (ri)",
+          "Ring of recoil"
+        ]
+      },
+      "inventory": [],
+      "notes": "Slayer helmet (i) is best in the head slot on a Zulrah task. The wiki's inventory section was not captured."
+    },
+    {
+      "name": "Ranged",
+      "source": "https://oldschool.runescape.wiki/w/Zulrah/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Masori mask (f)",
+          "Crystal helm",
+          "Masori mask",
+          "Serpentine helm",
+          "Blessed coif",
+          "Karil's coif"
+        ],
+        "CAPE": [
+          "Dizana's quiver",
+          "Ava's assembler",
+          "Ava's accumulator"
+        ],
+        "NECK": [
+          "Necklace of rupture",
+          "Necklace of anguish",
+          "Amulet of fury"
+        ],
+        "AMMO": [
+          "Dragon arrow",
+          "Amethyst arrow",
+          "Ruby bolts (e)"
+        ],
+        "BODY": [
+          "Masori body (f)",
+          "Crystal body",
+          "Masori body",
+          "Karil's leathertop",
+          "Black d'hide body"
+        ],
+        "LEGS": [
+          "Masori chaps (f)",
+          "Crystal legs",
+          "Masori chaps",
+          "Karil's leatherskirt",
+          "Black d'hide chaps"
+        ],
+        "WEAPON": [
+          "Twisted bow",
+          "Toxic blowpipe",
+          "Bow of faerdhinen",
+          "Karil's crossbow",
+          "Magic shortbow (i)"
+        ],
+        "HANDS": [
+          "Zaryte vambraces",
+          "Barrows gloves",
+          "Void knight gloves"
+        ],
+        "FEET": [
+          "Avernic treads (max)",
+          "Pegasian boots",
+          "Blessed boots"
+        ],
+        "RING": [
+          "Ring of suffering (ri)",
+          "Venator ring",
+          "Ring of recoil"
+        ]
+      },
+      "inventory": [],
+      "notes": ""
+    }
+  ],
+  "notes": "Regicide only needs to be done up to reaching Port Tyras. Wiki recommends 70+ Defence, 80+ Ranged, 85+ Magic, 45+ Prayer; Agility 76 opens a stepping-stone route."
+}

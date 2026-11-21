@@ -1,0 +1,227 @@
+{
+  "id": "kreearra",
+  "name": "Kree'arra",
+  "category": "BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Kree%27arra",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [
+      {
+        "skill": "RANGED",
+        "level": 70,
+        "boostable": false
+      }
+    ],
+    "quests": [],
+    "questsStarted": [],
+    "other": [
+      "Any crossbow and a mithril grapple",
+      "Ecumenical key, or 40 kills of the god's followers (fewer with Combat Achievement tiers: 35 hard, 30 elite, 25 master, 15 grandmaster)"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Armadyl helmet",
+      "rarity": "1/381",
+      "chance": 0.0026246719160104987,
+      "notes": ""
+    },
+    {
+      "item": "Armadyl chestplate",
+      "rarity": "1/381",
+      "chance": 0.0026246719160104987,
+      "notes": ""
+    },
+    {
+      "item": "Armadyl chainskirt",
+      "rarity": "1/381",
+      "chance": 0.0026246719160104987,
+      "notes": ""
+    },
+    {
+      "item": "Armadyl hilt",
+      "rarity": "1/508",
+      "chance": 0.001968503937007874,
+      "notes": ""
+    },
+    {
+      "item": "Godsword shard 1",
+      "rarity": "1/762",
+      "chance": 0.0013123359580052493,
+      "notes": ""
+    },
+    {
+      "item": "Godsword shard 2",
+      "rarity": "1/762",
+      "chance": 0.0013123359580052493,
+      "notes": ""
+    },
+    {
+      "item": "Godsword shard 3",
+      "rarity": "1/762",
+      "chance": 0.0013123359580052493,
+      "notes": ""
+    },
+    {
+      "item": "Crystal key",
+      "rarity": "1/127",
+      "chance": 0.007874015748031496,
+      "notes": ""
+    },
+    {
+      "item": "Clue scroll (elite)",
+      "rarity": "1/250",
+      "chance": 0.004,
+      "notes": ""
+    },
+    {
+      "item": "Long bone",
+      "rarity": "1/400",
+      "chance": 0.0025,
+      "notes": ""
+    },
+    {
+      "item": "Curved bone",
+      "rarity": "10/50125",
+      "chance": 0.00019950124688279303,
+      "notes": "Wiki rate 1/5,012.5."
+    },
+    {
+      "item": "Pet Kree'arra",
+      "rarity": "1/5000",
+      "chance": 0.0002,
+      "notes": ""
+    }
+  ],
+  "setups": [
+    {
+      "name": "Magic",
+      "source": "https://oldschool.runescape.wiki/w/Kree%27arra/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Ancestral hat",
+          "Virtus mask"
+        ],
+        "CAPE": [
+          "Imbued zamorak cape"
+        ],
+        "NECK": [
+          "Occult necklace"
+        ],
+        "AMMO": [
+          "Rada's blessing 4"
+        ],
+        "WEAPON": [
+          "Tumeken's shadow"
+        ],
+        "BODY": [
+          "Ancestral robe top",
+          "Virtus robe top"
+        ],
+        "LEGS": [
+          "Ancestral robe bottom",
+          "Virtus robe bottom"
+        ],
+        "HANDS": [
+          "Confliction gauntlets",
+          "Tormented bracelet"
+        ],
+        "FEET": [
+          "Avernic treads (max)",
+          "Eternal boots"
+        ],
+        "RING": [
+          "Magus ring",
+          "Ring of suffering (ri)",
+          "Seers ring (i)"
+        ]
+      },
+      "inventory": [
+        {
+          "item": "Eldritch nightmare staff",
+          "quantity": 1
+        },
+        {
+          "item": "Elidinis' ward (f)",
+          "quantity": 1
+        },
+        {
+          "item": "Saradomin brew(4)",
+          "quantity": 3
+        },
+        {
+          "item": "Super restore(4)",
+          "quantity": 5
+        },
+        {
+          "item": "Trollheim teleport",
+          "quantity": 1
+        }
+      ],
+      "notes": "Wiki ranges (3-5 brews, 5-7 restores): lower bounds. Also a rune pouch with Blood Barrage and ice runes, and god items if needed."
+    },
+    {
+      "name": "Chinchompas",
+      "source": "https://oldschool.runescape.wiki/w/Kree%27arra/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Justiciar faceguard",
+          "Verac's helm",
+          "Armadyl helmet"
+        ],
+        "CAPE": [
+          "Dizana's quiver",
+          "Ava's assembler"
+        ],
+        "NECK": [
+          "Necklace of rupture",
+          "Necklace of anguish",
+          "Amulet of fury"
+        ],
+        "AMMO": [
+          "Diamond dragon bolts (e)",
+          "Diamond bolts (e)"
+        ],
+        "WEAPON": [
+          "Black chinchompa",
+          "Red chinchompa"
+        ],
+        "BODY": [
+          "Masori body (f)",
+          "Armadyl chestplate",
+          "Karil's leathertop"
+        ],
+        "SHIELD": [
+          "Elysian spirit shield",
+          "Dragonfire ward",
+          "Twisted buckler",
+          "Crystal shield"
+        ],
+        "LEGS": [
+          "Masori chaps (f)",
+          "Armadyl chainskirt",
+          "Karil's leatherskirt"
+        ],
+        "HANDS": [
+          "Zaryte vambraces",
+          "Barrows gloves"
+        ],
+        "FEET": [
+          "Avernic treads (max)",
+          "Pegasian boots",
+          "Echo boots"
+        ],
+        "RING": [
+          "Ring of suffering (ri)",
+          "Lightbearer",
+          "Venator ring"
+        ]
+      },
+      "inventory": [],
+      "notes": ""
+    }
+  ],
+  "notes": ""
+}

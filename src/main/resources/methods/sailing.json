@@ -1,0 +1,277 @@
+[
+  {
+    "id": "sailing_barracuda_trials_the_tempor_tantrum_swordfish",
+    "skill": "SAILING",
+    "name": "Barracuda Trials: The Tempor Tantrum (swordfish)",
+    "category": "TRAINING",
+    "minLevel": 30,
+    "requirements": [
+      "Boat (speed upgrades help)"
+    ],
+    "rates": [
+      {
+        "level": 30,
+        "afk": null,
+        "active": 19342,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Sailing_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki XP/hr for the swordfish cargo."
+  },
+  {
+    "id": "sailing_barracuda_trials_the_tempor_tantrum_shark",
+    "skill": "SAILING",
+    "name": "Barracuda Trials: The Tempor Tantrum (shark)",
+    "category": "TRAINING",
+    "minLevel": 30,
+    "requirements": [
+      "Boat (speed upgrades help)"
+    ],
+    "rates": [
+      {
+        "level": 30,
+        "afk": null,
+        "active": 21938,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Sailing_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki XP/hr for the shark cargo."
+  },
+  {
+    "id": "sailing_barracuda_trials_the_tempor_tantrum_marlin",
+    "skill": "SAILING",
+    "name": "Barracuda Trials: The Tempor Tantrum (marlin)",
+    "category": "TRAINING",
+    "minLevel": 30,
+    "requirements": [
+      "Boat (speed upgrades help)"
+    ],
+    "rates": [
+      {
+        "level": 30,
+        "afk": null,
+        "active": 24519,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Sailing_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki XP/hr for the marlin cargo."
+  },
+  {
+    "id": "sailing_barracuda_trials_the_jubbly_jive_swordfish",
+    "skill": "SAILING",
+    "name": "Barracuda Trials: The Jubbly Jive (swordfish)",
+    "category": "TRAINING",
+    "minLevel": 55,
+    "requirements": [
+      "Boat (speed upgrades help)"
+    ],
+    "rates": [
+      {
+        "level": 55,
+        "afk": null,
+        "active": 64746,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Sailing_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki XP/hr for the swordfish cargo."
+  },
+  {
+    "id": "sailing_barracuda_trials_the_jubbly_jive_shark",
+    "skill": "SAILING",
+    "name": "Barracuda Trials: The Jubbly Jive (shark)",
+    "category": "TRAINING",
+    "minLevel": 55,
+    "requirements": [
+      "Boat (speed upgrades help)"
+    ],
+    "rates": [
+      {
+        "level": 55,
+        "afk": null,
+        "active": 80905,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Sailing_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki XP/hr for the shark cargo."
+  },
+  {
+    "id": "sailing_barracuda_trials_the_jubbly_jive_marlin",
+    "skill": "SAILING",
+    "name": "Barracuda Trials: The Jubbly Jive (marlin)",
+    "category": "TRAINING",
+    "minLevel": 55,
+    "requirements": [
+      "Boat (speed upgrades help)"
+    ],
+    "rates": [
+      {
+        "level": 55,
+        "afk": null,
+        "active": 88923,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Sailing_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki XP/hr for the marlin cargo."
+  },
+  {
+    "id": "sailing_barracuda_trials_the_gwenith_glide_swordfish",
+    "skill": "SAILING",
+    "name": "Barracuda Trials: The Gwenith Glide (swordfish)",
+    "category": "TRAINING",
+    "minLevel": 72,
+    "requirements": [
+      "Boat (speed upgrades help)"
+    ],
+    "rates": [
+      {
+        "level": 72,
+        "afk": null,
+        "active": 113538,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Sailing_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki XP/hr for the swordfish cargo. Marlin rate is 198,119 with a crystal extractor."
+  },
+  {
+    "id": "sailing_barracuda_trials_the_gwenith_glide_shark",
+    "skill": "SAILING",
+    "name": "Barracuda Trials: The Gwenith Glide (shark)",
+    "category": "TRAINING",
+    "minLevel": 72,
+    "requirements": [
+      "Boat (speed upgrades help)"
+    ],
+    "rates": [
+      {
+        "level": 72,
+        "afk": null,
+        "active": 144543,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Sailing_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki XP/hr for the shark cargo. Marlin rate is 198,119 with a crystal extractor."
+  },
+  {
+    "id": "sailing_barracuda_trials_the_gwenith_glide_marlin",
+    "skill": "SAILING",
+    "name": "Barracuda Trials: The Gwenith Glide (marlin)",
+    "category": "TRAINING",
+    "minLevel": 72,
+    "requirements": [
+      "Boat (speed upgrades help)"
+    ],
+    "rates": [
+      {
+        "level": 72,
+        "afk": null,
+        "active": 184369,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Sailing_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki XP/hr for the marlin cargo. Marlin rate is 198,119 with a crystal extractor."
+  },
+  {
+    "id": "sailing_shipwreck_salvaging",
+    "skill": "SAILING",
+    "name": "Shipwreck salvaging",
+    "category": "TRAINING",
+    "minLevel": 15,
+    "requirements": [
+      "Salvaging hook of the matching tier (2 hooks suggested)",
+      "Salvaging station schematic (Chinchompa Island) after level 42"
+    ],
+    "rates": [
+      {
+        "level": 15,
+        "afk": null,
+        "active": 2000,
+        "gpPerHour": null
+      },
+      {
+        "level": 26,
+        "afk": null,
+        "active": 4700,
+        "gpPerHour": null
+      },
+      {
+        "level": 35,
+        "afk": null,
+        "active": 16000,
+        "gpPerHour": null
+      },
+      {
+        "level": 53,
+        "afk": null,
+        "active": 24000,
+        "gpPerHour": null
+      },
+      {
+        "level": 64,
+        "afk": null,
+        "active": 35000,
+        "gpPerHour": null
+      },
+      {
+        "level": 73,
+        "afk": null,
+        "active": 55000,
+        "gpPerHour": null
+      },
+      {
+        "level": 80,
+        "afk": null,
+        "active": 65000,
+        "gpPerHour": null
+      },
+      {
+        "level": 87,
+        "afk": null,
+        "active": 70000,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Sailing_training",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki gives ranges per wreck type; lower bounds with the best listed hook setup used. Excludes time sailing to port."
+  },
+  {
+    "id": "sailing_crewmate_salvaging",
+    "skill": "SAILING",
+    "name": "Crewmate-only salvaging",
+    "category": "TRAINING",
+    "minLevel": 40,
+    "requirements": [
+      "Crewmates",
+      "Salvaging hooks"
+    ],
+    "rates": [
+      {
+        "level": 40,
+        "afk": 30000,
+        "active": null,
+        "gpPerHour": null
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
+    "retrieved": "2026-10-27",
+    "notes": "Wiki lists levels 40-87. From the wiki's AFK skilling methods guide (AFK rate)."
+  }
+]

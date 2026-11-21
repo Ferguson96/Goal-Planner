@@ -1,0 +1,113 @@
+{
+  "id": "phantom_muspah",
+  "name": "Phantom Muspah",
+  "category": "BOSS",
+  "source": "https://oldschool.runescape.wiki/w/Phantom_Muspah",
+  "retrieved": "2026-10-27",
+  "requirements": {
+    "skills": [],
+    "quests": [
+      "Secrets of the North"
+    ],
+    "questsStarted": [],
+    "other": [
+      "Ectoplasmator"
+    ]
+  },
+  "killsPerHour": null,
+  "killsPerHourSource": null,
+  "drops": [
+    {
+      "item": "Venator shard",
+      "rarity": "1/100",
+      "chance": 0.01,
+      "notes": ""
+    },
+    {
+      "item": "Ancient icon",
+      "rarity": "2/100",
+      "chance": 0.02,
+      "notes": ""
+    },
+    {
+      "item": "Frozen cache",
+      "rarity": "4/100",
+      "chance": 0.04,
+      "notes": ""
+    },
+    {
+      "item": "Muphin",
+      "rarity": "1/2500",
+      "chance": 0.0004,
+      "notes": ""
+    }
+  ],
+  "setups": [
+    {
+      "name": "Magic",
+      "source": "https://oldschool.runescape.wiki/w/Phantom_Muspah/Strategies",
+      "equipment": {
+        "HEAD": [
+          "Ancestral hat",
+          "Virtus mask",
+          "Ahrim's hood",
+          "Blue moon helm",
+          "Bloodbark helm"
+        ],
+        "CAPE": [
+          "Imbued god cape"
+        ],
+        "NECK": [
+          "Occult necklace",
+          "Elemental amulet",
+          "Amulet of fury"
+        ],
+        "WEAPON": [
+          "Tumeken's shadow",
+          "Harmonised nightmare staff",
+          "Sanguinesti staff",
+          "Twinflame staff",
+          "Trident of the swamp"
+        ],
+        "BODY": [
+          "Ancestral robe top",
+          "Virtus robe top",
+          "Ahrim's robetop",
+          "Blue moon chestplate",
+          "Bloodbark body"
+        ],
+        "SHIELD": [
+          "Elidinis' ward (f)",
+          "Arcane spirit shield",
+          "Mage's book",
+          "Book of the dead"
+        ],
+        "LEGS": [
+          "Ancestral robe bottom",
+          "Virtus robe bottom",
+          "Ahrim's robeskirt",
+          "Blue moon tassets",
+          "Bloodbark legs"
+        ],
+        "HANDS": [
+          "Confliction gauntlets",
+          "Tormented bracelet",
+          "Barrows gloves"
+        ],
+        "FEET": [
+          "Avernic treads (max)",
+          "Eternal boots",
+          "Infinity boots"
+        ],
+        "RING": [
+          "Lightbearer",
+          "Magus ring",
+          "Ring of suffering (i)"
+        ]
+      },
+      "inventory": [],
+      "notes": "The wiki pairs this with a ranged switch (Twisted bow or Bow of faerdhinen and Masori/crystal armour); the inventory section was not captured."
+    }
+  ],
+  "notes": "Wiki lists Prayer 40 in the prayer info; recommends 90+ Ranged, 80+ Defence, 74+ Prayer, 85+ Magic."
+}

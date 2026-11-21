@@ -15,14 +15,13 @@ import org.slf4j.LoggerFactory;
 final class JsonResources
 {
 	private static final Logger log = LoggerFactory.getLogger(JsonResources.class);
-	private static final Gson GSON = new Gson();
 
 	private JsonResources()
 	{
 	}
 
 	/** Parses a bundled JSON file; null if it is missing or broken (the problem is logged). */
-	static <T> T read(String path, Class<T> type)
+	static <T> T read(Gson gson, String path, Class<T> type)
 	{
 		try (InputStream in = JsonResources.class.getResourceAsStream(path))
 		{
@@ -31,7 +30,7 @@ final class JsonResources
 				log.debug("No bundled file {}", path);
 				return null;
 			}
-			return GSON.fromJson(new InputStreamReader(in, StandardCharsets.UTF_8), type);
+			return gson.fromJson(new InputStreamReader(in, StandardCharsets.UTF_8), type);
 		}
 		catch (IOException | RuntimeException e)
 		{

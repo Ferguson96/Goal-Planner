@@ -1,5 +1,6 @@
 package com.osrsgoals.data;
 
+import com.google.gson.Gson;
 import com.osrsgoals.core.Boss;
 import com.osrsgoals.core.Names;
 import java.util.ArrayList;
@@ -16,12 +17,12 @@ public class BossRepository
 {
 	private final Map<String, Boss> byId = new LinkedHashMap<>();
 
-	public void load()
+	public void load(Gson gson)
 	{
 		byId.clear();
 		for (String id : JsonResources.lines("/bosses/_index.txt"))
 		{
-			Boss boss = JsonResources.read("/bosses/" + id + ".json", Boss.class);
+			Boss boss = JsonResources.read(gson, "/bosses/" + id + ".json", Boss.class);
 			if (boss != null && boss.id != null)
 			{
 				byId.put(boss.id, boss);

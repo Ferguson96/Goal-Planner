@@ -45,11 +45,12 @@ public class GoalStore
 	private static final String FLAG_PREFIX = "flag.";
 
 	private final Backend backend;
-	private final Gson gson = new Gson();
+	private final Gson gson;
 
-	public GoalStore(Backend backend)
+	public GoalStore(Backend backend, Gson gson)
 	{
 		this.backend = backend;
+		this.gson = gson;
 	}
 
 	private <T> T read(String key, Type type, T fallback)

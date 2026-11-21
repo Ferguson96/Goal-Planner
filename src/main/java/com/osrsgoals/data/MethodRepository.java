@@ -30,9 +30,9 @@ public class MethodRepository
 
 	private final Map<String, List<TrainingMethod>> bySkill = new TreeMap<>();
 
-	public void load()
+	/** Loads every bundled skill file, using RuneLite's shared Gson. */
+	public void load(Gson gson)
 	{
-		Gson gson = new Gson();
 		for (String skill : SKILLS)
 		{
 			String path = "/methods/" + skill + ".json";

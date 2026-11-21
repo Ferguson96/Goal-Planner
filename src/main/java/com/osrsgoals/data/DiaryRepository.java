@@ -1,5 +1,6 @@
 package com.osrsgoals.data;
 
+import com.google.gson.Gson;
 import com.osrsgoals.core.Diary;
 import java.util.ArrayList;
 import java.util.Comparator;
@@ -18,12 +19,12 @@ public class DiaryRepository
 
 	private final Map<String, Diary> byId = new LinkedHashMap<>();
 
-	public void load()
+	public void load(Gson gson)
 	{
 		byId.clear();
 		for (String id : IDS)
 		{
-			Diary diary = JsonResources.read("/diaries/" + id + ".json", Diary.class);
+			Diary diary = JsonResources.read(gson, "/diaries/" + id + ".json", Diary.class);
 			if (diary != null && diary.id != null)
 			{
 				byId.put(diary.id, diary);

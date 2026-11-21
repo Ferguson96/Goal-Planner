@@ -1,5 +1,6 @@
 package com.osrsgoals.data;
 
+import com.google.gson.Gson;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertNotNull;
@@ -30,7 +31,7 @@ public class GoalStoreTest
 			{
 				backing.put(key, value);
 			}
-		});
+		}, new Gson());
 	}
 
 	@Test

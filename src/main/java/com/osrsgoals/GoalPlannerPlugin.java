@@ -1,5 +1,6 @@
 package com.osrsgoals;
 
+import com.google.gson.Gson;
 import com.osrsgoals.core.Goal;
 import com.osrsgoals.core.Names;
 import com.osrsgoals.core.QuestProgress;
@@ -77,6 +78,9 @@ public class GoalPlannerPlugin extends Plugin
 	@Inject
 	private ConfigManager configManager;
 
+	@Inject
+	private Gson gson;
+
 	private final MethodRepository methods = new MethodRepository();
 	private final DiaryRepository diaries = new DiaryRepository();
 	private final BossRepository bosses = new BossRepository();
@@ -103,9 +107,9 @@ public class GoalPlannerPlugin extends Plugin
 		{
 			xpCache.set(i, -1);
 		}
-		methods.load();
-		diaries.load();
-		bosses.load();
+		methods.load(gson);
+		diaries.load(gson);
+		bosses.load(gson);
 
 		store = new GoalStore(new GoalStore.Backend()
 		{
@@ -120,7 +124,7 @@ public class GoalPlannerPlugin extends Plugin
 			{
 				configManager.setConfiguration(CONFIG_GROUP, key, value);
 			}
-		});
+		}, gson);
 		evaluator = new GoalEvaluator(methods, diaries, bosses, store, new GoalEvaluator.State()
 		{
 			@Override

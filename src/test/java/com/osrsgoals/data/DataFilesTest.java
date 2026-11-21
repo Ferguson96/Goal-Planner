@@ -1,5 +1,6 @@
 package com.osrsgoals.data;
 
+import com.google.gson.Gson;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertNotNull;
@@ -30,7 +31,7 @@ public class DataFilesTest
 	public void trainingMethodsLoadAndWork()
 	{
 		MethodRepository repo = new MethodRepository();
-		repo.load();
+		repo.load(new Gson());
 		assertFalse("no skills loaded", repo.skills().isEmpty());
 		assertTrue(repo.skills().contains("FISHING"));
 
@@ -58,7 +59,7 @@ public class DataFilesTest
 	public void fishingHasRealNumbers()
 	{
 		MethodRepository repo = new MethodRepository();
-		repo.load();
+		repo.load(new Gson());
 		int usable = 0;
 		for (TrainingMethod m : repo.methodsFor("FISHING"))
 		{
@@ -74,7 +75,7 @@ public class DataFilesTest
 	public void diariesLoadWithUniqueTasks()
 	{
 		DiaryRepository repo = new DiaryRepository();
-		repo.load();
+		repo.load(new Gson());
 		Set<String> ids = new HashSet<>();
 		for (Diary diary : repo.all())
 		{
@@ -109,7 +110,7 @@ public class DataFilesTest
 	public void bossesLoadWithConsistentDrops()
 	{
 		BossRepository repo = new BossRepository();
-		repo.load();
+		repo.load(new Gson());
 		for (Boss boss : repo.all())
 		{
 			assertNotNull(boss.name);

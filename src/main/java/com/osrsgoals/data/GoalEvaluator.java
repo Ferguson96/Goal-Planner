@@ -32,6 +32,12 @@ public class GoalEvaluator
 
 		/** Kill count for a boss by display name, or -1 if none seen yet. */
 		int killCount(String bossName);
+
+		/** True if the game reports the whole diary tier as finished. */
+		default boolean diaryTierComplete(String diaryId, DiaryTier tier)
+		{
+			return false;
+		}
 	}
 
 	private final MethodRepository methods;
@@ -150,9 +156,10 @@ public class GoalEvaluator
 		}
 		List<DiaryTask> tasks = diary.tasks(tier);
 		List<DiaryTask> todo = new ArrayList<>();
+		boolean tierDone = state.diaryTierComplete(diary.id, tier);
 		for (DiaryTask task : tasks)
 		{
-			if (!store.isTaskDone(task.id))
+			if (!tierDone && !store.isTaskDone(task.id))
 			{
 				todo.add(task);
 			}

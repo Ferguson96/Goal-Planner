@@ -18,6 +18,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 480,
+    "unit": "oak larders",
     "source": "https://oldschool.runescape.wiki/w/Construction_training",
     "retrieved": "2026-10-27",
     "notes": "480 XP per larder, 8 oak planks each. Wiki: 480,000-490,000 typical, up to 500,000 perfect. Cost about -7 to -8 GP per XP."
@@ -42,6 +44,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 840,
+    "unit": "mahogany tables",
     "source": "https://oldschool.runescape.wiki/w/Construction_training",
     "retrieved": "2026-10-27",
     "notes": "840 XP each, 6 planks each. Cost about -13 GP per XP."
@@ -65,6 +69,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 840,
+    "unit": "gnome benches",
     "source": "https://oldschool.runescape.wiki/w/Construction_training",
     "retrieved": "2026-10-27",
     "notes": "840 XP each, 6 planks each; wiki says just over 1,100,000 XP/hr."
@@ -89,6 +95,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 370,
+    "unit": "mounted mythical capes",
     "source": "https://oldschool.runescape.wiki/w/Construction_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki says 'up to about 430,000' XP/hr; 370 XP each, 3 teak planks each."
@@ -111,6 +119,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 540,
+    "unit": "teak garden benches",
     "source": "https://oldschool.runescape.wiki/w/Construction_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki: 500,000-600,000 typical, about 700,000 max at 66; lower figure used. 540 XP each."
@@ -133,6 +143,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 600,
+    "unit": "oak dungeon doors",
     "source": "https://oldschool.runescape.wiki/w/Construction_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki: 500,000+ typical, up to about 550,000. 600 XP each, 10 oak planks each."

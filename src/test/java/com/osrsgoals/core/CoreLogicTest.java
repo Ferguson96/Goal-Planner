@@ -152,6 +152,26 @@ public class CoreLogicTest
 		double expected = (XpTable.xpForLevel(80) - xp) / 50_000.0
 			+ (XpTable.xpForLevel(82) - XpTable.xpForLevel(80)) / 100_000.0;
 		assertEquals(expected, path.hours, 1e-9);
+		assertEquals(XpTable.xpForLevel(80) - xp, path.segments.get(0).xp);
+		assertEquals(XpTable.xpForLevel(82) - XpTable.xpForLevel(80), path.segments.get(1).xp);
+	}
+
+	@Test
+	public void countsActionsNeeded()
+	{
+		TrainingMethod broad = flat("broad", 52, null, 100_000.0, null);
+		assertNull(broad.actionsFor(1_000));
+		broad.xpEach = 10.0;
+		broad.unit = "broad arrows";
+		// 91 Fletching from 0 XP: 5,902,831 XP at 10 XP each, rounded up.
+		assertEquals(Long.valueOf(590_284), broad.actionsFor(XpTable.xpForLevel(91)));
+		assertEquals(Long.valueOf(1), broad.actionsFor(1));
+		assertNull(broad.actionsFor(0));
+		broad.xpEach = 1.3;
+		assertEquals(Long.valueOf(77), broad.actionsFor(100));
+		assertEquals("1.3", Text.decimal(1.3));
+		assertEquals("10", Text.decimal(10.0));
+		assertEquals("56.2", Text.decimal(56.2));
 	}
 
 	@Test

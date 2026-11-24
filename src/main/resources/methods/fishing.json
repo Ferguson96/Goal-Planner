@@ -307,6 +307,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 33.2,
+    "unit": "leechfin",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
     "retrieved": "2026-10-16",
     "notes": "Level 72 figure is boosted and listed as 92,000+. Wiki lists a single rate, so it is stored as active."
@@ -776,6 +778,8 @@
         "gpPerHour": 31850
       }
     ],
+    "xpEach": 120,
+    "unit": "monkfish",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
     "retrieved": "2026-10-16",
     "notes": "Land or raft at sea (75 Sailing). Wiki lists a single rate, stored as active."
@@ -842,6 +846,8 @@
         "gpPerHour": 214200
       }
     ],
+    "xpEach": 50,
+    "unit": "karambwans",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
     "retrieved": "2026-10-16",
     "notes": "XP is the wiki's average including time spent catching karambwanji (pure karambwan XP/hr is higher, 29,000-42,000). Up to 900+ karambwan/hr at best. Wiki lists a single rate, stored as active."
@@ -865,6 +871,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 112.5,
+    "unit": "giant krill",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
     "retrieved": "2026-10-16",
     "notes": "Fishing XP with bait. Also about 16,000 Sailing XP/hr. Wiki section is flagged incomplete."
@@ -888,6 +896,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 112.5,
+    "unit": "giant krill",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
     "retrieved": "2026-10-16",
     "notes": "Fishing XP with bait. Also about 43,000 Sailing XP/hr. Wiki section is flagged incomplete."
@@ -911,6 +921,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 128.5,
+    "unit": "haddock",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
     "retrieved": "2026-10-16",
     "notes": "Fishing XP with bait. Also about 44,000 Sailing XP/hr. Wiki section is flagged incomplete."
@@ -934,6 +946,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 195.5,
+    "unit": "halibut",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
     "retrieved": "2026-10-16",
     "notes": "Wiki range 34,000-38,000 with bait; lower bound used. Also 57,000-60,000 Sailing XP/hr with extractor. Wiki section is flagged incomplete."
@@ -957,6 +971,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 220.5,
+    "unit": "bluefin",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
     "retrieved": "2026-10-16",
     "notes": "Wiki range 37,000-43,000 with bait; lower bound used. Also 57,000-60,000 Sailing XP/hr with extractor. Wiki section is flagged incomplete."
@@ -994,6 +1010,8 @@
         "gpPerHour": 171900
       }
     ],
+    "xpEach": 95,
+    "unit": "infernal eels",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
     "retrieved": "2026-10-16",
     "notes": "GP/hr shown is without Tokkul (with Tokkul: 194,624 / 208,862 / 223,100). Wiki lists a single rate, stored as active."
@@ -1024,6 +1042,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 120,
+    "unit": "anglerfish",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
     "retrieved": "2026-10-16",
     "notes": "Wiki calls the sea spot an 'extremely AFK option'. Only levels 82 and 90 are listed, so rates above 90 reuse the level-90 figure. Wiki totals for 82-99: 88,445 anglerfish, about 111.7M GP profit raw."
@@ -1075,6 +1095,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 110,
+    "unit": "sharks",
     "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
     "retrieved": "2026-10-27",
     "notes": "24,805 with a fish barrel. From the wiki's AFK skilling methods guide (AFK rate)."
@@ -1091,6 +1113,8 @@
       "Small fishing net"
     ],
     "rates": [],
+    "xpEach": 26.1,
+    "unit": "minnow catches",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fishing_training",
     "retrieved": "2026-10-16",
     "notes": "Rate table could not be read from the wiki yet, so no time is estimated. Level requirement from the wiki Fishing page."
@@ -1112,6 +1136,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 105,
+    "unit": "sacred eels",
     "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
     "retrieved": "2026-10-27",
     "notes": "From the wiki's AFK skilling methods guide (AFK rate)."
@@ -1134,6 +1160,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 130,
+    "unit": "dark crabs",
     "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
     "retrieved": "2026-10-27",
     "notes": "From the wiki's AFK skilling methods guide (AFK rate)."
@@ -1280,6 +1308,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 80,
+    "unit": "cave eels",
     "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
     "retrieved": "2026-10-27",
     "notes": "From the wiki's AFK skilling methods guide (AFK rate)."

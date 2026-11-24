@@ -113,6 +113,8 @@
         "gpPerHour": -450161
       }
     ],
+    "xpEach": 56.2,
+    "unit": "gold bars",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Smithing_training",
     "retrieved": "2026-10-26",
     "notes": "Costs about 15.4 million GP from 40 to 99."
@@ -134,6 +136,8 @@
         "gpPerHour": -477582
       }
     ],
+    "xpEach": 22.5,
+    "unit": "gold bars",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Smithing_training",
     "retrieved": "2026-10-26",
     "notes": "Costs about 37.8 million GP from 40 to 99."
@@ -155,6 +159,8 @@
         "gpPerHour": -477919
       }
     ],
+    "xpEach": 56.2,
+    "unit": "gold bars",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Smithing_training",
     "retrieved": "2026-10-26",
     "notes": ""
@@ -177,6 +183,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 56.2,
+    "unit": "gold bars",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Smithing_training",
     "retrieved": "2026-10-26",
     "notes": "420,000/hr with a Smithing cape."
@@ -243,6 +251,8 @@
         "gpPerHour": 696096
       }
     ],
+    "xpEach": 12.5,
+    "unit": "iron bars",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Smithing_training",
     "retrieved": "2026-10-26",
     "notes": "Profit is after GE tax at the wiki's prices on the retrieval date."
@@ -265,6 +275,8 @@
         "gpPerHour": 1583496
       }
     ],
+    "xpEach": 17.5,
+    "unit": "steel bars",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Smithing_training",
     "retrieved": "2026-10-26",
     "notes": "Profit is after GE tax at the wiki's prices on the retrieval date."
@@ -287,6 +299,8 @@
         "gpPerHour": 1574496
       }
     ],
+    "xpEach": 30,
+    "unit": "mithril bars",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Smithing_training",
     "retrieved": "2026-10-26",
     "notes": "Profit is after GE tax at the wiki's prices on the retrieval date."
@@ -309,6 +323,8 @@
         "gpPerHour": 2417796
       }
     ],
+    "xpEach": 37.5,
+    "unit": "adamantite bars",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Smithing_training",
     "retrieved": "2026-10-26",
     "notes": "Profit is after GE tax at the wiki's prices on the retrieval date."
@@ -331,6 +347,8 @@
         "gpPerHour": 2785536
       }
     ],
+    "xpEach": 50,
+    "unit": "runite bars",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Smithing_training",
     "retrieved": "2026-10-26",
     "notes": "Profit is after GE tax at the wiki's prices on the retrieval date."

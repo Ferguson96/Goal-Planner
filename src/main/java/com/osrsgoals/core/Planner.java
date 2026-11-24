@@ -19,15 +19,18 @@ public final class Planner
 		public final int fromLevel;
 		public final int toLevel;
 		public final double hours;
+		/** XP gained over this stretch. */
+		public final long xp;
 		/** GP gained (positive) or spent (negative) over this stretch; null if the wiki lists none. */
 		public final Double gp;
 
-		Segment(TrainingMethod method, int fromLevel, int toLevel, double hours, Double gp)
+		Segment(TrainingMethod method, int fromLevel, int toLevel, double hours, long xp, Double gp)
 		{
 			this.method = method;
 			this.fromLevel = fromLevel;
 			this.toLevel = toLevel;
 			this.hours = hours;
+			this.xp = xp;
 			this.gp = gp;
 		}
 	}
@@ -81,6 +84,7 @@ public final class Planner
 		int openFrom = 0;
 		int openTo = 0;
 		double openHours = 0;
+		long openXp = 0;
 		double openGp = 0;
 		boolean openGpKnown = true;
 		double totalHours = 0;
@@ -131,16 +135,18 @@ public final class Planner
 			{
 				if (open != null)
 				{
-					segments.add(new Segment(open, openFrom, openTo, openHours, openGpKnown ? openGp : null));
+					segments.add(new Segment(open, openFrom, openTo, openHours, openXp, openGpKnown ? openGp : null));
 				}
 				open = pick;
 				openFrom = level;
 				openHours = 0;
+				openXp = 0;
 				openGp = 0;
 				openGpKnown = true;
 			}
 			openTo = level + 1;
 			openHours += pickHours;
+			openXp += slice;
 			if (pickGp == null)
 			{
 				openGpKnown = false;
@@ -153,7 +159,7 @@ public final class Planner
 		}
 		if (open != null)
 		{
-			segments.add(new Segment(open, openFrom, openTo, openHours, openGpKnown ? openGp : null));
+			segments.add(new Segment(open, openFrom, openTo, openHours, openXp, openGpKnown ? openGp : null));
 		}
 
 		Double gpTotal = null;

@@ -102,6 +102,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 186,
+    "unit": "green d'hide bodies",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki XP/hr uses a costume needle at 1,705 actions/hr; profit per body 4833 at the wiki's prices (not converted to GP/hr)."
@@ -124,6 +126,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 210,
+    "unit": "blue d'hide bodies",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki XP/hr uses a costume needle at 1,705 actions/hr; profit per body 5784 at the wiki's prices (not converted to GP/hr)."
@@ -146,6 +150,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 234,
+    "unit": "red d'hide bodies",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki XP/hr uses a costume needle at 1,705 actions/hr; profit per body 7653 at the wiki's prices (not converted to GP/hr)."
@@ -168,6 +174,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 258,
+    "unit": "black d'hide bodies",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki XP/hr uses a costume needle at 1,705 actions/hr; profit per body 10128 at the wiki's prices (not converted to GP/hr)."
@@ -255,6 +263,8 @@
         "gpPerHour": 121600
       }
     ],
+    "xpEach": 15,
+    "unit": "gold rings",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -278,6 +288,8 @@
         "gpPerHour": 120000
       }
     ],
+    "xpEach": 20,
+    "unit": "gold necklaces",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -301,6 +313,8 @@
         "gpPerHour": 256000
       }
     ],
+    "xpEach": 25,
+    "unit": "gold bracelets",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -324,6 +338,8 @@
         "gpPerHour": 139200
       }
     ],
+    "xpEach": 30,
+    "unit": "gold amulets (u)",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -347,6 +363,8 @@
         "gpPerHour": 709800
       }
     ],
+    "xpEach": 10,
+    "unit": "opal rings",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -370,6 +388,8 @@
         "gpPerHour": 719600
       }
     ],
+    "xpEach": 35,
+    "unit": "opal necklaces",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -393,6 +413,8 @@
         "gpPerHour": 400400
       }
     ],
+    "xpEach": 45,
+    "unit": "opal bracelets",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -416,6 +438,8 @@
         "gpPerHour": 316400
       }
     ],
+    "xpEach": 55,
+    "unit": "opal amulets (u)",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -439,6 +463,8 @@
         "gpPerHour": 414400
       }
     ],
+    "xpEach": 32,
+    "unit": "jade rings",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -462,6 +488,8 @@
         "gpPerHour": 429800
       }
     ],
+    "xpEach": 54,
+    "unit": "jade necklaces",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -485,6 +513,8 @@
         "gpPerHour": 390600
       }
     ],
+    "xpEach": 60,
+    "unit": "jade bracelets",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -508,6 +538,8 @@
         "gpPerHour": 673400
       }
     ],
+    "xpEach": 70,
+    "unit": "jade amulets (u)",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -531,6 +563,8 @@
         "gpPerHour": 656600
       }
     ],
+    "xpEach": 35,
+    "unit": "topaz rings",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -554,6 +588,8 @@
         "gpPerHour": 413000
       }
     ],
+    "xpEach": 70,
+    "unit": "topaz necklaces",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -577,6 +613,8 @@
         "gpPerHour": 336000
       }
     ],
+    "xpEach": 75,
+    "unit": "topaz bracelets",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -600,6 +638,8 @@
         "gpPerHour": 644000
       }
     ],
+    "xpEach": 80,
+    "unit": "topaz amulets (u)",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -623,6 +663,8 @@
         "gpPerHour": 229600
       }
     ],
+    "xpEach": 40,
+    "unit": "sapphire rings",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -646,6 +688,8 @@
         "gpPerHour": 215600
       }
     ],
+    "xpEach": 55,
+    "unit": "sapphire necklaces",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -669,6 +713,8 @@
         "gpPerHour": 302400
       }
     ],
+    "xpEach": 60,
+    "unit": "sapphire bracelets",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -692,6 +738,8 @@
         "gpPerHour": 194600
       }
     ],
+    "xpEach": 65,
+    "unit": "sapphire amulets (u)",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -738,6 +786,8 @@
         "gpPerHour": 263200
       }
     ],
+    "xpEach": 60,
+    "unit": "emerald necklaces",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -761,6 +811,8 @@
         "gpPerHour": 368200
       }
     ],
+    "xpEach": 65,
+    "unit": "emerald bracelets",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -784,6 +836,8 @@
         "gpPerHour": 253400
       }
     ],
+    "xpEach": 70,
+    "unit": "emerald amulets (u)",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -807,6 +861,8 @@
         "gpPerHour": 218400
       }
     ],
+    "xpEach": 70,
+    "unit": "ruby rings",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -830,6 +886,8 @@
         "gpPerHour": 289800
       }
     ],
+    "xpEach": 75,
+    "unit": "ruby necklaces",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -853,6 +911,8 @@
         "gpPerHour": 438200
       }
     ],
+    "xpEach": 80,
+    "unit": "ruby bracelets",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -876,6 +936,8 @@
         "gpPerHour": 322000
       }
     ],
+    "xpEach": 85,
+    "unit": "ruby amulets (u)",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -899,6 +961,8 @@
         "gpPerHour": 375200
       }
     ],
+    "xpEach": 85,
+    "unit": "diamond rings",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -922,6 +986,8 @@
         "gpPerHour": 432600
       }
     ],
+    "xpEach": 90,
+    "unit": "diamond necklaces",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -945,6 +1011,8 @@
         "gpPerHour": 413000
       }
     ],
+    "xpEach": 95,
+    "unit": "diamond bracelets",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -968,6 +1036,8 @@
         "gpPerHour": 345800
       }
     ],
+    "xpEach": 100,
+    "unit": "diamond amulets (u)",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -991,6 +1061,8 @@
         "gpPerHour": -1400
       }
     ],
+    "xpEach": 100,
+    "unit": "dragonstone rings",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -1014,6 +1086,8 @@
         "gpPerHour": -138600
       }
     ],
+    "xpEach": 105,
+    "unit": "dragon necklaces",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -1037,6 +1111,8 @@
         "gpPerHour": 435400
       }
     ],
+    "xpEach": 110,
+    "unit": "dragonstone bracelets",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -1060,6 +1136,8 @@
         "gpPerHour": -93800
       }
     ],
+    "xpEach": 150,
+    "unit": "dragonstone amulets (u)",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki assumes the metal-bar or gem+bar rate; GP/hr at the wiki's prices."
@@ -1216,6 +1294,8 @@
         "gpPerHour": 152000
       }
     ],
+    "xpEach": 55,
+    "unit": "drift nets",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Crafting_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki: about 2.76 GP per XP; check GE volume. Table lists 26-46/99."

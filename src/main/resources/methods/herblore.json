@@ -17,6 +17,8 @@
         "gpPerHour": -1238750
       }
     ],
+    "xpEach": 25,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-495.5) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -39,6 +41,8 @@
         "gpPerHour": -2366875
       }
     ],
+    "xpEach": 37.5,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-946.75) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -61,6 +65,8 @@
         "gpPerHour": -1231875
       }
     ],
+    "xpEach": 50,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-492.75) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -83,6 +89,8 @@
         "gpPerHour": -934912
       }
     ],
+    "xpEach": 50,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-401.25) x potions/hr (2330, from XP/hr / XP per potion)."
@@ -105,6 +113,8 @@
         "gpPerHour": -1533750
       }
     ],
+    "xpEach": 60,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-613.5) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -127,6 +137,8 @@
         "gpPerHour": -1551250
       }
     ],
+    "xpEach": 62.5,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-620.5) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -149,6 +161,8 @@
         "gpPerHour": -1186875
       }
     ],
+    "xpEach": 67.5,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-474.75) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -171,6 +185,8 @@
         "gpPerHour": -15141250
       }
     ],
+    "xpEach": 75,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-6056.5) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -193,6 +209,8 @@
         "gpPerHour": -5915000
       }
     ],
+    "xpEach": 80,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-2366) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -215,6 +233,8 @@
         "gpPerHour": -1308125
       }
     ],
+    "xpEach": 84,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-523.25) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -237,6 +257,8 @@
         "gpPerHour": -435625
       }
     ],
+    "xpEach": 87.5,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-174.25) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -259,6 +281,8 @@
         "gpPerHour": -263750
       }
     ],
+    "xpEach": 100,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-105.5) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -281,6 +305,8 @@
         "gpPerHour": -3205000
       }
     ],
+    "xpEach": 106.3,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-1282) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -303,6 +329,8 @@
         "gpPerHour": -5942500
       }
     ],
+    "xpEach": 112.5,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-2377) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -325,6 +353,8 @@
         "gpPerHour": -871875
       }
     ],
+    "xpEach": 117.5,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-348.75) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -347,6 +377,8 @@
         "gpPerHour": -4475625
       }
     ],
+    "xpEach": 120,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-1790.25) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -369,6 +401,8 @@
         "gpPerHour": -330000
       }
     ],
+    "xpEach": 125,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-132) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -391,6 +425,8 @@
         "gpPerHour": -1334375
       }
     ],
+    "xpEach": 100,
+    "unit": "dressings",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-533.75) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -413,6 +449,8 @@
         "gpPerHour": -15451250
       }
     ],
+    "xpEach": 132,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-6180.5) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -435,6 +473,8 @@
         "gpPerHour": -4120000
       }
     ],
+    "xpEach": 140.5,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-1648) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -457,6 +497,8 @@
         "gpPerHour": -1195411
       }
     ],
+    "xpEach": 142.5,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-478.5) x potions/hr (2498, from XP/hr / XP per potion)."
@@ -479,6 +521,8 @@
         "gpPerHour": -898750
       }
     ],
+    "xpEach": 150,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-359.5) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -501,6 +545,8 @@
         "gpPerHour": -5553750
       }
     ],
+    "xpEach": 154,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-2221.5) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -523,6 +569,8 @@
         "gpPerHour": -1998750
       }
     ],
+    "xpEach": 157.5,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-799.5) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -545,6 +593,8 @@
         "gpPerHour": -1946875
       }
     ],
+    "xpEach": 162.5,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-778.75) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -567,6 +617,8 @@
         "gpPerHour": -3030000
       }
     ],
+    "xpEach": 172.5,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-1212) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -589,6 +641,8 @@
         "gpPerHour": -3036000
       }
     ],
+    "xpEach": 102,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-1104) x potions/hr (2750, from XP/hr / XP per potion). Active rate is with tick manipulation."
@@ -611,6 +665,8 @@
         "gpPerHour": -8137500
       }
     ],
+    "xpEach": 175,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-3255) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -633,6 +689,8 @@
         "gpPerHour": -3576875
       }
     ],
+    "xpEach": 155,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-1430.75) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -655,6 +713,8 @@
         "gpPerHour": -4280625
       }
     ],
+    "xpEach": 155,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-1712.25) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -677,6 +737,8 @@
         "gpPerHour": -3805625
       }
     ],
+    "xpEach": 180,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-1522.25) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -721,6 +783,8 @@
         "gpPerHour": -1988250
       }
     ],
+    "xpEach": 110,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-723) x potions/hr (2750, from XP/hr / XP per potion). Active rate is with tick manipulation."
@@ -743,6 +807,8 @@
         "gpPerHour": -15660562
       }
     ],
+    "xpEach": 190,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-5694.75) x potions/hr (2750, from XP/hr / XP per potion)."
@@ -765,6 +831,8 @@
         "gpPerHour": -1690000
       }
     ],
+    "xpEach": 110,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-676) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -787,6 +855,8 @@
         "gpPerHour": -2332000
       }
     ],
+    "xpEach": 120,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-848) x potions/hr (2750, from XP/hr / XP per potion). Active rate is with tick manipulation."
@@ -809,6 +879,8 @@
         "gpPerHour": -3410625
       }
     ],
+    "xpEach": 200,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-1364.25) x potions/hr (2500, from XP/hr / XP per potion)."
@@ -831,6 +903,8 @@
         "gpPerHour": -7609250
       }
     ],
+    "xpEach": 205,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-2767) x potions/hr (2750, from XP/hr / XP per potion)."
@@ -853,6 +927,8 @@
         "gpPerHour": -125628
       }
     ],
+    "xpEach": 150,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-58) x potions/hr (2166, from XP/hr / XP per potion)."
@@ -875,6 +951,8 @@
         "gpPerHour": -2001636
       }
     ],
+    "xpEach": 145,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-1092) x potions/hr (1833, from XP/hr / XP per potion)."
@@ -897,6 +975,8 @@
         "gpPerHour": -4415000
       }
     ],
+    "xpEach": 130,
+    "unit": "potions",
     "source": "https://oldschool.runescape.wiki/w/Herblore_training",
     "retrieved": "2026-10-27",
     "notes": "GP/hr = wiki profit per potion (-1766) x potions/hr (2500, from XP/hr / XP per potion)."

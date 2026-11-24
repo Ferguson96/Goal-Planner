@@ -164,8 +164,13 @@ class SkillsTab extends JPanel implements Refreshable
 		for (Planner.Segment segment : path.segments)
 		{
 			html.append("<br>").append(segment.fromLevel).append(" → ").append(segment.toLevel).append(": ")
-				.append(Ui.esc(segment.method.name)).append(" (").append(GoalCalculator.formatHours(segment.hours))
-				.append(")");
+				.append(Ui.esc(segment.method.name)).append(" (").append(GoalCalculator.formatHours(segment.hours));
+			String actions = actionsText(segment.method, segment.xp);
+			if (actions != null)
+			{
+				html.append(", ").append(actions);
+			}
+			html.append(")");
 		}
 		if (path.complete)
 		{
@@ -191,6 +196,12 @@ class SkillsTab extends JPanel implements Refreshable
 			html.append("<br>XP/hr (average): ")
 				.append(r.xpPerHour == null ? "no wiki rate" : Text.number(Math.round(r.xpPerHour)));
 			html.append("<br>Time: ").append(r.hoursNeeded == null ? "unknown" : GoalCalculator.formatHours(r.hoursNeeded));
+			String actions = actionsText(r.method, r.xpNeeded);
+			if (actions != null)
+			{
+				html.append("<br>Amount: ").append(actions).append(" (")
+					.append(Text.decimal(r.method.xpEach)).append(" XP each)");
+			}
 			html.append("<br>GP/hr: ").append(Ui.signed(r.netGpPerHour));
 			html.append("<br>GP total: ").append(Ui.signed(r.netGpTotal));
 		}
@@ -215,6 +226,18 @@ class SkillsTab extends JPanel implements Refreshable
 				.append(Ui.esc(r.method.retrieved));
 		}
 		return extra.length() == 0 ? Ui.card(main) : Ui.card(main, Ui.label("<small>" + extra + "</small>", Ui.MUTED));
+	}
+
+	/** "12,345 broad arrows", or null when the method has no fixed XP per action. */
+	private static String actionsText(TrainingMethod method, long xp)
+	{
+		Long count = method.actionsFor(xp);
+		if (count == null)
+		{
+			return null;
+		}
+		String unit = method.unit == null || method.unit.isEmpty() ? "actions" : method.unit;
+		return Text.number(count) + " " + Ui.esc(unit);
 	}
 
 	private void message(String text, Color color)

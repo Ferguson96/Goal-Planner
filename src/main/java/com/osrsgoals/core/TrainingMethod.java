@@ -26,4 +26,18 @@ public class TrainingMethod
 	/** Date (yyyy-mm-dd) the numbers were read from the wiki. */
 	public String retrieved;
 	public String notes;
+	/** Optional: XP gained per action (one arrow, one lap, one potion). Null when it varies. */
+	public Double xpEach;
+	/** Optional: what one action is called, in the plural (e.g. "broad arrows", "laps"). */
+	public String unit;
+
+	/** How many actions it takes to gain this much XP, or null if the method has no fixed XP per action. */
+	public Long actionsFor(long xp)
+	{
+		if (xpEach == null || xpEach <= 0 || xp <= 0)
+		{
+			return null;
+		}
+		return (long) Math.ceil(xp / xpEach);
+	}
 }

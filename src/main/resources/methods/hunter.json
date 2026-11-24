@@ -76,6 +76,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 48,
+    "unit": "Feldip weasels",
     "source": "https://oldschool.runescape.wiki/w/Hunter_training",
     "retrieved": "2026-10-27",
     "notes": "About 13,000 XP/hr."
@@ -99,6 +101,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 61,
+    "unit": "catches",
     "source": "https://oldschool.runescape.wiki/w/Hunter_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki: up to 20,000 with two traps."
@@ -124,6 +128,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 64,
+    "unit": "red crabs",
     "source": "https://oldschool.runescape.wiki/w/Hunter_training",
     "retrieved": "2026-10-27",
     "notes": "About 31,000 XP/hr with two traps."
@@ -148,6 +154,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 137,
+    "unit": "embertailed jerboas",
     "source": "https://oldschool.runescape.wiki/w/Hunter_training",
     "retrieved": "2026-10-27",
     "notes": "About 50,000 XP/hr with three traps."
@@ -172,6 +180,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 104,
+    "unit": "spotted kebbits",
     "source": "https://oldschool.runescape.wiki/w/Hunter_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki: 60,000-70,000 XP/hr (lower bound); falcon rental 500 coins per use."
@@ -196,6 +206,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 348.5,
+    "unit": "razor-backed kebbits",
     "source": "https://oldschool.runescape.wiki/w/Hunter_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki: up to 130,000, about 140,000 with an alt supplying rings and stamina potions, about 100,000 without stamina potions; 100,000 used."
@@ -220,6 +232,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 132,
+    "unit": "dark kebbits",
     "source": "https://oldschool.runescape.wiki/w/Hunter_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki: 75,000-80,000 XP/hr (lower bound); falcon rental 500 coins per use."
@@ -242,6 +256,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 156,
+    "unit": "dashing kebbits",
     "source": "https://oldschool.runescape.wiki/w/Hunter_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki: 85,000-95,000 XP/hr (lower bound); the wiki says salamanders are better from level 60."
@@ -339,6 +355,8 @@
         "gpPerHour": 2824143
       }
     ],
+    "xpEach": 315,
+    "unit": "black chinchompas",
     "source": "https://oldschool.runescape.wiki/w/Hunter_training",
     "retrieved": "2026-10-27",
     "notes": "Tick manipulation assumed; Wilderness PK risk. GP/hr only listed for 73 and 99 (interpolated between)."
@@ -399,6 +417,8 @@
         "gpPerHour": 2397857
       }
     ],
+    "xpEach": 315,
+    "unit": "black chinchompas",
     "source": "https://oldschool.runescape.wiki/w/Hunter_training",
     "retrieved": "2026-10-27",
     "notes": "Tick manipulation assumed; Wilderness PK risk. GP/hr only listed for 73 and 99. Salamanders, herbiboar and other methods were not captured."
@@ -420,6 +440,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 1000,
+    "unit": "maniacal monkeys",
     "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
     "retrieved": "2026-10-27",
     "notes": "From the wiki's AFK skilling methods guide (AFK rate)."
@@ -439,6 +461,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 1350,
+    "unit": "stymphikes",
     "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
     "retrieved": "2026-10-27",
     "notes": "From the wiki's AFK skilling methods guide (AFK rate)."

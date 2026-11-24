@@ -58,6 +58,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 85,
+    "unit": "teak logs",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
     "retrieved": "2026-10-19",
     "notes": "Active only."
@@ -121,6 +123,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 85,
+    "unit": "teak logs",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
     "retrieved": "2026-10-19",
     "notes": "Active only."
@@ -182,6 +186,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 85,
+    "unit": "teak logs",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
     "retrieved": "2026-10-19",
     "notes": "Stored as afk because there is no tick manipulation; the wiki does not label it."
@@ -228,6 +234,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 127,
+    "unit": "sulliuscep caps",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
     "retrieved": "2026-10-19",
     "notes": "Fossil Island Tar Swamp."
@@ -268,6 +276,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 127,
+    "unit": "sulliuscep caps",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
     "retrieved": "2026-10-19",
     "notes": "Fossil Island Tar Swamp."
@@ -287,6 +297,8 @@
         "gpPerHour": 11000
       }
     ],
+    "xpEach": 25,
+    "unit": "logs",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
     "retrieved": "2026-10-19",
     "notes": "Rate and profit are given for level 99, so lower levels will be slower. Wiki lists 12,500-18,750 XP/hr; lower bound used."
@@ -306,6 +318,8 @@
         "gpPerHour": 276760
       }
     ],
+    "xpEach": 25,
+    "unit": "achey logs",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
     "retrieved": "2026-10-19",
     "notes": "Rate and profit are given for level 99, so lower levels will be slower. Profit comes from selling to ogre ranged fletching, per the wiki."
@@ -325,6 +339,8 @@
         "gpPerHour": 36244
       }
     ],
+    "xpEach": 37.5,
+    "unit": "oak logs",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
     "retrieved": "2026-10-19",
     "notes": "Rate and profit are given for level 99, so lower levels will be slower."
@@ -344,6 +360,8 @@
         "gpPerHour": 21900
       }
     ],
+    "xpEach": 67.5,
+    "unit": "willow logs",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
     "retrieved": "2026-10-19",
     "notes": "Rate and profit are given for level 99, so lower levels will be slower. Fastest free-to-play method per the wiki."
@@ -363,6 +381,8 @@
         "gpPerHour": 326000
       }
     ],
+    "xpEach": 40,
+    "unit": "arctic pine logs",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
     "retrieved": "2026-10-19",
     "notes": "Rate and profit are given for level 99, so lower levels will be slower. Wiki lists 19,000-21,000 XP/hr; lower bound used."
@@ -382,6 +402,8 @@
         "gpPerHour": 4320
       }
     ],
+    "xpEach": 100,
+    "unit": "maple logs",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
     "retrieved": "2026-10-19",
     "notes": "Rate and profit are given for level 99, so lower levels will be slower. Wiki lists 48,000-52,800 XP/hr; lower bound used. 110 XP per log with the medium Kandarin diary."
@@ -401,6 +423,8 @@
         "gpPerHour": 31376
       }
     ],
+    "xpEach": 82.5,
+    "unit": "bark",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
     "retrieved": "2026-10-19",
     "notes": "Rate and profit are given for level 99, so lower levels will be slower. Haunted Woods."
@@ -420,6 +444,8 @@
         "gpPerHour": 39804
       }
     ],
+    "xpEach": 125,
+    "unit": "mahogany logs",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
     "retrieved": "2026-10-19",
     "notes": "Rate and profit are given for level 99, so lower levels will be slower. Hardwood Grove and other locations."
@@ -439,6 +465,8 @@
         "gpPerHour": 24380
       }
     ],
+    "xpEach": 175,
+    "unit": "yew logs",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
     "retrieved": "2026-10-19",
     "notes": "Rate and profit are given for level 99, so lower levels will be slower. Rate assumes the Woodcutting Guild invisible +7 boost."
@@ -458,6 +486,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 76,
+    "unit": "blisterwood logs",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
     "retrieved": "2026-10-19",
     "notes": "Rate and profit are given for level 99, so lower levels will be slower. Darkmeyer, after Sins of the Father. No profit figure on the wiki."
@@ -477,6 +507,8 @@
         "gpPerHour": 106836
       }
     ],
+    "xpEach": 143.5,
+    "unit": "camphor logs",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
     "retrieved": "2026-10-19",
     "notes": "Rate and profit are given for level 99, so lower levels will be slower."
@@ -496,6 +528,8 @@
         "gpPerHour": 63544
       }
     ],
+    "xpEach": 250,
+    "unit": "magic logs",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
     "retrieved": "2026-10-19",
     "notes": "Rate and profit are given for level 99, so lower levels will be slower. Rate assumes the Woodcutting Guild invisible +7 boost."
@@ -515,6 +549,8 @@
         "gpPerHour": 34400
       }
     ],
+    "xpEach": 175,
+    "unit": "ironwood logs",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
     "retrieved": "2026-10-19",
     "notes": "Rate and profit are given for level 99, so lower levels will be slower. Wiki lists 80,000-110,000 XP/hr; lower bound used."
@@ -534,6 +570,8 @@
         "gpPerHour": 132112
       }
     ],
+    "xpEach": 380,
+    "unit": "redwood logs",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
     "retrieved": "2026-10-19",
     "notes": "Rate and profit are given for level 99, so lower levels will be slower. Woodcutting Guild and Farming Guild. Wiki lists 70,000-85,000 XP/hr; lower bound used."
@@ -553,6 +591,8 @@
         "gpPerHour": 59850
       }
     ],
+    "xpEach": 212.5,
+    "unit": "rosewood logs",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
     "retrieved": "2026-10-19",
     "notes": "Rate and profit are given for level 99, so lower levels will be slower."
@@ -565,6 +605,8 @@
     "minLevel": 42,
     "requirements": [],
     "rates": [],
+    "xpEach": 35,
+    "unit": "juniper logs",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training",
     "retrieved": "2026-10-19",
     "notes": "Wiki gives no XP/hr for juniper (35 XP per log; used for dynamite)."

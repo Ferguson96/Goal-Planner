@@ -1,6 +1,7 @@
 package com.osrsgoals;
 
 import com.google.gson.Gson;
+import com.osrsgoals.core.DiaryTier;
 import com.osrsgoals.core.Goal;
 import com.osrsgoals.core.Names;
 import com.osrsgoals.core.QuestProgress;
@@ -39,6 +40,8 @@ import net.runelite.api.events.GameStateChanged;
 import net.runelite.api.events.GameTick;
 import net.runelite.api.events.ItemContainerChanged;
 import net.runelite.api.events.StatChanged;
+import net.runelite.api.events.VarbitChanged;
+import net.runelite.api.gameval.VarbitID;
 import net.runelite.client.callback.ClientThread;
 import net.runelite.client.config.ConfigManager;
 import net.runelite.client.eventbus.Subscribe;
@@ -62,6 +65,36 @@ public class GoalPlannerPlugin extends Plugin
 	/** "Your completed Chambers of Xeric count is: 3." */
 	private static final Pattern COMPLETED_COUNT = Pattern.compile("^Your completed (.+?) count is: ([\\d,]+)");
 	private static final int QUEST_REFRESH_TICKS = 100;
+	/** "Tier complete" varbits per diary, in Easy, Medium, Hard, Elite order. */
+	private static final Map<String, int[]> DIARY_TIER_VARBITS = new HashMap<>();
+
+	static
+	{
+		DIARY_TIER_VARBITS.put("ardougne", new int[]{VarbitID.ARDOUGNE_DIARY_EASY_COMPLETE, VarbitID.ARDOUGNE_DIARY_MEDIUM_COMPLETE,
+			VarbitID.ARDOUGNE_DIARY_HARD_COMPLETE, VarbitID.ARDOUGNE_DIARY_ELITE_COMPLETE});
+		DIARY_TIER_VARBITS.put("desert", new int[]{VarbitID.DESERT_DIARY_EASY_COMPLETE, VarbitID.DESERT_DIARY_MEDIUM_COMPLETE,
+			VarbitID.DESERT_DIARY_HARD_COMPLETE, VarbitID.DESERT_DIARY_ELITE_COMPLETE});
+		DIARY_TIER_VARBITS.put("falador", new int[]{VarbitID.FALADOR_DIARY_EASY_COMPLETE, VarbitID.FALADOR_DIARY_MEDIUM_COMPLETE,
+			VarbitID.FALADOR_DIARY_HARD_COMPLETE, VarbitID.FALADOR_DIARY_ELITE_COMPLETE});
+		DIARY_TIER_VARBITS.put("fremennik", new int[]{VarbitID.FREMENNIK_DIARY_EASY_COMPLETE, VarbitID.FREMENNIK_DIARY_MEDIUM_COMPLETE,
+			VarbitID.FREMENNIK_DIARY_HARD_COMPLETE, VarbitID.FREMENNIK_DIARY_ELITE_COMPLETE});
+		DIARY_TIER_VARBITS.put("kandarin", new int[]{VarbitID.KANDARIN_DIARY_EASY_COMPLETE, VarbitID.KANDARIN_DIARY_MEDIUM_COMPLETE,
+			VarbitID.KANDARIN_DIARY_HARD_COMPLETE, VarbitID.KANDARIN_DIARY_ELITE_COMPLETE});
+		DIARY_TIER_VARBITS.put("karamja", new int[]{VarbitID.ATJUN_EASY_DONE, VarbitID.ATJUN_MED_DONE,
+			VarbitID.ATJUN_HARD_DONE, VarbitID.KARAMJA_DIARY_ELITE_COMPLETE});
+		DIARY_TIER_VARBITS.put("kourend_kebos", new int[]{VarbitID.KOUREND_DIARY_EASY_COMPLETE, VarbitID.KOUREND_DIARY_MEDIUM_COMPLETE,
+			VarbitID.KOUREND_DIARY_HARD_COMPLETE, VarbitID.KOUREND_DIARY_ELITE_COMPLETE});
+		DIARY_TIER_VARBITS.put("lumbridge_draynor", new int[]{VarbitID.LUMBRIDGE_DIARY_EASY_COMPLETE, VarbitID.LUMBRIDGE_DIARY_MEDIUM_COMPLETE,
+			VarbitID.LUMBRIDGE_DIARY_HARD_COMPLETE, VarbitID.LUMBRIDGE_DIARY_ELITE_COMPLETE});
+		DIARY_TIER_VARBITS.put("morytania", new int[]{VarbitID.MORYTANIA_DIARY_EASY_COMPLETE, VarbitID.MORYTANIA_DIARY_MEDIUM_COMPLETE,
+			VarbitID.MORYTANIA_DIARY_HARD_COMPLETE, VarbitID.MORYTANIA_DIARY_ELITE_COMPLETE});
+		DIARY_TIER_VARBITS.put("varrock", new int[]{VarbitID.VARROCK_DIARY_EASY_COMPLETE, VarbitID.VARROCK_DIARY_MEDIUM_COMPLETE,
+			VarbitID.VARROCK_DIARY_HARD_COMPLETE, VarbitID.VARROCK_DIARY_ELITE_COMPLETE});
+		DIARY_TIER_VARBITS.put("western_provinces", new int[]{VarbitID.WESTERN_DIARY_EASY_COMPLETE, VarbitID.WESTERN_DIARY_MEDIUM_COMPLETE,
+			VarbitID.WESTERN_DIARY_HARD_COMPLETE, VarbitID.WESTERN_DIARY_ELITE_COMPLETE});
+		DIARY_TIER_VARBITS.put("wilderness", new int[]{VarbitID.WILDERNESS_DIARY_EASY_COMPLETE, VarbitID.WILDERNESS_DIARY_MEDIUM_COMPLETE,
+			VarbitID.WILDERNESS_DIARY_HARD_COMPLETE, VarbitID.WILDERNESS_DIARY_ELITE_COMPLETE});
+	}
 
 	@Inject
 	private Client client;
@@ -90,6 +123,8 @@ public class GoalPlannerPlugin extends Plugin
 	/** XP per skill, -1 until seen. Written on the client thread, read by the UI. */
 	private final AtomicIntegerArray xpCache = new AtomicIntegerArray(Skill.values().length);
 	private final Map<String, QuestProgress> questCache = new ConcurrentHashMap<>();
+	/** "diaryId:TIER" for every tier the game reports as complete. */
+	private final Map<String, Boolean> diaryTierCache = new ConcurrentHashMap<>();
 	private final Map<String, Integer> priceCache = new ConcurrentHashMap<>();
 	private volatile Map<String, Integer> inventoryItems = Collections.emptyMap();
 	private volatile Map<String, Integer> equipmentItems = Collections.emptyMap();
@@ -144,6 +179,12 @@ public class GoalPlannerPlugin extends Plugin
 			{
 				return GoalPlannerPlugin.this.killCount(bossName);
 			}
+
+			@Override
+			public boolean diaryTierComplete(String diaryId, DiaryTier tier)
+			{
+				return GoalPlannerPlugin.this.diaryTierComplete(diaryId, tier);
+			}
 		});
 
 		panel = new GoalPlannerPanel(this);
@@ -185,11 +226,29 @@ public class GoalPlannerPlugin extends Plugin
 	}
 
 	@Subscribe
+	public void onVarbitChanged(VarbitChanged event)
+	{
+		int varbit = event.getVarbitId();
+		for (int[] ids : DIARY_TIER_VARBITS.values())
+		{
+			for (int id : ids)
+			{
+				if (id == varbit)
+				{
+					refreshDiaries();
+					return;
+				}
+			}
+		}
+	}
+
+	@Subscribe
 	public void onGameTick(GameTick event)
 	{
 		if (++ticks % QUEST_REFRESH_TICKS == 0)
 		{
 			refreshQuests();
+			refreshDiaries();
 		}
 	}
 
@@ -268,6 +327,7 @@ public class GoalPlannerPlugin extends Plugin
 			}
 		}
 		refreshQuests();
+		refreshDiaries();
 		ItemContainer inventory = client.getItemContainer(InventoryID.INVENTORY);
 		if (inventory != null)
 		{
@@ -285,6 +345,30 @@ public class GoalPlannerPlugin extends Plugin
 				panel.refresh();
 			}
 		});
+	}
+
+	/** Reads which diary tiers the game reports as complete. Client thread only. */
+	private void refreshDiaries()
+	{
+		if (client.getGameState() != GameState.LOGGED_IN)
+		{
+			return;
+		}
+		DiaryTier[] tiers = DiaryTier.values();
+		for (Map.Entry<String, int[]> entry : DIARY_TIER_VARBITS.entrySet())
+		{
+			for (int i = 0; i < tiers.length; i++)
+			{
+				boolean complete = client.getVarbitValue(entry.getValue()[i]) >= 1;
+				diaryTierCache.put(entry.getKey() + ":" + tiers[i].name(), complete);
+			}
+		}
+	}
+
+	/** True if the game reports this diary tier as finished (false until logged in). */
+	public boolean diaryTierComplete(String diaryId, DiaryTier tier)
+	{
+		return Boolean.TRUE.equals(diaryTierCache.get(diaryId + ":" + tier.name()));
 	}
 
 	private void refreshQuests()

@@ -25,6 +25,16 @@ public final class Text
 		return String.format(Locale.US, "%,d", value);
 	}
 
+	/** 12.5 -> "12.5", 10.0 -> "10", 1234.5 -> "1,234.5". */
+	public static String decimal(double value)
+	{
+		if (value == Math.rint(value))
+		{
+			return number((long) value);
+		}
+		return String.format(Locale.US, "%,.2f", value).replaceAll("0+$", "").replaceAll("\\.$", "");
+	}
+
 	public static String escapeHtml(String text)
 	{
 		if (text == null)

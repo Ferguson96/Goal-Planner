@@ -96,10 +96,11 @@ class DiariesTab extends JPanel implements Refreshable
 		}
 
 		GoalStore store = plugin.store();
+		boolean tierDone = plugin.diaryTierComplete(diary.id, tier);
 		List<DiaryTask> todo = new ArrayList<>();
 		for (DiaryTask task : tasks)
 		{
-			if (!store.isTaskDone(task.id))
+			if (!tierDone && !store.isTaskDone(task.id))
 			{
 				todo.add(task);
 			}
@@ -109,13 +110,16 @@ class DiariesTab extends JPanel implements Refreshable
 			+ " tasks done", todo.isEmpty() ? Ui.GOOD : Color.WHITE));
 		body.add(Ui.button("Add as a goal", () -> plugin.addGoal(Goal.diary(diary.id, diary.name, tier))));
 
-		body.add(Ui.label("<small>Tick tasks as you finish them. The game does not expose each task, so this is manual.</small>",
-			Ui.MUTED));
+		body.add(Ui.label(tierDone
+			? "<small>Completed in game: this tier is read from your account.</small>"
+			: "<small>Finished tiers fill in by themselves once you're logged in. For a tier you're still working on, tick tasks as you go.</small>",
+			tierDone ? Ui.GOOD : Ui.MUTED));
 		for (DiaryTask task : tasks)
 		{
 			JCheckBox box = new JCheckBox(Ui.html(Ui.esc(task.description), 150));
 			box.setOpaque(false);
-			box.setSelected(store.isTaskDone(task.id));
+			box.setSelected(tierDone || store.isTaskDone(task.id));
+			box.setEnabled(!tierDone);
 			box.addActionListener(e ->
 			{
 				store.setTaskDone(task.id, box.isSelected());

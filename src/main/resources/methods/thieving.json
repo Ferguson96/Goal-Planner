@@ -391,6 +391,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 16,
+    "unit": "steals",
     "source": "https://oldschool.runescape.wiki/w/Thieving_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki: up to 19,200 XP/hr."
@@ -411,6 +413,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 28.5,
+    "unit": "steals",
     "source": "https://oldschool.runescape.wiki/w/Thieving_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki: 34,200 with one stall, up to 42,750 with two; lower figure used."
@@ -534,6 +538,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 84.3,
+    "unit": "pickpockets",
     "source": "https://oldschool.runescape.wiki/w/Thieving_training",
     "retrieved": "2026-10-27",
     "notes": "Tick-perfect 252,900 XP/hr from level 95. Wiki total profit about 7.63M coins for 55-99 (15.26M with full rogue equipment)."
@@ -603,6 +609,8 @@
         "gpPerHour": 2843177
       }
     ],
+    "xpEach": 306.9,
+    "unit": "pickpockets",
     "source": "https://oldschool.runescape.wiki/w/Thieving_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki: 120,000-180,000 XP/hr (lower bound). Prayer regeneration potions or Redemption for healing."
@@ -626,6 +634,8 @@
         "gpPerHour": 3949458
       }
     ],
+    "xpEach": 353.3,
+    "unit": "pickpockets",
     "source": "https://oldschool.runescape.wiki/w/Thieving_training",
     "retrieved": "2026-10-27",
     "notes": "Wiki: about 150,000 XP/hr at 99; elves drop enhanced crystal teleport seeds."

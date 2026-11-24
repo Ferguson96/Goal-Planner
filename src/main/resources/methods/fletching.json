@@ -17,6 +17,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 0.5,
+    "unit": "bronze bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Zero-time method. Profit per bolt -18 at the wiki's prices (not converted to GP/hr)."
@@ -39,6 +41,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 1,
+    "unit": "blurite bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Zero-time method. Profit per bolt not listed at the wiki's prices (not converted to GP/hr)."
@@ -61,6 +65,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 1.5,
+    "unit": "iron bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Zero-time method. Profit per bolt -5 at the wiki's prices (not converted to GP/hr)."
@@ -83,6 +89,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 2.5,
+    "unit": "silver bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Zero-time method. Profit per bolt -8 at the wiki's prices (not converted to GP/hr)."
@@ -105,6 +113,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 3.5,
+    "unit": "steel bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Zero-time method. Profit per bolt -9 at the wiki's prices (not converted to GP/hr)."
@@ -127,6 +137,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 5,
+    "unit": "mithril bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Zero-time method. Profit per bolt -41 at the wiki's prices (not converted to GP/hr)."
@@ -150,6 +162,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 3,
+    "unit": "broad bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Zero-time method. Profit per bolt -6 at the wiki's prices (not converted to GP/hr)."
@@ -172,6 +186,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 7,
+    "unit": "adamant bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Zero-time method. Profit per bolt -11 at the wiki's prices (not converted to GP/hr)."
@@ -194,6 +210,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 10,
+    "unit": "runite bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Zero-time method. Profit per bolt -26 at the wiki's prices (not converted to GP/hr)."
@@ -216,6 +234,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 12,
+    "unit": "dragon bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Zero-time method. Profit per bolt +21 at the wiki's prices (not converted to GP/hr)."
@@ -238,6 +258,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 3.9,
+    "unit": "red topazes cut into tips",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "About 1,150 gems/hr; semi-zero-time."
@@ -260,6 +282,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 4,
+    "unit": "sapphires cut into tips",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "About 1,150 gems/hr; semi-zero-time."
@@ -282,6 +306,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 5.5,
+    "unit": "emeralds cut into tips",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "About 1,150 gems/hr; semi-zero-time."
@@ -304,6 +330,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 6.3,
+    "unit": "rubies cut into tips",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "About 1,150 gems/hr; semi-zero-time."
@@ -326,6 +354,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 7,
+    "unit": "diamonds cut into tips",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "About 1,150 gems/hr; semi-zero-time."
@@ -348,6 +378,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 8.2,
+    "unit": "dragonstones cut into tips",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "About 1,150 gems/hr; semi-zero-time."
@@ -370,6 +402,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 9.4,
+    "unit": "onyxes cut into tips",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "About 1,150 gems/hr; semi-zero-time."
@@ -392,6 +426,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 1.6,
+    "unit": "opal bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Semi-zero-time method."
@@ -414,6 +450,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 2.4,
+    "unit": "jade bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Semi-zero-time method."
@@ -436,6 +474,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 3.2,
+    "unit": "pearl bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Semi-zero-time method."
@@ -458,6 +498,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 3.9,
+    "unit": "topaz bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Semi-zero-time method."
@@ -480,6 +522,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 9.5,
+    "unit": "barbed bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Semi-zero-time method."
@@ -502,6 +546,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 4.7,
+    "unit": "sapphire bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Semi-zero-time method."
@@ -524,6 +570,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 5.5,
+    "unit": "emerald bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Semi-zero-time method."
@@ -546,6 +594,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 6.3,
+    "unit": "ruby bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Semi-zero-time method."
@@ -568,6 +618,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 7,
+    "unit": "diamond bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Semi-zero-time method."
@@ -590,6 +642,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 8.2,
+    "unit": "dragonstone bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Semi-zero-time method."
@@ -612,6 +666,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 9.4,
+    "unit": "onyx bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Semi-zero-time method."
@@ -634,6 +690,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 10.6,
+    "unit": "amethyst broad bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Semi-zero-time method."
@@ -656,6 +714,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 1.6,
+    "unit": "opal dragon bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Semi-zero-time method."
@@ -678,6 +738,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 2.4,
+    "unit": "jade dragon bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Semi-zero-time method."
@@ -700,6 +762,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 3.2,
+    "unit": "pearl dragon bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Semi-zero-time method."
@@ -722,6 +786,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 4,
+    "unit": "red topaz dragon bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Semi-zero-time method."
@@ -744,6 +810,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 4.7,
+    "unit": "sapphire dragon bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Semi-zero-time method."
@@ -766,6 +834,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 5.5,
+    "unit": "emerald dragon bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Semi-zero-time method."
@@ -788,6 +858,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 6.3,
+    "unit": "ruby dragon bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Semi-zero-time method."
@@ -810,6 +882,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 7,
+    "unit": "diamond dragon bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Semi-zero-time method."
@@ -832,6 +906,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 8.2,
+    "unit": "dragonstone dragon bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Semi-zero-time method."
@@ -854,6 +930,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 9.4,
+    "unit": "onyx dragon bolts",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Semi-zero-time method."
@@ -876,6 +954,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 140,
+    "unit": "Ascension shards chiselled",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "About 2,600 actions/hr; 140 XP per shard. Wiki profit +1,196 per shard; buy limit 100 shards per 4 hours."
@@ -897,6 +977,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 1,
+    "unit": "headless arrows",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Zero-time method; wiki shows a loss per arrow for most tiers."
@@ -918,6 +1000,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 1.3,
+    "unit": "bronze arrows",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Zero-time method; wiki shows a loss per arrow for most tiers."
@@ -939,6 +1023,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 2.5,
+    "unit": "iron arrows",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Zero-time method; wiki shows a loss per arrow for most tiers."
@@ -960,6 +1046,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 5,
+    "unit": "steel arrows",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Zero-time method; wiki shows a loss per arrow for most tiers."
@@ -981,6 +1069,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 7.5,
+    "unit": "mithril arrows",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Zero-time method; wiki shows a loss per arrow for most tiers."
@@ -1003,6 +1093,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 10,
+    "unit": "broad arrows",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Zero-time method; wiki shows a loss per arrow for most tiers."
@@ -1024,6 +1116,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 10,
+    "unit": "adamant arrows",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Zero-time method; wiki shows a loss per arrow for most tiers."
@@ -1045,6 +1139,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 12.5,
+    "unit": "rune arrows",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Zero-time method; wiki shows a loss per arrow for most tiers."
@@ -1066,6 +1162,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 13.5,
+    "unit": "amethyst arrows",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Zero-time method; wiki shows a loss per arrow for most tiers."
@@ -1087,6 +1185,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 15,
+    "unit": "dragon arrows",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "Zero-time method; wiki shows a loss per arrow for most tiers."
@@ -1109,6 +1209,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 1,
+    "unit": "bronze javelins",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "AFK column is the normal click rate; active is 3-tick manipulation. 1-tick rate is 90,000 XP/hr."
@@ -1131,6 +1233,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 2,
+    "unit": "iron javelins",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "AFK column is the normal click rate; active is 3-tick manipulation. 1-tick rate is 180,000 XP/hr."
@@ -1153,6 +1257,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 5,
+    "unit": "steel javelins",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "AFK column is the normal click rate; active is 3-tick manipulation. 1-tick rate is 450,000 XP/hr."
@@ -1175,6 +1281,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 8,
+    "unit": "mithril javelins",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "AFK column is the normal click rate; active is 3-tick manipulation. 1-tick rate is 720,000 XP/hr."
@@ -1197,6 +1305,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 10,
+    "unit": "adamant javelins",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "AFK column is the normal click rate; active is 3-tick manipulation. 1-tick rate is 900,000 XP/hr."
@@ -1219,6 +1329,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 12.4,
+    "unit": "rune javelins",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "AFK column is the normal click rate; active is 3-tick manipulation. 1-tick rate is 1,116,000 XP/hr."
@@ -1241,6 +1353,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 13.5,
+    "unit": "amethyst javelins",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "AFK column is the normal click rate; active is 3-tick manipulation. 1-tick rate is 1,215,000 XP/hr."
@@ -1263,6 +1377,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 15,
+    "unit": "dragon javelins",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Fletching_training",
     "retrieved": "2026-10-27",
     "notes": "AFK column is the normal click rate; active is 3-tick manipulation. 1-tick rate is 1,350,000 XP/hr."
@@ -1603,6 +1719,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 80,
+    "unit": "battlestaves",
     "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
     "retrieved": "2026-10-27",
     "notes": "From the wiki's AFK skilling methods guide (AFK rate)."
@@ -1624,6 +1742,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 216,
+    "unit": "redwood shields",
     "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
     "retrieved": "2026-10-27",
     "notes": "From the wiki's AFK skilling methods guide (AFK rate)."

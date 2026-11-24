@@ -34,7 +34,7 @@ def check_method(m, filename, problems, seen_ids):
         bad("method is not an object")
         return
     allowed = {"id", "skill", "name", "category", "minLevel", "maxLevel", "requirements", "rates",
-               "source", "retrieved", "notes"}
+               "source", "retrieved", "notes", "xpEach", "unit"}
     for key in m:
         if key not in allowed:
             bad("unknown field '%s'" % key)
@@ -121,6 +121,14 @@ def check_method(m, filename, problems, seen_ids):
         bad("retrieved must be yyyy-mm-dd")
     if "notes" in m and not isinstance(m["notes"], str):
         bad("notes must be a string")
+    if "xpEach" in m:
+        x = m["xpEach"]
+        if isinstance(x, bool) or not isinstance(x, (int, float)) or x <= 0:
+            bad("xpEach must be a positive number")
+        if not (isinstance(m.get("unit"), str) and m["unit"].strip()):
+            bad("xpEach needs a unit (plural noun, e.g. 'broad arrows')")
+    elif "unit" in m:
+        bad("unit without xpEach")
 
 
 def main():

@@ -38,6 +38,8 @@ One JSON file per skill in `src/main/resources/methods/`, named after the skill 
 | `rates[].gpPerHour` | GP gained (positive) or spent (negative) per hour, from the wiki figure. `null` if not listed. |
 | `source` | URL of the wiki page the numbers came from. Must start with `https://oldschool.runescape.wiki/`. |
 | `retrieved` | Date the page was read, `yyyy-mm-dd`. |
+| `xpEach` | Optional. XP in this skill for one action (one arrow, one lap, one potion), from the wiki's item or course page. Leave it out when the XP per action changes with level or the method mixes items. |
+| `unit` | Required with `xpEach`: what one action is called, in the plural, e.g. `broad arrows`, `laps`, `potions`. |
 | `notes` | Short caveats: XP in other skills, assumptions, ranges where a lower bound was used. |
 
 ## Rules for filling data

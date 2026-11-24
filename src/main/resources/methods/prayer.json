@@ -121,6 +121,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 525,
+    "unit": "superior dragon bones",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Prayer_training",
     "retrieved": "2026-10-19",
     "notes": "Wiki: about 1,340,000 XP/hr at 2,550 bones/hr, manual use; costs about 40.94 coins per XP."
@@ -143,6 +145,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 252,
+    "unit": "dragon bones",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Prayer_training",
     "retrieved": "2026-10-19",
     "notes": "Wiki: about 643,000 XP/hr at 2,550 bones/hr, manual use; costs about 14.85 coins per XP."
@@ -165,6 +169,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 1050,
+    "unit": "superior dragon bones (average)",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Prayer_training",
     "retrieved": "2026-10-19",
     "notes": "Wiki: up to 1,800,000 XP/hr; higher with runners; high risk from player killers."
@@ -187,6 +193,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 504,
+    "unit": "dragon bones (average)",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Prayer_training",
     "retrieved": "2026-10-19",
     "notes": "Wiki: up to 860,000 XP/hr; high risk from player killers."
@@ -208,6 +216,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 1050,
+    "unit": "superior dragon bones (average)",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Prayer_training",
     "retrieved": "2026-10-19",
     "notes": "Wiki: about 1,050,000 XP/hr. Each respawn point costs 5,000,000 coins."
@@ -229,6 +239,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 504,
+    "unit": "dragon bones (average)",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Prayer_training",
     "retrieved": "2026-10-19",
     "notes": "Wiki: about 500,000 XP/hr."

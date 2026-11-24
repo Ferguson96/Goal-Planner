@@ -59,6 +59,8 @@
         "gpPerHour": 608000
       }
     ],
+    "xpEach": 190,
+    "unit": "karambwans",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
     "retrieved": "2026-10-19",
     "notes": "afk = AFK, active = 1-tick (hard to keep up). GP/hr is the wiki's 0.64 GP per XP (1-tick) times XP/hr; AFK profit is 0.71 GP per XP."
@@ -81,6 +83,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 78,
+    "unit": "redberry pies",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
     "retrieved": "2026-10-19",
     "notes": "Assumes 1,885 pies/hr. The wiki lists profit per pie, not per hour."
@@ -103,6 +107,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 110,
+    "unit": "meat pies",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
     "retrieved": "2026-10-19",
     "notes": "Assumes 1,885 pies/hr. The wiki lists profit per pie, not per hour."
@@ -125,6 +131,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 128,
+    "unit": "mud pies",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
     "retrieved": "2026-10-19",
     "notes": "Assumes 1,885 pies/hr. The wiki lists profit per pie, not per hour."
@@ -147,6 +155,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 130,
+    "unit": "apple pies",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
     "retrieved": "2026-10-19",
     "notes": "Assumes 1,885 pies/hr. The wiki lists profit per pie, not per hour."
@@ -169,6 +179,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 138,
+    "unit": "garden pies",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
     "retrieved": "2026-10-19",
     "notes": "Assumes 1,885 pies/hr. The wiki lists profit per pie, not per hour."
@@ -191,6 +203,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 164,
+    "unit": "fish pies",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
     "retrieved": "2026-10-19",
     "notes": "Assumes 1,885 pies/hr. The wiki lists profit per pie, not per hour."
@@ -213,6 +227,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 180,
+    "unit": "botanical pies",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
     "retrieved": "2026-10-19",
     "notes": "Assumes 1,885 pies/hr. The wiki lists profit per pie, not per hour."
@@ -235,6 +251,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 200,
+    "unit": "mushroom pies",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
     "retrieved": "2026-10-19",
     "notes": "Assumes 1,885 pies/hr. The wiki lists profit per pie, not per hour."
@@ -257,6 +275,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 210,
+    "unit": "admiral pies",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
     "retrieved": "2026-10-19",
     "notes": "Assumes 1,885 pies/hr. The wiki lists profit per pie, not per hour."
@@ -279,6 +299,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 220,
+    "unit": "dragonfruit pies",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
     "retrieved": "2026-10-19",
     "notes": "Assumes 1,885 pies/hr. The wiki lists profit per pie, not per hour."
@@ -301,6 +323,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 240,
+    "unit": "wild pies",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
     "retrieved": "2026-10-19",
     "notes": "Assumes 1,885 pies/hr. The wiki lists profit per pie, not per hour."
@@ -323,6 +347,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 260,
+    "unit": "summer pies",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
     "retrieved": "2026-10-19",
     "notes": "Assumes 1,885 pies/hr. The wiki lists profit per pie, not per hour."
@@ -345,6 +371,8 @@
         "gpPerHour": -210700
       }
     ],
+    "xpEach": 200,
+    "unit": "jugs of wine",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
     "retrieved": "2026-10-19",
     "notes": "Wiki: 470,000-490,000 XP/hr (lower bound used); cost of -210,700 GP/hr is quoted at the 490,000 rate."
@@ -367,6 +395,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 100,
+    "unit": "tuna",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
     "retrieved": "2026-10-19",
     "notes": "Wiki range 85,000-100,000 (lower bound used). Rates exclude burns."
@@ -389,6 +419,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 120,
+    "unit": "lobsters",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
     "retrieved": "2026-10-19",
     "notes": "Wiki range 120,000-165,000 (lower bound used). Rates exclude burns."
@@ -411,6 +443,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 140,
+    "unit": "swordfish",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
     "retrieved": "2026-10-19",
     "notes": "Wiki range 165,000-200,000. Rates exclude burns."
@@ -433,6 +467,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 150,
+    "unit": "monkfish",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
     "retrieved": "2026-10-19",
     "notes": "Wiki range 165,000-200,000. Rates exclude burns."
@@ -455,6 +491,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 210,
+    "unit": "sharks",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
     "retrieved": "2026-10-19",
     "notes": "Wiki range 275,000-285,000. Rates exclude burns."
@@ -477,6 +515,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 230,
+    "unit": "anglerfish",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
     "retrieved": "2026-10-19",
     "notes": "Wiki range 305,000-330,000. Rates exclude burns."
@@ -499,6 +539,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 216.2,
+    "unit": "manta rays",
     "source": "https://oldschool.runescape.wiki/w/Pay-to-play_Cooking_training",
     "retrieved": "2026-10-19",
     "notes": "Wiki range 285,000-300,000. Rates exclude burns."
@@ -537,6 +579,8 @@
         "gpPerHour": null
       }
     ],
+    "xpEach": 51.1,
+    "unit": "forester's rations",
     "source": "https://oldschool.runescape.wiki/w/Guide:AFK_Skilling_Methods",
     "retrieved": "2026-10-27",
     "notes": "From the wiki's AFK skilling methods guide (AFK rate)."
